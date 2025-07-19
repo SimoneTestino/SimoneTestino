@@ -1,0 +1,1 @@
+[Halvorson, H., Barrett, T. (2015), Glymour and Quine on Theoretical Equivalence](https://philsci-archive.pitt.edu/11341/1/glymour%26quine.pdf)

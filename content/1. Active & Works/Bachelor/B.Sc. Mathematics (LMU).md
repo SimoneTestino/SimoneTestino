@@ -1,0 +1,6 @@
+---
+draft: false
+---
+I started my Mathematics Bachelor in the University of Constance in October 2022 informally as a minor of the [[B.A. Philosophy (LMU)]] and followed all courses of Mathematics students. When I moved to the LMU Munich in October 2023 I officially began my 'Doppelstudium' and started my second bachelor with major in Mathematics. I worked therefore for this bachelor from the [[1st Semester]] to the current time, I will submit my Mathematics thesis in my [[4th Semester]] but conclude the bachelor at a later time, while I will be studying my [[M.Sc. Logic (UvA)]].
+
+The list of notes I took for the different courses can be found at [[Index of Bachelor Works]] at [[Index of Bachelor Works#Mathematics]], in particular see the [[Bachelor Thesis]]. Details on the ECTS and timing can be found under [[Bachelors' Outline]] and all documents regarding it can be dowloaded from [[Documents]] at [[Documents#Ludwig Maximilian Universität München]]. Also, a list of all courses and marks can be found at: [Sheet: Marks LMU](https://docs.google.com/spreadsheets/d/1NNubLg1C2IOX1Rs3ishnJDjQ0yhacul_Y8lLVrWSW6c/edit?usp=sharing) and some simple statistics on my performance can be found at [Sheets: Academic Performance](https://docs.google.com/spreadsheets/d/1zl16xKUkKdtIeqCnpCjX7d2LFcM73WJWPsHTkUh2BRc/edit?usp=sharing).

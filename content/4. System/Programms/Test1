@@ -1,0 +1,27 @@
+#!/usr/bin/env python3
+"""
+test_fx_fallback.py
+
+Demonstrates fallback behavior in Portfolio._value_in_currency when rates fail.
+"""
+
+import warnings
+from datetime import date
+from decimal import Decimal
+from moneyed import Money
+from forex_python.converter import RatesNotAvailableError
+
+# Import patched Portfolio
+from FinancialClasses.Portfolio import Portfolio
+
+# Monkey-patch RatesNotAvailableError scenario
+def always_fail(self, f, t):
+    raise RatesNotAvailableError("Simulated failure")
+
+p = Portfolio(valuation_date=date.today())
+p._fx.get_rate = always_fail.__get__(p._fx, type(p._fx))
+
+# Attempt conversion
+amount = Money(100, 'USD')
+converted = p._value_in_currency(amount, 'EUR')
+print(f"Converted: {converted} EUR")

@@ -1,0 +1,13 @@
+---
+draft: true
+date: 2024-10-12
+---
+On this page, I summarise what I have learned about caffeine and the decisions I have made based on that knowledge. I also provide the scientific sources I have consulted to know something about the [[Caffeine#Consequences of Caffein Consumption & Aims]] and track [[Caffeine#My Caffeine Consumption]]. I take this as a funny example of how one can develop a decent understanding of a narrow topic that lies outside their area of expertise.
+### Consequences of Caffein Consumption & Aims
+%%TBW%%
+### My Caffeine Consumption
+First of all I began with a [[Caffeine#High Dosage Caffeine Trial]], which consisted of assuming high levels of caffein in a restricted (200 - 450mg a day) amount of time (a couple of weeks), I first did this through energy drinks and then with caffein tablets. I now collect data on my consumption on [Caffein Consumption Spreadsheet](https://docs.google.com/spreadsheets/d/1JjeQmaSQ5FWXel1xVDJaR3of-nR8I4p_tbFqMdc-jtc/edit?usp=sharing).
+#### High Dosage Caffeine Trial
+I tracked the effects of varying doses of a caffeine booster over several days, noting symptoms like dizziness, abdominal discomfort, and difficulties with coordination. The caffeine intake resulted in diuretic and laxative effects, likely due to the large amounts of cold water consumed with each dose, along with reduced appetite and libido. Notably, intake following periods of no consumption led to significant improvements in study performance. Based on these trials, I decided to purchase [Caffeine Tablets](https://www.amazon.de/Koffeintabletten-365x-laborgepr%C3%BCft-Koffein-Gehalt-unerw%C3%BCnschte/dp/B0CKY62W8L/ref=sr_1_7?crid=208PANQN05WC1&dib=eyJ2IjoiMSJ9.7W6hzJYHDp5WRkYNreMS9bmD4dsT3qg9zEcq2sXtNCmex7g3700L8uX5teRpSqmNIre_HaQdTkfcp3Vt3xgK0qHYgJor-giVfdVwdM8HRmpH_32vVNfbQTEF2YRdwL9fUxgjBICj3KvnwEVHcWsQtqdq5Zt_tbYq-G15MDWOacrfAD8mbSEJRHzCh7UIVL0B0DiJLYiuWe7fhtUdnixwSTFIiPeDUpnpNLGuOgFhYFCmd-e_OWcKBdOKNhy5xJhUb26Pr1JHIKuT-ampLaQ5ets19DNndDInb9BZ5GouTdg.hoJBNQITcl2UQRqxjss_dX6f5veszHQ2NPlHPFiAHeQ&dib_tag=se&keywords=koffeintabletten&qid=1720510550&sprefix=koffein%2Caps%2C101&sr=8-7&th=1) for consistent dosage at a lower cost.
+
+For maximal dosage and other data I used [drugscience.org.uk/caffeine](https://www.drugscience.org.uk/caffeine), measures (like not a sporadic use) will be taken to avoid dependency. Some more accurate information are published here [ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/books/NBK430685/?term=caffeine).

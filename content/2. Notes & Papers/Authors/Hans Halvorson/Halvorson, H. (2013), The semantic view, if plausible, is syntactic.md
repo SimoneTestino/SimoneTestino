@@ -1,0 +1,18 @@
+In this paper Halvorson replies some remarks by Glymour to [[Halvorson, H. (2012), What Scientific Theories Could not Be]]. For other papers by the same author, visit [[Hans Halvorson]].
+
+In the semantic view models, and hence theories, are supposed to live in an extralinguistic level, some conceptual form still to be distinguished from a platonic realm of concepts (like in Gödel). Particularly relevant in the debate is the remark by Glymour:
+	To be at all plausible, the semantic view must distinguish between the content of a theory — its class of models — and the means of characterizing that class — the theory expressed in some language.
+That is to say, as it seems to me, that you have models on an "higher" level than their linguistic "instances", which gives a very platonic flavour to the semantic view.
+
+There are two (analogous) ways though in which I can understand more precisely this concept: on one hand I imagine these semantical abstract entities to require a syntactical component (i.e. a language) to be instantiated, though, such a _choice_ is both necessary (as presented in the last quote of the p. 3) and irrelevant. On the other hand, as exposed again by Glymour:
+	A tenable semantic view, as I construe it, also requires that there is a model theoretic relation that establishes a common content to different presentations of a theory in different languages.
+There is the need of some "model theoretic relation" between the syntactical entities so that we can construct the semantical level as a composition of such equivalence classes.
+
+Halvorson though argues by giving a simple (yet still unclear to me) example where the theory of groups seems not to share the underlying models if the language changes and therefore concludes that "models are necessarily language-bounded objects".
+
+A possible developments at this point would be to present some concrete abstraction of a syntactic-model to some semantic-model. Even though Halvorson argues for the failure of models to be the invariant of theories under change of language, I do not see arguments against the formerly given (distinct?) proposal(s). Let's consider those again.
+- Given an equivalence relation between the well-known syntactic-models one might take equivalence classes and call those semantic-models. Then $T$ and $T'$ are said equivalent if, after a choice of languages and the respective formulation of the theories, say $T_{\mathcal{L}}$ and $T_{\mathcal{L}'}$, the equivalence classes of their models match (given some equivalence relation, like those exposed in [[Halvorson, H. (2012), What Scientific Theories Could not Be]]).
+- Alternatively one might consider define (far less constructively) a semantic-model to be the class of all those syntactic models that are the result of the choice of some language. For instance we might imagine $\mathbb{Z}_2$ to have a "semantical existence" (comparable to the platonism) and have some instantiations for a specific choice of a language (comparable to concrete instantiations of $\mathbb{Z}_2$ in the world which we can find in computers). Again, two theories are equivalent their semantic-models match (given some equivalence relation, like those exposed in [[Halvorson, H. (2012), What Scientific Theories Could not Be]]).
+I still see those two ways to be plausible.
+
+To conclude, I do not see a necessary but irrelevant passage through the syntactic level enough to label the semantic view as syntactic.

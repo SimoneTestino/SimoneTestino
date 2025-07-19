@@ -1,0 +1,7 @@
+The notation (/definition) of disjoint union seems always to create some confusion in mathematical praxis, here I present briefly the understanding I have of it.
+
+For "$\sqcup$" the symbol of disjoint union, I define the following:[^1] $$c = a \sqcup b := c = a \cup b \land a \cap b = \emptyset$$which is a well-defined formula in language of set theory (given the usual notations for "$\cap$", "$\cup$" and "$\emptyset$"). This seems to me not to be that controversial, surprising nor distant from mathematical praxis.
+
+The problems arise when one wishes to talk about $a \sqcup b$ without making a formula with it. Then the claim would be that $a \sqcup b$ is a well defined. I formally understand this, given the context of my [[Bachelor Thesis]], that $a \sqcup b$ has a Complete Description, i.e. $\exists_{\varphi \in \mathcal{L}_\epsilon} (ZFC \vdash \varphi(a \sqcup b) \land \forall_{x} \varphi(x) \to x = a \sqcup b)$. Now, take the instance where $a = \{\emptyset, \{\emptyset\}\}$ and $b = \{\emptyset, \{\{\emptyset\}\}\}$; there $\varphi(a \sqcup b)$, depending on the definition we wish to have on $\varphi$, would admittedly not hold and the term $a \sqcup b$, which is hence not defined.
+
+[1]: Recall that "$:=$", being a metalinguistic symbol, has the maximal scope.
