@@ -20,3 +20,5 @@ Procediamo quindi con il descrivere le caratteristiche che l'immobile deve avere
 ### Formato della Proposta d'Acquisto
 È fondamentale che le [[Acquisto Immobiliare - ColivingLiguria#Condizioni Necessarie]] siano presenti nel contratto d'acquisto e proponiamo perciò il seguente formato per la proposta d'acquisto che verrà quindi adattata al caso che riterremo d'interesse.
 - ==INSERIRE PROPOSTA D'ACQUISTO IN PDF==
+
+==aggiungi che abbiamo gia i fondi==
