@@ -2,9 +2,8 @@
 draft: false
 date: 2025-08-01
 ---
-The goal is to create an organised space where every member can find relevant information, participate in focused discussions, and feel part of a specific group without being overwhelmed by unrelated messages. The community is the main container, and within it, you will find several groups organized by level of involvement.
+The goal is to create an organised space where every member can find relevant information, participate in focused discussions, and feel part of a specific group without being overwhelmed by unrelated messages. The community is the main container, and within it, you will find several groups organised by level of involvement. You can access the first level of the community from [here](https://chat.whatsapp.com/J67Cds7idarLwZrJRNywQS?mode=ac_t)!
 ### Group Structure: A Hierarchy of Involvement
-
 Our community is structured in levels. The first level is open to everyone, while access to higher levels is by invitation only, based on your active role in the project.
 #### **I. 📢 Open Group**
 * **Purpose:** This is our public gateway. It's the perfect place to follow the project's progress, receive major announcements, and ask general questions. If you're curious about Coliving Liguria and want to stay in the loop, this is the group for you.
@@ -22,5 +21,5 @@ Our community is structured in levels. The first level is open to everyone, whil
 * **Purpose:** This is the strategic group, the "brain" of the project. Here we discuss ideas, long-term development, bureaucratic matters, and the key decisions that will shape the future of Coliving Liguria.
 * **For Whom:** This is a limited-access group for the **Core Team** of people who make up the long-term foundation of the project.
 ### How to Join the Community
-* **Level 1 (Public Access):** You can join our main public group via this link: [Open Group]()
+* **Level 1 (Public Access):** You can join our main public group via this link: [Open Group](https://chat.whatsapp.com/J67Cds7idarLwZrJRNywQS?mode=ac_t)
 * **Levels 2-5 (By Invitation):** Access to the higher-level groups is managed directly by me, [[Simone Testino]]. Once we get in touch and define your role and involvement in the project, I will add you to the appropriate group(s).
