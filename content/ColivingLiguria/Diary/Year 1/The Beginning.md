@@ -2,7 +2,7 @@
 draft: true
 date: 2025-07-29
 ---
-I just received the email from the Fi.L.S.E. containing the two files that confirm my acceptance of the funds for the project [[990422_29-REG-1753786166175-7 - Comun acc risorse?? aspirante impr Testino Simone.pdf]]. I plan on these notes how to proceed and which are the most fundamental steps I need to follow.
+I just received the email from the Fi.L.S.E. containing the two files that confirm my acceptance of the funds for the project [[Comunicazione Esito Positivo della Domanda.pdf]]. I plan on these notes how to proceed and which are the most fundamental steps I need to follow.
 1. Questions to the FILSE: 
 	1. They write:
 		valutata l’ammissibilità delle spese, ai sensi del punto 5 del Bando regionale, per un ammontare complessivo, al netto delle % previste al punto 5 del Bando, pari a Euro 185.857,10. 
