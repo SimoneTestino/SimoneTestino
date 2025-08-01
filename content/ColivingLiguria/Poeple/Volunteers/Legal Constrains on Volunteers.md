@@ -8,9 +8,9 @@ This arrangement does not constitute paid employment, as there is *no work* and 
 
 Tasks listed in [[Task Management]] that are currently planned or assigned to residents fall into two categories:
 
-1. **Informal Co-living Organisation**: Activities like [[Daily Apartment Cleaning]] and [[Daily Cooking]] that establish our daily routines as a small co-living community.
+1. **Informal Co-living Organisation**: Activities like daily apartment cleaning and daily cooking that establish our daily routines as a small co-living community.
 
-2. **Maintenance of the *Bene Comodato***: Tasks aimed at maintaining the property itself. These activities serve the property, not me personally, nor any of the [[Business Segments]]. Should any of these segments materialise, individuals may be [hired](https://www.webcolf.com/risorse/notizie-su-lavoro-domestico-e-badanti/articoli-per-argomenti/349-contratto-di-comodato-e-convivenza.html) with comodatum as part or all of their compensation.
+2. **Maintenance of the *Bene Comodato***: Tasks aimed at maintaining the property itself. These activities serve the property, not me personally, nor any of the Business Segments. Should any of these segments materialise, individuals may be [hired](https://www.webcolf.com/risorse/notizie-su-lavoro-domestico-e-badanti/articoli-per-argomenti/349-contratto-di-comodato-e-convivenza.html) with comodatum as part or all of their compensation.
 
 Tasks that do not involve simple co-living organisation are directly related to the [obligations of the *comodatario*](https://www.brocardi.it/codice-civile/libro-quarto/titolo-iii/capo-xiv/art1804.html):
 

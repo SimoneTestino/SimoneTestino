@@ -1,7 +1,7 @@
 I seguenti indirizzi sono reperibili a full time, si prega di includere me, Simone Testino, nella comunicazione, direttamente o in CC.
 
 - **Email Aziendale**: colivingliguria@gmail.com
-- _Contatti Personali_: [[Simone Tesitino]]
+- _Contatti Personali_: [[Simone Testino]]
 	- simone.testino@gmail.com
 	- +39 339 637 9372
 	- si veda inoltre [[Contacts]]

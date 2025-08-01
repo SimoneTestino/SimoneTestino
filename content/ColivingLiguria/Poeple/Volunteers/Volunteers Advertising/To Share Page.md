@@ -1,45 +1,37 @@
 ---
 draft: false
-title: "🏡 Ligurian Mountains: House Renovation - Seeking Volunteers!"
-date: 2025-05-30
+title: 🏡 House Renovation - Seeking Volunteers!
+date: 2025-08-01
 ---
-> [!Abstract] In Short  
-> Are you into DIY, gardening, or just looking for a unique life experience off the beaten path? Join my mountain house renovation project. I’m a 22-year-old Italian Mathematics Master’s student taking a gap year to bring an old mountain home back to life.
+> [!Abstract] In Short
+> Are you into creative projects, nature, and looking for a unique life experience off the beaten path? Join my project to bring a traditional Ligurian villa in the hills and at 10' from the beach back to life. I’m a 22-year-old Italian Master student in Mathematics taking a gap year to create a vibrant coliving and coworking space.
 
-📍 **Location:** [Caprieto](https://maps.app.goo.gl/GqysjFFMsiKuRpVF7?g_st=com.google.maps.preview.copy), Genoa, Liguria, Italy  
-📅 **Start Date:** Flexible from mid-July
+📍 **Location:** Savona Riviera hinterland, Liguria, Italy
+📅 **Start Date:** Flexible from early September
 
-You can find the application form here: _**[Application Form](https://docs.google.com/forms/d/e/1FAIpQLSc9yjx_LboaTdGZLBx25R6sZ-udozPtgDDUxVz3ybQLMuSA9Q/viewform?usp=header)**_.
+Welcome to the Coliving Liguria project! The vision is to create a beautiful villa in the Ligurian hills, a space for remote workers to focus and for volunteers to contribute their energy to a shared home and business.
 
-My new house will become not only a future home, but also a potential [[Airbnb]] location, a space for [[Event Hosting]], a small [[Pet Hotel]] and offer rooms for [[Remote Work Rental]]. If you want to read more about who I am, here you find all information about [[index#Me]].
+We are currently in the final stages of selecting the perfect property. You can follow the process in detail on the [[Acquisto Immobiliare - ColivingLiguria]] page (in Italian). Our goal is to find the definitive villa by the **10th of August** and to have the space ready and operational for our first guests by the **1st of September**. Of course, these timelines are ambitious, and you can find a more detailed schedule of all milestones on our [[Calendar]] page.
 
-You’re welcome to join if you’re curious and motivated - what matters most is your energy, openness to collaboration, and love for nature. Whether you’re experienced in [[Task Management#Gardening]], [[Task Management#Advertising & Social Media]], [[Task Management#Construction & Hard DIY]], or any kind of [[Renovation Work]], there’s space for you here. You can find more details on this in [[Task Management]].
-## 🏠 House and Services
-The [[House Choice#House]] is a spacious rural property, starting early [[Calendar#August]], will be offering each guest a private bedroom and shared access to essential amenities such as a kitchen, bathroom, and common spaces for relaxing or working. Plans for stable [[Internet Access]] (at least 50–100 Mbps) are underway. The property is pet-friendly and also suitable for those travelling by camper van, with available outdoor space for parking and leisure. Clean water, electricity, heating, and basic furnishings are all provided.
+We are looking for curious and motivated people, what matters most is your energy, openness to collaboration, and love for nature. Whether you have skills in gardening, social media, construction, or any kind of creative work, there's a place for you here.
 
-Many of the everyday comfort details—such as how food is managed, whether rooms are private or shared, and how utilities are split—will be discussed individually based on your preferences (you can indicate them below). More information is available in [[Volunteers#Shared Expenses]]. Please note that this arrangement may evolve in the future, especially if some of the [[Business Segments]] become operational, potentially allowing shared meals or basic ingredients to be covered. For now, however, the contribution remains strictly limited to the offer of free accommodation.
+### 🏠 The Villa and Lifestyle
+The property will be a spacious traditional villa, offering each guest a private bedroom with shared access to all essential amenities, including a large kitchen, bathrooms, and common areas for relaxing or working. A stable, high-speed internet connection is a top priority from day one.
 
-If you’re interested, you’ll need to complete a short 5-minute application form. This helps ensure a good fit and gives me a clearer picture of your motivations, expectations, and skills. At present, several [[Volunteers]] have expressed interest. For the initial phase, there will only be two double bedrooms available (in addition to my own). You can expect a response by the 10th of July—further details are available on the [[Calendar]].
+The villa will be pet-friendly and also suitable for those travelling by camper van, with plenty of outdoor space. All utilities like clean water, electricity, heating, and basic furnishings will be provided. We are still defining the final details, but you can see our vision for the ideal property here: [[Acquisto Immobiliare - ColivingLiguria]]. We will update this page with photos and much more information as soon as the final choice is made.
 
-You can find the application form here: _**[Application Form](https://docs.google.com/forms/d/e/1FAIpQLSc9yjx_LboaTdGZLBx25R6sZ-udozPtgDDUxVz3ybQLMuSA9Q/viewform?usp=header)**_.
+### 💻 Remote Work & How to Join
+Are you a digital nomad? We are committed to providing a reliable internet connection (aiming for  200 Mbps or more) to ensure you can work productively surrounded by nature.
 
-
----
-
-### 🛏️ Just looking to relax?
-If you're not in the mood to commit fully to the project or would simply prefer to take some time off and enjoy the peaceful setting, that's absolutely fine! I'm happy to arrange either a private or shared room for guests who choose not to volunteer. You can still take part in the experience and enjoy all its benefits, with accommodation offered at a very low cost. Prices are flexible and arranged on a case-by-case basis, but will not exceed €150 per month for a private room.
-
-### 💻 Can I work remotely?
-Are you a digital nomad planning to work while staying here? There will be unlimited internet access from day one, with speeds between 50–100 Mbps. Improving this connection is one of my main goals, and I am actively exploring faster alternatives such as [Starlink](https://www.starlink.com/gb/specifications?spec=4) or advanced 4G+ solutions via a nearby antenna to guarantee a stable, high-speed connection even in this rural location. In order to pay for the stay you can either refer to the prices above, work in the weekends/freetime or anything in between.
-
-### 🚐 Travelling with a camper van?
-If you're exploring the area in your own camper and would like to park nearby while using the house’s water and electricity, we can certainly accommodate you. There is plenty of space in the surrounding garden, and I’d be happy to make arrangements—just get in touch (see [[Contacts]]) so we can plan it together!
+If you are interested in joining the project as a volunteer, a remote worker, or simply as a guest, the best way is to get in touch directly. We can discuss all the details - from accommodation costs to how you can contribute - on a case-by-case basis to find the perfect fit for you.
 
 ---
 
-If you're interested or have any questions, don’t hesitate to reach out:  
-📱 Instagram: [@simone.testino](https://www.instagram.com/simone.testino)  
-📞 WhatsApp: +39 339 637 9372  
-📧 Email: simone.testino@gmail.com
+If you're interested or have any questions, don’t hesitate to reach out:
+📱 **Instagram:** [@colivingliguria](https://www.instagram.com/colivingliguria)
+📞 **WhatsApp:** +39 339 6379372
+📧 **Email:** colivingliguria@gmail.com
 
-Hope to see you in the mountains soon!
+You can also find more ways to get in touch on our [[Contact]] page.
+
+Hope to see you in the Ligurian hills soon!

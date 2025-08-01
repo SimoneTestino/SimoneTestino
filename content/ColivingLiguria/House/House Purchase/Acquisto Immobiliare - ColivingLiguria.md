@@ -18,7 +18,7 @@ Ciascuna di queste condizioni deve necessariamente essere soddisfatta al momento
 ### Parametri Preferenziali.
 Procediamo quindi con il descrivere le caratteristiche che l'immobile deve avere per essere di nostro interesse e quindi adempiere al meglio ai fini del progetto [ColivingLiguria](). Procediamo quindi con l'elencare alcuni criteri; il mancato adempimento ad alcuni di questi non porta necessariamente all'esclusione dell'immobile.
 
-1.  Il valore di mercato, che verrà poi attestato durante la perizia di stima, è preferibile che sia compreso tra i € 160.000 e € 240.000.
+1.  Il valore di mercato, che verrà poi attestato durante la perizia di stima, è preferibile che sia compreso tra i € 140.000 e € 175.000.
 2.  La dimensione dell'immobile sarà preferibilmente maggiore di 200 m$^2$ e dovrà garantire un'abitabilità attuale o potenziale ad almeno 6 persone.
 3.  Lo stato dell'immobile sarà buono per quanto riguarda gli aspetti _strutturali_ e del _tetto_. È desiderabile ma non prioritario che gli impianti siano in buono stato. Le condizioni di conservazione interna dell'immobile per quanto riguarda la mobilia o lavori che possono altrimenti essere risolti in [[Edilizia Libera]] sono _completamente irrilevanti_.
 4.  L'immobile sarà preferibilmente distante da aree trafficate, cittadine o per altra ragione rumorose o illuminate artificialmente.
