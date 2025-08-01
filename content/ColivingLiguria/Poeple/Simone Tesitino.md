@@ -1,1 +1,0 @@
-All information about me are available at the [Home Page]().
