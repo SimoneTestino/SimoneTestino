@@ -6,8 +6,7 @@ date: 2025-08-01
 > [!Abstract] In Short
 > Are you into creative projects, nature, and looking for a unique life experience off the beaten path? Join my project to bring a traditional Ligurian villa in the hills and at 10' from the beach back to life. I’m a 22-year-old Italian Master student in Mathematics taking a gap year to create a vibrant coliving and coworking space.
 
-📍 **Location:** Savona Riviera hinterland, Liguria, Italy
-📅 **Start Date:** Flexible from early September
+📍 **Location:** Savona Riviera hinterland, Liguria, Italy <br> 📅 **Start Date:** Flexible from early September
 
 Welcome to the Coliving Liguria project! The vision is to create a beautiful villa in the Ligurian hills, a space for remote workers to focus and for volunteers to contribute their energy to a shared home and business.
 
