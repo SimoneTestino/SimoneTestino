@@ -1,0 +1,1 @@
+For a list of courses of the second semester visit the page [[Index of Bachelor Works#2nd Semester]].

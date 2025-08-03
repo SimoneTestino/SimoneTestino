@@ -1,0 +1,150 @@
+I wrote this essay in the #1st_Semester at the #UniKonstanz for the course on "Paradoxes: truth, infinity and time travel" by [Sam Roberts](https://www.philosophie.uni-konstanz.de/en/ag-leon-horsten/members-of-the-ag-horsten/academic-staff/sam-roberts/).
+This has been the first big and complex text I wrote and therefore went by a difficult process: I almost completely changed the structure and the core idea of the article. Because of all these important changes, the essay has no satisfactory structure and the core and final idea could have been expressed way better.
+#### Abstract
+Quine in an article on paradoxes examines quickly what he calls a \enquote{Supposed Antinomy}, though I see it as being a really proper one and solved too quickly by Quine. This essay will give that solution and will then analyse the epistemological and metalogical implications of there being no classical straight way to solve it. Then I'll take this paradox as an example, to show how urgent is the need of a logic able to formalise such situations. 
+#### $\LaTeX$ code
+``` LaTeX
+\documentclass{article}
+\usepackage[english]{babel}
+\usepackage{amsthm}
+\usepackage{csquotes}
+\usepackage{setspace}
+\usepackage[english]{babel}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage[letterpaper,top=2cm,bottom=2cm,left=3cm,right=3cm,marginparwidth=1.75cm]{geometry}
+\newtheorem{theorem}{Axiom}
+\newtheorem{zeorem}{Theorem}
+\theoremstyle{plain}
+\newtheorem*{ECQ}{Ex Contradictione Quolibet}
+\usepackage{graphicx}
+\usepackage[colorlinks=true, allcolors=blue]{hyperref}
+\title{On the Subsubject}
+\author{Simone Testino}
+\date{January 2023}
+
+\begin{document}
+\maketitle
+\begin{abstract}
+Quine in an article on paradoxes examines quickly what he calls a \enquote{Supposed Antinomy}, though I see it as being a really proper one and solved too quickly by Quine. This essay will give that solution and will then analyse the epistemological and metalogical implications of there being no classical straight way to solve it. Then I'll take this paradox as an example, to show how urgent is the need of a logic able to formalise such situations. 
+\end{abstract}
+
+\subsection*{Introduction}
+In the following section I will show what is the essence of the paradox by first stating it and then by giving a formalisation of it, which shows the inconsistency or the one that the paradox claims. Secondly I’ll insert the single paradox in a broader context of formalised epistemology by referring to most of the articles quoted in the references. By the end of this first section I’ll then give my solution to the paradox by focussing on the fact that contradiction arises not by a theorem itself but only by its knowledge by the subject. The first section will then end with an analysis on the actual difference of my proposal and the Quinean. By the very end of the first section I’ll introduce the reader to the concept of subsubject which will be presented as the epistemological solution to this paradox. I’ll then examine which conditions allow one to make use of the concept of the subsubject in order to get different results from the ones one would otherwise get.
+
+\section{The Paradox}
+It's Friday, as every day, you come to school. The first lessons are quiet, everyone is still sleeping. But then the most severe teacher of the school comes into the class, and since now all the students are speaking loudly none of them notices her. While you're talking with your classmates the teacher interrupts and, with a voice not exceeding in a yell but enough to make every student listen carefully, she says: \enquote{Your behaviour in class is disrespectful, therefore there will be a surprise exam in the coming week and you won't know when the exam will be until its day will come}. All the students now stay still and are now frightened by the exam that will surely be even more difficult than the ones before.\\
+On the way home, you think about what the teacher said in class and then suddenly it comes to your mind that the exam can't be on Friday, because, if it were, then you'd know it on Thursday after school, since it was not on the days before, which would make the exam being not a surprise anymore and then contradict the teacher. Considering this discovery being really helpful, you run to your friends explaining them your thoughts. But while doing it, excited and hopeful to contribute to the salvation of the class, you realise that the exam couldn't be on Thursday either, since it can't be on Friday and you'd know on Wednesday after school if it had been on the days before. Then you realise that, thanks to the same schema, you are able to prove that the exam will not be on any day.\\
+Now you and your friends are really confused, you don't know what to think. Surely the teacher can't be wrong, she was not joking at all when she said that there will be an exam but still the exam can't be on any day of the next week. Now, if you were the student, what would you do?\\
+You can doubt the teacher, probably she didn't think about this whole proof when she punished you, and then there will be an exam in the next week even if it won't be a surprise. But then, when Wednesday comes, will you actually be able to say if the exam is on the following day? Obviously not, it will be a surprise to you. So if we say that it'll be a surprise it won't and if we say it won't be a surprise it will. Okay wait, you are surely confused now, and that's right. That's right, I mean, it's the right solution, if you are confused and don't know if the teacher is right or wrong, then you solved the problem. The teacher is right, the exam will be a surprise because you think she may have lied to you.\\
+This is the solution Quine gives to the "Supposed Antinomy", as soon as you doubt the teacher the contradiction solves and everything goes back to normal, even though the teacher was from the beginning surely saying the truth.
+
+\subsection{A solution to a different problem}
+What I think is the most important concept in this paradox is the one of "knowledge" which is the protagonist of formalised epistemology. With this concept you can create different points of view based on what the subject knows. In our paradox there are (at least) two points of view, the outer point of view and the student. The solution that Quine gives to the problem regards only the outer point of view, which knows everything that goes in the mind of the student and knows the actual truth of what the teacher says. What about the poor student? He has now to believe that the teacher is possibly wrong and after a week understands (when he gains the same knowledge of the outer point of view), that she had always been right. Isn't there a way for the student to know from the first day that the teacher is right and that the exam will happen anyway? The answer is no, a student in that condition has to believe the teacher (at least) possibly wrong and then, after a week, understand that she was right. To prove that the reasoning made by the student before was right I formalise it in the next section.
+ 
+\subsection{The Formalization}
+These are the axioms that describe the situation presented before:
+\begin{enumerate}
+    \item There will be an exam in the next week.
+    \item The student won't know the date of the exam on the day before.
+    \item The student remembers everything he knows regarding the teacher or the exam.
+    \item Given any day the student knows if the exam was on one of the previous days
+    \item Whatever I will prove here will also be proved by the student
+    \item The student knows the truth of all these axioms
+\end{enumerate}
+\noindent Given a $t \in \{0,1,2,3,4,5\}$ and the property $E(t):=$ \enquote{The exam will take place on the day $t$}, I say:
+\begin{theorem} 
+    $\exists!_{t \in [0,5]}E(t)$
+\end{theorem}
+\noindent Given that $K_t(p):=$ \enquote{the student knows  $p$ at time $t$}, I say:
+\begin{theorem}
+   $E(t+1)\rightarrow \lnot K_t(E(t))$
+\end{theorem}
+\begin{theorem}
+    $(K_t(p) \land A1, A2\rightarrow p) \rightarrow K_{t+1}(p)$
+\end{theorem}
+\begin{theorem}
+    $E(t) \rightarrow \forall_{t_1 < t}(K_{t-1}(\lnot E(t_1)))$
+\end{theorem}
+\begin{theorem}
+    if $\vdash p$ then $K_0(p)$
+\end{theorem}
+\begin{theorem}
+    $K_0(A1)\land K_0(A2) \land K_0(A3) \land K_0(A4) \land K_0(A5))$
+\end{theorem}
+\noindent \textbf{Claim}: $\forall_{t \in [0,5]} \lnot E(t)$\\
+\textit{Proof.} Define $t_1$ as the greatest $t$ such that no proof of $\lnot E(t_1)$ has been done yet. Suppose: $E(t_1)$, then, since Axiom 2, $\lnot K_{t_1-1}(E_{t_1}))$. But, since our supposition and Axiom 4 I derive: $K_{t_1-1} \lnot (E(1) \lor ... \lor E_{t_1-1})$ and since Axiom 1 and definition of $t_1$, I derive: $K_{t_1-1}(E(t_1))$. From $\lnot K_{t_1-1}(E(t_1))$ and $K_{t_1-1}(E(t_1))$ we get contradiction, therefore the supposition was wrong, so, thanks to Axiom 5: $K_0(\lnot E(t_1))$ holds. By definition of $t_1$ I have then to repeat the proof with a proper $t_1$ until I get to $t_1 = 0$, in that case Axiom 1 is sufficient to prove $\lnot E(0)$. Then we derive $\forall_{t \in [0,5]} \lnot E(t)$.
+\begin{zeorem}
+    \[\forall_{t \in [0,5]} \lnot E(t)\]
+\end{zeorem}
+\noindent From Axiom 1 and Theorem 1 I get contradiction,\\
+\textit{Proof.} From Theorem 1 I derive: $\lnot E(1) \land \lnot E(2) \land \lnot E(3)\land \lnot E(4)\land \lnot E(5)$ which contradicts Axiom 1.
+\begin{zeorem}
+    \[\text{The Axioms are inconsistent}\]
+\end{zeorem}
+
+\subsection{The need of an actual solution}
+This whole proof, maybe in a more intuitive way, will be completed by the student when he realises that there can't be an exam even though the teacher said that there should be one. What to do then? We know how classical logic works, since these six axioms give us contradiction, we have to change them. Which one should the student change? It doesn't really matter, since just by changing one axiom, he will doubt the teacher and get no contradiction anymore. Let's make some examples: if he doubts the fact that there will be an exam, there won't be a contradiction anymore. By doubting the existence of the exam, Theorem 1 wouldn't then hold anymore, then no contradiction. Likewise, if he doubts that the exam has to take place in this week and not on the following Monday. Likewise if he suspects that, suddenly, in the middle of the week, there will be a new day between Wednesday and Thursday called Maybeexamday. Likewise he could doubt that his knowledge of the axioms is correct, maybe he heard wrong, or now remembers something that didn't happen. Maybe the school, the teacher and even all his classmates are actors paid by a mad logician wanting to make experiments on children. Are all these possibilities the same? From a logical point of view, they would all solve the contradiction. Though obviously these are not all the same and what the student will then choose in these conditions depends only on some unpredictable (by my means) psychological conditions. Can't there be a way to teach the student the most efficient way to drop the right assumption? This paradox is an easy one, obviously, the student will just think that this whole proof was not thought by the teacher at all and therefore all he has now to do is saying something like: \enquote{Well, being too smart made me prove something that none would never think about in such a condition, even not the teacher, then I should behave like I didn't prove this, the exams is possible on every day of the week, maybe a bit less on Friday}. Is there a way to formalise this? As far as I know, there is no such way, because it would be an arbitrary change of the axioms. What classical logic proves in this paradox is that there is a knowledge, namely \enquote{all the axioms are true} which is impossible to achieve by the student, even though consistency is actually admittedly true by the outer point of view (like Quine did). Can't we somehow change the student so that he is able, in the same situation, to understand the actual truth of the axioms and, at the same time, comprehend why he can't predict the exact date of the exam?
+The solution I'm going to formalise exactly does this. But first I need to explain a law that is fundamental to classical logic: Ex Contradictione Quodlibet also called the Explosion Principle.\\
+Assume that we got a contradiction from some axioms (similarly to what happened before). Often contradiction is written like $p \land \lnot p$, both $p$ and its negation are true at the same time. That's exactly what we got from the assumptions before, both a sentence and it's negation were true. If you know that $p$ is true, then you can surely say that either $p$ or $q$ is true ($p \lor q$). Now, since you also know that $\lnot p$ is true you can say that $q$ has to be true (since $(\lnot a$, $a \lor b) \rightarrow b$). Then I say
+\begin{ECQ}
+    \[\lnot A, A \vdash B\]
+\end{ECQ}
+Notice two things: (i) we didn't have to specify anything regarding $q$, therefore $q$ may be any sentence and (ii) there is nothing that relates $p$ and $q$, and there is a whole logic which goes against the possibility that something can imply something else without any \textit{relevance}. For example it is correct to say that, \enquote{\textit{if Socrates is a man but he is also not a man then Russel was bald}}. Notice that the two premises have to be in contradiction, which means that, in the example presented, the two times in which I used the property \enquote{being a man} on Socrates have to have the exact same meaning. It can't be that the first means \enquote{being an actual man, made by flesh and bones} and the second means something like \enquote{Socrates was such a genius that he was not just a man}. This is why, as soon as we have the smallest contradiction we can derive whatever we want (\textit{Quodlibet}) or we can say that the system explodes (therefore it's also called \textit{Explosion Principle}). That is also the reason why, as soon as we have seen that the student derived contradiction, we came immediately to the conclusion that we have to change the axioms. There is the need here of finding a way to contain the explosion in just a part of the system and then notice if something changes in the student's answer to the paradox. Let's now repeat the same proof that we proved before but then see which axioms are contradicting without ever using Ex Contradictione Quodlibet anymore.
+
+\subsection{A formalized solution}
+All Axioms prove Theorem 1, no use of ECQ in its proof. I claim that if I don't apply ECQ then no contradiction will result to be proved outside of the conjunction of Axiom 1 with Theorem 1, i.e. every proof of contradiction assumes both Axiom 1 and Theorem 1.\\
+\noindent \textbf{Claim 2.} Call $X$ the conjunction of all Axioms, $A:= $ Axiom 1, $T:=$ Theorem 1, $D:=$ a (possibly void) conjunction of axioms or theorems, and call NL a \enquote{new logic}, then I claim:\\if $NL \not \models (C, \lnot C \models B) \text{ then } (X \models p \land p \models \bot)\rightarrow (A \land T \land D) \models p$. To see if this is true I may jump to the next step, claiming that:\\
+\textbf{Claim 3.} If $\lnot K(T)$ there won't be a proof anymore for $X \models \bot$\\
+\textit{Argument.} Assume $\lnot K(T)$ then note that, with this conclusion, all the axioms are satisfied: Axiom 1 holds, since all days are possible. Axiom 2 holds since the student won't be able to foresee the date of the exam on any day. Axiom 3 holds since nothing has been forgotten. Axiom 6 holds since all theorems hold from the point of view of the subject. Similarly Axiom 4 holds, since it denies the possibility of the exam to be on some days (not all as the Theorem 1 says) and is therefore not contradicting the solution. Axiom 5 is a special case, it can't now derive the knowledge of Axiom 1 and Theorem 1 (and therefore all its consequences) because of the solution now proved, though it holds in all other cases. This modification of Axiom 5 will then cause an asymmetry in what is provable and what is known by the subject but this will be better explained by the end of this section.
+Then this seems to be a solution consistent with the axioms and knowable by the subject (if he rejects ECQ).
+\begin{zeorem}
+    \[\text{If }\lnot K(T) \text{ then } X \not \models \bot\]
+\end{zeorem}
+\textbf{Claim.} Such a logic that allows the student to know $\lnot K(T)$ from the axioms is actually possible and makes sense.\\
+A little discussion is needed before finding an actual argument for this claim.
+
+\subsubsection{Reasoning on the difference}
+Now I have to stop for a moment and explain better what \enquote{making a new logic} is supposed to mean and what is my actual intent here. Creating a new formal language means a lot of work: philosophical discussions, metalogical theorems, semantics... too much for this essay. What I'm willing to conclude here is a little modification to Classical Logic, a  metalogical theorem which, when some (rare) conditions are satisfied, should, in my opinion, be applied. What I mean here with a \enquote{metalogical theorem} is something that comes even before the axioms of a system, it is part of what defines a language. For example, metalogical theorems are responsible for giving the right sense to symbols, proving that languages can't imply falsehoods from no premise (consistency), what they prove is actually true (soundness), what is true is provable (completeness)... Writing just a metalogical additional rule (not a proper theorem, since I won't prove his efficiency more than what the reader will deduce from the this paper) reduces a lot the work since just a rule will be applied, which will suggest a better solution than the one furnished by CL and won't change its consistency and soundness.\\
+My intent here is to define an algorithm able to (i) recognise when it's useful (in such rare situation like the one of the paradox), (ii) give a solution which is better than the one given without the rule and (iii) argue for consistency of the solution with the axioms.\\
+A second point that is important to understand is the difference between the solution I propose and the solution by Quine. To say that the student doubts something is not much different (here I assume they mean the same, ignoring psychological differences, which are not in my interest) to say that the student doesn’t know the same thing. So, what my student now does, is nothing more than picking Theorem 1, that among the other possible theorems seems to be responsible for the contradiction, and imagining the condition in which he wouldn’t have proven it. He then understands that this would be a better world than the actual one and, since it’s in his power to ignore what he wants, he ignores Theorem 1 and so solves the contradiction. What Quine’s student does is to doubt the validity of all the axioms in general, saying then, that there’s no solution knowable by the student starting with this axioms.\\
+We notice then that here the actual difference is not in the actual answer (that we anyway have to doubt something) but in the method used to reach that answer. My method then allows it to be somehow made more precise in the procedure of ignoring part of his knowledge and therefore lets the student free to evaluate the best proposition to ignore. For example, we may notice that, even though Thursday has to be a possible day, Friday is not. That’s something that my student may be able to prove, with some adjustments, but Quine’s student certainly not. The method I propose allows progress in precision which will give better answers. My main critique to Quine is that he does not actually propose a method to get to a solution (which has to exist, since it exists in the actual world) and therefore, in some possible more complicated situations there is no procedure to follow to get a reasonable result.
+The process of refuting knowledge will be better explained in the following section and it'll be shown how this is still consistent with Axiom 5.
+
+\subsection{On the Subsubject}
+Does more knowledge always make us infer more and better theorems than less knowledge? I think that more knowledge always gives us the \emph{possibility} to infer more and better theorems. It may also be that if we have to consider the whole of our knowledge, without the possibility to ignore something, it may be more powerful to start from less knowledge. The paradox considered in the previous section was one example of this. The student couldn’t realise the truth and consistency of all axioms because it was the fact itself that he knew the axioms to imply contradiction. The way out of contradiction that I showed is to deny the knowledge of a theorem that the student himself could prove, which, st a first glance, seems to be precisely a negation of Axiom 5.\\
+What the student does is actually different from negating his own knowledge, instead he \emph{acts like} he wouldn’t know. To state it more clearly we could say the following: similarly to me and you, talking about the student, a subject with given features (like Axioms 3, on memory, and 5 on provability by the subject) he could talk about a new subject that knows and can prove the same or less than he can, a \emph{subsubject}. When we talk about subjects, we can’t create one that knows or can prove more than what we do, similarly the student will do. The subsubject he creates  cannot prove the truth of Theorem 1, and hence inconsistency. While doing such an experiment, the student sees that his subsubject comes to know something he doesn’t know, namely that all Axioms can easily be true\footnote{Here we’re starting from a inconsistent theory, the knowledge of the student, and have tried to change something, namely reducing his knowledge, to get consistency back; though, since we have no procedure able to tell if the present system is actually consistent, it is to be called paraconsistent, to read more on paraconsistent logics, see the last reference} if just he wouldn’t be able to deduce Theorem 1. This works for the fact that inconsistency in this example is not given by any theorem itself but solely by the student’s knowledge, in fact the teacher (the external point of view) notices from the beginning that all axioms can be true without any issue.
+
+\subsubsection{A Non-Counterfactual World} 
+When we consider subjects in formalised epistemology we almost in every case assume that the subject is able to derive every logical consequence from its knowledge, this is called the problem of \enquote{Logical Omniscience}. This essay doesn’t pretend to suggest a solution to such a huge problem in formalised epistemology, instead I’ll need to use some of its consequences since the concept of the subsubject is somehow related to it. Important to notice when talking about subsubjects is that the subject is \emph{not} creating a counterfactual world, or doing an hypothesis. When the subject imagines a subsubject that doesn’t know a proposition that the subject knows, he’s not supposing something that is actually true to be false, instead he is considering a possible case that can become true thanks to his will. Therefore when ignoring some logical consequences the subject is not negating Axiom 5. For such a \emph{choice} to be possible by the subject we need not to think about it as a computer with a given memory and a given logical power, instead we should think of him as being like a human being with will and so able to ignore information to get what he wants. So, the former example shows how ignoring informations, like the truth of Theorem 1, helps the student to understand the situation and react in the best possible way to the punishment by the teacher.
+
+\subsubsection{The Vanishing of Contradiction}
+One could answer to my proposal that I’m suggesting the student to ignore something that is factual, a contradiction that exists and therefore it would be nothing but ignoring the truth. This is true in most cases, though not in this one. Notice that contradiction in this paradox arises not by itself but by nothing more than the knowledge by the student and therefore if the student supposes he can’t prove such contradicting theorem, like Theorem 1, then contradiction wouldn’t be just ignored but it would vanish completely. This is the reason why such an \enquote{algorithm} works in very few cases, which are exposed in the following section.
+
+\section{The Subsubject's Method}
+In this section I try to generalise the previously presented solution to the paradox and so I consider the cases in which such a procedure would be useful to get rid of contradiction.
+
+\subsection{Conditions of Convenience}
+Not many cases make the creation of a subsubject. Often contradiction happens to be provable independently from our knowledge. if we assume $2 + 2 = 5$ in standard arithmetics, it is not something directly dependent on our knowledge, it’ll always prove a contradiction, there will be no way of making that consistent by ignoring facts. So we have actual convenience in thinking about subsubjects just in these cases in which you can recognise something being true in virtue of the subject’s knowledge. This is not the case in many situations, particularly every time we are talking baut physical objects and assuming any sort of realism, namely that events happen independently from our knowledge. More on this topic and a further analysis of areas in which we shall find other examples where we have convenience in creating a susbsubject will be exposed at the end of this section.
+
+\subsubsection{The loss of soundness and completeness}
+A really important consequence, and probably the cause why a metatheorem is really the last option, is that soundness and completeness are lost. Since by creating a subsubject, he makes something true that is unproved by the axioms and the laws of classical logic, and since it forbids to give a truth (semantical) value to certain sentences which would otherwise be proven syntactically, the syntactical ($\vdash$) and semantic ($\models$) implication aren’t anymore the same.\\
+To what extent is it a problem? There are several implications of this, though there is one point that needs to be underlined. All the inferences are possible before applying the algorithm (in the usual, sound and complete classical logic), it’s just needed to avoid Ex Contradictione Quodlibet. The algorithm will be applied at the very last possible step and only the inferences which one needs to do after the algorithm is applied will need to be in a language with soundness and completeness unproven.
+\subsection{Some thoughts on the relevance of all of this}
+The interpretation in classical logic says that the student can't know the truth of the axioms, but the metalogical algorithm I propose saves this truth. Left to prove is just if such a situation is possible or not in the actual world: Is the student able to know the truth of the axioms or is he forced to ignore it? If it shows that the world behaves as I predicted, then we have a reason to believe that a logic including something similar to my algorithm is a better model of our world than the classical logic. Such logics may probably be those that are able to handle contradiction differently, like relevance logic. Therefore, if we analyse the paradox in relevance logic we would get a result not much different from the output of my algorithm. I choose to write an algorithm instead of just adopting relevance logic because of several causes: (i) I wanted to make more clear the difference between the classical inconsistent result and one possible solution (ii) I want this result to be formalised in classical logic, so that no knowledge of other logics is needed to understand the result and (iii), most importantly, this is a problem regarding knowledge, even if solved by relevance logic, it would be a too powerful tool, I wanted a solution just to solve these special cases in which knowledge is involved.\\
+How special are such situations? Since it’s an algorithm for such specific situations, you might say, ``who cares? It's just a more tricky way to handle a situation that will never happen and, even if that happens, nothing worse than a bad mark to a student will happen''. About a hundred of years ago I would have agreed, though what if the student grows older and becomes a quantum physicist? The paradox regards only these situations in which there is something that behaves differently depending on your knowledge. We risk passing by something way more important than a bad mark of a student if we don't find the right way to solve such paradoxes.\\
+The Nobel prize in Physics in 2022 was awarded to three physicists who verified through experiments Bell's Inequality, which states that the axioms of locality and realism are incompatible with quantum mechanics, which now is by far the most believed theory. I care here mainly about realism, which states that things happen independently from our knowledge about them. Since now, thanks to this empirical results, realism seems to be way less likely, I consider it really important to have a formalised logic able to handle such situations consistently.
+
+\bibliographystyle{alpha}
+\bibliography{sample}
+Stewart Shapiro, (2005), \emph{The Oxford Handbook of Philosophy of Mathematics and Logic}, OUP:
+\begin{itemize}
+    \item Chapter 9: \emph{Intuitionism and Philosophy}, Carl Posy
+    \item Chapter 12: \emph{Quine and the Web of Belief}, Michael D. Resnik
+    \item Chapter 23: \emph{Relevance in Reasoning}, Neil Tennant
+    \item Chapter 24: \emph{No requirement of Relevance}, John P. Burgess
+\end{itemize}
+W. Quine, (1966), \emph{The ways of Paradoxes}\\
+J.Y Beziau, M. Chakraborty, S. Dutta, \emph{New Directions in Paraconsistent Logic, 2014}
+\end{document}
+````
