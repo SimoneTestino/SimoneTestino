@@ -1,1 +1,0 @@
-I will follow this course by Dr. Luca Incurvati at the ILLC for my [[M.Sc. Logic (UvA)]] during my [[6th Semester]], here is the [Course Link](https://studiegids.uva.nl/xmlpages/page/2024-2025-en/search-course/course/118710), I may have waved, since I followed [[Model Theory (Lecture)]].

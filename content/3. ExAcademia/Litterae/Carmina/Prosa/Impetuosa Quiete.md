@@ -1,5 +1,0 @@
----
-draft: true
----
-
-Ed anche quel giorno, tardi, come per ogni giorno, sorse l’alba e venisti tu. Passasti la nottata senza dormire per il gratuito piacere nel tuo gratuito aiutare chi ti circonda. E quando presso me arrivasti, stanca, ti coricasti all’ombra, donando anche a me istanti dalle uniche emozioni. Come l’onde del mare appresso, tale la mia mente, impetuosa, carica di potenza e che smarrisce ciò che ne è privo. Quindi, mi ritrovai libero dalla frenesia di dover lanciare uno sguardo fugace al tuo volto per scappare dall’imbarazzo; perciò fui, anch’io, in quiete. Fui però sommerso dall’impeto dell’immagine e dal conseguente desiderio di poter donare a te la dolcezza che tu, come un prisma, avresti donato agli altri, come sei solita fare. Così ora, della tua immagine, rimane l’emozione emessa in abbondanza dal tuo volto addormentato, il quale, ornato dal mio desiderio di donarmi gratuitamente a te (sorto dal tuo insegnamento), resta impresso nella mia mente. Mi insegni ad amare.

@@ -1,9 +1,0 @@
----
-draft: true
-date: 2025-04-15
----
-I have an interview scheduled for the 15th of April 2025 as a result of my [[PhD Applications in the EU & UK]] over the past months. The position is particularly well-paid, as I’ve briefly discussed in [[Some Occupational Prospects for 2025-2026]]. On this page, I aim to prepare myself for the interview by demonstrating competence in the area of interest. Here is the [job posting](https://jobs.tugraz.at/en/jobs/7bb82e78-5d49-ebeb-a967-67a470d74847). It’s already interesting that they require German skills, probably because the teaching responsibilities will be in German-taught courses (see [[TestDaf German Certificate (C1).pdf]]).
-
-The research group leader is [Johannes P. Walner](https://wallner.sai.tugraz.at/), and I outline here some of the research interests he shares on his website that might align with mine in [[Research Areas]]. Clearly, the course I took that is most relevant for this application is [[Knowledge, Representation and Reasoning (Lecture)]], but more generally, it seems that there are many interesting applications of [[Formal Epistemology]] overall. Looking at the courses he has taught, I think I lack the basics in Complexity Theory and Computability Theory, but for the rest, it looks like I’m pretty much on track.
-
-One paper that I may be interested in, just by reading the title, is [Abstraction in Assumption-based Argumentation](https://proceedings.kr.org/2024/5/kr2024-0005-apostolakis-et-al.pdf). I am not well prepared for the interview nor I have any solid background in the field, or certainly not enough that I can read the literature without previous preparation. I might still be a good candidate.

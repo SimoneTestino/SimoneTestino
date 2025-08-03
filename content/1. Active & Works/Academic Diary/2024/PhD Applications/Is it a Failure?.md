@@ -1,7 +1,0 @@
----
-draft: true
-date: 2025-03-13
----
-It shouldn't be a failure, at the end my current position is still great: I am 21 about to get an excellent degree in a field I am passionate about. Though it feels like a failure.
-
-Anyway, I have now to think more concretely about [[Suboptimal Scenarios for PhD Applications]]. Currently I am continuing to apply to any position I see with little or no motivation, it will probably not be a success either. I have the [[Interview for PhD in Konstanz]] and a nice email for a PhD in Barcelona on, potentially, finite model theory. The first option is completely out my [[Research Areas]] and the second is both out of my field and scarcely paid. I am currently not in the mood to properly address the question of what to do in... 5 months from now, nor I think that I can do much right now. The last chance to get a satisfactory PhD position would be to write at least part of my [[Master Thesis]] (I still have to begin thinking about what it is going to be about) and then submit it as a research proposal to the LMU, ANU and other exciting universities that require me to come up with a research proposal. If none of these will turn out to be successful, I will probably stay at the ILLC for one more year trying to come up with something publishable and repeat the whole application one more time. I might find some ways to give purpose to this year, finding a job in a new field, travelling or moving to weird places for no reason...

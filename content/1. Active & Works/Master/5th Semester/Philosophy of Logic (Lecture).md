@@ -1,3 +1,0 @@
-I followed this course by, Dr. Thomas Schiller during my [[5th Semester]] at the [[ILLC Amsterdam]] for my [[M.Sc. Logic (UvA)]]. A full description of the course can be found [here](https://studiegids.uva.nl/xmlpages/page/2024-2025/zoek-vak/vak/115094). I already followed a course in Philosophy of Logic for which I wrote [[What a Logic Could not Be]] connected to the ideas I am writing about in [[Structuralism & Categories (Research Project)]].
-
-For completion of the course I write an essay that I make available here: [[A Topological Approach to Infinite Disjunctions]].

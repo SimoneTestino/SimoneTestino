@@ -1,1 +1,0 @@
-I will follow this course at the ILLC for my [[M.Sc. Logic (UvA)]] during my [[6th Semester]], here is the [Catalogue Link](https://studiegids.uva.nl/xmlpages/page/2024-2025-en/search-course/course/119655).

@@ -1,1 +1,0 @@
-Close to the conclusion of the [[5th Semester]], if I manage to have an average above 8.0 and no grade below 7.0, I will consider to apply for the ELLIS Honours program (see [ELLIS Homepage](https://student.uva.nl/en/topics/honours-programme)). By that date I will have at least 60EC hopefully with good marks.

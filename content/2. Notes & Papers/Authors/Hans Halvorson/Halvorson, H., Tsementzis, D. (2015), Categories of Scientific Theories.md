@@ -1,1 +1,0 @@
-[Halvorson, H., Tsementzis, D. (2015), Categories of Scientific Theories](http://philsci-archive.pitt.edu/11596/1/categories%2Dscientific%2Dtheories%2D4.pdf)
