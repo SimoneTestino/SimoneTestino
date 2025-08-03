@@ -1,0 +1,1 @@
+I followed this class during my [[6th Semester]] for the [[M.Sc. Logic (UvA)]], it connects with several other courses I took in [[Formal Epistemology]]. The exercises are made available at [Overleaf: Topology, Logic and Learning Exercises](https://www.overleaf.com/read/gnpyrvfjcchc#8ccf2d).

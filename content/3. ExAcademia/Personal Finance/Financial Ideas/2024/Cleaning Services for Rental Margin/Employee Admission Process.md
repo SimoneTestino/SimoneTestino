@@ -1,0 +1,19 @@
+---
+draft: true
+date: 2025-01-14
+---
+In order to find the right [[Employee]] for the [[Cleaning Services for Rental Margin]] project, I will first promote the page of the [[Job Offer]] and then proceed with a selection process to choose the most suitable candidate. Initially, I will analyse the responses provided in the [[Application_Form.pdf]] and list all candidates in the [[List of Employee Candidates]]. Subsequently, considering the [[Job Offer#Skills Required and Evaluation Criteria]] outlined in the [[Job Offer]], I will assign tasks to examine their organisational abilities. Since most of the candidates in the [[List of Employee Candidates]] reside in various regions worldwide, all tasks will be conducted online. While practical abilities such as cleaning and cooking cannot be directly tested, the focus will be on evaluating the candidates' motivation and professionalism, particularly their attention to detail. Below are some tasks that the candidates in the [[List of Employee Candidates]] will need to complete for selection:
+#### Social Profile
+The image of the [[Employee]] is crucial for attracting customers to both the main project (see [[Cleaning Services for Rental Margin#Demand]]) and the [[Airbnb Project]]. Candidates are required to create a professional Instagram profile featuring pictures of themselves and various dishes they have prepared. This profile must be meticulously crafted and clearly tailored for this project. It will be added to the personal section of the [[List of Employee Candidates]] page.
+
+This task assesses the candidate's attention to detail and their ability to welcome people into their digital space. These skills are vital for the job, as the [[Employee]] will be expected to be active on social media to attract new customers and manage customer care for the [[Airbnb Project]], if they demonstrate sufficient competence.
+#### Weekly Menu & Grocery Analysis
+The candidate will be tasked with creating a Markdown sheet to be uploaded on the website. In this sheet, they will compile a list of all the [TooGoodToGo](https://www.toogoodtogo.com) stores located near the university and the planned living area, as determined by [[PhD Applications Results]].
+
+From this list, the candidate should identify the stores offering TooGoodToGo packages and select those that provide packages frequently enough to sustain weekly purchases. The goal is to find a combination of these stores that can supply most of the ingredients needed for meals on a weekly basis.
+
+Next, the candidate must compile a list of dishes that can be prepared with these ingredients and include this list in the same Markdown file. After listing the dishes, they will organise them into a weekly menu, distributing the meals throughout the week.
+#### Numerical Literacy
+Basic numerical literacy in a digital environment is essential. The [[Employee]] will need to interact with complex spreadsheets daily to track the house's financials. All purchases made by the [[Employee]] will be recorded digitally, first on a designated app and then on a spreadsheet providing a clear financial overview.
+
+Candidates must prepare a spreadsheet on [Google Sheets](https://workspace.google.com/products/sheets/) to track the house's expenses and income, based on the details outlined in [[Cleaning Services for Rental Margin]]. Candidates have the freedom to decide the level of detail in the spreadsheet. In practice, the [[Employee]] will be given a specific spreadsheet template to fill in with the required data. Demonstrating a high level of proficiency with Google Sheets will be advantageous.

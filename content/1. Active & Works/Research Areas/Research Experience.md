@@ -1,0 +1,10 @@
+This page serves as an index for the folder on Research Areas I've worked on since my undergraduate studies. Here, I list the main topics I've researched, from my undergraduate years to the present. Each major research area includes a description of my experience within the field.
+- [[Set Theory]]
+	- [[Forcing (Research Project)]]
+- [[Category Theory]]
+	- [[Structuralism & Categories (Research Project)]]
+- [[Formal Epistemology]]
+	- [[De Re Knowledge of Arbitrary Objects]]
+- [[Translation Theory]]
+	- [[Bachelor Thesis]]
+	- [[Master Thesis]]

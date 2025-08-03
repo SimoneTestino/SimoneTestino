@@ -1,0 +1,370 @@
+I followed this course by Prof. Leeb during my #3rd_Sem a the #LMU. A considerable part of the following notes (and hence of the program of the course) are already present in [[Analysis II (Lecture)]], the approach of this lecture was more theoretical (topological).
+### I. Measure Theory
+#### I.1 Measure Problem
+XX
+#### I.2 Measuring Volume with Finite Divisions
+##### I.2.1 Set-theoretic Rings and Algebras
+- Def. a set-ring is $\mathcal{R} \subseteq \mathcal{P}(X)$ s.t. it is an (alg.) sub-ring of $(\mathcal{P}(X), \Delta, \cap)$.
+	- for $A \Delta B := \{x \in X : (x \in A \lor x \in B) \land \lnot (x \in A \land x \in B)\}$, $\chi_\emptyset \equiv 0$ and $\chi_X \equiv 1$.
+	- for $\mathcal{R} \subset \mathcal{P}(X)$: $\mathcal{R}$ is a ring $\Leftrightarrow \emptyset \in \mathcal{R} \land \mathcal{R}$ is $\setminus$-stable $\land \mathcal{R}$ is $\cup$-stable.
+		- $A \Delta B = (A \setminus B) \cup (B \setminus A)$, $A \cap B = A \setminus (A \setminus B)$ 
+		-  $\forall_{A, B \in \mathcal{R}}A \setminus B \in \mathcal{R} \land A \cap B \in \mathcal{R} \land B \setminus A \in \mathcal{R}$ 
+- Def. a set-alg. $\mathcal{A}$ is a set-ring s.t. $1_\mathcal{A} \in \mathcal{A}$.
+	 - $\mathcal{A}$ is a set-alg. $\Leftrightarrow \emptyset \in \mathcal{A} \land \mathcal{A}$ is $\cup$-stable $\land \mathcal{A}$ is $\cdot^C$-stable
+	-  $\forall_{A, B \in \mathcal{R}}A \setminus B \in \mathcal{R} \land A \cap B \in \mathcal{R} \land B \setminus A \in \mathcal{R} \land (A \cup B)^C$
+- For $\mathcal{E} \subseteq \mathcal{P}(X)$, def. the set-ring  $\mathcal{R}_\mathcal{E} = \bigcap\{\mathcal{R} : \mathcal{E} \subseteq \mathcal{R} \land \mathcal{R}$ is a ring$\}$ on $X$.
+- Define $\mathcal{F}_0 \subseteq ... \subseteq \mathcal{F}_n \subseteq ... \subseteq \mathcal{P}(X)$, for $\mathcal{F}_0:= \mathcal{E} \cup \emptyset$, $\mathcal{F}_n := \{A \setminus B, A \cup B : A, B \in \mathcal{F}_{n-1}\} \supseteq \mathcal{F}_{n -1}$;  $\bigcup_{n \in \mathbb{N}} \mathcal{F}_n$. 
+	- $\mathcal{R}_\mathcal{E}$ is the smallest ring containing $\mathcal{E}$. ==Q==
+- Def. $\mathcal{H} \subseteq \mathcal{P}(X)$ halfr. if (i) $\emptyset \in \mathcal{H}$, (ii) $\mathcal{H}$ is $\mathcal{H}$-st., (iii) $\forall_{A, B \in \mathcal{H}} \exists_{C_1, ..., C_n \in \mathcal{H}} A \setminus B = C_1 \sqcup ... \sqcup C_n$. 
+	- $\mathcal{R}$ is an hafr.
+	- Principal Exampe, (PE) $\mathcal{I} = \{[a, b) : a \le b \land a, b \in \mathbb{R}\}$ is halfr. on $\mathbb{R}$.
+	- (Simultane Zerlegung) $\forall_{H_1, ..., H_n \in \mathcal{H}} \exists_{H_1', ..., H_n' \in \mathcal{H}} H_i = H_j', ..., H_{j'}'$ 
+	- $\mathcal{R}(\mathcal{H})$ def. ==Q==
+- **Products**
+	- $\mathcal{F}_1 *...* \mathcal{F}_n : = \{M_1 \times ... \times M_n: \forall_{i \le n} M_i \in \mathcal{F}_i\} \subseteq \mathcal{P}(X_1 \times ... \times X_n)$, $\cup$-st. cover. for $\mathcal{F}_i \subseteq \mathcal{P}(X)$,
+		- squares
+	- $\mathcal{F}_1 \boxtimes ... \boxtimes \mathcal{F}_n := \{$finite union of subsets of $\mathcal{F}_1 *...*\mathcal{F}_n\}$
+		- union of squares
+	-  $\mathcal{Z}(\mathcal{F}_1, ..., \mathcal{F}_n) := \{\pi_k^{-1}(M_k) : M_k \in \mathcal{F}_k, 1 \le k \le n\}$ where $\pi_k^{-1}: X_1 \times ... \times X_n \rightarrow X_k$ is a proj.
+		- Cylinder
+	- $\mathcal{H}_1 *...* \mathcal{H}_n$ is an halfr. on $X_1 \times ... \times X_n$, (prod. of halfr.)
+	- $\mathcal{H}_1 \boxtimes ... \boxtimes \mathcal{H}_n = \mathcal{R}(\mathcal{H}_1) \boxtimes ... \boxtimes \mathcal{R}(\mathcal{H}_n)$
+	- (PE) $[a, b) : = [a_1, b_1) \times ... \times [a_d, b_d)$ elem. of $Q^d = \mathcal{I} * ....* \mathcal{I} \subset \mathcal{P}(\mathbb{R}^d)$ halfr., $\mathcal{R}(Q^d) = \mathcal{F}^d : = \mathcal{I} \boxtimes ... \boxtimes \mathcal{I} \subset \mathcal{P}(\mathbb{R}^d)$ (figures).
+		- (Zerl. Lemma) every figure is a disj. union of finitely many squares
+		- Any finite union of squares is also a figure
+##### I.2.2 Content
+- $\mu: \mathcal{H} \rightarrow [0, \infty]$ s.t. (i) $\mu(\emptyset) = 0$, (ii) $\mu(A_1 \sqcup ... \sqcup A_n) = \mu(A_1) + ...  + \mu(A_n) \land A_1 \sqcup ... \sqcup A_n \in \mathcal{H}$ (cont.)
+- (PE) $\lambda_\mathcal{I}: Q^1 \rightarrow [0, \infty), [a, b) \mapsto b-a$ (euclidian lenght)
+- $\forall_{A, B \in \mathcal{H}} A \subseteq B \rightarrow \mu(A) \le \mu(B)$ (monotony)
+- $\forall_{A_1, ..., A_n \in \mathcal{H}} \mu(A_1 \cup ... \cup A_n) \le \mu(A_1) + ... + \mu(A_n)$ (subadditivity)
+- For $\mu: \mathcal{H} \rightarrow [0, \infty]$ ex. uniq. $\overline{\mu}: \mathcal{R}(\mathcal{H}) \rightarrow [0, \infty]$.  
+	- How to extend the content? ==Q==
+- (PE) $\lambda^1_{Q_1}: Q^1 \longrightarrow [0, \infty], [a, b) \mapsto b-a$ extends to $\lambda^1_{\mathcal{F}^1}: \mathcal{F}^1 \longrightarrow [0, \infty]$.
+- **Products**
+	- If $(\mu_1 \times ... \times \mu_n)(\mathcal{H}_1 \times ... \times \mathcal{H}_n) = \mu_1(H_1) \cdot ... \cdot \mu_n(H_n)$, $\mu_1 \times ... \times \mu_n$ cont. $\mathcal{H}_1 * ... * \mathcal{H}_n$
+		- convention: $0 \cdot \infty = 0$
+	- (PE)  $\lambda^d_{Q^d} := \lambda^1_{Q^1} \times ... \times \lambda^1_{Q^1}$ ($d$-times) on $Q^d = Q^1 * ... * Q^1 \subset \mathcal{P}(\mathbb{R}^d)$
+	- $\mu_1 \boxtimes ... \boxtimes \mu_n$ uniq. cont. on $\mathcal{R}_1 \boxtimes ... \boxtimes \mathcal{R}_n \subset \mathcal{P}(X_1 \times ... \times X_n)$ s.t.:
+		- $(\mu_1 \boxtimes ... \boxtimes \mu_n)(M_1 \times ... \times M_n) = \mu_1(M_1) \cdot ... \cdot \mu_n(M_n)$,
+			- recall: $(M_1 \times ... \times M_n) \in \mathcal{R}_1 * ... * \mathcal{R}_n$ for $M_i \in \mathcal{R}_i$
+	- (PE) $\lambda^d_{\mathcal{F}^d}$ is unique
+#### I.3 Measuring Volume with Countable Divisions
+##### I.3.1 Pre-measures
+- def. ==Q==
+- $A_n \nearrow A := \bigcup_{n = 1}^\infty A_n = A$ for $(A_i)_{i \in [1, n]}$ a $\subseteq$-chain (inside approximation), similarly $A_n \swarrow A$.
+- let $A_n \nearrow A \land A'_n \swarrow A$ then $\lim_{n \rightarrow \infty} \mu(A_n) \le \mu(A) \le \lim_{n \rightarrow \infty} \mu(A'_n)$.
+- **Products**
+	- $\mu_1 \boxtimes ... \boxtimes \mu_n$ pmeas.
+##### I.3.2 $\sigma$-Algebras
+- $\mathcal{A} \subset \mathcal{P}(X)$ is $\sigma$-al. if: (i) $\emptyset \in \mathcal{A}$, (ii) $(A_n)_{n \in \mathbb{N}} \subseteq \mathcal{A} \Rightarrow \bigcup_{n \in \mathbb{N}} A_n \in \mathcal{A}$ ($\sigma$-$\cup$-st.), (iii) $\cdot^C$-st.
+	- eq. to: (i)* $X \in \mathcal{A}$, (ii)* $(A_n)_{n \in \mathbb{N}} \subseteq \mathcal{A} \Rightarrow \bigcap_{n \in \mathbb{N}} A_n \in \mathcal{A}$ ($\sigma$-$\cap$-st.), (iii) $\cdot^C$-st.
+- By transf. ind. define $\sigma(\mathcal{E}):= \mathcal{E}_{\omega_1}$:
+	- for $A \subseteq \mathcal{P}(X)$, $A^\vartheta :=$ ==Q==
+	- $\mathcal{E}_0 := \mathcal{E} \cup \{\emptyset\}$
+	- $\mathcal{E}_n := \mathcal{E}_{n-1}^\vartheta$
+	- $\mathcal{E}_\lambda := (\bigcup_{n < \lambda} \mathcal{E}_n)^\vartheta$ for $\lambda$ limit ordinal
+- **Topological Origin**
+	- $\mathcal{B}(X) := \sigma(\mathcal{T})$ for $(X, \mathcal{T})$ top. sp.
+		- (PE) $\mathcal{B}^d := \mathcal{B}(\mathbb{R}^d)$
+			- $\mathcal{B}^d = \sigma(A)$ for any of the following options
+				- $A$ are open subsets of $X$, i.e. the topology.
+				- $A$ are the closed subsets of $X$.
+				- $A$ are the compact subsets of $X$.
+				- $A$ are the open metrical balls
+				- $A$ are the closed metrical balls
+				- $A$ are the open rectangles
+				- $A$ are the half-open rectangles, i.e. $Q^d$
+			- $\mathcal{B}^d = \sigma(Q^d)$
+- **Dynkin Systems**
+	- $\mathcal{D} \subseteq \mathcal{P}(X)$ is dyn. if (i) $\emptyset \in \mathcal{D}$, (ii)$(A_n)_{n \in \mathbb{N}} \subseteq \mathcal{D} \Rightarrow \bigsqcup_{n \in \mathbb{N}} A_n \in \mathcal{D}$, (iii) is $\cdot^C$-st.
+	- $\mathcal{A}$ is dyn. and if $\mathcal{D}$ is $\cap$-st. it is $\sigma$-al.
+	- $\forall_{D_1, D_2 \in \mathcal{D}} D_1 \subseteq D_2 \rightarrow D_2 \setminus D_1 \in \mathcal{D}$
+	- $\mathcal{D}|_D : = \{M \subset D |M \in \mathcal{D}\} \subset \mathcal{P}(D)$ (Spur) is dyn on $D$.
+	- $\mathcal{D}_D := \{M \subset X | M \cap D \in \mathcal{D}\} \subset \mathcal{P}(X)$ is dyn on $X$. 
+	- $\mathcal{E}$ $\cap$-st., $\mathcal{D}(\mathcal{E})$ is $\sigma$-al.
+- **The Measurable Category**
+	- XX
+- **Products**
+	- $\mathcal{A}_1 \otimes ... \otimes \mathcal{A}_n = \sigma(Z(\mathcal{A}_1, ..., \mathcal{A}_n))$ ==Q==
+		- $Z(\mathcal{A}_1, ..., \mathcal{A}_n) = \{\pi^{-1}_k (M_k) | M_k \in \mathcal{A}_k \land k \in [1, n]\}$
+##### I.3.3 Measures
+- $\mu: \mathcal{A} \rightarrow [0, \infty]$ is a meas.
+	- eq. $\mu: \mathcal{A} \rightarrow [0, \infty]$ a meas. on $\mathcal{A}$ if (i) $\mu(\emptyset) = 0$, (ii) $\mu(\bigsqcup_{n \in \mathbb{N}}A_n) = \sum_{n \in \mathbb{N}}\mu(A_n)$
+- **External Measures**
+	- $\mu^*(M) : = inf\{\sum^\infty_{n=1}\mu(A_n):(A_n)_{n\in \mathbb{N}} \subseteq \mathcal{H} \land \bigcup^\infty_{n=1}A_n \supseteq M\}$ for $\mu$ cont.
+		- if empty $\mu^*(M) = inf(\emptyset) = \infty$
+		- it is enough to look at the p.disj. $(A_n)_{n \in \mathbb{N}}$.
+		- $\overline{\mu^*} = \mu^*$
+	- $\mu^*: \mathcal{P}(X) \rightarrow [0, \infty]$ ext. meas iff
+		- $\mu^*(\emptyset) = 0$
+		- $\forall_{M, M' \subseteq X} M \subseteq M' \rightarrow \mu^*(M) \le \mu^*(M')$ (monotony)
+		- $(M_n)_{n \in\mathbb{N}} \subseteq \mathcal{P}(X)$, $\mu^*(\bigcup^\infty_{n = 1} M_n) = \sum^\infty_{n = 1} \mu^*(M_n)$ ($\sigma$-subadditivity)
+	- Similarly define the internal measure, $\mu_*$
+- **Motivation**
+	- $\mu^*(M) -\mu_*(M) = \mu^*(M) +\mu^*(R-M)-\mu^*(R) \ge 0$, bound. $R$ of a fuzzy shape $M$ (discr.)
+	- call $M$ meas. if $\forall_{S \subset X}\mu^*(S) = \mu^*(S \cap M) + \mu^*(S \cap M^C)$.
+	- $\mu^*(N) = 0$ (nullset)
+	
+- **Extensions of Pre-measures to Measures**
+	- (Carathéodory, 1914) $\mathcal{A}^*, \mu^*|_{\mathcal{A}^*}$ are resp. a $\sigma$-al. and a meas. ==Q==
+		- $\mathcal{A}^* := \{M \subseteq X : M$ is $\mu^*$-meas$\}$.
+		- (i) $\sigma(\mathcal{R}) \subseteq \mathcal{A}^*$
+		- (ii) $\mu^*|_{\sigma(\mathcal{R})}$ is a meas.
+			- (i), (ii) $\Rightarrow \mu^*|_\mathcal{R}$ prem., also $\mu^*|_\mathcal{R} \le \mu$ (recall $dom(\mu) = \mathcal{R}$)
+		- $\mathcal{H} \subseteq \mathcal{P}(X)$, $\mu: \mathcal{H} \rightarrow [0, \infty]$ meas., then $\mu$ is finite if $\mu(X) < \infty$ (finite)
+	- $\mathcal{H} \subseteq \mathcal{P}(X)$, $\mu: \mathcal{H} \rightarrow [0, \infty]$ meas., it is $\sigma$-fin. if ex $(H_n)_{n \in \mathbb{N}}$ s.t. $\forall_{x \in X} \exists_{n \in \mathbb{N}} x \in H_n \land \mu(H_n) < \infty$
+	- (Extension Theorem):
+		- (Existence) $\mu: \mathcal{R} \rightarrow [0, \infty]$ a prem., it def. a meas. $\mu^*$ on $\sigma(\mathcal{R})$.
+		- (Maximality of  $\mu^*|_\mathcal{R}$) for any meas. $\nu$ s.t. $\nu|_{\mathcal{R}} = \mu$, $\nu \le \mu^*|_\mathcal{R}$
+		- (Weak Uniq.) $\mu: \mathcal{R} \rightarrow [0, \infty]$ $\sigma$-fin. prem., then there is a uniq. ext to a meas. $\sigma(\mathcal{R})$
+			- (PE) $\lambda^d := (\lambda^d_{\mathcal{F}^d})^*$
+- **Approximation of Subsets**
+	- $M$ is $\mu^*$-meas. $\Leftrightarrow \mu^*(\partial M) = 0 \Leftrightarrow \mu^*(I) = \mu^*(A)$
+		- $I:= M - \partial M$
+		- $A:= \bigcap^\infty_{n = 1} A_{\frac{1}{n}} \in \sigma(\mathcal{R})$, for $\forall_{\epsilon > 0} \exists_{A_\epsilon \in \sigma(\mathcal{R})} (M \subset A_\epsilon \land \mu^*(A_\epsilon) < \mu^*(M) + \epsilon$
+	- $\mu$ is $\sigma$-fin. $\Rightarrow \mathcal{A}^* \subseteq \{\alpha : \alpha = \beta_1 \cup ... \cup \beta_n \cup \gamma_1 \cup ... \cup \gamma_m \land \forall_{i \in [1, max(n, m)]}\beta_i \in \sigma(\mathcal{R}) \land \mu^*(\gamma_i) = 0\}$.
+	- $\mu$ is compl. if all $\mu$-nullsets are in $\mathcal{A}$.
+		- $\mathcal{N}:= \{N \subseteq X : \exists_{N_\nu \in \mathcal{A}} N \subseteq N_\nu \land \nu(N_\nu) = 0\}$
+	- $\tilde{\mathcal{A}} := \{A \cup N: A \in \mathcal{A} \land N \in \mathcal{N}\} = \{\tilde{A} \subset X : \exists_{A' \in \mathcal{A}} \tilde{A} \Delta A' \in \mathcal{N}\} \subseteq \mathcal{A}$
+		- $\tilde{\mathcal{A}}$ is a $\sigma$-al. and ex a uniq. ext $\tilde{\mu}$.
+- **More on the Measurable Category**
+	- **Pushforward** ([Wiki](https://en.wikipedia.org/wiki/Pushforward_measure)): for $f: X_1 \rightarrow X_2$ meas., $(X_1, \mathcal{A}_1)$, $(X_2, \mathcal{A}_2)$ meas. sp. and $\mu: \mathcal{A}_1 \rightarrow [0, \infty]$ then the pushf. is the meas $f_*(\mu): \mathcal{A}_2 \rightarrow [0, \infty], A_2 \mapsto \mu(f^{-1}(A_2))$.
+- **Product Measure**
+	- for $(X_i, \mathcal{A}_i, \mu_i)_{i \in [1, n]}$, recall $\mathcal{A}_1 \otimes ... \otimes \mathcal{A}_n \subseteq \mathcal{A}_1 \boxtimes ... \boxtimes \mathcal{A}_1 \subseteq \mathcal{A}_1 * ... * \mathcal{A}_n \subseteq Z(\mathcal{A}_1, ..., \mathcal{A}_n)$.
+		- $\mathcal{A}_1 \otimes ... \otimes \mathcal{A}_n$ is the $\sigma$-al., the other are equivalent generators.
+	- def. for $(X_i, \mathcal{A}_i, \mu_i)_{i \in [1, n]}$ $\sigma$-fin. then $\mu_1 \otimes ... \otimes \mu_n$ is the product measure and $(X \times ... \times X, \mathcal{A}_1 \otimes ... \otimes \mathcal{A}_n, \mu_1 \otimes ... \otimes \mu_n)$
+##### I.3.4 Lebesgue Measure
+- **Topological Approximation of Measurable Sets**
+	- XX	
+- **Invariances and Behave under Affine Functions**
+	- for $\phi: \mathbb{R}^d \rightarrow \mathbb{R}^d$ aff $\phi^*(\lambda^d) = |\frac{1}{det(A)}|\cdot \lambda^d$ 
+
+### II. Integration Theory
+#### II.1 Integration & Numeral Functions
+- a num.f, is $f: X \rightarrow \overline{\mathbb{R}}$ for $X$ a set s.t. $(X, \mathcal{A})$ meas.sp. and $\overline{\mathbb{R}}:= \{- \infty, \infty\} \cup \mathbb{R}$.
+	- $\overline{\mathcal{B}} := \mathcal{B}(\overline{\mathbb{R}})$ is a $\sigma$-al. generated by:
+		- $\{[-\infty, a) : a \in \mathbb{R}\}$, also for $(-\infty, a],[- \infty, a]$ 
+	- $f: X \rightarrow \overline{\mathbb{R}}$ num is meas. $\Leftrightarrow \forall_{a \in \mathbb{R}}\{f \le a\}$
+		- $\{f \le a\} := f^{-1}([-\infty, a]) \in \mathcal{A}$
+		- $\mathcal{M}_\overline{\mathbb{R}}(X, \mathcal{A})$ are the meas.num.f. on $(X, \mathcal{A})$
+			- closed under $sup$, $limsup$.
+		- $\mathcal{M}_\mathbb{R}(X, \mathcal{A})$ are the meas.num.f. on $(X, \mathcal{A})$ s.t. $im(f) = \mathbb{R}$
+		- $\mathcal{M}_{[0, \infty]}(X, \mathcal{A})$ are the meas.num.f. on $(X, \mathcal{A})$ s.t. $im(f) =[0, \infty]$
+- **Approximation trough Step Funcitons**
+	- for $f$ step.f. $f$ meas. $\Leftrightarrow \forall_{i \in I} c_i$ meas. i.e. each level is meas.
+		- $\Rightarrow \mathcal{T}_\mathbb{R} = \mathcal{T}_{\mathbb{R}}(X, \mathcal{A}):=$ meas.step.f. s.t. $im(f) = \mathbb{R}$
+		- $\Rightarrow \mathcal{T}_{[0, \infty]} = \mathcal{T}_{[0, \infty]}(X, \mathcal{A}):=$ meas.step.f. s.t. $im(f) = {[0, \infty]}$
+	- any $f \in \mathcal{M}_{[0, \infty]}$ is a monotone limit of $t_n \subseteq \mathcal{T}_{[0, \infty]}$: $t_n \nearrow f$
+- **Regions below Graphs**
+	- for $f: X \rightarrow \mathbb{R}$, $f \in \mathcal{M}_\overline{\mathbb{R}} \Leftrightarrow \{(x, y) \in X \times \mathbb{R}: y \le f(x)\} \in \mathcal{A} \otimes \mathcal{B}^1$ (prod.$\sigma$-al. of $X \times \mathbb{R}$)
+	- $f_1, f_2 \in \mathcal{M}_{\overline{\mathbb{R}}} \Rightarrow (f_1, f_2)^{-1}(A_1 \times A_2) := f_1^{-1}(A_1) \cap f_2^{-1}(A_2) \in \mathcal{A}$
+		- $f_1 + f_2$ (pointwise) is uniq. and meas. (addition)
+		- ==Q== (moltiplication)
+#### II.2 Lebesgue Integral
+- $f: X \rightarrow \overline{\mathbb{R}}$, prod.meas. is $\mu \otimes \beta^1 = (\mu \boxtimes \mathcal{B}^1)^*|_{\mathcal{A} \otimes \mathcal{B}^1}$
+##### II.2.1 Integral for Non-negative Functions
+- the Integral $I: \mathcal{M}_{[0, \infty]}(X, \mathcal{A}) \rightarrow [0, \infty], f \mapsto \int_X f d \mu := (\mu \otimes \beta^1)(\{(x, y) \in X \times \mathbb{R}: 0 < y < f(x)\})$
+	- $f \le g \Rightarrow \int_X f d\mu \le \int_X g d \mu$ (monotony of $\mu \otimes \beta^1$)
+	- $f_n \nearrow f \in \mathcal{M}_{[0, \infty]}(X, \mathcal{A}) \Rightarrow \int_X f_n d \mu \nearrow \int_X f d \mu$ (monotone convergence, B. Levi)
+- for $(f_n)_{n \in \mathbb{N}} \subseteq M_{[0, \infty]}(X, \mathcal{A})$, then $\int \lim_{n \rightarrow \infty}\inf f_n d\mu \le \lim_{n \rightarrow \infty} \inf \int_{X}f_n d\mu$ (Fatou's lemma)
+- **Linearity & Homogenity**
+	- $\int_X \chi_A d \mu = \mu(A)$
+	- $\int_X t d \mu = \sum_{i = 1}^n \mu(A_i)a_i$ for $t = \sum^n_{i = 1} a_i \chi_{A_i}$, $\forall_{i \in [1, n]}A_i \in \mathcal{A}$, also if $A_i$ are not disj.
+	- any $f_+, f_- \in \mathcal{M}_{[0, \infty]}(X, \mathcal{A})$ can be approximated by some $t_{+,n}, t_{-,n}$.
+	- $I$ has monotony, is additive and pos. homogene.
+##### II.2.2 Integral on Measurable Functions
+- for $f \in \mathcal{M}_\overline{\mathbb{R}}(X, \mathcal{A})$, is $\mu$-int. $\Leftrightarrow\int_X |f| d \mu < \infty \Leftrightarrow \int_x f_\pm d \mu < \infty$
+	- $|\int_X f d \mu| \le \int_X |f| d \mu$
+- $f=g$ alm.ever. if $\mu(\{x: f(x) \not = g(x)\}) = 0$
+	- $f = g$ alm. ever. $\Rightarrow \int_X f d \mu = \int_X g d \mu$
+	- $f \in \mathcal{M}_\overline{\mathbb{R}}(X, \mathcal{A})$ is $\mu$-int. in $A$ ($\in \mathcal{A}$) if $\chi_A \cdot f$ is $\mu$-int.
+- $\mathcal{L}_\mathbb{R}^1 \subsetneq \mathcal{L}_{\overline{\mathbb{R}}}^1$ is te VS of meas. func.
+	- $f_1, f_2 \in \mathcal{L}^1 \Rightarrow f_1 + f_2 \in \mathcal{L}^1$ (additivity)
+	- $f_1, f_2 \in \mathcal{L}^1 \land f_1 \le f_2 \Rightarrow \int_X f_1 d \mu \le\int_X f_2 d \mu$ (monotony)
+- **Gemetrical Structure of $\mathcal{L}^1$**
+	- the functional $|| \cdot ||_1 : \mathcal{L}^1(X, \mathcal{A},\mu) \rightarrow [0, \infty), f \mapsto \int_X |f| d\mu$ is a halfnorm
+	- $|f + g | \le |f| + |g| \Rightarrow ||f + g||_1 \le ||f||_1 + ||g||_1$ (triangle inequality)
+	- $|\int_X f d \mu \le ||f||_1$
+	- hence $\mathcal{L}^1$ is:
+		- $\mathbb{R}$-linear
+		- monoton
+		- Lipzisch cont. for $|| \cdot ||_1$
+	- $f = g$ alm.ever. $\Leftrightarrow ||f - g||_1 = 0$
+	- $\{f \in\mathcal{L}^1: ||f||_1 = 0\}$ is a subVS of $\mathcal{L}^1$, because of the triangle-ineq.
+##### II.2.3 Convergence Theorems
+- $f_n \rightarrow^{L^1} f \Leftrightarrow ||f_n - f||_1 \rightarrow 0$
+	- $f_n \rightarrow^{L^1}f \Leftrightarrow \int_x |f_n - f| d \mu \rightarrow 0 \Rightarrow \int_x f _n d \mu \rightarrow \int_X f d \mu \Leftrightarrow \int_X (f_n - f) d \mu \rightarrow 0$
+- $(f_n)_{n \in \mathbb{N}} \subseteq \mathcal{M}_{\overline{\mathbb{R}}}$, $f \in\mathcal{M}_\overline{\mathbb{R}}$ s.t. $f_n \rightarrow f$ $\mu$-alm.ever., then (i) ex. $g \in \mathcal{L}^1_{[0, \infty]}$ s.t. $|f_n| \le g$ alm.ever., (ii) $f_n, f \in \mathcal{L}^1_\overline{\mathbb{R}}$, (iii) $f_n \rightarrow^{L_1} f$, (iv) $\int_X f_n d \mu \rightarrow \int_X f d \mu$ (majorant covergence, Lebesgue)
+- any Causchy-seq. $(f_n)_{n \in \mathbb{N}} \subseteq \mathcal{L}^1_{\overline{\mathbb{R}}}$, $f \in \mathcal{L}^1$ s.t. $(f_n)_{n \in \mathbb{N}} \rightarrow^{L_1} f$, then ex. a subseq. $(f_{n_k})_{k \in \mathbb{N}}$ s.t. $f_{n_k} \rightarrow f$ pointwise $\mu$-alm.ever. (inverse direction)
+- $(\mathcal{L}^1(X, \mathcal{A}, \mu), || \cdot ||_1)$ is complete, hence a Banach Space (Riesz-Fischer for $L_1$) ==Q==
+##### II.2.4 Integration over Products
+- recall: $(\mu_1 \otimes \mu_2) (A_1 \times A_2) = \mu_1(A_1) \cdot \mu_2(A_2)$
+- If $M \in \mathcal{A}_1 \otimes \mathcal{A}_2$, then $\forall_{x_1 \in X_1}M_{x_1} \in \mathcal{A}_2$ and the num.f. $X_1 \rightarrow [0, \infty], x_1 \mapsto \mu_2(M_{x_1})]$ is meas. (i.e. is in $\mathcal{M}_{[0, \infty]}(X, \mathcal{A}_1)$ and $(\mu_1 \otimes \mu_2)(M) = \int_{X_1} \mu_2(M_{X_1})d\mu_1(x_1)$). 
+	- $\{x_1\} \times M_{x_1} := M \cup (\{x_1\} \times X_2)$
+- ==Q== (Cavalieri Principle)
+- $f \in \mathcal{M}_{[0 , \infty]}(X_1 \times X_2, \mathcal{A}_1 \otimes \mathcal{A}_2)$, then (i) $x_1 \mapsto \int_{X_2} f(x_1, \cdot) d \mu_2 \in \mathcal{M}_{[0, \infty]}(X_1, \mathcal{A}_1)$, i.e. is meas., (ii) $\int_{X_1 \times X_2} f d(\mu_1 \otimes \mu_2) = \int_{X_1} (\int_{X_2} f(x_1, \cdot) d \mu_2) d\mu_1(x_1)$ (Fubini)
+- $f \in \mathcal{M}_{[0 , \infty]}(X_1 \times X_2, \mathcal{A}_1 \otimes \mathcal{A}_2) \Leftrightarrow x_1 \mapsto \int_{X_2} f(x_1, \cdot) d \mu_2$ is $\mu_2$-int. $\Rightarrow f(x_1, \cdot)$ is $\mu_2$-int. for $x_1 \in X$ $\mu_1$-alm.ever.
+##### II.2.5 Transformation of Measures and Integrals
+- **Transformation of Integrals under meas. Functions**
+	- for $\varphi: (X, \mathcal{A}) \rightarrow (Y, \mathcal{B})$ meas., define $\varphi: (X, \mathcal{A}) \rightarrow (Y, \mathcal{B})$ (pullback)
+	-  $(\mathcal{A} \rightarrow^\mu [0, \infty]) \mapsto (\varphi_{* \mu}: \mathcal{B} \rightarrow [0, \infty], M \mapsto \mu(\varphi^{-1}(M)) ( = \varphi_{* \mu}(M))$ (trans. forward of e meas)
+	- (Transformation formulae for integrals under meas. functions)
+		- (i) for $f \in \mathcal{M}_{[0, \infty]}(Y, \mathcal{B})$ holds $\int_Y f d(\varphi_{* \mu}) = \int_X(f \circ \varphi) d \mu$.
+		- (ii) for $f \in \mathcal{M}_{\bar{\mathbb{R}}}(Y, \mathcal{B})$, then $f$ is $\varphi_* \mu$-int. $\Leftrightarrow f \circ \varphi$ $\mu$-int
+			- hence $\int_Y f d(\varphi_{*} \mu) = \int_X(f \circ \varphi) d \mu$
+- **Transformation of the Lebesgue Measure under Diffeomorphims**
+	- recall: for $\varphi_{A, r}$ aff. $\varphi_{A, r}: \mathbb{R}^d \rightarrow \mathbb{R}^d, x \mapsto Ax + r$, then $(\varphi_{A, r})_* \beta^d = |det A|^{-1} \beta^d$
+	- for $C^1$-diffeo. $\varphi: U \rightarrow V$ op. subset of $\mathbb{R}^d$, holds $\varphi_*(\beta^d|_U) = |det(d(\varphi^{-1}))| \cdot \beta^d|_V$.
+	- for $\varphi$ a $C^1$-diffeo. $\varphi: U \rightarrow V$ op. subset of $\mathbb{R}^d$, contain Borel-Nullsets and is Lebesgue-meas. Also $\varphi_*(\lambda^d|_U) = |det(d(\varphi^{-1}))| \cdot \lambda^d|_V$ 
+- **Transformation of Integrals under Diffeomorphisims**
+	- for $\varphi$ a $C^1$-diffeo. $\varphi: U \rightarrow V$ op. subset of $\mathbb{R}^d$: (Transf. for integrals under diffeos)
+		- for $f\in \mathcal{M}_{[0, \infty]}(V, \mathcal{B}(V))$:
+			- (i) $\int_V f d \lambda^d = \int_U (f \circ \varphi) \cdot |det(d(\varphi))| d \lambda^d$
+		- for $f \in \mathcal{M}_{\bar{\mathbb{R}}}(V, \mathcal{B}(V))$:
+			- (i)
+			- (ii) $f$ is $\lambda^d$-int. $\Leftrightarrow (f \circ \varphi) \cdot det(d(\varphi))|$ is $\lambda^d$-int.
+### III. Manifolds, Differential Forms and Stokes' Theorem
+Most of the materialis covered by [Youtube: Bright Side](https://youtube.com/playlist?list=PLBh2i93oe2qvRGAtgkTszX7szZDVd6jh1&si=KUS_CQdtp8fedX0p), I take notes on these topics here: ==make the link==. 
+#### III.1 Differentiable Manifolds
+- $M \subseteq \mathbb{R}^n$ is $m$-dim (for $m \le n$) $\mathcal{C}^{k}$-submnf. $\Leftrightarrow \forall_{p \in M} \exists_{\varphi: U \rightarrow V} \varphi(M \cap U) = (\mathbb{R}^m \times \{0\}) \cap V$
+	- $\mathbb{R}^m \times \{0\} \cong\mathbb{R}^m$
+	- $\varphi$ is the extr.ch. for $M$ in $p$, $k := \varphi|_{M \cap U}$ is the intr.ch. in $p$
+- **Transfer Chart**
+	- extr.ch. $\varphi_2 \circ \varphi_1^{-1}: \varphi_1(U_1 \cap U_2) \rightarrow \varphi_2(U_1 \cap U_2)$, $\mathcal{C}^k$-diffeo.
+	- intr.ch. $k_2 \circ k_1^{-1}: k_1(M \cap U_1 \cap U_2) \rightarrow k_2(M \cap U_1 \cap U_2)$, $\mathcal{C}^k$-diffeo.
+		- intr.ch $\mathcal{C}^k$-compatible if such a mapping ex.: it is possible to der. on $M$ intrisically
+	- a top.sp. $X$ is $m$-dim. loc.euc. if locally isom, to $\mathbb{R}^m$, i.e. each open ball is hom. to a subset of $\mathbb{R}^m$.
+- **Furhter Structure**
+	- an Atlas for $X$ loc.euc. is $\mathcal{A} \subseteq map(U_i, k_i)_{i \in I}$ s.t. $X = \bigcup_{i \in I}U_i$.
+		- $\mathcal{A}$ is $\mathcal{C}^k$-diff. (or $\mathcal{C}^k$-atl.) if its charts are pairw. $\mathcal{C}^k$-compatible.
+		- each $\mathcal{A}$ $\mathcal{C}^k$-atl. has a unique max.$\mathcal{C}^k$-atl. $\mathcal{A}'$ s.t. $\mathcal{A} \subseteq \mathcal{A}'$.
+	- $F: X \to Y$ cont. is said diff. if for $k, k'$ charts on $p$, $k^{-1} \circ F \circ k': k(X) \to k'(X)$ is diff.
+	- a $m$-top.man. is $m$-dim. loc.euc. Haus.sp. with count. basis
+	- a $m$-dim $\mathcal{C}^{k}$-diff.man. is a $m$-dim.top.man. with $\mathcal{C}^k$-diff.struct.
+		- a $\mathcal{C}^k$-diff.struc. on a loc.euc.sp. is a max.$\mathcal{C}^k$-atl.
+	- for $N^n$ a $\mathcal{C}^k$-mnf, $M^m \subseteq N^n$ is $\mathcal{C}^k$-submnf. of $N$ if for any $p \in M$ ex. $k_p: U \to V$ ($U \subseteq N$, $V\subseteq \mathbb{R}^n$) s.t. $k_p(M \cap U) = (\mathbb{R}^m \times 0) \cap V$ an $m$-dim. $\mathcal{C}^k$-submnf. of $\mathbb{R}^m$.
+		- $\forall_{p \in M}\exists_{k_p \in ch(U, k_p)}p \in dom(k_p) \land k(M \cap U) =  (\mathbb{R}^m \times 0) \cap V$ ([Bright](https://youtu.be/0fAlx5HgDfM?si=XLWdcz7X8_9IvTeA))
+	- 
+#### III.2 Manifolds with Boundaries
+- $M \subseteq \Omega$ man. for $\Omega$ op., then $M$ has $\mathcal{C}^k$-bound. $\Leftrightarrow$ $\forall_{p \in \partial \Omega} \exists_{k \in ch(U, k)} K(\Omega \cap U) = H^m \cap k(U)$ ==Q== 
+	- $f: U \to \mathbb{R}^m \in \mathcal{C}^\infty$, $U \subseteq \mathbb{R}^n$  ==Q== (Regular Value Theorem) [Bright](https://youtu.be/tm4FeIz4Cas?si=M59EAQ38_0K9rung)
+#### III.3
+#### III.4 1-from and Cotangentbundle
+- $M^m$ a $\mathcal{C}^k$-mnf, def. $df|_U = \sum_{i = 1}^m (\frac{\partial(f \circ x^{-1})}{\partial x_i} \circ x) dx_i =: \sum_{i = 1}^m \frac{\partial f}{\partial x_i}dx_i$ (func. on $U \subset M$)
+- $T^*_pM := (T_pM)^*$, i.e. cotang.sp. is dualsp. of tang.sp.
+- $T^*U = \bigsqcup_{p \in U} T^*_p M$, $T^*x: T^*U \to x(U) \times \mathbb{R}^m, \sum^m_{i = 1}a_i(dx_i)_p \mapsto (x(p), \sum_{i = 1}^m a_i e_i)$, $a = \sum_{i = 1}^m a_i e_i$
+- $d \tilde{x_j} = \sum_{i = 1}^m (\frac{\partial(\tilde{x_j} \circ x^{-1})}{\partial x_i} \circ x) dx_i =: \sum_{i = 1}^m \frac{\partial\tilde{x_j}}{\partial x_i} dx_i$ (change of basis)
+- $\sum^m_{j = 1} \tilde{a_j} d \tilde{x_j} = \sum_{i = 1}^m (\sum_{j = 1}^m \tilde{a_j} (\frac{\partial \tilde{x}_j}{\partial x_i} \circ x))dx_i$, 
+	- loc.transf.map. $\tilde{x}(U \cap \tilde{U}) \times \mathbb{R}^m \to x(U \cap \tilde{U}) \times \mathbb{R}^m, (\tilde{x}, \tilde{a}) \mapsto (x(\tilde{x}), \sum_{i = 1}^m (\sum_{j = 1}^m \tilde{a_j} \frac{\partial \tilde{x_j}}{\partial x_i}(x(\tilde{x})))e_i)$
+	- and $(x, a) \mapsto (\tilde{x}(x), \sum_{j = 1}^m (\sum_{i = 1}^m a \frac{\partial x_i}{\partial \tilde{x_j}}(\tilde{x}(x)))e_j)$ 
+		- $\tilde{a} = \sum_{i = 1}^m \tilde{a_i} e_i$ and $a = \sum_{i = 1}^m a_i e_i$
+- so $T^*M$ has the inducted strc. $2m$-dim. $\mathcal{C}^k$-mnf. with boundary.
+- $1$-form $\alpha$ on $M$ is $l \le k-1$ cont.diff.func. $\alpha: M \to T^*M$ on $U$ iff. for all coeff. $\alpha|_U = \sum_{i = 1}^m a_i dx_i$
+- for $F: M^m \to N^n$ diff. $dF_p: T_p M \to T_{F(p)} N$, then $dF^*_p : T^*_{F(p)}N \to T^*_pM, \lambda \mapsto \lambda \circ d F_p$ (pullback) and for $\alpha$ 1-from on $N$, $F^* \alpha$ 1-from on $M$ for $(F^*\alpha)_p := dF^*_p (\alpha_{F(p)}) = \alpha_{F(p)} \circ dF_p$.
+- $F^* dy_j = \sum^m_{i = 1} ((F^*dy_j)(\frac{\partial}{\partial x_i}))dx_i =: \sum^m_{i=1}(dy_j(dF_p \frac{\partial}{\partial x_i})) =: \sum_{i = 1}^m (d(y_j \circ F \circ x^{-1})(e_i))dx_i$ 
+- $d(y_j \circ F \circ x^{-1})(e_i) = \frac{\partial y_j}{\partial x_i} \circ x$ (also called $y(x)$) $\Rightarrow F^* dy_j = \sum^m_{i = 1} (\frac{\partial y_j}{\partial x_i} \circ x) dx_i$
+#### III.5 Higher Dfferential Forms and External Derivatives
+- For $M^m$ a $\mathcal{C}^l$-mnf- with bound., $\Lambda^k TM := \bigsqcup_{p \in M} \Lambda^k T_p M := \Lambda_k T^*_pM \cong Alt_k(T_p M)$ (Vectorspace of the alternating $k$-multilinearforms on $T_pM$) 
+	- $\Lambda^*T M := \bigsqcup_{p \in M} \Lambda^* T_p M = \bigoplus_{k =0}^m \Lambda^k T_p M$, 
+	- $\pi_{\Lambda^k T M}: \Lambda^k T M \to M$ and $\pi_{\Lambda^* TM} \Lambda^* TM \to M$
+	- $\Lambda^0 TM = \mathbb{R}$, $\Lambda^1 TM = T^*M$, $\Lambda^m T M$ is determinant-lines-bundle
+- a $k$-form (or diff.form of deg. $k$) on $M$ is an inters of the bundels $\pi_{\Lambda^k TM}$, $\alpha_ M \to \Lambda^k TM$ s.t. $\pi_{\Lambda^k TM} \circ \alpha = id_{\Lambda^k TM} \Leftrightarrow \alpha(p) \in \Lambda^k T_p M \Leftrightarrow \alpha(p) \in Alt_k (T_p M)$.
+	- a mixed $k$-form is on $M$ is an inters. of bundles $\pi_{\Lambda^* TM}$ s.t. ... (the same)
+	- algebraic operations are pointwise $(\alpha + \beta)_p = \alpha_p + \beta_p$, ...
+	- ... ==Q==
+- $\alpha|_U = \sum_{1 \le i_1 < ... < i_k \le m} a_{i_1, ..., i_k} dx_{} ==idk==
+- for $F: M \to N$, $dF_p: T_p \to T_{F(p)} N$, then $dF^*_p: \Lambda^k T_{F(p)}N \to \Lambda^kT_p M$ is lin. and $\alpha$ $k$-form on $N$, then (pulled back $k$-from on M) $F^* \alpha$ is $(F^* \alpha)(v_1, ..., v_k)  = \alpha_{F(p)}(dF_p(v_1), ..., dF_p(v_k))$ for $v_1, ..., v_k \in T_p M$
+	- $F^*(\alpha \land \beta) = (F^* \alpha) \land (F^* \beta)$
+	- $F^*(dy_{j_1}\land ... \land dy_{j_k}) = (F^*dy_{j_1}) \land ... \land (F^*dy_{j_k}) = \sum^m_{i_1 = 1} (\frac{\partial y_{j_1}}{\partial x_{i_1}} \circ x) dx_{i_1} =$ $\sum_{\ \le i_1, ..., i_k \le m}(\prod_{l = 1}^k(\frac{\partial y_{j_l}}{\partial x_{i_l}} \circ x)) dx_{i_1} \land ... \land dx_{i_k} =$ $\sum_{1 \le i_1 < ... < i_k \le m} (det(\frac{\partial y_{j_r}}{\partial x_{i_s}}) \circ x) dx_{i_1} \land ... \land dx_{i_k}$
+		- for $k = m = n$ F^* dy_1 \land ... \land dy_m = det (\frac{\partialy_r}{\partial x_s} \circ x)$ ==add substripts==
+	- synt. all the same for $\Lambda^*$ instead of $\Lambda^k$.
+- **External Derivative**
+	- the derivative $f \mapsto df$ from diff.func. to $1$-forms is a diff.operator of first order (ext. der.)
+		- $d(fg) = (df) g + f (dg)$
+		- ex.uniq. ext. of the total differential on func. to a fam of $\mathbb{R}$-ln. operators s.t.
+			1. $d(\alpha \land \beta) = (d \alpha) \land \beta + (-1)^k\alpha \land d \beta$ for $\alpha$ diff.$k$-form, $\beta$ diff.$l$-fom (product rule)
+			2. $d^2 = 0$ on $2$-times diff. forms (if $M$ is $\mathcal{C}^x$ for $x \ge 2$, else on func.) (comp. prop.)
+		- for $p \in U$, $U \subseteq M$ $\Rightarrow$ ex. $\psi \in \mathcal{C}^2$ s.t. $supp(\psi) \subseteq U$, $supp(\psi)$ comp. ([supp](https://de.wikipedia.org/wiki/Tr%C3%A4ger_(Mathematik))), $\psi \equiv 1$ cl. to $p$
+	- for op. $d$ s.t. 1. & 2., $\alpha$ diff.form on $M$, $p \in M$ then $\forall_{U\subseteq M} p \in U \rightarrow \exists_{\psi \in \mathcal{C}^2(M)} \psi(U) \equiv 1$, $d(\psi \alpha) = (d \psi) \land \alpha + \psi d \alpha$, around $p$ $d(\psi \alpha) = d \alpha$, i.e. $(d\alpha)_p$ depends on $\alpha(p)$ (locality)
+		- $(d_U \alpha_U)_p := (d\alpha)_p$
+		- for $\alpha = \sum_{i_1 < ... < i_k} a _{i_1, ..., i_k} dx_{i_1} \land ... \land dx_{i_k}$ diff. on $U$ then by 1. & 2. we must: $d_U(\sum_{i_1 < ... < i_k} a _{i_1, ..., i_k} dx_{i_1} \land ... \land dx_{i_k}) := \sum_{i_1 < ... < i_k} da _{i_1, ..., i_k} \land dx_{i_1} \land ... \land dx_{i_k}$
+			1. for $\alpha = a dx_{i_1} \land ... \land dx_{i_k}$, $\beta = bdx_{j_1} \land ... \land dx_{j_l}$, (prod. rule) $d_U(\alpha \land \beta) = d_U(ab dx_{i_1} \land ... \land dx_{i_k} \land dx_{j_1} \land ... \land dx_{j_l}) = d(ab) \land dx_{i_1} \land ... = (da)b + a(db) \land dx_{i_1} \land ...$
+			2. $d^2_U = d_U(df) = d_U (\sum_{i}\frac{\partial f}{\partial x_i}dx_i)$ for $\frac{\partial f}{\partial x_i} = \frac{\partial( f \circ x^{-1})}{\partial x_i} \circ x$, then (complex property) $= \sum^m_{i = 1}(d \frac{\partial f}{\partial x_i}) \land dx_i = \sum_{i, j} \frac{\partial^2 f}{\partial x_j \partial x_i} dx_j \land dx_i = \sum_{j < i}(\frac{\partial^2 f}{\partial x_j \partial x_i} - \frac{\partial^2 f}{\partial x_i \partial x_j}) dx_j \land dx_i =0$
+		- ...
+- **Recap Linear Algebra**
+	- $V$ is $m$-dim. $\mathbb{R}$-VS., the basis of $V$ are in $V \times ... \times V$ is open and dense ==?== has two components
+		- you cannot get from a component to the other without going out of the basis.
+		- The two basis are called positive and negative.
+		- ==Boh==
+### Manifolds: by [Youtube: Bright Side](https://youtube.com/playlist?list=PLBh2i93oe2qvRGAtgkTszX7szZDVd6jh1&si=KUS_CQdtp8fedX0p)
+- **1. Introduction and Topology**
+	- for a met.sp. $(X, d)$ we can def. op. sets $A \subseteq X$, then:
+	- $(X, \mathcal{T})$ is a top.sp. for $\mathcal{T} \subseteq \mathcal{P}(X)$ if (i) $\emptyset, x \in \mathcal{T}$, (ii) $A, B \in \mathcal{T} \Rightarrow A \cap B \in \mathcal{T}$, (iii) $(A_i)_{i \in I} \subset \mathcal{T} \Rightarrow \bigcup_{i \in I} A_i \in \mathcal{T}$. each elem. in $\mathcal{T}$ are called open sets.
+- **2. Interior, Exterior, Boundary, Closure**
+	- [[Analysis II (Lecture)]]
+- **3. Hausdorff Spaces**
+	- $(a_n)_{n \in \mathbb{N}} \subseteq X$, for $a_n \rightarrow a := \forall_{U \in \mathcal{T}} a \in U \rightarrow \exists_{N \in \mathbb{N}}\forall_{n \ge N} a_n \in U$
+	- a top.sp. is Hausd. if $\forall_{x, y \in X} x \not = y \rightarrow \exists_{U_x, U_y \in \mathcal{T}} x \in U_x \land y \in U_y \land U_x \cap U_y = \emptyset$
+- **4. Quotient Space**
+	- 
+- **5. Projective Space**
+	- $S^n := \{x \in \mathbb{R}^{n + 1} : ||x|| = 1\}$
+	- a proj.sp. $P^n(\mathbb{R}) := S^n / \sim$ for $x \sim y := x = y \lor x = - y$
+- **6. Second-Countable Space**
+	- generators of $\mathcal{T}$ is called a basis
+	- $\mathcal{B} \subseteq \mathcal{T}$ is a basis if: $\forall_{U \in \mathcal{T}} \exists_{(A_i)_{i \in I} \subseteq \mathcal{B}} \bigcup_{i \in I} A_i = U$
+	- $(X, \mathcal{T})$ is second-countable if there is a basis $\mathcal{B}$ s.t. $|\mathcal{B}| < \aleph_0$.
+- **7. Continuity**
+	-  $f: X \to Y$ is cont. if $f(U)$ op. $\Rightarrow U$ op.
+	- $f$ homeom. if $f: X \to Y$ bij. cont. and $f^{-1}$ cont.
+	- $f$ cont. $\Leftrightarrow$ for $(x_n)_{n \in \mathbb{N}}$ s.t. $x_n \rightarrow x$ then $(f(x_n))_{n \in \mathbb{N}} \rightarrow f(x)$
+		- this holds in met.sp. and second-countable spaces.
+- **8. Compactness**
+	- [[Analysis II (Lecture)]]
+- **9. Locally Euclidean Spaces**
+	- $(X, \mathcal{T})$ is a mnf. if (i) Hausd., (ii) second-count., (iii) locally euc. of dim. $n$
+	- $(X, \mathcal{T})$ is loc.euc. if $\forall_{x \in X}\exists_{U \in \mathcal{T}}\exists_{U' \subset \mathbb{R}^n}\exists_{h: U \to U'}h$ is homeom.
+	- a trans.map.
+- **16. Smooth Maps**
+	- $f: M \to N$ for $M, N$, $f$ diff in $p$ $\Leftrightarrow k \circ f \circ h^{-1}$ diff. in $p$.
+- **19. Tangent Space**
+	- For $M \subseteq \mathbb{R}^n$ $k$-dim. mnf, $h: U \to U'$, a param. $\varphi: \mathbb{R}^k \cap U' \to M \cap U$
+	- $T_p^{sub}M:= d\varphi_{\tilde{p}}[\mathbb{R^k}] = \{J_\varphi(\varphi^{-1}(p))x | x \in \mathbb{R}^k\} \subseteq \mathbb{R}^n$  
+		- $\tilde{p}:= \varphi^{-1}(p)$
+	- ex. for $f: \mathbb{R}^2 \to \mathbb{R}$, $f \in \mathcal{C}^1(\mathbb{R}^2)$, $M = G_f := \{(\begin{smallmatrix} x \\ y \\ f(x, y) \end{smallmatrix})| (x, y) \in \mathbb{R}^2\}$, a param. $\varphi: \mathbb{R}^2 \to M, (\begin{smallmatrix} x \\ y \end{smallmatrix}) \mapsto (\begin{smallmatrix} x \\ y \\ f(x, y) \end{smallmatrix})$, $T_p^{sub}M$ is the span of the columns of $J_\varphi(x, y)$
+- **20. Tangent Curves**
+	- $\gamma: \mathbb{R} \to M$ is a curve
+	- $T_p M = \{\gamma'(0) | \gamma: (-\varepsilon, \varepsilon) \to M$ diff. $\land \gamma(0) = p\}$
+- **21. Tangent Space (Definition via tangent courves)**
+	- Here we don't require $M \subseteq \mathbb{R}^n$ as did in 19.
+	- $C_p(M):= \{\gamma: (- \varepsilon, \varepsilon) \to M | \gamma$ diff. $\land \gamma(0) = p\}$
+	- $\gamma \sim \alpha := (h \circ \gamma)'(0) = (h \circ \alpha)'(0)$
+	- $[\gamma]_\sim := \{\alpha | \gamma \sim \alpha\}$
+	- $T_p(M) := C_p(M) / \sim$
+		- $v + w := h^{-1}_*(h_*(v) + h_*(w))$ for $h_*: [\gamma]_\sim \mapsto (h \circ \gamma)'(0)$
+		- $\lambda \cdot v := h^{-1}_*(\lambda \cdot h_*(v))$ 
+	- $T_p^{sub}M \to T_pM, \gamma'(0) \mapsto [\gamma]_\sim$ nat. bij.
+- **22. Coordinate Basis**
+	- $U \subseteq M$, $h: U \to U'$, $\varphi := h^{-1}$, then $h_* : T_p M \to \mathbb{R}, [\gamma] \mapsto (h \circ \gamma)'(0)$ lin. bij. ($\varphi := h_*^{-1}$)
+	- a coor.bas. on $M$ resp. to $h$ chart, $(\partial_j)_{j \in [1, ..., n]}:=(\varphi_*(e_j))_{j \in [1, ..., n]}$ is a basis of $T_pM$
+		- $\partial_j = \frac{\partial \varphi}{\partial x_j}$ this is why we use the notation $\partial_j$.
+	- $T_pM \cong^{\varphi_*} \mathbb{R}^n \cong^{J_\varphi (\tilde{p})}T_p^{sub}M$  
+	- for $f: M \to N$ sm., $df_p: T_p M \to T_p N$
+- **23. Differential (Definition)**
+	- a _tangent bundle_ $TM:= \bigsqcup_{p \in M}T_pM$
+		- $dim(TM) = 2 \cdot dim(M)$ 
+	- for $f: M \to N$, $df_p: T_pM \to T_{f(p)}N, [\gamma] \mapsto [f \circ \gamma]$
+		- $df: p \mapsto df_p$
+	- $M, N \subseteq \mathbb{R}^n$ sm. $df_p:[\gamma] \mapsto [f \circ \gamma] = (f \circ \gamma)'(0) = J_f(\gamma(0))\gamma'(0)$ i.e. der. of $f$ along $[\gamma]$ at $p$.
+- **24. Differential in Local Charts**
+	- $\tilde{f} := k \circ f \circ h^{-1}$, $f = k^{-1} \circ \tilde{f} \circ h$, $df = dk^{-1} J_\tilde{f} dh$.
+		- $dk_{f(p)}(df_p([\gamma])) = J_{\tilde{f}}(h(p)(h \circ \gamma)'(0) = J_{\tilde{f}} [h \circ \gamma] = J_{\tilde{f}} dh([\gamma])$ 
+- **25. Differential (Example)**
+	- $\partial_j = \varphi_*(e_j) = d_{\varphi_{h(p)}}(e_j)$
+	- for $f: M \to \mathbb{R}$, $\partial_j f(p):= df_p(\partial_j) = \frac{\partial(f \circ \varphi)}{\partial x_j}(h(p))$
+	- $[f \circ \varphi \circ \tilde{\gamma}] = (f \circ \varphi \tilde{\gamma})'(0) = J_{f \circ \varphi}(h(p)) \tilde{\gamma}'(0) = \frac{\partial(f \circ \varphi)}{\partial x_j}(h(p))$ 
+		- $\tilde{\gamma}(t) = h(p) + t \cdot e_j$
+## Verschiedenes
+- **Dichte** (B. 10): for $f \in \mathcal{M}_{[0, \infty]}(X, \mathcal{A})$, then $f\mu: \mathcal{A} \rightarrow  [0, \infty], A \mapsto \int_A f d \mu$
+	- ([Wiki](https://en.wikipedia.org/wiki/Pushforward_measure)) if $X_1 = f^{-1}(X_2)$, then $\int_{X_2} g d(f_*\mu) = \int_{X_1} g \circ f d\mu$.
+	- **Existence**

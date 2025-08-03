@@ -1,0 +1,3 @@
+I followed this seminar by [[Helmut Schwichtenberg]] on the use in constructive analysis of [Minlog](https://www.mathematik.uni-muenchen.de/~logik/minlog/). Here you find my presentation on the implementation of the natural numbers and the relative script I produced. Here you find the [Course's Website](https://www.mathematik.uni-muenchen.de/~schwicht/seminars/semws23/index.php).
+- [[nat_scm.pdf]]
+- [[Presentation__nat_scm.pdf]]
