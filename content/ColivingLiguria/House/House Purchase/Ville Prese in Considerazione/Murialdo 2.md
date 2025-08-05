@@ -1,15 +1,11 @@
----
-draft: 
-date: 2025-08-05
----
 #### **Informazioni Generali**
-- **Link Annuncio:**
+- **Link Annuncio:**https://www.idealista.it/immobile/31415694/
 - **Indirizzo:**
-- **Comune:**
-- **Prezzo Richiesto:** €
+- **Comune:**  Murialdo 
+- **Prezzo Richiesto:** 110k €
 - **Minimo Prevedibile in Trattativa:** €
 - **Certezza sulla Conformità:** [Bassa/Media/Alta]
-- **Asta:** [si/no]
+- **Asta:** [no]
     - **Base d'asta:** €
     - **Data dell'asta:**
     - **Tipo di Asta:**
@@ -18,9 +14,9 @@ date: 2025-08-05
 
 ---
 #### **Caratteristiche Strutturali**
-- **Metri Quadri (Calpestabili/Commerciali):**
+- **Metri Quadri (Calpestabili/Commerciali):** 300 m2 commerciali, 270 m2 calpestabili 
 - **Anno di Costruzione:**
-- **Numero Vani:**
+- **Numero Vani:** 10
 - **Camere da Letto:**
 - **Condizione del Tetto:**
 - **Condizione Impianto Idraulico:**
@@ -30,9 +26,9 @@ date: 2025-08-05
 - **Infissi con Doppio Vetro:** [si/no]
 - **Pavimentazione Presente:** [si/no]
 - **Certificato di Agibilità:** [si/no/da verificare]
-- **Classe Energetica:**
+- **Classe Energetica:** F
 - **Tipo di Riscaldamento:**
-- **Casa Indipendente:** [si/no/semi-indipendente]
+- **Casa Indipendente:** [si]
 - **Planimetria:** [Link o allegato]
 - **Massimo Camere Totali:** 
 	- **Massimo Camere Private:**
@@ -50,8 +46,8 @@ date: 2025-08-05
 
 ---
 #### **Terreni e Spazi Esterni**
-- **Giardino Adiacente:** [si/no]
-- **Metratura Giardino:** mq
+- **Giardino Adiacente:** [si]
+- **Metratura Giardino:** 2000 mq
 - **Terreno Adiacente:** [si/no]
 - **Metratura Terreno:** mq
 - **Terreno Edificabile:** [si/no]

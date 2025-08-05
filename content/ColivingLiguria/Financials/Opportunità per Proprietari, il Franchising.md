@@ -10,7 +10,6 @@ Sei proprietario di una villa o di un rustico che vorresti mettere a reddito sen
 Questo modello di franchising è il nostro metodo principale per scalare il progetto. Dopo l'acquisto della nostra prima villa, intendiamo espanderci collaborando con altri proprietari che condividono la nostra visione.
 
 ---
-
 ### Il Nostro Processo in 3 Fasi
 
 Il nostro approccio è trasparente e su misura per ogni immobile. Ogni villa ha una sua storia e un suo potenziale, quindi il nostro piano si adatta di conseguenza.
@@ -37,5 +36,3 @@ Offriamo al proprietario due modelli di collaborazione economica. I dettagli spe
 #### **Opzione B: Rendita Variabile in Percentuale**
 * **Come funziona:** Invece di un affitto fisso, vi riconosciamo una percentuale sui ricavi netti generati dagli affitti degli ospiti. Noi tratterremo una commissione (*fee*) per i servizi di gestione, ristrutturazione e marketing che offriamo.
 * **Per chi è ideale:** Per chi vuole condividere con noi il successo del progetto e punta a un potenziale di guadagno superiore. Se la villa avrà un'alta occupazione, la vostra rendita potrebbe superare significativamente quella di un affitto fisso.
-
----

@@ -1,26 +1,15 @@
----
-draft: 
-date: 2025-08-05
----
-#### **Informazioni Generali**
-- **Link Annuncio:**
-- **Indirizzo:**
-- **Comune:**
-- **Prezzo Richiesto:** €
-- **Minimo Prevedibile in Trattativa:** €
+#### **Informazioni Generali** 
+- **Link Annuncio:** https://www.idealista.it/immobile/30466484/
+- **Indirizzo:** Via Molini
+- **Comune:** Quiliano 
+- **Prezzo Richiesto:** 168k €
+- **Minimo Prevedibile in Trattativa:** € 140
 - **Certezza sulla Conformità:** [Bassa/Media/Alta]
-- **Asta:** [si/no]
-    - **Base d'asta:** €
-    - **Data dell'asta:**
-    - **Tipo di Asta:**
-    - **Link dell'asta:**
-    - **Perizia Giurata Disponibile:** [si/no]
-
 ---
 #### **Caratteristiche Strutturali**
-- **Metri Quadri (Calpestabili/Commerciali):**
-- **Anno di Costruzione:**
-- **Numero Vani:**
+- **Metri Quadri (Calpestabili/Commerciali):** 250 m2 commerciali, 200 calpestabili 
+- **Anno di Costruzione:** 
+- **Numero Vani:** 8 locali 
 - **Camere da Letto:**
 - **Condizione del Tetto:**
 - **Condizione Impianto Idraulico:**
@@ -28,11 +17,11 @@ date: 2025-08-05
 - **Condizione Impianto Elettrico:**
 - **Condizione Infissi:**
 - **Infissi con Doppio Vetro:** [si/no]
-- **Pavimentazione Presente:** [si/no]
+- **Pavimentazione Presente:** [si]
 - **Certificato di Agibilità:** [si/no/da verificare]
-- **Classe Energetica:**
+- **Classe Energetica:** G
 - **Tipo di Riscaldamento:**
-- **Casa Indipendente:** [si/no/semi-indipendente]
+- **Casa Indipendente:** [si]
 - **Planimetria:** [Link o allegato]
 - **Massimo Camere Totali:** 
 	- **Massimo Camere Private:**
@@ -50,8 +39,8 @@ date: 2025-08-05
 
 ---
 #### **Terreni e Spazi Esterni**
-- **Giardino Adiacente:** [si/no]
-- **Metratura Giardino:** mq
+- **Giardino Adiacente:** [si]
+- **Metratura Giardino:** 300 mq
 - **Terreno Adiacente:** [si/no]
 - **Metratura Terreno:** mq
 - **Terreno Edificabile:** [si/no]

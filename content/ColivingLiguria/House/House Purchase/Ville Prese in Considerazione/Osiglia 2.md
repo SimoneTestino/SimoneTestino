@@ -1,25 +1,16 @@
----
-draft: 
-date: 2025-08-05
----
 #### **Informazioni Generali**
-- **Link Annuncio:**
-- **Indirizzo:**
-- **Comune:**
-- **Prezzo Richiesto:** €
+- **Link Annuncio:** https://www.idealista.it/immobile/27836655/
+- **Indirizzo:** Località Barberis
+- **Comune:** Osiglia 
+- **Prezzo Richiesto:** 170k€
 - **Minimo Prevedibile in Trattativa:** €
 - **Certezza sulla Conformità:** [Bassa/Media/Alta]
-- **Asta:** [si/no]
-    - **Base d'asta:** €
-    - **Data dell'asta:**
-    - **Tipo di Asta:**
-    - **Link dell'asta:**
-    - **Perizia Giurata Disponibile:** [si/no]
+
 
 ---
 #### **Caratteristiche Strutturali**
-- **Metri Quadri (Calpestabili/Commerciali):**
-- **Anno di Costruzione:**
+- **Metri Quadri (Calpestabili/Commerciali 200 m2 commerciali 
+- **Anno di Costruzione:** 
 - **Numero Vani:**
 - **Camere da Letto:**
 - **Condizione del Tetto:**
@@ -50,8 +41,8 @@ date: 2025-08-05
 
 ---
 #### **Terreni e Spazi Esterni**
-- **Giardino Adiacente:** [si/no]
-- **Metratura Giardino:** mq
+- **Giardino Adiacente:** [si]
+- **Metratura Giardino:** bho
 - **Terreno Adiacente:** [si/no]
 - **Metratura Terreno:** mq
 - **Terreno Edificabile:** [si/no]

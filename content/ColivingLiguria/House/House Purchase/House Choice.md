@@ -7,3 +7,16 @@ Following the remarks made on [[Acquisto Immobiliare - ColivingLiguria]], we pro
 We classify them by municipalities location first and then we move on to do a search for each house and reporting the amount of stars of how good we find that house to be for the current information that are provided, we villa dd then some remarks to it. you can view the search here [Overleaf: Villas List](https://www.overleaf.com/read/bkxbmmmwyxrt#922c55). We proceed now by creating a [[Lista Caratteristiche Villa]], a model of all the features that are relevant for a Villa to be evaluated. With that form, in Italian, we list here now how that applies to everyone of the best villas mentioned above.
 
 ### Selected Villas List
+- [[Bormida 1]]
+- [[Cosseria 1]]
+- [[Cosseria 2]]
+- [[Dego 1]]
+- [[Millesimo 1]]
+- [[Murialdo 2]]
+- [[Murialdo 2]]
+- [[Osiglia 1]]
+- [[Osiglia 2]]
+- [[Quiliano 1]]
+- [[Quiliano 2]]
+- [[Quiliano 3]]
+- [[Vado Ligure 1]]

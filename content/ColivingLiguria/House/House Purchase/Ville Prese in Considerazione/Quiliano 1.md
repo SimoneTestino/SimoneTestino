@@ -1,15 +1,10 @@
----
-draft: 
-date: 2025-08-05
----
-#### **Informazioni Generali**
-- **Link Annuncio:**
-- **Indirizzo:**
-- **Comune:**
-- **Prezzo Richiesto:** €
+- **Link Annuncio:** https://www.idealista.it/immobile/30144904 
+- **Indirizzo: 
+- **Comune: Quiliano 
+- **Prezzo Richiesto: 175k
 - **Minimo Prevedibile in Trattativa:** €
 - **Certezza sulla Conformità:** [Bassa/Media/Alta]
-- **Asta:** [si/no]
+- **Asta:** [no]
     - **Base d'asta:** €
     - **Data dell'asta:**
     - **Tipo di Asta:**
@@ -18,9 +13,9 @@ date: 2025-08-05
 
 ---
 #### **Caratteristiche Strutturali**
-- **Metri Quadri (Calpestabili/Commerciali):**
+- **Metri Quadri (Calpestabili/Commerciali): 300m2 commerciali 
 - **Anno di Costruzione:**
-- **Numero Vani:**
+- **Numero Vani: 10
 - **Camere da Letto:**
 - **Condizione del Tetto:**
 - **Condizione Impianto Idraulico:**
@@ -30,10 +25,12 @@ date: 2025-08-05
 - **Infissi con Doppio Vetro:** [si/no]
 - **Pavimentazione Presente:** [si/no]
 - **Certificato di Agibilità:** [si/no/da verificare]
-- **Classe Energetica:**
+- **Classe Energetica: G
 - **Tipo di Riscaldamento:**
-- **Casa Indipendente:** [si/no/semi-indipendente]
-- **Planimetria:** [Link o allegato]
+- **Casa Indipendente:** [si]
+- **Planimetria: 
+   -https://www.idealista.it/immobile/30144904/planimetria/1/
+   -https://www.idealista.it/immobile/30144904/planimetria/2/
 - **Massimo Camere Totali:** 
 	- **Massimo Camere Private:**
 	- **Massimo Camere Condivise:**
@@ -47,12 +44,3 @@ date: 2025-08-05
 	- **Spiaggia:**
 - **Rischio Idrogeologico (Frana/Alluvione):**
 - **Rischio "Casino" (Disturbo/Rumore):**
-
----
-#### **Terreni e Spazi Esterni**
-- **Giardino Adiacente:** [si/no]
-- **Metratura Giardino:** mq
-- **Terreno Adiacente:** [si/no]
-- **Metratura Terreno:** mq
-- **Terreno Edificabile:** [si/no]
-- **Terreno/Giardino Pianeggiante:** [si/no/in parte]

@@ -1,15 +1,11 @@
----
-draft: 
-date: 2025-08-05
----
 #### **Informazioni Generali**
-- **Link Annuncio:**
-- **Indirizzo:**
-- **Comune:**
-- **Prezzo Richiesto:** €
+- **Link Annuncio:** https://www.idealista.it/immobile/31495224/
+- **Indirizzo:** Località Riofreddo
+- **Comune:** Murialdo
+- **Prezzo Richiesto:** 180k€
 - **Minimo Prevedibile in Trattativa:** €
 - **Certezza sulla Conformità:** [Bassa/Media/Alta]
-- **Asta:** [si/no]
+- **Asta:** [no]
     - **Base d'asta:** €
     - **Data dell'asta:**
     - **Tipo di Asta:**
@@ -18,9 +14,9 @@ date: 2025-08-05
 
 ---
 #### **Caratteristiche Strutturali**
-- **Metri Quadri (Calpestabili/Commerciali):**
+- **Metri Quadri (Calpestabili/Commerciali):** 600m2 commerciali, 500 m2 calpestabili
 - **Anno di Costruzione:**
-- **Numero Vani:**
+- **Numero Vani:** 23, 6 bagni 
 - **Camere da Letto:**
 - **Condizione del Tetto:**
 - **Condizione Impianto Idraulico:**
@@ -30,9 +26,9 @@ date: 2025-08-05
 - **Infissi con Doppio Vetro:** [si/no]
 - **Pavimentazione Presente:** [si/no]
 - **Certificato di Agibilità:** [si/no/da verificare]
-- **Classe Energetica:**
+- **Classe Energetica:** G
 - **Tipo di Riscaldamento:**
-- **Casa Indipendente:** [si/no/semi-indipendente]
+- **Casa Indipendente:** [si]
 - **Planimetria:** [Link o allegato]
 - **Massimo Camere Totali:** 
 	- **Massimo Camere Private:**
@@ -50,7 +46,7 @@ date: 2025-08-05
 
 ---
 #### **Terreni e Spazi Esterni**
-- **Giardino Adiacente:** [si/no]
+- **Giardino Adiacente:** dalle immagini sembra di sì, ma non è specificato
 - **Metratura Giardino:** mq
 - **Terreno Adiacente:** [si/no]
 - **Metratura Terreno:** mq

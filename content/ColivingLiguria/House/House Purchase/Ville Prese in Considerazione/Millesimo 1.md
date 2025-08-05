@@ -1,15 +1,11 @@
----
-draft: 
-date: 2025-08-05
----
 #### **Informazioni Generali**
-- **Link Annuncio:**
-- **Indirizzo:**
-- **Comune:**
-- **Prezzo Richiesto:** €
+- **Link Annuncio:** https://www.idealista.it/immobile/29682880/
+- **Indirizzo:** Località Colla, 15
+- **Comune:** Millesimo
+- **Prezzo Richiesto:** 210k €
 - **Minimo Prevedibile in Trattativa:** €
 - **Certezza sulla Conformità:** [Bassa/Media/Alta]
-- **Asta:** [si/no]
+- **Asta:** [no]
     - **Base d'asta:** €
     - **Data dell'asta:**
     - **Tipo di Asta:**
@@ -18,9 +14,9 @@ date: 2025-08-05
 
 ---
 #### **Caratteristiche Strutturali**
-- **Metri Quadri (Calpestabili/Commerciali):**
-- **Anno di Costruzione:**
-- **Numero Vani:**
+- **Metri Quadri (Calpestabili/Commerciali):** 225 m2 commerciali
+- **Anno di Costruzione:** 2008
+- **Numero Vani:** 2 locali, 2 bagni
 - **Camere da Letto:**
 - **Condizione del Tetto:**
 - **Condizione Impianto Idraulico:**
@@ -28,11 +24,11 @@ date: 2025-08-05
 - **Condizione Impianto Elettrico:**
 - **Condizione Infissi:**
 - **Infissi con Doppio Vetro:** [si/no]
-- **Pavimentazione Presente:** [si/no]
+- **Pavimentazione Presente:** [si]
 - **Certificato di Agibilità:** [si/no/da verificare]
 - **Classe Energetica:**
 - **Tipo di Riscaldamento:**
-- **Casa Indipendente:** [si/no/semi-indipendente]
+- **Casa Indipendente:** [si]
 - **Planimetria:** [Link o allegato]
 - **Massimo Camere Totali:** 
 	- **Massimo Camere Private:**
@@ -50,8 +46,8 @@ date: 2025-08-05
 
 ---
 #### **Terreni e Spazi Esterni**
-- **Giardino Adiacente:** [si/no]
-- **Metratura Giardino:** mq
+- **Giardino Adiacente:** [si]
+- **Metratura Giardino:** 700 mq, c'è anche un pozzo
 - **Terreno Adiacente:** [si/no]
 - **Metratura Terreno:** mq
 - **Terreno Edificabile:** [si/no]
