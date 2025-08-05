@@ -2,7 +2,8 @@
 draft: false
 date: 2025-08-01
 ---
-The goal is to create an organised space where every member can find relevant information, participate in focused discussions, and feel part of a specific group without being overwhelmed by unrelated messages. The community is the main container, and within it, you will find several groups organised by level of involvement. You can access the first level of the community from [here](https://chat.whatsapp.com/J67Cds7idarLwZrJRNywQS?mode=ac_t)!
+The goal is to create an organised space where every member can find relevant information, participate in focused discussions, and feel part of a specific group without being overwhelmed by unrelated messages. The community is the main container, and within it, you will find several groups organised by level of involvement. You can access the first level of the community from:
+>**[Link to Join](https://chat.whatsapp.com/J67Cds7idarLwZrJRNywQS?mode=ac_t)**
 ### Group Structure: A Hierarchy of Involvement
 Our community is structured in levels. The first level is open to everyone, while access to higher levels is by invitation only, based on your active role in the project.
 #### **I. 📢 Open Group**

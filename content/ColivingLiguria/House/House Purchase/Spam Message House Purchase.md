@@ -10,4 +10,4 @@ Buongiorno! Sono interessato a questo immobile e diversi altri nella stessa cate
 
 ---
 
-Buongiorno! Sono interessato a questo immobile e diversi altri nella stessa categoria per l'inizio di un'attività di affitto camere che ha appena ricevuto fondi europei, descrivo in dettaglio quello che mi interessa in un sito che purtroppo non ho modo di condividere sulla chat di Idealista, mi contatti volentieri non appena possibile su whatsapp a 339 637 9372 o via email a colivingliguria@gmail.com in modo che possa inoltrarglielo.
+Buongiorno! Siamo interessati a questo immobile e diversi altri nella stessa categoria per l'inizio di un'attività di affitto camere che ha appena ricevuto fondi europei, descrivo in dettaglio quello che mi interessa in un sito che purtroppo non ho modo di condividere sulla chat di Idealista, mi contatti volentieri non appena possibile su whatsapp a 339 637 9372 o via email a colivingliguria@gmail.com in modo che possa inoltrarglielo. Se avesse già ricevuto questo messaggio per altri immobili, può aggiungere questo immobile a quelli a cui siamo interessati
