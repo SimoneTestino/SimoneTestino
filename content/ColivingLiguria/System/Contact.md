@@ -5,8 +5,5 @@ The following contacts are available full-time. Please include me, Simone Testin
 	- simone.testino@gmail.com
 	- +39 339 637 9372
 	- see also [[Contacts]]
-- _Personal Contacts_: [[Emanuele Garré]]
-	- emanuelegarre@gmail.com
-	- +39 333 104 7903
 
 We are also on [[Social Media]], in particular see _Instagram_: [@colivingliguria](https://www.instagram.com/colivingliguria).
