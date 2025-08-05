@@ -1,24 +1,19 @@
-
 #### **Informazioni Generali**
-- **Link Annuncio:** https://www.idealista.it/immobile/20265573/
-- **Indirizzo:**
-- **Comune:** Cosseria
-- **Prezzo Richiesto:** 180k €
+- **Link Annuncio:** https://www.idealista.it/immobile/31608509/
+- **Indirizzo:** Regione Bosco, 3
+- **Comune:** Calizzano 
+- **Prezzo Richiesto:** 190k €
 - **Minimo Prevedibile in Trattativa:** €
 - **Certezza sulla Conformità:** [Bassa/Media/Alta]
-- **Asta:** [no]
-    - **Base d'asta:** €
-    - **Data dell'asta:**
-    - **Tipo di Asta:**
-    - **Link dell'asta:**
-    - **Perizia Giurata Disponibile:** [si/no]
+- **Visitato:** [no]
+    - 06.08, 18:30
 
 ---
 #### **Caratteristiche Strutturali**
-- **Metri Quadri (Calpestabili/Commerciali):** 480 m2 commerciali 
-- **Anno di Costruzione:** 1960
-- **Numero Vani:** 20, 3 bagni
-- **Camere da Letto:**
+- **Metri Quadri (Calpestabili/Commerciali):**
+- **Anno di Costruzione:** 1970
+- **Numero Vani:** 17
+- **Camere da Letto:** 
 - **Condizione del Tetto:**
 - **Condizione Impianto Idraulico:**
 - **Materiale Impianto Idraulico:**
@@ -29,7 +24,7 @@
 - **Certificato di Agibilità:** [si/no/da verificare]
 - **Classe Energetica:** G
 - **Tipo di Riscaldamento:**
-- **Casa Indipendente:** [si/no/semi-indipendente]
+- **Casa Indipendente:** [si]
 - **Planimetria:** [Link o allegato]
 - **Massimo Camere Totali:** 
 	- **Massimo Camere Private:**
@@ -48,7 +43,7 @@
 ---
 #### **Terreni e Spazi Esterni**
 - **Giardino Adiacente:** [si]
-- **Metratura Giardino:** mq
+- **Metratura Giardino:** 4000 mq
 - **Terreno Adiacente:** [si/no]
 - **Metratura Terreno:** mq
 - **Terreno Edificabile:** [si/no]

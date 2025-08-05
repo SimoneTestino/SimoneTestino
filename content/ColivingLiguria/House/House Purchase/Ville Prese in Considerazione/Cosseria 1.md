@@ -1,22 +1,18 @@
 #### **Informazioni Generali**
-- **Link Annuncio:** https://www.idealista.it/immobile/29286390/
-- **Indirizzo:** 
-- **Comune:** Cosseria 
-- **Prezzo Richiesto:** 198k €
+- **Link Annuncio:** https://www.idealista.it/immobile/20265573/
+- **Indirizzo:**
+- **Comune:** Cosseria
+- **Prezzo Richiesto:** 180k €
 - **Minimo Prevedibile in Trattativa:** €
 - **Certezza sulla Conformità:** [Bassa/Media/Alta]
-- **Asta:** [no]
-    - **Base d'asta:** €
-    - **Data dell'asta:**
-    - **Tipo di Asta:**
-    - **Link dell'asta:**
-    - **Perizia Giurata Disponibile:** [si/no]
+- **Visitato:** [no]
+    - 06.08, 11:00
 
 ---
 #### **Caratteristiche Strutturali**
-- **Metri Quadri (Calpestabili/Commerciali):** 370m2 commerciali, 350 m2 calpestabili
-- **Anno di Costruzione:** 
-- **Numero Vani:** 11, 3 bagni 
+- **Metri Quadri (Calpestabili/Commerciali):** 480 m2 commerciali 
+- **Anno di Costruzione:** 1960
+- **Numero Vani:** 20, 3 bagni
 - **Camere da Letto:**
 - **Condizione del Tetto:**
 - **Condizione Impianto Idraulico:**
@@ -26,10 +22,10 @@
 - **Infissi con Doppio Vetro:** [si/no]
 - **Pavimentazione Presente:** [si/no]
 - **Certificato di Agibilità:** [si/no/da verificare]
-- **Classe Energetica:** F
+- **Classe Energetica:** G
 - **Tipo di Riscaldamento:**
-- **Casa Indipendente:** [si]
-- **Planimetria:** nada
+- **Casa Indipendente:** [si/no/semi-indipendente]
+- **Planimetria:** [Link o allegato]
 - **Massimo Camere Totali:** 
 	- **Massimo Camere Private:**
 	- **Massimo Camere Condivise:**
@@ -47,7 +43,7 @@
 ---
 #### **Terreni e Spazi Esterni**
 - **Giardino Adiacente:** [si]
-- **Metratura Giardino:** 2000mq
+- **Metratura Giardino:** mq
 - **Terreno Adiacente:** [si/no]
 - **Metratura Terreno:** mq
 - **Terreno Edificabile:** [si/no]

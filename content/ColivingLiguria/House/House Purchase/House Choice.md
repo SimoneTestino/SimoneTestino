@@ -11,7 +11,7 @@ We have now created the [[Lista Caratteristiche Villa]], a template detailing al
 ### Selected Villas List
 - [[Bormida 1]]
 - [[Cosseria 1]]
-- [[Cosseria 2]]
+- [[Cosseria 1]]
 - [[Dego 1]]
 - [[Millesimo 1]]
 - [[Murialdo 2]]

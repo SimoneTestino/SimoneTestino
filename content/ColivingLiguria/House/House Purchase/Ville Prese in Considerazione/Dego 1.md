@@ -6,12 +6,8 @@
 - **Prezzo Richiesto:** 190k
 - **Minimo Prevedibile in Trattativa:** €
 - **Certezza sulla Conformità:** [Bassa/Media/Alta]
-- **Asta:** [no]
-    - **Base d'asta:** €
-    - **Data dell'asta:**
-    - **Tipo di Asta:**
-    - **Link dell'asta:**
-    - **Perizia Giurata Disponibile:** [si/no]
+- **Visitato:** [no]
+    - 06.08, 11:00
 
 ---
 #### **Caratteristiche Strutturali**

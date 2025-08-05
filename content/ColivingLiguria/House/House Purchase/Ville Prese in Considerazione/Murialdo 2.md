@@ -1,16 +1,12 @@
 #### **Informazioni Generali**
-- **Link Annuncio:**https://www.idealista.it/immobile/31415694/
+- **Link Annuncio:** https://www.idealista.it/immobile/31415694/
 - **Indirizzo:**
 - **Comune:**  Murialdo 
 - **Prezzo Richiesto:** 110k €
 - **Minimo Prevedibile in Trattativa:** €
 - **Certezza sulla Conformità:** [Bassa/Media/Alta]
-- **Asta:** [no]
-    - **Base d'asta:** €
-    - **Data dell'asta:**
-    - **Tipo di Asta:**
-    - **Link dell'asta:**
-    - **Perizia Giurata Disponibile:** [si/no]
+- **Visitato:** [no]
+    - 06.08, 11:00
 
 ---
 #### **Caratteristiche Strutturali**

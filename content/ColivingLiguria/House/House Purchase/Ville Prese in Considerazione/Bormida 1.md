@@ -1,12 +1,13 @@
-- **Link Annuncio: https://www.immobiliare.it/annunci/117049213/
-- **Indirizzo:via Piano Sottano 4, Piano Sottano, Bormida
-- **Comune: \textbf{Bormida}
+- **Link Annuncio**: https://www.immobiliare.it/annunci/117049213/
+- **Indirizzo:** via Piano Sottano 4, Piano Sottano, Bormida
+- **Comune:** Bormida
 - **Prezzo Richiesto:** 180k
 - **Minimo Prevedibile in Trattativa:** 160k€
 - **Certezza sulla Conformità:** [Alta]
+- Visitato: [si]
 ---
 #### **Caratteristiche Strutturali**
-- **Metri Quadri (Calpestabili/Commerciali): 365 commerciali, 350 calpestabili
+- **Metri Quadri (Calpestabili/Commerciali):** 365 commerciali, 350 calpestabili
 - **Anno di Costruzione:** 1900
 - **Numero Vani:12, 2 bagni + 1 privato 
 - **Camere da Letto: X

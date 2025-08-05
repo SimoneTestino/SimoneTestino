@@ -5,7 +5,8 @@
 - **Prezzo Richiesto:** 170k€
 - **Minimo Prevedibile in Trattativa:** €
 - **Certezza sulla Conformità:** [Bassa/Media/Alta]
-
+- **Visitato:** [no]
+    - 08.08, 11:00
 
 ---
 #### **Caratteristiche Strutturali**

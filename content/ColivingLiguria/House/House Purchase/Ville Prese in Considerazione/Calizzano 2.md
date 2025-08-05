@@ -1,17 +1,17 @@
-#### **Informazioni Generali** 
-- **Link Annuncio:** https://www.idealista.it/immobile/30466484/
-- **Indirizzo:** Via Molini
-- **Comune:** Quiliano 
-- **Prezzo Richiesto:** 168k €
-- **Minimo Prevedibile in Trattativa:** € 140
+#### **Informazioni Generali**
+- **Link Annuncio:** https://www.idealista.it/immobile/25839134/
+- **Indirizzo:** Val Maremola
+- **Comune:** Calizzano 
+- **Prezzo Richiesto:** 195k €
+- **Minimo Prevedibile in Trattativa:** €
 - **Certezza sulla Conformità:** [Bassa/Media/Alta]
-- - **Visitato:** [no]
-    - 08.08, 17:00
+- **Visitato:** [si]
+
 ---
 #### **Caratteristiche Strutturali**
-- **Metri Quadri (Calpestabili/Commerciali):** 250 m2 commerciali, 200 calpestabili 
-- **Anno di Costruzione:** 
-- **Numero Vani:** 8 locali 
+- **Metri Quadri (Calpestabili/Commerciali):**
+- **Anno di Costruzione:** 1960
+- **Numero Vani:** 
 - **Camere da Letto:**
 - **Condizione del Tetto:**
 - **Condizione Impianto Idraulico:**
@@ -19,11 +19,11 @@
 - **Condizione Impianto Elettrico:**
 - **Condizione Infissi:**
 - **Infissi con Doppio Vetro:** [si/no]
-- **Pavimentazione Presente:** [si]
+- **Pavimentazione Presente:** [si/no]
 - **Certificato di Agibilità:** [si/no/da verificare]
 - **Classe Energetica:** G
 - **Tipo di Riscaldamento:**
-- **Casa Indipendente:** [si]
+- **Casa Indipendente:** [si/no/semi-indipendente]
 - **Planimetria:** [Link o allegato]
 - **Massimo Camere Totali:** 
 	- **Massimo Camere Private:**
@@ -42,8 +42,8 @@
 ---
 #### **Terreni e Spazi Esterni**
 - **Giardino Adiacente:** [si]
-- **Metratura Giardino:** 300 mq
-- **Terreno Adiacente:** [si/no]
-- **Metratura Terreno:** mq
+- **Metratura Giardino:** 300mq
+- **Terreno Adiacente:** [si]
+- **Metratura Terreno:** 4000mq
 - **Terreno Edificabile:** [si/no]
 - **Terreno/Giardino Pianeggiante:** [si/no/in parte]
