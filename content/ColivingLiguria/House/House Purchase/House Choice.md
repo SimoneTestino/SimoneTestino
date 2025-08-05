@@ -10,12 +10,14 @@ We have now created the [[Lista Caratteristiche Villa]], a template detailing al
 
 ### Selected Villas List
 - [[Bormida 1]]
-- [[Cosseria 1]]
+- [[Calizzano 1]]
+- [[Calizzano 2]]
 - [[Cosseria 1]]
 - [[Dego 1]]
 - [[Millesimo 1]]
+- [[Murialdo 1]]
 - [[Murialdo 2]]
-- [[Murialdo 2]]
+- [[Murialdo 3]]
 - [[Osiglia 1]]
 - [[Osiglia 2]]
 - [[Quiliano 1]]
