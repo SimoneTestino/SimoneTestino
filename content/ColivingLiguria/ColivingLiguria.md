@@ -18,7 +18,6 @@ Our goal is to create an environment that balances focused work with a strong se
 -   Spacious **shared areas**, including a large kitchen, comfortable living rooms, and dedicated co-working spaces.
 -   **High-speed internet** as a top priority, ensuring a seamless remote work experience.
 -   A welcoming atmosphere for **pets** and ample space for those travelling with **camper vans**.
-
 ### How to Get Involved
 Whether you are a digital nomad seeking a productive escape, a volunteer wanting to contribute your skills to a hands-on project, or simply someone curious about a different way of living, there is a place for you here.
 
