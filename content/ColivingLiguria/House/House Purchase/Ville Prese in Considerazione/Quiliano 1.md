@@ -11,7 +11,7 @@
 #### **Caratteristiche Strutturali**
 - **Metri Quadri (Calpestabili/Commerciali): 300m2 commerciali 
 - **Anno di Costruzione:**
-- **Numero Vani: 10
+- **Numero Vani:** 10
 - **Camere da Letto:**
 - **Condizione del Tetto:**
 - **Condizione Impianto Idraulico:**

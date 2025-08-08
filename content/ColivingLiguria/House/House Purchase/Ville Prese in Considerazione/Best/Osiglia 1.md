@@ -1,3 +1,8 @@
+---
+draft: false
+date: 2025-08-08
+---
+This house is in a considerably worse state of repair than the other one we are comparing it to, but its main advantage is the location, being within walking distance of Lago di Osiglia, which would be a lovely attraction during the summer. The general condition of the property is not bad _per se_, but it would definitely require a great deal of work. The fact that so much internal renovation is needed is what I find most challenging, although I could take that into consideration. As with the other property, the condition of the roof also remains uncertain for now.
 #### **Informazioni Generali** 
 - **Link Annuncio:** https://www.idealista.it/immobile/30676710/
 - **Indirizzo:** Località Barberis
@@ -5,7 +10,7 @@
 - **Prezzo Richiesto:** 145k€
 - **Minimo Prevedibile in Trattativa:** €
 - **Certezza sulla Conformità:** [Bassa/Media/Alta]
-- **Visitato:** [no]
+- **Visitato:** [Si]
     - 06.08, 11:00
 
 ---

@@ -5,7 +5,6 @@
 - **Prezzo Richiesto:** 143k€
 - **Minimo Prevedibile in Trattativa:** €
 - **Certezza sulla Conformità:** [Bassa/Media/Alta]
-
 ---
 #### **Caratteristiche Strutturali**
 - **Metri Quadri (Calpestabili/Commerciali):** 254 mq commerciali 

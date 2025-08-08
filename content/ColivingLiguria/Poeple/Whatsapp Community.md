@@ -2,25 +2,32 @@
 draft: false
 date: 2025-08-01
 ---
-The goal is to create an organised space where every member can find relevant information, participate in focused discussions, and feel part of a specific group without being overwhelmed by unrelated messages. The community is the main container, and within it, you will find several groups organised by level of involvement. You can access the first level of the community from:
->**[Link to Join](https://chat.whatsapp.com/J67Cds7idarLwZrJRNywQS?mode=ac_t)**
-### Group Structure: A Hierarchy of Involvement
-Our community is structured in levels. The first level is open to everyone, while access to higher levels is by invitation only, based on your active role in the project.
-#### **I. 📢 Open Group**
-* **Purpose:** This is our public gateway. It's the perfect place to follow the project's progress, receive major announcements, and ask general questions. If you're curious about Coliving Liguria and want to stay in the loop, this is the group for you.
-* **For Whom:** Anyone interested in the project! This group is open for everyone to join.
-#### **II. ⭐ Ex Loco**
-* **Purpose:** To maintain a connection with those who have already experienced Coliving Liguria. This is the group for staying updated on major project milestones, receiving invitations to future events, and continuing to be part of our story from a distance.
-* **For Whom:** All former volunteers and guests. Once you're part of the family, you can stay in this group for as long as you like.
-#### **III. 🏡 In Loco**
-* **Purpose:** For managing the day-to-day life inside the villa. Here we organise shared dinners, cleaning schedules, outings, grocery runs, and all the little things that make co-living special.
-* **For Whom:** Exclusively for people who are physically staying at the villa at any given time, whether they are guests, volunteers, or collaborators. This is a dynamic group; you join upon arrival and leave upon departure.
-#### **IV. 🛠️ Active Projects**
-* **Purpose:** The operational heart of the project. This group is for discussing the hands-on work at the villa: what needs to be done, who is doing what, and what materials are needed. It's the channel for coordinating active contributions.
-* **For Whom:** All officially accepted volunteers and collaborators (e.g., after signing the volunteer agreement) who are ready to actively contribute with their work.
-#### **V. 🧠 Core Team**
-* **Purpose:** This is the strategic group, the "brain" of the project. Here we discuss ideas, long-term development, bureaucratic matters, and the key decisions that will shape the future of Coliving Liguria.
-* **For Whom:** This is a limited-access group for the **Core Team** of people who make up the long-term foundation of the project.
-### How to Join the Community
-* **Level 1 (Public Access):** You can join our main public group via this link: [Open Group](https://chat.whatsapp.com/J67Cds7idarLwZrJRNywQS?mode=ac_t)
-* **Levels 2-5 (By Invitation):** Access to the higher-level groups is managed directly by me, [[Simone Testino]]. Once we get in touch and define your role and involvement in the project, I will add you to the appropriate group(s).
+> [!Abstract]
+> Welcome to Coliving Liguria, a project to transform a traditional villa in the Italian Riviera into a vibrant hub for remote workers, volunteers, and creative minds. This page outlines our vision, the project's current status as we choose our definitive home, and how you can get involved in this exciting journey.
+
+Welcome to Coliving Liguria, a project born from a desire to create a unique space where productivity, community, and nature converge. Nestled in the hills of the Ligurian hinterland, just a short drive from the sea, we are transforming a traditional villa into a home for a new generation of creators and thinkers.
+### The Project Today: We're Choosing Our Home!
+This is the most exciting phase of our journey. We are currently in the final stages of selecting the perfect property that will become the heart of Coliving Liguria. Our goal is to finalise the choice by the **10th of August** and to have the villa operational and ready to welcome our first guests by the **1st of September**.
+
+This is an ambitious timeline, and the process is complex. You can follow every step of this crucial stage on these pages:
+-   **[[House Choice]]**: See the shortlist of villas we are currently considering.
+-   **[[Calendar]]**: Check our live calendar for the most up-to-date milestones and key dates.
+### The Vision: Life at the Villa
+Our goal is to create an environment that balances focused work with a strong sense of community and a connection to the stunning Italian landscape. The villa will offer:
+-   **Private rooms** for personal space and quiet time.
+-   Spacious **shared areas**, including a large kitchen, comfortable living rooms, and dedicated co-working spaces.
+-   **High-speed internet** as a top priority, ensuring a seamless remote work experience.
+-   A welcoming atmosphere for **pets** and ample space for those travelling with **camper vans**.
+
+### How to Get Involved
+Whether you are a digital nomad seeking a productive escape, a volunteer wanting to contribute your skills to a hands-on project, or simply someone curious about a different way of living, there is a place for you here.
+
+Given the dynamic nature of this phase, we have moved away from formal applications. The best way to get involved is to **reach out directly**. We can discuss your interests and how you see yourself fitting into the project on a case-by-case basis.
+-   See our [[Contact]] page for all the ways to get in touch.
+-   Join our public [[Whatsapp Community]] to follow along and connect with us: **[Link to Join](https://chat.whatsapp.com/J67Cds7idarLwZrJRNywQS?mode=ac_t)**
+
+> [!Warning] New Website!
+> Many pages are still empty or incomplete, so please do not rely on the information on this website just yet. For any enquiries, feel free to contact me directly.
+
+---
+This project is founded by [[Simone Testino]] and is made possible primarily through funding from the European Union via the [[Bando Pubblico Fesr 2021-2027. OS 1.3]], published by the Region of Liguria.

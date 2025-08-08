@@ -2,10 +2,9 @@
 draft: 
 date: 2025-08-05
 ---
-
-- Link Annuncio: https://www.idealista.it/immobile/28006334/
-- **Indirizzo: Riviera Savonese di Ponente Est, Savona 
-- **Comune: Vado Ligure
+- **Link Annuncio:** https://www.idealista.it/immobile/28006334/
+- **Indirizzo:** Riviera Savonese di Ponente Est, Savona 
+- **Comune:** Vado Ligure
 - **Prezzo Richiesto**: 140k
     - **Minimo Prevedibile in Trattativa:** €
 - **Certezza sulla Conformità:** [Bassa/Media/Alta]

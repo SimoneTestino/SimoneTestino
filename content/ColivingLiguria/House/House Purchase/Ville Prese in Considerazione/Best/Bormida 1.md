@@ -1,3 +1,8 @@
+---
+date: 2025-08-08
+---
+The house is currently [08.08.2025] under negotiation with another potential buyer, so our chances of securing it are getting slimmer. On the other hand, the property has a great deal of potential. The location is quite nice, with a very small river nearby that does not seem to pose any danger but could present a good opportunity to create a natural pond or something similar for enjoying fresh water in the summer. The house itself needs little to no renovation beyond the work required to convert most of the existing rooms into bedrooms. In total, we estimate we could fit a maximum of nine bedrooms, including a couple in the attic, though the current condition of the attic space remains uncertain. The property is in a quiet area; there is a road nearby, but it is a very minor one that should not generate any significant noise. The main piece of information we are currently missing concerns the condition of the roof, but the interiors we saw were pleasant and interesting.
+
 - **Link Annuncio**: https://www.immobiliare.it/annunci/117049213/
 - **Indirizzo:** via Piano Sottano 4, Piano Sottano, Bormida
 - **Comune:** Bormida

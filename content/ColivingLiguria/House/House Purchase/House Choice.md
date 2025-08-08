@@ -8,9 +8,11 @@ We classify the properties by municipality. Each house is given a star rating ba
 
 We have now created the [[Lista Caratteristiche Villa]], a template detailing all the features relevant for evaluating a property. Using this Italian form, the remainder of this page will apply the template to each of the best villas mentioned above.
 
-### Selected Villas List
+### Preferred Villas
 - [[Bormida 1]]
 - [[Calizzano 1]]
+- [[Osiglia 1]]
+### Full Selected Villas
 - [[Calizzano 2]]
 - [[Cosseria 1]]
 - [[Dego 1]]
@@ -18,8 +20,6 @@ We have now created the [[Lista Caratteristiche Villa]], a template detailing al
 - [[Murialdo 1]]
 - [[Murialdo 2]]
 - [[Murialdo 3]]
-- [[Osiglia 1]]
-- [[Osiglia 2]]
 - [[Quiliano 1]]
 - [[Quiliano 2]]
 - [[Quiliano 3]]
