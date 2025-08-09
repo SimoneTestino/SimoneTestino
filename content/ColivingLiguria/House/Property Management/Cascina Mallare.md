@@ -1,9 +1,8 @@
 ---
-draft: true
+draft: false
 date: 2025-08-09
 ---
----
-This document serves as the private, central hub for all information, documents, and plans related to this property.
+ This document serves as the private, central hub for all information, documents, and plans related to this property.
 
 It is crucial to note that, as of the date of this document, we do not own this property. Our path to potential ownership is a structured, multi-phase programme. This process is governed by the legal agreements detailed below, starting with a temporary 'loan-for-use' agreement that allows us to prepare a comprehensive renovation project before committing to a long-term contract.
 
