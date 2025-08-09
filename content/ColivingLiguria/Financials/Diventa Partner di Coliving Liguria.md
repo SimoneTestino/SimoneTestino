@@ -2,8 +2,6 @@
 draft: false
 date: 2025-08-05
 ---
-# Diventa Partner di Coliving Liguria: Valorizza il Tuo Immobile con Zero Pensieri
-
 > [!Abstract]
 > Questa pagina è dedicata ai proprietari di ville o case indipendenti in Liguria che desiderano mettere a reddito il proprio immobile, senza gli oneri della ristrutturazione e della gestione. Coliving Liguria offre un modello di partnership innovativo: prendiamo in carico la completa riqualificazione e gestione della vostra proprietà, trasformandola in un vivace spazio di coliving. Questo modello è la nostra principale strategia di crescita per espandere il progetto dopo l'acquisto della nostra sede principale.
 
