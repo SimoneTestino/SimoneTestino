@@ -27,14 +27,14 @@ Il nostro approccio è su misura. Ogni villa ha una sua storia e un suo potenzia
 ## I Nostri Modelli di Partnership
 Offriamo due percorsi principali di collaborazione, ulteriormente personalizzabili. Il **Modello A** è focalizzato sulla **gestione dell'immobile** per generare una rendita, mentre il **Modello B** è un percorso di **Affitto con Riscatto (Rent to Buy)** che porta alla vendita della proprietà.
 
-- Modello A: Gestione Immobiliare
-Questo modello è pensato per i proprietari che vogliono mettere a reddito il loro immobile mantenendone la proprietà.
+- **Modello A: Gestione Immobiliare**
+	Questo modello è pensato per i proprietari che vogliono mettere a reddito il loro immobile mantenendone la proprietà.
 	1. **A.1: Rendita Fissa Garantita**
 		**Come funziona:** Stipuliamo un accordo pluriennale in cui vi garantiamo un canone mensile fisso e sicuro, indipendentemente dal tasso di occupazione della villa. È la soluzione più semplice e sicura per generare un'entrata costante.
 	2. **A.2: Partecipazione ai Ricavi**
 		**Come funziona:** Invece di un canone fisso, vi riconosciamo una percentuale sui ricavi netti generati dagli affitti. Noi tratterremo una commissione (*fee*) per i servizi di gestione, ristrutturazione e marketing. Questo modello offre un potenziale di guadagno superiore, legato direttamente al successo della struttura.
 
--  Modello B: Affitto con Riscatto (Rent to Buy)
+- **Modello B: Affitto con Riscatto** (Rent to Buy)
 	Questo modello è ideale per chi ha già in programma di vendere l'immobile e vuole avviare un percorso che porti alla nostra acquisizione della proprietà. Le tempistiche sono flessibili e definite in base alle vostre esigenze, ma in genere sono inferiori a 5 anni, con una media attorno ai 3. La durata esatta dipende dalla redditività che prevediamo per l'immobile e dagli investimenti necessari per adeguarlo agli standard di Coliving Liguria.
 	1. **B.1: Acquisto con Rendita Fissa**
 		**Come funziona:** Definiamo un prezzo di vendita finale. Iniziamo a gestire l'immobile riconoscendovi un canone fisso mensile, che viene interamente o parzialmente considerato un acconto sul prezzo finale. Al termine del periodo concordato, si procede al rogito per saldare la differenza.
@@ -45,7 +45,6 @@ La fiducia e la chiarezza sono le fondamenta della nostra partnership. Per quest
 * **Contratto su Misura:** Non usiamo modelli standard. Ogni accordo sarà un **contratto di gestione immobiliare** personalizzato, che definirà nel dettaglio ogni aspetto: durata, responsabilità sulla manutenzione, condizioni di recesso e ripartizione dei costi.
 * **Copertura Assicurativa:** L'immobile e l'attività saranno coperti da polizze assicurative adeguate a tutelare il proprietario da eventuali danni o incidenti.
 * **Massima Trasparenza:** Garantiamo una reportistica chiara e periodica per tenere traccia dei ricavi e delle performance della proprietà.
-* **Professionalità Certificata:** La nostra operazione è supportata da un network di professionisti, inclusi commercialisti, avvocati e geometri, come illustrato nei nostri servizi di [[Project Launch Consultancy; Funding & Bureaucracy in Italy.md]].
 
 Per garantire la massima chiarezza, mettiamo a disposizione un fac-simile del nostro contratto di gestione.
 
@@ -53,4 +52,4 @@ Per garantire la massima chiarezza, mettiamo a disposizione un fac-simile del no
 > Qui potrai caricare e visionare un esempio del contratto di partnership che proponiamo.
 > ![[Esempio_Contratto_di_Gestione_Proprietà.pdf]]
 
-Se sei interessato a esplorare questa opportunità, contattaci per fissare un sopralluogo senza impegno. Trovi tutti i riferimenti nella nostra pagina [[Contact]].
+Se sei interessato a esplorare questa opportunità, contattaci per fissare un sopralluogo senza impegno. Trovi tutti i riferimenti nella nostra pagina [[Contatti]].
