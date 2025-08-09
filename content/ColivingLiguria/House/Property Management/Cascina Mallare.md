@@ -12,14 +12,10 @@ It is crucial to note that, as of the date of this document, we do not own this 
 * **Property Map:** [https://maps.app.goo.gl/tmKpQavV78MBoaoB9](https://maps.app.goo.gl/tmKpQavV78MBoaoB9)
 * **Nearest 4G+ Mast Map:** [https://lteitaly.it/it/public/map.php#18/44.319478/8.3388054](https://lteitaly.it/it/public/map.php#18/44.319478/8.3388054)
 * **Start of Dirt Track:** [https://maps.app.goo.gl/i7cSqJhVgviNUbay5](https://maps.app.goo.gl/i7cSqJhVgviNUbay5)
-
 ### Property Access
 The property is reached via a private, 700-metre dirt track through the woods. The listing notes that access currently requires a 4x4 vehicle but that the road is scheduled to be improved shortly. This logistical aspect is a key factor for planning the transport of materials.
-
 ### Internet Speed Estimate
-
-Considering the nearest mast is a **4G+** type, located approximately **1 km away with a clear line of sight**, the signal quality is expected to be excellent. With a good quality 4G+ router, it is reasonable to expect speeds between **80-150 Mbps for download** and **20-50 Mbps for upload**, which is more than sufficient for remote work.
-
+Considering the nearest mast is a **4G+** type, located approximately **2 km away with a clear line of sight**, the signal quality is expected to be excellent. With a good quality 4G+ router, it is reasonable to expect speeds between **80-150 Mbps for download** and **20-50 Mbps for upload**, which is more than sufficient for remote work.
 ## Legal and Financials
 ### Agreements
 
@@ -33,7 +29,6 @@ Considering the nearest mast is a **4G+** type, located approximately **1 km awa
 
 * **Temporary Loan-for-Use Agreement:** [https://www.overleaf.com/read/pcmrmsqyrnxm#ba9f20](https://www.overleaf.com/read/pcmrmsqyrnxm#ba9f20)
 * **Draft Definitive Agreement:** [https://www.overleaf.com/read/pcmrmsqyrnxm#ba9f20](https://www.overleaf.com/read/pcmrmsqyrnxm#ba9f20)
-
 ## Property and Structure Description
 * **Type:** Farmhouse / Rustic Stone House (`Casale/cascina`)
 * **Surface Area:** 350 sqm
@@ -41,7 +36,6 @@ Considering the nearest mast is a **4G+** type, located approximately **1 km awa
 * **Year of Construction:** Historic (`antica`), original stone construction.
 * **Layout:** The house is on two floors. The ground floor has 5 rooms plus a kitchen; a mezzanine level has the bathroom; the first floor has 3 very large rooms.
 * **External Structures:** Includes a large, 18-metre long high canopy/shed attached to the house, suitable for tractors and vehicles. A garage space is also included in the sale.
-
 ### Current State
 * **Roof: Excellent.** The roof has just been completely redone with a top-of-the-range insulation system, protecting the structure from leaks and weather. This represents a significant economic advantage.
 * **Interior: Requires complete renovation.** The interior is in its original state, retaining features like exposed stone walls and century-old beams.

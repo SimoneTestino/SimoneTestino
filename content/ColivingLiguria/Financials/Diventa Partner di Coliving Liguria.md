@@ -30,16 +30,16 @@ Offriamo due percorsi principali di collaborazione, ulteriormente personalizzabi
 - **Modello A: Gestione Immobiliare**
 	Questo modello è pensato per i proprietari che vogliono mettere a reddito il loro immobile mantenendone la proprietà.
 	1. **A.1: Rendita Fissa Garantita**
-		**Come funziona:** Stipuliamo un accordo pluriennale in cui vi garantiamo un canone mensile fisso e sicuro, indipendentemente dal tasso di occupazione della villa. È la soluzione più semplice e sicura per generare un'entrata costante.
+		Stipuliamo un accordo pluriennale in cui vi garantiamo un canone mensile fisso e sicuro, indipendentemente dal tasso di occupazione della villa. È la soluzione più semplice e sicura per generare un'entrata costante.
 	2. **A.2: Partecipazione ai Ricavi**
-		**Come funziona:** Invece di un canone fisso, vi riconosciamo una percentuale sui ricavi netti generati dagli affitti. Noi tratterremo una commissione (*fee*) per i servizi di gestione, ristrutturazione e marketing. Questo modello offre un potenziale di guadagno superiore, legato direttamente al successo della struttura.
+		Invece di un canone fisso, vi riconosciamo una percentuale sui ricavi netti generati dagli affitti. Noi tratterremo una commissione (*fee*) per i servizi di gestione, ristrutturazione e marketing. Questo modello offre un potenziale di guadagno superiore, legato direttamente al successo della struttura.
 
 - **Modello B: Affitto con Riscatto** (Rent to Buy)
 	Questo modello è ideale per chi ha già in programma di vendere l'immobile e vuole avviare un percorso che porti alla nostra acquisizione della proprietà. Le tempistiche sono flessibili e definite in base alle vostre esigenze, ma in genere sono inferiori a 5 anni, con una media attorno ai 3. La durata esatta dipende dalla redditività che prevediamo per l'immobile e dagli investimenti necessari per adeguarlo agli standard di Coliving Liguria.
 	1. **B.1: Acquisto con Rendita Fissa**
-		**Come funziona:** Definiamo un prezzo di vendita finale. Iniziamo a gestire l'immobile riconoscendovi un canone fisso mensile, che viene interamente o parzialmente considerato un acconto sul prezzo finale. Al termine del periodo concordato, si procede al rogito per saldare la differenza.
+		Definiamo un prezzo di vendita finale. Iniziamo a gestire l'immobile riconoscendovi un canone fisso mensile, che viene interamente o parzialmente considerato un acconto sul prezzo finale. Al termine del periodo concordato, si procede al rogito per saldare la differenza.
 	2. **B.2: Acquisto con Partecipazione ai Ricavi**
-		**Come funziona:** Anche qui, si stabilisce un prezzo di vendita. La quota che viene accantonata per l'acquisto deriva però da una percentuale sui ricavi netti generati dalla struttura. Questo può accelerare il percorso di acquisto se l'immobile si dimostra particolarmente redditizio.
+		Anche qui, si stabilisce un prezzo di vendita. La quota che viene accantonata per l'acquisto deriva però da una percentuale sui ricavi netti generati dalla struttura. Questo può accelerare il percorso di acquisto se l'immobile si dimostra particolarmente redditizio.
 ## Garanzie Legali e Trasparenza Contrattuale
 La fiducia e la chiarezza sono le fondamenta della nostra partnership. Per questo, ogni accordo è basato su un contratto solido e trasparente, redatto con il supporto di professionisti legali e fiscali.
 * **Contratto su Misura:** Non usiamo modelli standard. Ogni accordo sarà un **contratto di gestione immobiliare** personalizzato, che definirà nel dettaglio ogni aspetto: durata, responsabilità sulla manutenzione, condizioni di recesso e ripartizione dei costi.
