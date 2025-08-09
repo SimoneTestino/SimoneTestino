@@ -20,7 +20,7 @@ Considering the nearest mast is a **4G+** type, located approximately **2 km awa
 ### Agreements
 
 > [!Note] Temporary Loan-for-Use Agreement
-> *The text or link to the PDF of the temporary loan-for-use agreement (valid until 31st August) will be pasted here. This agreement governs the preliminary phase of project preparation.*
+> [[Fac Simile Comodato.pdf]]
 
 > [!Note] Definitive Agreement (Rent-to-Own / Management)
 > *This space is dedicated to the future definitive agreement, which will govern the long-term partnership, the full renovation, and the income-generating management of the property.*
