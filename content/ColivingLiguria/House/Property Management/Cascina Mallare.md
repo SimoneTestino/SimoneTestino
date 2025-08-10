@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 date: 2025-08-09
 ---
  This document serves as the private, central hub for all information, documents, and plans related to this property.
