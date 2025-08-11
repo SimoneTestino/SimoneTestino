@@ -8,16 +8,12 @@ date: 2025-08-05
 Sei proprietario di una villa, un rustico o una casa indipendente che vorresti trasformare in una fonte di reddito costante? Il progetto [[ColivingLiguria]], fondato da [[Simone Testino]], offre una soluzione completa e trasparente.
 
 Prendiamo in gestione la tua proprietà e ci occupiamo dell'intero processo: dal sopralluogo e la progettazione, alla gestione dei permessi, fino alla ristrutturazione e alla messa a reddito. Il nostro obiettivo è aumentare il valore del tuo immobile e garantirti un'entrata economica sicura, mentre noi ci occupiamo di attrarre la nostra clientela target, come definito nella nostra [[Rentals Customer Matrix]].
-
 ## Il Nostro Processo in 3 Fasi
 Il nostro approccio è su misura. Ogni villa ha una sua storia e un suo potenziale, che il nostro team – che include interior designer e professionisti del settore – si impegna a valorizzare.
-
 1. **Sopralluogo e Progettazione Strategica**
 	Il primo passo è un incontro senza impegno presso la vostra proprietà. Valuteremo il potenziale della villa e svilupperemo un progetto di riqualificazione dettagliato, in linea con la nostra visione di coliving, che vi sottoporremo per approvazione.
-
 2. **Ristrutturazione e Valorizzazione "Chiavi in Mano"**
 	Una volta approvato il progetto, ci facciamo carico della sua realizzazione. La nostra partnership è flessibile: possiamo farci carico dei costi dei materiali per la ristrutturazione oppure questi possono rimanere a vostro carico, a fronte di un accordo economico più vantaggioso per voi. Per quanto riguarda la manodopera, tutti i lavori che rientrano in [[Edilizia Libera]] vengono eseguiti direttamente da noi e dalla nostra rete di collaboratori. Per interventi più complessi, supervisioniamo imprese esterne per garantire i più alti standard di qualità.
-
 3. **Gestione Completa e Messa a Reddito**
 	A lavori ultimati, la nostra Ditta Individuale "Simone Testino" si occuperà della gestione a 360°:
 	* **Marketing e Visibilità:** La vostra villa entrerà a far parte del brand Coliving Liguria, beneficiando della nostra visibilità sul sito e sui canali [[Social Media]].

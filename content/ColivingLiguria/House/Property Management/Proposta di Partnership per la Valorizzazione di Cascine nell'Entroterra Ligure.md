@@ -2,9 +2,6 @@
 draft: false
 date: 2025-08-11
 ---
-> [!attention] Pagina in Aggiornamento
-> Questa pagina è stata creata di recente. Verrà aggiornata e arricchita con maggiori dettagli entro le ore 21:00 di lunedì 11 agosto.
-
 > [!Abstract] Ricerca di Partner Immobiliari
 > A seguito dell'ottenimento di fondi europei FESR, il progetto [[ColivingLiguria]] è alla ricerca di cascine o rustici nell'entroterra savonese da riqualificare e gestire attraverso un innovativo modello di partnership. Non cerchiamo un acquisto diretto, ma una collaborazione con proprietari che desiderano valorizzare il proprio immobile senza oneri di gestione, con la possibilità di una vendita futura tramite la formula dell'affitto con riscatto.
 
