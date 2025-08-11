@@ -27,3 +27,4 @@ Dato che l'immobile non è ancora stato selezionato, chiediamo ai professionisti
 Questo può essere inviato ai miei [[Contatti]].
 
 Aggiorneremo tempestivamente i professionisti che ci contatteranno non appena l'immobile sarà stato scelto, per poter finalizzare il preventivo e affidare l'incarico. La nostra valutazione si baserà non solo sull'aspetto economico, ma in modo preponderante sulle tempistiche garantite..
+
