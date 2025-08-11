@@ -1,36 +1,32 @@
 ---
 draft: false
 title: 🏡 House Renovation - Seeking Volunteers!
-date: 2025-08-01
+date: 2025-08-11
 ---
-> [!Abstract] In Short
-> Are you into creative projects, nature, and looking for a unique life experience off the beaten path? Join my project to bring a traditional Ligurian villa in the hills and at 10' from the beach back to life. I’m a 22-year-old Italian Master student in Mathematics taking a gap year to create a vibrant coliving and coworking space.
+> [!Abstract]
+> Welcome to Coliving Liguria, a project to transform traditional properties in the Italian Riviera into vibrant hubs for remote workers, volunteers, and creative minds. This page outlines our vision, our current projects, and the many ways you can join our growing community.
 
-📍 **Location:** Savona Riviera hinterland, Liguria, Italy <br> 📅 **Start Date:** Flexible from early September
+Welcome to Coliving Liguria, a project born from a desire to create a unique space where productivity, community, and nature converge. Nestled in the hills of the Ligurian hinterland, just a short drive from the sea, we are transforming traditional villas and farmhouses into homes for a new generation of creators and thinkers.
+### Get Involved and Follow Our Journey
+The best way to connect with us and follow our day-to-day progress is by joining our public WhatsApp group. It's the most direct way to get updates and chat with us.
+* **[Click here to join our WhatsApp Group](https://chat.whatsapp.com/J67Cds7idarLwZrJRNywQS?mode=ac_t)**
 
-Welcome to the Coliving Liguria project! The vision is to create a beautiful villa in the Ligurian hills, a space for remote workers to focus and for volunteers to contribute their energy to a shared home and business.
+You can also see our journey visually on our Instagram page, [@colivingliguria](https://www.instagram.com/colivingliguria), and for any specific enquiries, please see our [[Contact]] page.
+### Our Projects: What We're Working On Now
+#### The Heart of Coliving: Our First Villa
+This is the most exciting phase of our journey. We are in the pivotal stage of finalising the acquisition of our first villa, which will become the heart of Coliving Liguria. Our ambitious goal is to have the property operational and ready to welcome our first guests by the **1st of September**. You can follow every step of this crucial stage on these pages:
+* **[[House Choice]]**: See the shortlist of villas we are currently considering.
+* **[[Calendar]]**: Check our live calendar for the most up-to-date milestones and key dates.
 
-We are currently in the final stages of selecting the perfect property. You can follow the process in detail on the [[Acquisto Immobiliare - ColivingLiguria]] page (in Italian). Our goal is to find the definitive villa by the **10th of August** and to have the space ready and operational for our first guests by the **1st of September**. Of course, these timelines are ambitious, and you can find a more detailed schedule of all milestones on our [[Calendar]] page.
-
-We are looking for curious and motivated people, what matters most is your energy, openness to collaboration, and love for nature. Whether you have skills in gardening, social media, construction, or any kind of creative work, there's a place for you here.
-
-### 🏠 The Villa and Lifestyle
-The property will be a spacious traditional villa, offering each guest a private bedroom with shared access to all essential amenities, including a large kitchen, bathrooms, and common areas for relaxing or working. A stable, high-speed internet connection is a top priority from day one.
-
-The villa will be pet-friendly and also suitable for those travelling by camper van, with plenty of outdoor space. All utilities like clean water, electricity, heating, and basic furnishings will be provided. We are still defining the final details, but you can see our vision for the ideal property here: [[Acquisto Immobiliare - ColivingLiguria]]. We will update this page with photos and much more information as soon as the final choice is made.
-
-### 💻 Remote Work & How to Join
-Are you a digital nomad? We are committed to providing a reliable internet connection (aiming for  200 Mbps or more) to ensure you can work productively surrounded by nature.
-
-If you are interested in joining the project as a volunteer, a remote worker, or simply as a guest, the best way is to get in touch directly. We can discuss all the details - from accommodation costs to how you can contribute - on a case-by-case basis to find the perfect fit for you.
-
+#### We're Expanding: Property Partnerships
+As our project grows, we are actively looking for new properties to bring into the Coliving Liguria family. We specialise in taking on rustic farmhouses (`cascine`) to renovate and manage through a partnership model. If you own a property in the Ligurian hinterland and are interested in a hands-off way to bring it to life, learn more on our page about the [[Diventa Partner di Coliving Liguria|Property Partnership Programme]] (Note: Our website is bilingual, but this page is currently available in Italian only).
+#### Do you want to do the same by yourself? Project Launch Consultancy
+Drawing from our direct experience in securing EU funding and navigating Italian bureaucracy, we also help other aspiring entrepreneurs. We offer [[Project Launch Consultancy; Funding & Bureaucracy in Italy|consultancy services]] to guide you through the process of launching your own project in Italy.
+### The Vision: Life at the Villa
+Our goal is to create an environment that balances focused work with a strong sense of community and a connection to the stunning Italian landscape. Our properties will offer:
+* **Private rooms** for personal space and quiet time.
+* Spacious **shared areas**, including a large kitchen, comfortable living rooms, and dedicated co-working spaces.
+* **High-speed internet** as a top priority, ensuring a seamless remote work experience.
+* A welcoming atmosphere for **pets** and ample space for those travelling with **camper vans**.
 ---
-
-If you're interested or have any questions, don’t hesitate to reach out:
-📱 **Instagram:** [@colivingliguria](https://www.instagram.com/colivingliguria)
-📞 **WhatsApp:** +39 339 6379372
-📧 **Email:** colivingliguria@gmail.com
-
-You can also find more ways to get in touch on our [[Contact]] page.
-
-Hope to see you in the Ligurian hills soon!
+This project is founded by [[Simone Testino]] and is made possible primarily through funding from the European Union via the [[Bando Pubblico Fesr 2021-2027. OS 1.3]], published by the Region of Liguria.
