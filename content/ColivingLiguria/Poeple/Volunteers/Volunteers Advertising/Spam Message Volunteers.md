@@ -25,7 +25,7 @@ Interested in joining? The best way is to get in touch directly! We can discuss 
 
 Contact us here: 📱 Instagram: @colivingliguria - https://www.instagram.com/colivingliguria  📞 WhatsApp: +39 339 6379372 📧 Email: colivingliguria@gmail.com 
 
-For more information you can also visit our website at: https://simonetestino.pages.dev/ColivingLiguria/Poeple/Volunteers/Volunteers-Advertising/To-Share-Page
+For more information you can also visit our website at: https://simonetestino.pages.dev/ColivingLiguria/ColivingLiguria
 
 ---
 🎓 Studente a Savona? Vivi in Villa! 🏡
