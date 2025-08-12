@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2025-08-11
+date: 2025-08-12
 ---
 As part of the [[ColivingLiguria]] project, we are currently searching for a farmhouse (`cascina`) to establish a long-term partnership. Our business model is detailed in [[Diventa Partner di Coliving Liguria]], and the specific criteria for the property we are looking for are outlined in [[Proposta di Partnership per la Valorizzazione di Cascine nell'Entroterra Ligure]].
 
@@ -10,9 +10,13 @@ Below is a preliminary list of interesting properties, divided by the type of se
 * [Privato 377](https://www.idealista.it/immobile/18690377/)
 * [Privato 531](https://www.idealista.it/immobile/12277531/)
 * [Privato 579](https://www.idealista.it/immobile/30222579/)
-* [Privato 318](https://www.idealista.it/immobile/32924318/)
+* [Privato 318](https://www.idealista.it/immobile/32924318/), Dego
+	* Pier Claudio Marenco: +39 335 764 8220‬
 * [Privato 723](https://www.idealista.it/immobile/29439723/)
 * [Privato 960](https://www.idealista.it/immobile/32803960/)
+* Villa Privata
+	* ‪+39 347 345 3907‬
+	* Bardineto, Via Cesare Battisti, 42
 ### Agencies
 
 #### Vado Ligure
