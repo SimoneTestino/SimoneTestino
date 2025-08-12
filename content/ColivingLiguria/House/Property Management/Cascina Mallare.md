@@ -26,7 +26,6 @@ Considering the nearest mast is a **4G+** type, located approximately **2 km awa
 > *This space is dedicated to the future definitive agreement, which will govern the long-term partnership, the full renovation, and the income-generating management of the property.*
 
 ### LaTeX Sources for Agreements
-
 * **Temporary Loan-for-Use Agreement:** [https://www.overleaf.com/read/pcmrmsqyrnxm#ba9f20](https://www.overleaf.com/read/pcmrmsqyrnxm#ba9f20)
 * **Draft Definitive Agreement:** [https://www.overleaf.com/read/pcmrmsqyrnxm#ba9f20](https://www.overleaf.com/read/pcmrmsqyrnxm#ba9f20)
 ## Property and Structure Description

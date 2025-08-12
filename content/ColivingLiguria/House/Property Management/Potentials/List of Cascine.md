@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 date: 2025-08-12
 ---
 As part of the [[ColivingLiguria]] project, we are currently searching for a farmhouse (`cascina`) to establish a long-term partnership. Our business model is detailed in [[Diventa Partner di Coliving Liguria]], and the specific criteria for the property we are looking for are outlined in [[Proposta di Partnership per la Valorizzazione di Cascine nell'Entroterra Ligure]].
@@ -7,6 +7,7 @@ As part of the [[ColivingLiguria]] project, we are currently searching for a far
 Below is a preliminary list of interesting properties, divided by the type of seller.
 ### Privati
 * [Privato 628](https://www.idealista.it/immobile/32293628/)
+	* 17.08  - 21.08 visita
 * [Privato 377](https://www.idealista.it/immobile/18690377/)
 * [Privato 531](https://www.idealista.it/immobile/12277531/)
 * [Privato 579](https://www.idealista.it/immobile/30222579/)
