@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 date: 2025-08-12
 ---
 As part of the [[ColivingLiguria]] project, we are currently searching for a farmhouse (`cascina`) to establish a long-term partnership. Our business model is detailed in [[Diventa Partner di Coliving Liguria]], and the specific criteria for the property we are looking for are outlined in [[Proposta di Partnership per la Valorizzazione di Cascine nell'Entroterra Ligure]].
