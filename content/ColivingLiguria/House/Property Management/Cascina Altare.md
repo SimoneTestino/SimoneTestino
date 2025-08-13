@@ -17,11 +17,11 @@ It is crucial to note that, as of the date of this document, we do not own this 
 `[Insert description of property access, e.g., dirt track conditions, travel time, etc.]`
 
 ### Internet Speed Estimate
-slightly under 100 mbps
+slightly under 100 mbps with normal cellular line, probably greater if we manage to get there the antenna that takes more efficiently the same 5G netwoe. 
 
 ## Legal and Financials
 
-* **Asking Price:** €25,000 (negotiable)
+The two apartments are distinct legally, there is only one external steps that lead to the first floor wo they are probably
 
 ### Agreements
 
@@ -37,8 +37,10 @@ slightly under 100 mbps
 
 ## Property and Structure Description
 
+The house is in concrete and the roof seems to be in good conditions the exeterir of the hosu  eneds a lot of renovation the interior seems to look definitely fine. We should also consider that the area of the hosue is divided in at least trhree section, the lwoer one is divided
+
 * **Type:** Portion of a rural house (`porzione di casa rurale`)
-* **Surface Area:** 60 sqm
+* **Surface Area:** T
 * **Land Area:** Large plot of cultivable land and forest.
 * **Layout:** The property consists of rooms on the ground floor.
 * **External Structures:** Includes a large courtyard with a wood-fired brick oven, which can also be used for parking.
@@ -63,3 +65,4 @@ The goal of this phase is not the full renovation, but to make one room habitabl
 * **Minimal Systems:** Restore bathroom plumbing and connect to the electrical system for tools and basic lighting.
 * **Fixtures:** Replace the room's door and window as needed.
 * **Finishing Touches:** General cleaning of the work area.
+
