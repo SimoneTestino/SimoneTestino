@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 date: 2025-08-13
 ---
 It is crucial to note that, as of the date of this document, we do not own this property. Our path to potential ownership is a structured, multi-phase programme. This process is governed by the legal agreements detailed below, starting with a temporary 'loan-for-use' agreement that allows us to prepare a comprehensive renovation project before committing to a long-term contract.
@@ -66,3 +66,36 @@ Our acquisition strategy is a rent-to-buy programme, as it is unlikely that the 
 * **By End of October:** Complete the renovation of the house exterior.
 * **During Winter:** Complete the interior renovations.
 * **Note:** A more detailed project plan will be developed by Parisa and shared here once complete.
+
+
+Altre ricerche:
+
+[13/08/25, 21:13:26] Emanuele Garré: 8 cerve
+Anche questa azienda lavora nell’ambito del vetro. In particolare della decorazione
+del vetro.
+L’informazione importante è la dichiarazione della certificazione ISO 14001, che
+dichiara che lo smaltimento avviene seguendo norme precise. Questa certificazione
+viene conferita da enti specifici, esterni alla fabbrica, ma soprattutto, esterni alla
+piccola comunità del paese, come come ICIM, TÜV SÜD, RINA, ecc...
+8.1 fonti
+https://www.animacerve.it/company.php chrome-extension://efaidnbmnnnibpcajpcglclefi
+https://www.animacerve.it/pdf/Cerve_Report.pdf
+[13/08/25, 21:13:37] Emanuele Garré: 9 trasporti Geremia
+L’azienda Geremia è un’azienda che si occupa di trasporti su gomma. Dunque, lo
+spiazzo che si vede dal satellite situato di fronte alla casa non è altro che un parco
+mezzi.
+9.1 fonti
+https://www.autotrasportigeremia.it/ https://www.reportaziende.it/trasporti_
+geremia_societa_a_responsabilita_limitata_cl_01922290851
+[13/08/25, 21:14:05] Emanuele Garré: 10 Drycarbo
+Questa è un’azienda che si occupa di carbone e derivati, oltre a prodotti per l’ediliza
+e sottoprodotti per l’industria cementiera. Inoltre si occupa della commercializza-
+zione di tutti questi prodotti.
+12
+10.1 fonti
+https://www.europages.it/DRYCARBO-SRL/SEAC000907404-001.html https://
+atoka.io/public/it/azienda/drycarbo-srl/d6d396174e5b http://www.drycarbo.
+[13/08/25, 21:14:24] Emanuele Garré: P.S. non c'era verso che il sito dell'Arpa funzionasse
+
+
+Hanno rfiutato l'offerta di comodato.

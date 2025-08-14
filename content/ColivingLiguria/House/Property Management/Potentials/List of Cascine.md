@@ -8,15 +8,15 @@ Below is a preliminary list of interesting properties, divided by the type of se
 ### Privati
 * [Privato 628](https://www.idealista.it/immobile/32293628/)
 	* 17.08  - 21.08 visita
-* [Privato 377](https://www.idealista.it/immobile/18690377/)
-* [Privato 531](https://www.idealista.it/immobile/12277531/)
-* [Privato 579](https://www.idealista.it/immobile/30222579/), Altare
+* [Privato 377](https://www.idealista.it/immobile/18690377/), poor conditions
+* [Privato 531](https://www.idealista.it/immobile/12277531/), no terrain
+* [Privato 579](https://www.idealista.it/immobile/30222579/), Altare ==refused==
 	* Cristian, 346 353 4846; Zia, 349 214 0896
 * [Privato 318](https://www.idealista.it/immobile/32924318/), Dego
 	* Pier Claudio Marenco: +39 335 764 8220‬
 	* Abitata ancora per mesi
 * [Privato 723](https://www.idealista.it/immobile/29439723/), Piana Crixia
-* [Privato 960](https://www.idealista.it/immobile/32803960/)
+* [Privato 960](https://www.idealista.it/immobile/32803960/), Roccavignale
 * Villa Privata
 	* ‪+39 347 345 3907‬
 	* Bardineto, Via Cesare Battisti, 42
