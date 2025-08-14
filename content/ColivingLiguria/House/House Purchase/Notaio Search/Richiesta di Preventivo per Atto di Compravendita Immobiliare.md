@@ -14,7 +14,7 @@ Per permettervi di inquadrare correttamente la pratica, di seguito i dettagli fo
 * **Parte Venditrice:** Persona Fisica (privato).
 * **Oggetto dell'Atto:** Acquisto di un immobile (villa indipendente) da adibire a bene strumentale per l'attività d'impresa.
 * **Fonte dei Fondi:** L'acquisto è supportato da un contributo a fondo perduto ottenuto tramite il bando **[[Bando Pubblico Fesr 2021-2027. OS 1.3]]**. Per maggiori dettagli si veda la [[Comunicazione Esito Positivo della Domanda.pdf]].
-### Immobile Tipo di Riferimento (Caso Studio: [[Calizzano 1]])
+### Immobile Tipo di Riferimento (Caso Studio: [[Villa Calizzano]])
 Per consentirvi di formulare un preventivo di massima, utilizziamo come esempio un immobile che stiamo seriamente valutando.
 
 * **Link Annuncio:** [https://www.idealista.it/immobile/31608509/](https://www.idealista.it/immobile/31608509/)

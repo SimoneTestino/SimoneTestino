@@ -10,7 +10,7 @@ We have now created the [[Lista Caratteristiche Villa]], a template detailing al
 
 ### Preferred Villas
 - [[Bormida 1]]
-- [[Calizzano 1]]
+- [[Villa Calizzano]]
 - [[Osiglia 1]]
 ### Full Selected Villas
 - [[Calizzano 2]]

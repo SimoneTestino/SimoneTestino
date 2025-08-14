@@ -7,9 +7,6 @@ perizia comprende in primis accesso agli atti, aggiungere che c'e la delega dell
 
 poi devo anche andare a dire che peruzia e una sola, prima si fa la verifica poi se ci sono casini sii fanno altre cose ma la perizia e una sola. servono prima di andare sul posto e ci potrebbe volere un bel po di tempo.P
 
-
-
-
 - Strada rimane o no? (da sapere entrambi i casi vanno bene)
 	- Da vedere il magazzino, vogliamo essere sicuri che tutto sia a posto.
 	- Legittimita di tutto. 
@@ -19,3 +16,5 @@ poi devo anche andare a dire che peruzia e una sola, prima si fa la verifica poi
 - Assistenza sul come scrivere la proposta d'acquisto e fare un fac simile direttamente noi per poter procedere o chiedere a loro come fare
 - divisione dei terreni anche fatta entro fine settembre?
 - 20 o 40 minuti dal mare?
+
+
