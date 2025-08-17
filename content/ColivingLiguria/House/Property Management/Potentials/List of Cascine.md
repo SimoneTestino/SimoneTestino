@@ -24,7 +24,7 @@ Below is a preliminary list of interesting properties, divided by the type of se
   * Visit: **TBA**
   * Remarks: Abitata ancora per mesi.
   * Contact: Pier Claudio Marenco - `+39 335 764 8220`
-* [Cascina Roccavignale 960](https://www.idealista.it/immobile/32803960/)
+* [Cascina Roccavignale 960](https://www.idealista.it/immobile/32803960/), [[Casa Roccavignale]]
   * Visit: **TBA**, not 16.08, seems positive
 * Villa Privata Bardineto
   * Visit: Vista
