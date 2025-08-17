@@ -46,6 +46,6 @@ Per garantire la massima chiarezza, mettiamo a disposizione un fac-simile del no
 
 > [!Note] Esempio di Contratto
 > Qui potrai caricare e visionare un esempio del contratto di partnership che proponiamo.
-> ![[Esempio_Contratto_di_Gestione_Proprietà.pdf]]
-
+> 
+![[FacSimileComodato.pdf]]
 Se sei interessato a esplorare questa opportunità, contattaci per fissare un sopralluogo senza impegno. Trovi tutti i riferimenti nella nostra pagina [[Contatti]].
