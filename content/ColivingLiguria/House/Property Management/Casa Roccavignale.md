@@ -9,7 +9,8 @@ The property is a recently renovated concrete house, meaning the roof and core s
 
 The property includes two separate plots of land. Directly in front of the house is a **1,000 m² garden** with numerous mature chestnut trees. This space is not only a pleasant recreational area but also offers the opportunity to learn and use traditional local recipes involving chestnuts. Approximately 300 metres away, and accessible by car, is a second, mostly flat plot of land of **3,000 m²**.
 
-* **Property Map:** [https://maps.app.goo.gl/VTKgFWRAoTDuBJE3A](https://maps.app.goo.gl/VTKgFWRAoTDuBJE3A)
+* **Property Map:** [Google Maps](https://maps.app.goo.gl/VTKgFWRAoTDuBJE3A)
+
 Pictures and videos of the house are going to be available only after the owner signs the contract. 
 
 Internet connectivity at the house will be provided via the mobile network. The property benefits from excellent coverage, with four nearby antennas from all major Italian operators. The closest masts are [this one (covering TIM, WindTre, Iliad)](https://lteitaly.it/it/public/map.php#16/44.356662/8.1736049) and a slightly more distant [Vodafone mast](https://lteitaly.it/it/public/map.php#16/44.360981/8.1723260). By using a high-quality 4G/5G router with an external antenna, we expect to achieve a stable and constant speed of around **200 Mbps**.
