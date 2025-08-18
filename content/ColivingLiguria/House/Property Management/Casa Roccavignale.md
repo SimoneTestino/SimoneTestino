@@ -1,5 +1,5 @@
 ---
-date: 2025-08-16
+date: 2025-08-18
 draft: false
 ---
 > [!Abstract]
@@ -8,7 +8,6 @@ draft: false
 The property is a recently renovated concrete house, meaning the roof and core structure are in perfect condition. The electrical system and the main hydraulic system (water inlet and drainage) are fully functional. The interior, however, is a blank canvas, currently lacking flooring and all bathroom fixtures (WC, shower).
 
 The property includes two separate plots of land. Directly in front of the house is a **1,000 m² garden** with numerous mature chestnut trees. This space is not only a pleasant recreational area but also offers the opportunity to learn and use traditional local recipes involving chestnuts. Approximately 300 metres away, and accessible by car, is a second, mostly flat plot of land of **3,000 m²**.
-
 * **Property Map:** [Google Maps](https://maps.app.goo.gl/VTKgFWRAoTDuBJE3A)
 
 Pictures and videos of the house are going to be available only after the owner signs the contract. 
@@ -18,16 +17,12 @@ Internet connectivity at the house will be provided via the mobile network. The 
 Our plan is to complete the interior to create a high-quality living space. The initial design, which is still subject to detailed planning by Parisa, envisions two double master bedrooms, each with its own private bathroom, and a particularly large communal kitchen. The house will also be equipped with underfloor heating.
 #### Initial Living Conditions (First Weeks/Month)
 For the initial phase, living conditions will be basic. The water from the external tap is drinkable and working. A temporary shower and WC will be set up outside. As there is no active electricity contract, we will rely on [solar panels](https://www.amazon.it/-/en/Mesuvida-Portable-Charger-Foldable-Camping/dp/B0CSFWSQMX/ref=sr_1_6?crid=3MK1UJWI8EUKS&dib=eyJ2IjoiMSJ9.htgX0tCvjxqiJFukTAD5TE0-uUR7m1zyWCQeHgBrk7BPokzhF2a_hLTxeHDOp-w2In_odO3MRNZvxQ1drQMb_POxdr-V4MYMhWpTbIqHon80K4Lx7p_UmLL1gQHVKoygMxcOy-jkAINw9ipNbfcqOZx947hFLkivAhlvKovc8tcpcXqOwBCHt2oHUNpEMVtJro8HV2dZweBWhZLpYuBZDSDlCWTROXCEaUCDcRMd_NzNIyV3THHskduXDFzEeG9mBJUu5T7gj-sT2O39Wk6vqcFLjxC0OPInzK9R9DQyJ8c.nMxkiu-UVMrhkaz6bbIX_T7YB8YN58oUUkJKnfJ38b0&dib_tag=se&keywords=Solar%2Bcharger%2B60W&qid=1755456567&sprefix=solar%2Bcharger%2B60w%2Caps%2C115&sr=8-6&th=1) to charge essential devices like laptops and phones.
-
 #### Long-Term Project Options
 We are currently considering two main strategic options for the property:
-
 * **Option 1: Two Master Bedrooms with Private Bathrooms**
     This plan focuses on creating a premium internal living space, with two large master bedrooms each having an en-suite bathroom. This would be the standard configuration for the autumn and winter months.
-
 * **Option 2: Seasonal Camping & Flexible Space**
     This option involves using the 1,000 m² front garden as a small, exclusive camping area during the spring and summer months. To facilitate this, one of the two bathrooms would be made available to the campers. This would mean that during the high season, one of the master bedrooms would lose its private bathroom. Alternatively, we could explore converting one of the three cellars (`cantine`) into dedicated bathrooms for the campsite, pending a review of local regulations.
-
 #### Message Sent to the WhatsApp Community
 Below is the message shared with our community regarding the initial volunteer phase for this project. The community can be joined here: [[Whatsapp Community]].
 
