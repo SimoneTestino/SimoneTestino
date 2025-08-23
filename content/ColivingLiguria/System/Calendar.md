@@ -3,32 +3,35 @@ draft: false
 date: 2025-08-01
 ---
 > [!Warning] This Page is Updated Frequently!
-> This calendar is a live document and will change often, sometimes more than once a day, as we navigate the final steps of securing the villa. Please check back regularly for the latest updates.
+> This calendar is a live document outlining our rapid startup and expansion plans. As we move from securing our first house to building a multi-location community, these goals will be updated often. Please check back regularly for the latest news.
 ### Project Calendar & Timeline
-Welcome to the project's timeline! This page outlines the key milestones as we move towards securing our new home and welcoming the first volunteers. The process is dynamic, but here is our ambitious plan.
+Welcome to the project's live timeline! We've secured our first home, [[Casa Urbe]], and have moved from planning to action. This page outlines the key milestones as we set up our first location, expand to our second, and grow our community. Here is our ambitious plan.
 
 ---
-#### **Phase 1: The Final Choice (August 1st - August 10th)**
+#### **Phase 1: Foundational Setup at Casa Urbe (Now – End of August 2025)**
 
-This is the most crucial and fast-paced phase of the project. Our focus is on identifying and securing the perfect property.
+This is the hands-on, foundational phase. We have the keys and are focused on transforming our first property from an empty house into a vibrant home, ready for our first guests.
 
-* **Now - August 10th:** We are actively visiting and evaluating a shortlist of properties. You can see the properties we are considering on the [[House Choice]] page.
-* **Goal for August 10th:** By this date, our objective is to have selected our target villa from the list. The chosen property will be clearly marked on the [[House Choice]] page, and we aim to have already submitted our official purchase proposal.
-
----
-#### **Phase 2: Securing the Villa (August 10th - September 1st)**
-
-Once the proposal is submitted, the bureaucratic process begins. Our goal is to finalise the purchase and get the keys in hand as quickly as possible.
-
-* **Goal for September 1st:** We aim to have completed the entire purchase process and have the keys to the villa. This would allow us to welcome the first volunteers and begin setting up our new home from the start of September.
+* **Current Status:** We are operational at **[[Casa Urbe]]**! We currently have access to two apartments, providing a total of four bedrooms.
+* **Immediate Goal: Volunteer Onboarding (This Week):** We have immediate availability for our first volunteers. The primary mission is to help us set up the initial bedrooms to get them ready for our first paying guests.
+* **Parallel Goal: Digital Team Launch (This Week):** We are launching a volunteer-driven social media and customer service team. This dedicated group of professionals will work 5-10 hours every day to promote the project and manage inquiries. This initiative will be ongoing and will expand over time.
+* **Target for September 1st: Ready for First Guests:** By the beginning of September, our goal is to have essential services like hot water and full electricity operational at [[Casa Urbe]] and to welcome our very first paying guests.
 
 ---
-### **Understanding the Timeline's Uncertainty**
+#### **Phase 2: Expansion to Calizzano (September – October 2025)**
 
-It is very important to understand that this timeline is a goal, not a guarantee. The process of purchasing a property in Italy, especially when financed through a public grant, involves many steps and potential delays that are outside of our direct control.
+With our first location up and running, our focus will shift to acquiring and launching our second, larger property.
 
-If you want to understand the complexities, the legal conditions, and the variables that can influence the timeline between now and when we get the keys, the best resource is the sample purchase contract itself.
+* **Goal for Beginning of October: Secure [[Villa Calizzano]]:** We plan to finalise the acquisition of our second property, [[Villa Calizzano]].
+* **Capacity Goal: 12 Bedrooms Live:** Upon securing the villa, our objective is to immediately have 12 bedrooms available for the community in Calizzano.
 
-You can find the official contract template (in Italian) on this page: **[[Acquisto Immobiliare - ColivingLiguria]]**.
+---
+#### **Phase 3: Growth and Consolidation (November 2025 – January 2026)**
 
-> **Tip:** To read the contract, you can use your browser's built-in automatic translator (e.g., in Google Chrome, right-click and select "Translate to..."). It will allow you to understand the document in any language you like.
+This phase is focused on scaling up both locations to their full potential.
+
+* **Goal for End of December: Calizzano Upgrade:** We will complete renovation work at [[Villa Calizzano]] to expand its capacity from 12 to 15 bedrooms.
+* **Goal for Beginning of January: Full Ownership of [[Casa Urbe]]:** Our aim is to complete the rent-to-buy process for our first home, taking full ownership of the entire building.
+* **Capacity Goal: Urbe Expansion:** Full ownership will unlock the remaining apartments, adding 12 more bedrooms to our Urbe location.
+
+> **Our Vision for Early 2026:** By the beginning of January, our goal is to operate a total of **27 bedrooms** across two unique locations (15 at [[Villa Calizzano]] + 12 at [[Casa Urbe]]).

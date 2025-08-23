@@ -11,7 +11,6 @@ We have secured a fantastic independent house located in Urbe. The property is a
 * **Address:** Via Vara Superiore, 86, Urbe, Savona
 * **Property Map:** [Google Maps](https://maps.app.goo.gl/7JcA46dNVwgR5iyn6)
 ### 🛌 Accommodation and Living Situation
-
 Availability starts right now! We already have access to the first apartment, which has two double bedrooms, one kitchen, and one bathroom. We will be getting access to a second, identical apartment very soon, where we will also begin cleaning and renovation planning.
 
 * **[Video of the Apartment](https://drive.google.com/file/d/1HHkaw1RODXaCjvgQfH1JnZDLi3bSXg3Z/view?usp=share_link)**
