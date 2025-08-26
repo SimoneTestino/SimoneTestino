@@ -9,7 +9,7 @@ Hey!! You may be interested in joining ColivingLiguria as a Volunteer in Italy, 
 
 📍Location: Ligurian Riviera hinterland, 🇮🇹Italy🇮🇹 in the 🏔️Mountains🏔️ a short drive from the 🌊Sea🌊 🗓️ Calendar: We are already open, text me to book ur room! There is no Minimal or Maximal stay, we'll have a talk and discuss all the details.
 
-If you may be interested, now or anytime in the future, follow us on Instagram! You will be updated on the developments of the project (we're choosing the final villa now!) and can pick the perfect time for you to join! Instagram: @colivingliguria - [https://www.instagram.com/colivingliguria](https://www.instagram.com/colivingliguria)
+If you may be interested, now or anytime in the future, follow us on Instagram! You will be updated on the developments of the project (we're choosing the final villa now!) and can pick the perfect time for you to join! Instagram: @colivingliguria -https://www.instagram.com/colivingliguria
 
 Are you into DIY, gardening, creative projects, or just looking for a unique life experience off the beaten path? Join my project to bring a traditional Ligurian villa back to life. I am a 22-year-old Italian student taking a gap year to make this dream a reality.
 
@@ -23,11 +23,9 @@ Are you into DIY, gardening, creative projects, or just looking for a unique lif
 
 Interested in joining? The best way is to get in touch directly! We can discuss all the details—from accommodation costs to how you can contribute—on a case-by-case basis to find the perfect fit for you.
 
-Contact us here: 📱 Instagram: @colivingliguria - [https://www.instagram.com/colivingliguria](https://www.instagram.com/colivingliguria)  📞 WhatsApp: +39 339 6379372 📧 Email: colivingliguria@gmail.com
+Contact us here: 📱 Instagram: @colivingliguria - https://www.instagram.com/colivingliguria  📞 WhatsApp: +39 339 6379372 📧 Email: colivingliguria@gmail.com
 
-  
-
-For more information you can also visit our website at: [https://simonetestino.pages.dev/ColivingLiguria/ColivingLiguria](https://simonetestino.pages.dev/ColivingLiguria/ColivingLiguria)
+For more information you can also visit our website at: https://simonetestino.pages.dev/ColivingLiguria/ColivingLiguria
 
 ---
 🎓 Studente a Savona? Vivi in Villa! 🏡

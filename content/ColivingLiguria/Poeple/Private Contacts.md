@@ -1,6 +1,6 @@
 ---
 draft: true
-date: 2025-08-11
+date: 2025-08-24
 ---
 I use the same program to write this website as I do for my personal notes. The following is a section from my private notes, intended to remain confidential. I keep these notes to track all the people who get in touch with me and who could be useful for the project in the future.
 
@@ -17,6 +17,15 @@ I use the same program to write this website as I do for my personal notes. The 
 *Contacts for navigating Italian bureaucracy, permits, and technical requirements.*
 - **Samuele Cutaia:** Geometra (Surveyor).
   - **Contact:** `[Add contact details here]`
+- **Architetta (Architect):**
+  - **Contact:** `+1 (301) 270‑1801`
+  - **Notes:** Offered to help with the project and is planning to come in Fall 2026.
+- **Parisa Kalantari:**
+  - **Role:** Interior Designer.
+  - **Contact:** `+39 344 441 9390`
+  - **Notes:** Located in Milan, could help for free in the upcoming year and visit our locations occasionally.
+- **Nicola Iacobone:**
+  - **Contact/Link:** https://www.comune.genova.it/amministrazione/personale-amministrativo/nicola-iacobone
 
 ### 📈 Competitors & Market Landscape
 *A list of other projects or businesses in the area to monitor for inspiration or market analysis.*
@@ -55,6 +64,7 @@ I use the same program to write this website as I do for my personal notes. The 
   - **Role:** Host Acquisition Business Development Representative
   - **Company:** Worldpackers.com
 
-
-
-https://www.comune.genova.it/amministrazione/personale-amministrativo/nicola-iacobone
+#### Creative & Digital
+- **Social Media Manager:**
+  - **Contact:** `+39 351 6323703`
+  - **Notes:** Offered to help for free.
