@@ -16,16 +16,16 @@ Potete anche seguire il nostro percorso visivamente sulla nostra pagina Instagra
 Questa è la fase più entusiasmante del nostro viaggio. Abbiamo le chiavi! Il progetto è passato ufficialmente dalla pianificazione alla realtà, e la nostra prima casa di coliving sta prendendo forma nel bellissimo comune di **Urbe (SV)**. Siamo sul posto, stiamo allestendo l'infrastruttura di base e preparando la casa per accogliere la nostra comunità.
 
 Potete seguire ogni passo di questa fase cruciale sulla pagina dedicata alla casa, che include dettagli sulla proprietà, i nostri piani immediati e la situazione abitativa attuale.
-* **[[Casa Urbe]]**: Scopri la nostra nuova casa e ricevi tutti gli ultimi aggiornamenti.
+* **[[Vara Superiore]]**: Scopri la nostra nuova casa e ricevi tutti gli ultimi aggiornamenti.
 #### Unisciti a Noi sul Campo: Posizioni Aperte per Volontari
 Questa è un'opportunità unica per essere coinvolti fin dall'inizio. Stiamo cercando **due volontari** che si uniscano a noi immediatamente per questa fase di fondazione. I ruoli disponibili sono:
 1.  **Supporto alla Comunità e alle Attività Operative (Pratico)**
 2.  **Narratore Digitale e Supporto al Progetto (Ibrido)**
 
-Se siete interessati a contribuire a costruire questo progetto dalle fondamenta, trovate tutti i dettagli sulla nostra pagina **[[Casa Urbe]]**.
+Se siete interessati a contribuire a costruire questo progetto dalle fondamenta, trovate tutti i dettagli sulla nostra pagina **[[Vara Superiore]]**.
 
 #### In Arrivo: Stanze per Lavoratori da Remoto
-Mentre ristrutturiamo e arrediamo la nostra casa a Urbe, stiamo pianificando la nostra offerta per nomadi digitali e lavoratori da remoto. Prevediamo di poter offrire camere matrimoniali private con servizi condivisi a partire da **300€ al mese**. Tenete d'occhio la pagina [[Casa Urbe]] e il nostro gruppo WhatsApp per la data di lancio ufficiale.
+Mentre ristrutturiamo e arrediamo la nostra casa a Urbe, stiamo pianificando la nostra offerta per nomadi digitali e lavoratori da remoto. Prevediamo di poter offrire camere matrimoniali private con servizi condivisi a partire da **300€ al mese**. Tenete d'occhio la pagina [[Vara Superiore]] e il nostro gruppo WhatsApp per la data di lancio ufficiale.
 
 #### Ci Stiamo Espandendo: Partnership Immobiliari
 Man mano che il nostro progetto cresce, siamo attivamente alla ricerca di nuove proprietà da integrare nella famiglia di Coliving Liguria. Siamo specializzati nel prendere in gestione casali rustici (`cascine`) da ristrutturare e gestire attraverso un modello di partnership. Se possedete una proprietà nell'entroterra ligure e siete interessati a un modo per valorizzarla senza dovervene occupare direttamente, scoprite di più sulla nostra pagina dedicata al [[Diventa Partner di Coliving Liguria|Programma di Partnership Immobiliare]] (Nota: il nostro sito è bilingue, ma questa pagina è attualmente disponibile solo in italiano).
@@ -36,7 +36,7 @@ Il nostro obiettivo è creare un ambiente che equilibri il lavoro concentrato co
 * **Stanze private** per spazio personale e tranquillità.
 * Spaziose **aree condivise**, tra cui una grande cucina, soggiorni confortevoli e spazi di co-working dedicati.
 * **Internet ad alta velocità** come priorità assoluta, per garantire un'esperienza di lavoro da remoto senza interruzioni.
-* Un'atmosfera accogliente per gli **animali domestici**. (Nota: la nostra policy per la casa di Urbe è ancora in fase di definizione durante questa fase iniziale. Si prega di consultare la pagina [[Casa Urbe]] per gli ultimi aggiornamenti.)
+* Un'atmosfera accogliente per gli **animali domestici**. (Nota: la nostra policy per la casa di Urbe è ancora in fase di definizione durante questa fase iniziale. Si prega di consultare la pagina [[Vara Superiore]] per gli ultimi aggiornamenti.)
 * Ampio spazio per chi viaggia con **camper**.
 ---
 _Questo progetto è fondato da [[Simone Testino]] ed è reso possibile principalmente grazie ai finanziamenti dell'Unione Europea tramite il [[Bando Pubblico Fesr 2021-2027. OS 1.3]], pubblicato dalla Regione Liguria._

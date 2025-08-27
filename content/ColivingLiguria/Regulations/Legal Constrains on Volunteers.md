@@ -1,28 +1,39 @@
 ---
 draft: false
-date: 2025-06-04
+date: 2025-08-27
 ---
-As of June 2025, it's essential to clarify the project's legal standing and adjust the terminology used on this website accordingly. The current language aims for natural communication but lacks the legal precision required. Notably, the term *volunteer* is no longer appropriate in this context. The project is not an *Ente del Terzo Settore* (non-profit organisation) as it is intended to remain small, involving no more than seven individuals at any given time.
+> [!Abstract]
+> It is essential to clarify the legal standing of our project and the nature of the relationship with our residents. This page outlines the formal legal framework we operate under, moving away from informal terms to ensure full compliance with Italian law.
+### A Note on the Term "Volunteer"
+On this website, you may occasionally encounter the general term "volunteer." We use this as a commonly understood term for individuals who wish to collaborate and participate in the life of our community. However, it is crucial to understand that, from a legal and fiscal standpoint, **none of our collaborators are volunteers**. The project is not an *Ente del Terzo Settore* (a non-profit or third-sector entity), and all relationships are structured according to one of the formal legal models detailed below.
+### Our Collaboration Models in Detail
 
-This arrangement does not constitute paid employment, as there is *no work* and *no payment*. I do not provide any form of compensation, not even *in natura*. When individuals follow the guidelines outlined in [[Task Management]], they are not performing work for my direct benefit. Instead, they are granted a *comodato d'uso* (loan for use) of a portion of the house, governed by [Article 1803 of the Italian Civil Code](https://www.brocardi.it/codice-civile/libro-quarto/titolo-iii/capo-xiv/art1803.html).
+Every individual staying at Coliving Liguria falls into one of the following legal categories:
 
-Tasks listed in [[Task Management]] that are currently planned or assigned to residents fall into two categories:
+1.  **`Comodatario` (Resident/Guest)**
+    This is the primary framework for individuals who reside with us and participate in the daily life of the house. They are not employees or volunteers. Their relationship is governed by a **`comodato d'uso`** (loan for use) agreement. Their responsibilities are limited to the normal upkeep and care of the property, as already outlined by the Italian Civil Code, not work that is directly functional to the business.
 
-1. **Informal Co-living Organisation**: Activities like daily apartment cleaning and daily cooking that establish our daily routines as a small co-living community.
+2.  **Employee of Coliving Liguria**
+    Individuals who perform specific tasks directly for the benefit of the Coliving Liguria business are formally employed. This can take the form of a **`lavoro occasionale`** (occasional work contract) for short-term or sporadic tasks, or may evolve into a proper long-term employment contract in the future.
 
-2. **Maintenance of the *Bene Comodato***: Tasks aimed at maintaining the property itself. These activities serve the property, not me personally, nor any of the Business Segments. Should any of these segments materialise, individuals may be [hired](https://www.webcolf.com/risorse/notizie-su-lavoro-domestico-e-badanti/articoli-per-argomenti/349-contratto-di-comodato-e-convivenza.html) with comodatum as part or all of their compensation.
+3.  **Independent Entrepreneur**
+    Some residents may be developing their own independent projects. In this case, they are not working for Coliving Liguria but are clients who **rent spaces, tools, and resources** from us to advance their own business. This relationship is governed by a formal rental or service agreement, as outlined on our [[Propose a Project]] page.
 
-Tasks that do not involve simple co-living organisation are directly related to the [obligations of the *comodatario*](https://www.brocardi.it/codice-civile/libro-quarto/titolo-iii/capo-xiv/art1804.html):
+---
 
-> The borrower must guard and preserve the item with the diligence of a prudent person, and may only use it according to the agreement or its nature.
+### The "Comodato d'Uso" Model in Depth
+The relationship between the project and its residents (`Comodatario`) is governed by a **`comodato d'uso`** (loan for use) agreement, as defined by [Article 1803 of the Italian Civil Code](https://www.brocardi.it/codice-civile/libro-quarto/titolo-iii/capo-xiv/art1803.html). This is not an employment relationship, as there is **no work and no payment**. Residents are granted the use of a portion of the house, and their activities are framed within the legal obligations of a *comodatario* (the person receiving the loan for use).
 
-To clarify, the term  [*diligence of a prudent person*](https://www.brocardi.it/dizionario/1533.html) (Italian: *diligenza del buon padre di famiglia*) refers to the standard of care expected from an average, reasonable individual in fulfilling obligations. This concept, rooted in Roman law, is codified in Article 1176 of the Italian Civil Code. It implies that the *comodatario* must use the property responsibly, ensuring its preservation and refraining from any misuse.
+#### Nature of Tasks & Responsibilities
+The tasks undertaken by residents are not considered work performed for the direct benefit of the business or its owner. Instead, they fall into two distinct categories:
 
-Regarding the division of expenses mentioned in [[Volunteers#Shared Expenses]], they align with [Article 1808 of the Italian Civil Code](https://www.brocardi.it/codice-civile/libro-quarto/titolo-iii/capo-xiv/art1808.html):
+1.  **Informal Co-living Organisation**: Activities such as daily cleaning and cooking that are part of establishing a shared routine within our small community.
+2.  **Maintenance of the Property**: Tasks aimed at preserving the property itself. This responsibility is codified in [Article 1804 of the Italian Civil Code](https://www.brocardi.it/codice-civile/libro-quarto/titolo-iii/capo-xiv/art1804.html), which states:
 
-> The borrower has no right to reimbursement for use-related expenses but is entitled to reimbursement for necessary and urgent extraordinary maintenance.
+> The borrower must guard and preserve the item with the diligence of a prudent person (*diligenza del buon padre di famiglia*), and may only use it according to the agreement or its nature.
 
-As detailed in [[Volunteers#Sharing Utility Costs]], such expenses will be shared among all individuals receiving the comodatum.
+#### Shared Expenses
+The arrangement for shared expenses, detailed in [[Volunteers#Shared Expenses]], is also consistent with the `comodato` framework. [Article 1808 of the Italian Civil Code](https://www.brocardi.it/codice-civile/libro-quarto/titolo-iii/capo-xiv/art1808.html) clarifies that the borrower is responsible for use-related expenses. As such, utility costs will be shared among all individuals residing in the property under the `comodato` agreement.
 
 ---
   
