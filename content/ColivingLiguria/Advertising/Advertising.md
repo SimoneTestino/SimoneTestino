@@ -8,15 +8,14 @@ At Coliving Liguria, we are looking to engage with two primary groups of people:
 1.  **Collaborators:** Individuals who wish to participate in the life of our community. This is a general term for residents who align with our vision and contribute to the house's atmosphere and projects in various legally defined ways. You can find more on our [[Ads for Volunteers|recruitment strategies for collaborators here]].
 2.  **Customers:** Guests who book a stay with us for short or long-term periods. Our approach to attracting them is detailed in our page on [[Ads for Customers]].
 
-Our communication and marketing methods are tailored to these different groups. For a detailed breakdown of our customer segments and how we target them, please refer to our [[Rentals Customer Matrix]] page.
+Our communication and marketing methods are tailored to these different groups, with our [[Whatsapp Community]] serving as a central hub for interaction. For a detailed breakdown of our customer segments, please refer to our [[Rentals Customer Matrix]] page.
 
 The following sections detail the social media strategies that our collaborators can engage in.
 ### Our Collaborative Social Media Framework
-
 It is essential to understand the legal premise of our collaborative model. The social media tasks outlined here are **not framed as work performed for Coliving Liguria**. Instead, they are considered independent activities undertaken by collaborators who are developing their own projects while in residence.
 
-These individuals are formally **renting spaces and resources from Coliving Liguria** to build their own ventures, such as a photography school or language courses. The social media work they perform has a dual benefit: it primarily promotes their own project, and in doing so, it also enhances the visibility and appeal of Coliving Liguria. For instance, a resident developing a photography school would manage social media to attract students, which simultaneously showcases the vibrant, creative environment of our location.
-### Key Social Media Tasks & Strategies
+These individuals are formally **renting spaces and resources from Coliving Liguria** to build their own ventures, such as a photography school or language courses. The social media work they perform has a dual benefit: it primarily promotes their own project, and in doing so, it also enhances the visibility and appeal of Coliving Liguria. This advertising is therefore done in collaboration with these external ventures, a list of which can be found on our [[Supplementary Projects]] page. This structure ensures that everyone is working for themselves, and no employment relationships exist unless formally established by one of the supplementary projects themselves.
+### Key Social media Tasks & Strategies
 
 #### 1. Facebook Group Outreach
 
