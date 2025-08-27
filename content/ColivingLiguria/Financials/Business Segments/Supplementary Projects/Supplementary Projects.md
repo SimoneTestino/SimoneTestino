@@ -19,3 +19,5 @@ There are currently no active supplementary projects. Please check our [[Calenda
 #### Projects in the Planning Phase
 * **[[Photography Course by Chris]]**
     * *A project to offer professional photography courses and workshops.*
+* [[Private Teaching by Simone]]
+	* _Private lessons offered by [[Simone Testino]] in his areas of expertise that can be combined with short stays at [[ColivingLiguria]]._
