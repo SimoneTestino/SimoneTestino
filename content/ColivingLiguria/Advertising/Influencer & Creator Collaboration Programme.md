@@ -2,7 +2,6 @@
 draft: false
 date: 2025-08-03
 ---
-
 > [!Abstract]
 > This page outlines a special, limited-time collaboration offer for content creators and influencers. As we launch Coliving Liguria, we are seeking to partner with creative individuals to help share our story. In exchange for promotion, we are offering free or heavily discounted stays at our villa. This is a unique opportunity to experience the Ligurian countryside while helping us grow our community from the very beginning.
 

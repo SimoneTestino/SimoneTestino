@@ -1,7 +1,6 @@
 ---
 date: 2025-08-27
 ---
-
 > [!Abstract]
 > This page outlines the strategic timeline for our new headquarters in Vara Superiore. The next three months are a foundational period dedicated to detailed planning, initial improvements, and structuring the long-term future of the project at this location.
 ### Phase 1: Foundation & Planning (September 2025)
