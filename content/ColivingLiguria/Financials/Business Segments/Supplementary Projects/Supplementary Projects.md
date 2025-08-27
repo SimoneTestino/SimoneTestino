@@ -1,5 +1,6 @@
 ---
 date: 2025-08-27
+draft: false
 ---
 > [!Abstract]
 > This page serves as a directory for all the independent ventures and projects that are developed and run by residents at Coliving Liguria. These projects are an integral part of our ecosystem, fostering a dynamic and entrepreneurial environment.
