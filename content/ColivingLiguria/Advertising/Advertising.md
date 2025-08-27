@@ -29,7 +29,7 @@ A primary task is to engage with relevant communities on Facebook to attract gue
     3.  **Engage Authentically:** Post the messages and actively participate in conversations, responding to comments and inquiries in a helpful and authentic manner.
 
 #### 2. Influencer & Creator Collaborations
-Another key strategy is to partner with content creators and influencers whose audience aligns with our values. This involves identifying potential partners and developing mutually beneficial collaboration proposals, as detailed on our [[Influencer & Creator Collaborations]] page.
+Another key strategy is to partner with content creators and influencers whose audience aligns with our values. This involves identifying potential partners and developing mutually beneficial collaboration proposals, as detailed on our [[Influencer & Creator Collaboration Programme]] page.
 
 ---
 
