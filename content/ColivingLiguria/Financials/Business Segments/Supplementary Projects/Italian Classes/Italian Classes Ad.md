@@ -3,7 +3,7 @@ date: 2025-08-28
 title: Insegnante di Italiano a Coliving Liguria
 ---
 > [!Abstract]
-> Stiamo cercando un insegnante di italiano intraprendente che voglia unirsi alla nostra community, avviare la propria attività di insegnamento in un contesto internazionale e vivere un'esperienza unica in Liguria. Leggi di seguito per scoprire i dettagli di questa entusiasmante opportunità.
+> Stiamo cercando un insegnante di italiano intraprendente che voglia unirsi alla nostra community, avviare la propria attività di insegnamento in un contesto internazionale e vivere un'esperienza unica in Liguria. Ci occupiamo noi di offrire l'alloggio in una delle nostre strutture come parte della retribuzione.
 
 Il progetto **[[ColivingLiguria]]**, reso possibile grazie ai [[Bando Pubblico Fesr 2021-2027. OS 1.3|fondi dell'Unione Europea]], sta crescendo e, con esso, la nostra community di studenti e lavoratori da remoto provenienti da tutto il mondo. Per arricchire la loro esperienza tra le varie [[Supplementary Projects|attività]] che offriamo, cerchiamo un insegnante che possa offrire corsi di lingua italiana direttamente all'interno delle nostre strutture.
 
