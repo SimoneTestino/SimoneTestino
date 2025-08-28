@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2025-08-01
+date: 2025-08-28
 ---
 > [!Warning] This Page is Updated Frequently!
 > This calendar is a live document outlining our rapid startup and expansion plans. As we move from securing our first house to building a multi-location community, these goals will be updated often. Please check back regularly for the latest news.
@@ -8,7 +8,7 @@ date: 2025-08-01
 Welcome to the project's live timeline! We've secured our first home, [[Vara Superiore]], and have moved from planning to action. This page outlines the key milestones as we set up our first location, expand to our second, and grow our community. Here is our ambitious plan.
 
 ---
-#### **Phase 1: Foundational Setup at Casa Urbe (Now – End of August 2025)**
+#### **Phase 1: Foundational Setup at Casa Urbe (End of August 2025)**
 
 This is the hands-on, foundational phase. We have the keys and are focused on transforming our first property from an empty house into a vibrant home, ready for our first guests.
 

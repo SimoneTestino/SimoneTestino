@@ -7,4 +7,4 @@ I seguenti indirizzi sono reperibili a full time, si prega di includere me, Simo
 	- +39 339 637 9372
 	- si veda inoltre [[Contacts]]
 
-Siamo inoltre presenti sui [[Social Media]], in particolare si veda _Instagram_: [@colivingliguria](https://www.instagram.com/colivingliguria?igsh=MXd0Zm1paHJma3R0ag%3D%3D&utm_source=qr).
+Siamo inoltre presenti sui [[Social Media]], in particolare si veda _Instagram_: [@colivingliguria](https://www.instagram.com/colivingliguria).
