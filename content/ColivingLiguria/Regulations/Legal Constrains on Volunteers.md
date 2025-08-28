@@ -7,15 +7,11 @@ date: 2025-08-27
 ### A Note on the Term "Volunteer"
 On this website, you may occasionally encounter the general term "volunteer." We use this as a commonly understood term for individuals who wish to collaborate and participate in the life of our community. However, it is crucial to understand that, from a legal and fiscal standpoint, **none of our collaborators are volunteers**. The project is not an *Ente del Terzo Settore* (a non-profit or third-sector entity), and all relationships are structured according to one of the formal legal models detailed below.
 ### Our Collaboration Models in Detail
-
 Every individual staying at Coliving Liguria falls into one of the following legal categories:
-
 1.  **`Comodatario` (Resident/Guest)**
     This is the primary framework for individuals who reside with us and participate in the daily life of the house. They are not employees or volunteers. Their relationship is governed by a **`comodato d'uso`** (loan for use) agreement. Their responsibilities are limited to the normal upkeep and care of the property, as already outlined by the Italian Civil Code, not work that is directly functional to the business.
-
 2.  **Employee of Coliving Liguria**
     Individuals who perform specific tasks directly for the benefit of the Coliving Liguria business are formally employed. This can take the form of a **`lavoro occasionale`** (occasional work contract) for short-term or sporadic tasks, or may evolve into a proper long-term employment contract in the future.
-
 3.  **Independent Entrepreneur**
     Some residents may be developing their own independent projects. In this case, they are not working for Coliving Liguria but are clients who **rent spaces, tools, and resources** from us to advance their own business. This relationship is governed by a formal rental or service agreement, as outlined on our [[Propose a Project]] page.
 
