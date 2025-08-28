@@ -17,7 +17,11 @@ Below is a list of the projects currently active or in the planning phase at Col
 #### Active Projects
 There are currently no active supplementary projects. Please check our [[Calendar]] for the latest updates and launch dates.
 #### Projects in the Planning Phase
+* **[[Italian Classes]]**
+    * *A project to offer Italian language courses to our international residents and guests.*
 * **[[Photography Course by Chris]]**
     * *A project to offer professional photography courses and workshops.*
-* [[Private Teaching by Simone]]
+* **[[Private Teaching by Simone]]**
 	* _Private lessons offered by [[Simone Testino]] in his areas of expertise that can be combined with short stays at [[ColivingLiguria]]._
+* **[[Downhill Tracks]]**
+    * *A project to design and build a network of Enduro/Downhill mountain bike trails accessible from our properties.*
