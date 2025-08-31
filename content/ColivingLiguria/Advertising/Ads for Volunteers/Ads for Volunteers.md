@@ -1,5 +1,3 @@
-# Volunteer & Collaborator Recruitment Strategy
-
 > [!Abstract]
 > This page outlines our strategy for finding and engaging with individuals who wish to collaborate with the Coliving Liguria project. It details the platforms we will use for outreach and the long-term vision for how these collaborators can become integral parts of our community.
 
