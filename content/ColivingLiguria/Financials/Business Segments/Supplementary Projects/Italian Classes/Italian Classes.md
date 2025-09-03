@@ -5,4 +5,5 @@ draft: true
 Applicants
 - Aurora Mannarini
 - Elvira Vigliano
-- Eleonora Manicone
+- Eleonora Manicone, https://www.instagram.com/elemanicone?igsh=MTNjb3htaDFxazMzcw==
+- 
