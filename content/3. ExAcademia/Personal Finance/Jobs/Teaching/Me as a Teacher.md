@@ -21,7 +21,7 @@ Durante lo sviluppo dei [[Futura Abstract and Spacial Logic Quizzes|Quiz di Logi
 Questa esperienza mi ha portato a sviluppare una proposta per innovare il materiale didattico di Futura: la **creazione di video-lezioni animate** per rendere concetti complessi, soprattutto in matematica, visivamente accattivanti e più semplici da comprendere.
 ### Competenze Linguistiche
 Sono madrelingua italiano e ho raggiunto un livello di padronanza C1 sia in inglese che in tedesco, come attestato dalle seguenti certificazioni:
-* **Inglese**: [[CAE English Certificate (C1).pdf|Certificato CAE (C1)]]
+* **Inglese**: [[CAE-English-Certificate-(C1).pdf|Certificato CAE (C1)]]
 * **Tedesco**: [[TestDaf German Certificate (C1).pdf|Certificato TestDaf (C1)]]
 
 Delle lauree sopra menzionate, ho conseguito le triennali completamente in lingua tedesca e la magistrale in lingua inglese.
