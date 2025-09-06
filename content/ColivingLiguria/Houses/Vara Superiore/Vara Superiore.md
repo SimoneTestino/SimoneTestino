@@ -1,6 +1,6 @@
 ---
 date: 2025-08-19
-draft: false
+draft: true
 ---
 > [!Abstract]
 > Great news, we have the house! This page is the official hub for our new headquarters in Urbe. We have the keys, and the project is now entering its most exciting phase. This document outlines the property's details, our initial renovation and operational plans, and how you can be one of the first to get involved with the [[ColivingLiguria]] project on the ground.

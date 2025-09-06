@@ -15,10 +15,19 @@ La mia passione per l'insegnamento si è concretizzata nella collaborazione con 
 * **Docente per Test di Ammissione Universitari**: Ho tenuto un **[[Corso per Professioni Sanitarie]]** intensivo per la preparazione ai test di accesso all'università. È stato un percorso di due settimane (4 ore al giorno) in cui ho insegnato la parte di teoria ed esercizi di Logica, Matematica e Fisica, producendo in autonomia tutto il materiale necessario per una classe online.
 * **Sviluppo di Materiale Didattico (Marzo 2025)**: Ho realizzato due manuali completi per la preparazione alla prova orale di matematica per i concorsi di Aeronautica ed Esercito. Un lavoro che ha prodotto oltre 230 pagine di contenuto in circa 8 giorni. Per maggiori dettagli, vedi [[Futura Math Didactic Document|Documentazione Didattica di Matematica per Futura]].
 * **Tutoraggio (Giugno 2024 - Settembre 2024)**: Per alcuni mesi ho svolto il ruolo di [[Futura Tutor|Tutor]] in matematica e tedesco. Ho scelto di interrompere questa specifica attività a causa della retribuzione di 15€/ora, non competitiva rispetto agli altri miei impegni, per concentrarmi sulle docenze a più alto valore aggiunto.
-### Proposta Innovativa: Video Didattici Animati con Manim
-Durante lo sviluppo dei [[Futura Abstract and Spacial Logic Quizzes|Quiz di Logica Astratta e Spaziale]], ho scoperto la potenza e l'accessibilità di **[Manim](https://www.manim.community)**, una libreria di animazione in Python usata per creare spiegazioni matematiche intuitive e di alta qualità, resa celebre dal canale YouTube *[3Blue1Brown](https://www.youtube.com/c/3blue1brown)*.
+### Strumenti Tecnici
+Nella creazione di materiale didattico, utilizzo strumenti specifici che mi permettono di produrre contenuti di alta qualità, sia in formato statico (come presentazioni e testi in PDF) sia in formato dinamico (come video e animazioni interattive). Di seguito presento i due strumenti principali che definiscono il mio approccio.
+##### Il Mio Metodo di Lavoro: Qualità e Flessibilità con $\LaTeX$
+Per la creazione di tutto il mio materiale didattico utilizzo esclusivamente **$\LaTeX$**, lo standard accademico mondiale per la documentazione scientifica. Questo approccio basato su codice garantisce:
+* **Qualità Professionale**: Documenti impeccabili con una gestione delle formule matematiche e una cura tipografica di livello editoriale.
+* **Adattabilità Totale**: La capacità di sviluppare template grafici personalizzati per replicare fedelmente lo stile di qualsiasi azienda, come ho già fatto per Futura.
+* **Massima Efficienza**: Un flusso di lavoro ottimizzato per la produzione rapida di materiale complesso, che non dipende da interfacce grafiche come PowerPoint o Google Slides.
 
-Questa esperienza mi ha portato a sviluppare una proposta per innovare il materiale didattico di Futura: la **creazione di video-lezioni animate** per rendere concetti complessi, soprattutto in matematica, visivamente accattivanti e più semplici da comprendere.
+Questo metodo è un punto fermo e non negoziabile del mio lavoro, poiché assicura i più alti standard di qualità e precisione. Per maggiori informazioni, puoi consultare il [sito ufficiale del progetto $\LaTeX$](https://www.latex-project.org/get/).
+##### Proposta Innovativa: Video Didattici Animati con Manim
+Durante lo sviluppo dei [[Futura Abstract and Spacial Logic Quizzes|Quiz di Logica Astratta e Spaziale]], ho approfondito l'uso di **[Manim](https://www.manim.community)**, una libreria di animazione in Python resa celebre dal canale YouTube *[3Blue1Brown](https://www.youtube.com/c/3blue1brown)*.
+
+Questa esperienza mi ha portato a sviluppare una proposta per innovare la didattica: la **creazione di video-lezioni animate** per rendere concetti complessi, soprattutto in matematica e fisica, visivamente accattivanti e più semplici da comprendere, trasformando lezioni tradizionali in esperienze formative dinamiche e memorabili.
 ### Competenze Linguistiche
 Sono madrelingua italiano e ho raggiunto un livello di padronanza C1 sia in inglese che in tedesco, come attestato dalle seguenti certificazioni:
 * **Inglese**: [[CAE-English-Certificate-(C1).pdf|Certificato CAE (C1)]]

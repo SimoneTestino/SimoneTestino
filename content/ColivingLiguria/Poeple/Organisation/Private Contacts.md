@@ -68,3 +68,7 @@ I use the same program to write this website as I do for my personal notes. The 
 - **Social Media Manager:**
   - **Contact:** `+39 351 6323703`
   - **Notes:** Offered to help for free.
+
+- **Digital Marketer**:
+	- **Contact:** ‪`+39 346 214 3400‬`
+	- **Notes:** We met, seems competent, would like to be employed, lives in Savona but would not move.
