@@ -3,44 +3,26 @@ draft: false
 date: 2025-08-28
 ---
 > [!Warning] This Page is Updated Frequently!
-> This calendar is a live document outlining our rapid startup and expansion plans. As we move from securing our first house to building a multi-location community, these goals will be updated often. Please check back regularly for the latest news.
+> This calendar is a live document outlining our current plans and future ambitions. As we move towards securing our first house and building our community, these goals will be updated often. Please check back regularly for the latest news.
 ### Project Calendar & Timeline
-Welcome to the project's live timeline! We've secured our first home and have moved from planning to action. This page outlines the key high-level milestones for our projects.
-
-For a more detailed, month-by-month breakdown of our current focus, please see our dedicated page for the **[[Vara Superiore]]** project.
+Welcome to the project's live timeline! We are currently in a temporary operational phase while we finalise the acquisition of our first permanent property. This page outlines the key milestones for the upcoming period.
 
 ---
-#### **Phase 1: Planning & Foundation at Vara Superiore (September – November 2025)**
+#### **Phase 1: Temporary Base & Property Search (Now – 5th October 2025)**
+This is our current, hands-on phase focused on finalising the purchase of our first home.
 
-This is the current, hands-on foundational phase. We have access to the property and are focused on detailed planning and initial improvements to structure a long-term agreement with the owner.
-
-* **Early September: Contract Finalisation & Initial Setup**
-    Our first goal is to sign the temporary 3-month management agreement for the first two apartments. We will immediately begin the initial setup and onboard the first collaborators.
-
-* **End of September: Digital Twin Creation**
-    We will complete a detailed 3D model of the entire 300 m² property, which will serve as the basis for the comprehensive renovation plan.
-
-* **End of October: Comprehensive Project Plan**
-    We will finalise a detailed plan that includes renovation specifics, financial projections, and the proposed purchase price and conditions for a long-term agreement.
-
-* **End of November: Final Proposal to the Owner**
-    The initial three-month period culminates with the presentation of a formal contract proposal to the owner, outlining the terms for proceeding with the acquisition or long-term management of the house.
+* **Current Status:** We are based in a temporary rented apartment in Giusvalla, which serves as our operational hub. Our stay here is planned until the 5th of October 2025.
+* **Primary Objective:** Our main goal during this period is to identify and complete the purchase of our first permanent villa.
 
 ---
-#### **Phase 2: Expansion to Calizzano (Anticipated Q4 2025 – Q1 2026)**
+#### **Phase 2: Launch of Our First Home (From 5th October 2025)**
 
-With our first location structured, our focus will shift to acquiring and launching our second, larger property.
+Immediately following our temporary stay, the project will move into its new home.
 
-* **Goal for Beginning of October: Secure [[Villa Calizzano]]:** We plan to finalise the acquisition of our second property, [[Villa Calizzano]].
-* **Capacity Goal: 12 Bedrooms Live:** Upon securing the villa, our objective is to immediately have 12 bedrooms available for the community in Calizzano.
+* **The Goal:** To have a house purchased and to move into our new, permanent location.
+* **Next Steps:** Once the property is secured, we will begin the detailed planning for renovations, operations, and welcoming our first residents and collaborators.
 
 ---
-#### **Phase 3: Growth and Consolidation (Anticipated Q1 2026)**
+#### **Future Expansion**
 
-This phase is focused on scaling up both locations to their full potential.
-
-* **Goal for End of December: Calizzano Upgrade:** We will complete renovation work at [[Villa Calizzano]] to expand its capacity from 12 to 15 bedrooms.
-* **Goal for Beginning of January: Full Ownership of [[Vara Superiore]]:** Following the proposal in November, our aim is to complete the rent-to-buy process for our first home, taking full ownership of the entire building.
-* **Capacity Goal: Urbe Expansion:** Full ownership will unlock the remaining apartments, adding 12 more bedrooms at our [[Vara Superiore]] location.
-
-> **Our Vision for Early 2026:** By the beginning of January, our goal is to operate a total of **27 bedrooms** across two unique locations (15 at [[Villa Calizzano]] + 12 at [[Vara Superiore]]).
+Our long-term vision remains ambitious. We plan to have a second villa under our management and to operate a total of 25-30 bedrooms by early 2026. This calendar will be updated with specific locations and detailed timelines as soon as our first property is secured.
