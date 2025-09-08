@@ -6,8 +6,6 @@ title: ColivingLiguria for Startups and Cofounders
 > [!Abstract]
 > I'm [[Simone Testino]], and I'm currently developing two main projects: [[ColivingLiguria]], which transforms traditional villas into vibrant hubs for remote workers and creatives, and [[Luna]], a startup focused on innovative event and industrial lighting. Coliving Liguria is designed as an ecosystem to foster new ventures. We offer space and support for co-founders for our startups, dedicated contributors, and entrepreneurs who want to develop their own projects within our environment. We provide financial and bureaucratic guidance, access to machinery and workshop space, and marketing support. As a resident, you'll also enjoy all community benefits, including access to courses and supplementary activities.
 
----
-
 As the founder, I am actively working on building an environment that serves as a launchpad for like-minded entrepreneurs. We offer a unique opportunity to live and work in Liguria while benefiting from a structured support system. We welcome collaborators in three primary ways:
 
 1.  **Join an existing in-house startup** (like [[Luna]]).
