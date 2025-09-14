@@ -30,4 +30,4 @@ Our community is structured in levels. The first level is open to everyone, whil
 
 ### How to Join the Community
 * **Level I (Public Access):** You can join our main public group via this link: [Open Group](https://chat.whatsapp.com/J67Cds7idarLwZrJRNywQS?mode=ac_t)
-* **Levels II-V (By Invitation):** Access to the higher-level groups is managed directly by me, [[Simone Testino]]. Once we get in touch and define your role and involvement in the project, I will add you to the appropriate group(s).
+* **Levels II-V (By Invitation):** Access to the higher-level groups is managed directly by me, [[ColivingLiguria/Poeple/Simone Testino]]. Once we get in touch and define your role and involvement in the project, I will add you to the appropriate group(s).

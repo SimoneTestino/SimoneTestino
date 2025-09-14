@@ -39,4 +39,4 @@ Il nostro obiettivo è creare un ambiente che equilibri il lavoro concentrato co
 * Un'atmosfera accogliente per gli **animali domestici**. (Nota: la nostra policy per la casa di Urbe è ancora in fase di definizione durante questa fase iniziale. Si prega di consultare la pagina [[Vara Superiore]] per gli ultimi aggiornamenti.)
 * Ampio spazio per chi viaggia con **camper**.
 ---
-_Questo progetto è fondato da [[Simone Testino]] ed è reso possibile principalmente grazie ai finanziamenti dell'Unione Europea tramite il [[Bando Pubblico Fesr 2021-2027. OS 1.3]], pubblicato dalla Regione Liguria._
+_Questo progetto è fondato da [[ColivingLiguria/Poeple/Simone Testino]] ed è reso possibile principalmente grazie ai finanziamenti dell'Unione Europea tramite il [[Bando Pubblico Fesr 2021-2027. OS 1.3]], pubblicato dalla Regione Liguria._

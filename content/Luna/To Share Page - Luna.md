@@ -1,6 +1,7 @@
 ---
+date: 2025-09-14
 draft: false
-date: 2025-09-08
+title: Luna - Gas Balloon for Illumination
 ---
 > [!Abstract]
 > This page introduces Luna, an innovative lighting solution designed to offer a superior alternative to traditional light towers. The core principles of this project have been recently patented; therefore, this document provides a high-level overview without disclosing specific technical details. This funded project is backed by an extensive and detailed project plan, and we are currently seeking talented individuals to join our team and help bring this vision to life.
@@ -23,4 +24,4 @@ We are particularly looking for individuals with expertise in the following fiel
 * **Software Engineers:** To refine the physical simulation models, develop the onboard "Luna's Algorithm", and create user-facing control systems, such as a mobile application.
 * **Sales & Business Development Professionals:** To develop our market strategy and build relationships with initial clients and partners.
 
-If you are interested in this project, founded by [[Simone Testino]], please visit our [[ColivingLiguria for Startups and Cofounders]] page for a full overview of the collaboration opportunities. For any direct inquiries, please see our [[Contact]] page.
+If you are interested in this project, founded by [[ColivingLiguria/Poeple/Simone Testino]], please visit our [[ColivingLiguria for Startups and Cofounders]] page for a full overview of the collaboration opportunities. For any direct inquiries, please see our [[Contact]] page.

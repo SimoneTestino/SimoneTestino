@@ -10,7 +10,7 @@ Il progetto **[[ColivingLiguria]]**, reso possibile grazie ai [[Bando Pubblico F
 L'insegnante avrà autonomia nella gestione dei propri corsi, ma la parte di marketing e l'acquisizione di studenti saranno gestite in stretta collaborazione con Coliving Liguria. Il modello commerciale sarà flessibile: per alcuni residenti, le lezioni di italiano saranno incluse nel pacchetto di soggiorno, mentre per altri saranno un servizio extra a pagamento.
 ### Residenza e Alloggio: Vivere nel Cuore del Progetto
 Un requisito fondamentale è che l'insegnante **risieda stabilmente con noi**. Questo permette una reale integrazione nella community.
-* **Scelta della Location**: L'insegnante potrà decidere in quale delle nostre ville risiedere. Attualmente è disponibile la nostra sede di [[Vara Superiore]], ma altre se ne aggiungeranno in futuro, si veda il [[Calendar|calendario]].
+* **Scelta della Location**: L'insegnante potrà decidere in quale delle nostre ville risiedere. Attualmente è disponibile la nostra sede di [[Vara Superiore]], ma altre se ne aggiungeranno in futuro, si veda il [[ColivingLiguria/System/Calendar|calendario]].
 * **Opzioni di Alloggio**: Offriamo condizioni estremamente vantaggiose:
     * **Stanza Privata**: Affitto ridotto (da stabilirsi in base al contratto, indicativamente tra 0€ e 350€ al mese).
     * **Stanza Condivisa**: Gratuita.

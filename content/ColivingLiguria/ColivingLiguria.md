@@ -11,7 +11,7 @@ The best way to connect with us and follow our day-to-day progress is by joining
 ### Our Vision & Current Status
 Our project is born from a desire to create a unique space where productivity, community, and nature converge. While we are in the final stages of securing our first permanent property, the founder and a core group of collaborators are currently based in a **temporary rented apartment in Giusvalla** ([see map](https://maps.app.goo.gl/WRjPLkCbptBsTb2x5)). We plan to stay here until the **5th of October**, by which time we hope to have our own place.
 
-Our ambitious plan remains to have two villas under our management by the end of the year, offering a total of 25-30 bedrooms. You can follow our high-level progress on the main [[Calendar]].
+Our ambitious plan remains to have two villas under our management by the end of the year, offering a total of 25-30 bedrooms. You can follow our high-level progress on the main [[ColivingLiguria/System/Calendar]].
 
 ### Activities, Courses & Projects
 Coliving Liguria is a hub for learning and adventure, with many activities driven by our residents.
@@ -24,7 +24,7 @@ Coliving Liguria is a hub for learning and adventure, with many activities drive
 > We often use the term "volunteer" colloquially for our collaborators. Legally, these individuals are residents under a `comodato` agreement, contracted professionals, or independent entrepreneurs. For a detailed explanation, please see our [[Legal Constrains on Volunteers|Legal Framework for Collaborators & "Volunteers"]] page.
 
 ### Founder's Services
-Drawing from direct experience, founder [[Simone Testino]] offers [[Project Launch Consultancy; Funding & Bureaucracy in Italy|consultancy services]] and [[Private Teaching by Simone|specialised private lessons]].
+Drawing from direct experience, founder [[ColivingLiguria/Poeple/Simone Testino]] offers [[Project Launch Consultancy; Funding & Bureaucracy in Italy|consultancy services]] and [[Private Teaching by Simone|specialised private lessons]].
 
 ---
 _This project is made possible primarily through funding from the European Union via the [[Bando Pubblico Fesr 2021-2027. OS 1.3]]._

@@ -63,7 +63,6 @@ I use the same program to write this website as I do for my personal notes. The 
 - **Celi Matsumaru:**
   - **Role:** Host Acquisition Business Development Representative
   - **Company:** Worldpackers.com
-
 #### Creative & Digital
 - **Social Media Manager:**
   - **Contact:** `+39 351 6323703`
@@ -72,3 +71,9 @@ I use the same program to write this website as I do for my personal notes. The 
 - **Digital Marketer**:
 	- **Contact:** ‪`+39 346 214 3400‬`
 	- **Notes:** We met, seems competent, would like to be employed, lives in Savona but would not move.
+
+- **Interior Designer**: Martina
+	- **Contact:** `‪+39 320 321 6119‬`
+	- **Notes:** We had a call in mid sept, she is available starting January to make an interior design of the house (once decently renovated) in exchange of free rent alone.
+
+- **Interior Designer:** Parisa

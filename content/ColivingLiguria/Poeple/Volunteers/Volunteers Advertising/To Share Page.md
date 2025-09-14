@@ -16,7 +16,7 @@ You can also see our journey visually on our Instagram page, [@colivingliguria](
 #### The Heart of Coliving: Our First Villa
 This is the most exciting phase of our journey. We are in the pivotal stage of finalising the acquisition of our first villa, which will become the heart of Coliving Liguria. Our ambitious goal is to have the property operational and ready to welcome our first guests by the **1st of September**. You can follow every step of this crucial stage on these pages:
 * **[[House Choice]]**: See the shortlist of villas we are currently considering.
-* **[[Calendar]]**: Check our live calendar for the most up-to-date milestones and key dates.
+* **[[ColivingLiguria/System/Calendar]]**: Check our live calendar for the most up-to-date milestones and key dates.
 
 #### We're Expanding: Property Partnerships
 As our project grows, we are actively looking for new properties to bring into the Coliving Liguria family. We specialise in taking on rustic farmhouses (`cascine`) to renovate and manage through a partnership model. If you own a property in the Ligurian hinterland and are interested in a hands-off way to bring it to life, learn more on our page about the [[Diventa Partner di Coliving Liguria|Property Partnership Programme]] (Note: Our website is bilingual, but this page is currently available in Italian only).
@@ -29,4 +29,4 @@ Our goal is to create an environment that balances focused work with a strong se
 * **High-speed internet** as a top priority, ensuring a seamless remote work experience.
 * A welcoming atmosphere for **pets** and ample space for those travelling with **camper vans**.
 ---
-This project is founded by [[Simone Testino]] and is made possible primarily through funding from the European Union via the [[Bando Pubblico Fesr 2021-2027. OS 1.3]], published by the Region of Liguria.
+This project is founded by [[ColivingLiguria/Poeple/Simone Testino]] and is made possible primarily through funding from the European Union via the [[Bando Pubblico Fesr 2021-2027. OS 1.3]], published by the Region of Liguria.
