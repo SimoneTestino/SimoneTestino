@@ -1,6 +1,7 @@
 ---
 draft: false
 date: 2025-09-17
+title: 🏡 Volunteering Offer at Cascina Brignone
 ---
 --Italiano sotto --
 > [!NOTE] Volunteer Program at [[ColivingLiguria]] in [[Cascina Brignone]]
