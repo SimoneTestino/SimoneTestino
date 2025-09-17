@@ -1,7 +1,7 @@
 ---
 date: 2025-09-14
 draft: false
-title: Luna - Gas Balloon for Illumination
+title: Luna - Portable Intense Exterior illumination
 ---
 > [!Abstract]
 > This page introduces Luna, an innovative lighting solution designed to offer a superior alternative to traditional light towers. The core principles of this project have been recently patented; therefore, this document provides a high-level overview without disclosing specific technical details. This funded project is backed by an extensive and detailed project plan, and we are currently seeking talented individuals to join our team and help bring this vision to life.
