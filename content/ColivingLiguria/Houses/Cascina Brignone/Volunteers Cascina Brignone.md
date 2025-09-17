@@ -10,7 +10,7 @@ date: 2025-09-17
 
 Positions for this project will be available from **early October**. The best way to get a transparent look at the house in its current, un-renovated state is to view our [**video gallery on Google Drive**](https://drive.google.com/drive/folders/1HiJg344UYUwVPZ8Rbw6DNb2TAsSAaAZR?usp=sharing). For more general information about the property, please see the [[Cascina Brignone]] page.
 
-The exact start date will be announced in our [[Whatsapp Community]]. You can **[Click here to join our 📢 Open Group](https://chat.whatsapp.com/J67Cds7idarLwZrJRNywQS?mode=ac_t)** to get the latest updates. We also recommend checking the [[Calendar Cascina Brone]] for all updated availability information.
+The exact start date will be announced in our [[Whatsapp Community]]. You can **[Click here to join our 📢 Open Group](https://chat.whatsapp.com/J67Cds7idarLwZrJRNywQS?mode=ac_t)** to get the latest updates. We also recommend checking the [[Calendar Cascina Brignone]] for all updated availability information.
 
 To apply, the preferred way to make initial contact is via Instagram at **[@colivingliguria](https://www.instagram.com/colivingliguria/)**. Alternatively, you can text on WhatsApp at **+39 339 637 9372**. I usually schedule a brief video call with prospective residents to get to know each other before sending the formal `comodato` agreement. For other contact details, you can refer to our [[Contact]] page.
 

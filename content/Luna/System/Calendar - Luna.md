@@ -29,7 +29,7 @@ Parallel to the legal inquiry, we will finalise the technical specifications for
         * Conduct final experiments to lock in a single size, shape, and material for the balloon envelope and frame.
         * Create a detailed, production-ready 3D model of the central electronics core in Fusion 360, optimised for 3D printing.
 * **Dependency:** Success in this phase is accelerated by finding a co-founder with the necessary engineering expertise.
-### Phase 3: "[[Luna Garage]]" - Lab Setup & Prototyping
+### Phase 3: "[[Luna Lab]]" - Lab Setup & Prototyping
 
 **Timeline:** October - December 2025
 
