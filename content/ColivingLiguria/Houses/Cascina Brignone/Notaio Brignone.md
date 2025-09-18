@@ -9,6 +9,8 @@ title: Cercasi Notaio per Atto di Compravendita tra Privati
 ### Oggetto della Compravendita
 L'acquisto riguarda una proprietà composta da due fabbricati distinti (per un totale di circa 400 m² commerciali, probabilmente suddivisi in più unità al catasto) e un terreno annesso di circa 1600-1700 m².
 
+Si precisa che l'operazione è interamente finanziata con risparmi personali, senza ricorso a mutui, finanziamenti esterni o fondi pubblici.
+
 Attualmente sono sprovvisto dei dati catastali e dell'Attestato di Prestazione Energetica (APE). È già stato effettuato l'accesso agli atti e tale documentazione risulta presente; tuttavia, non ne ho ancora una copia a disposizione. Farò in modo di ottenere tutti i documenti necessari il 24 settembre, in modo da poter procedere speditamente.
 
 ### Natura dell'Atto e Requisiti Specifici
