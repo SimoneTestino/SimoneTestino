@@ -4,7 +4,6 @@ date: 2025-08-26
 ---
 To Do:
 - DIRE concludi
-- Clean house by Friday, i.e. today.
 - Finish Python Database (financials, residents calendar etc.)
 - Begin listing To Do in [[Cascina Brignone]].
 - Apply to link below

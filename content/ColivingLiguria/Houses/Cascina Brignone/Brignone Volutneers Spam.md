@@ -2,24 +2,58 @@
 draft: true
 date: 2025-09-17
 ---
-Hi everyone,
+# Volunteers Wanted for ColivingLiguria's First House! 🏡✨
 
-Just wanted to share some initial, very exciting news about the first potential property for our project!
+  
 
-I'm meeting with the current owners and their financial advisor on Wednesday the 24th to sort out all the details for the acquisition. They've already offered the house at a really generous price to help support the project, which is fantastic.
+After a lot of planning, we're thrilled to announce that we're moving forward with our very first property! We are finally getting started and couldn't be more excited.
 
-This place is going to need a lot of love and renovation, so dedicated volunteers will be needed more than ever! The work will be led by a mix of myself, other volunteers with relevant skills, and professionals where required.
+  
 
-You can find all the details about the house, what we're offering volunteers, and what to expect on this page:
+For those who are new here, ColivingLiguria is a project creating a vibrant coliving community for ****remote workers**** and creatives here in beautiful Liguria, Italy. 🇮🇹 We're nestled right between the mountains and the coast, offering the best of both worlds!
 
-https://simonetestino.pages.dev/ColivingLiguria/Houses/Cascina-Brignone/Volunteers-Cascina-Brignone
+  
 
-If you have any questions after reading, feel free to drop me a DM. For anyone who is keen to join, we can schedule a call in the next few days to have a chat and see how our availabilities line up.
+To kick things off, we're looking for a handful (5-10) of ****adventurous volunteers**** to join us for the foundational stage. This is a hands-on opportunity to help with the initial renovation and shape our community from the very beginning. Availability is expected to start in early October.
 
-**A quick heads-up on the timeline:** The house isn't officially ours just yet. The meeting on the 24th is to get everything clear and agreed upon. I'll only be able to give a firm confirmation once a contract is signed and I have the keys, which is likely to happen 1-2 weeks after that. That's when we can officially have people over and start the volunteering opportunities.
+  
 
-I'm sending this message now to get a clearer picture of who is interested in joining right from the very beginning, which we're hoping will be in early October.
+Curious about the details? On our website, you'll find everything you need to know:
 
-Before asking general questions about the house (and its videos), the volunteer offer, food, location, etc., please have first a good read through the link and the connected pages.
+  
 
-Cheers everyone, and let's keep our fingers crossed that it all goes well with this property! 🤞
+- A complete video tour of the house in its current state
+
+- Our offer (accommodation, community life, pet policy 🐾)
+
+- What we expect in return (renovation help, community tasks)
+
+- The precise location on Google Maps (we're 10 mins from a train station & 30 mins from the beach!)
+
+  
+
+You can find the full info page right here:
+
+[https://simonetestino.pages.dev/ColivingLiguria/Houses/Cascina-Brignone/Volunteers-Cascina-Brignone](https://simonetestino.pages.dev/ColivingLiguria/Houses/Cascina-Brignone/Volunteers-Cascina-Brignone)
+
+  
+
+Just a quick request: we'd be grateful if you could have a thorough read of the page __before__ sending general questions, as most answers are already there. That said, I'm very happy to answer any further questions you might have!
+
+  
+
+If you've read everything and think this adventure is for you, we'd be thrilled to hear from you! We welcome people from all walks of life. To apply or ask questions, please get in touch in one of the following ways:
+
+  
+
+Instagram (Preferred): @ColivingLiguria – [https://www.instagram.com/colivingliguria/](https://www.instagram.com/colivingliguria/)
+
+  
+
+WhatsApp: +39 339 637 9372
+
+  
+
+For general updates, you are also welcome to join our WhatsApp community. Please note this is an announcement-only group for me to share news, not for questions.
+
+WhatsApp Group Chat: [https://chat.whatsapp.com/J67Cds7idarLwZrJRNywQS?mode=ac_t](https://chat.whatsapp.com/J67Cds7idarLwZrJRNywQS?mode=ac_t)
