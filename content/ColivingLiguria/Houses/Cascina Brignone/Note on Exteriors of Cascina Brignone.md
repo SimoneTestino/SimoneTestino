@@ -1,7 +1,7 @@
 ---
 draft: false
 date: 2025-09-17
-language: IT
+language: IT/EN
 ---
 --Italian only--
 

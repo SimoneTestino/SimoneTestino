@@ -1,14 +1,10 @@
 ---
 draft: true
-date: 2025-09-19
+date: 2025-09-21
+language: IT
 ---
-# Note sugli Immobili di Cascina Brignone
-
-## Mappa Catastale
-!(PASTE_IMAGE_LINK_HERE)
-*La mappa catastale completa e interattiva è disponibile sul sito [formaps.it](https://www.formaps.it/) cercando l'indirizzo degli immobili.*
-
-## Dettaglio Immobili
+### Abstract
+Questa nota riassume i dati catastali e le informazioni tecniche necessarie per la stipula di un atto di compravendita per il progetto [[Cascina Brignone]]. Fa da complemento alle note strategiche, [[Technical Notes Cascina Brignone]], e alla descrizione fisica degli immobili, [[Note on Exteriors of Cascina Brignone]]. I dati catastali qui riportati sono fondamentali per la preparazione dell'atto e verranno forniti per [[Cercasi Notaio per Atto di Compravendita tra Privati]].
 
 ### Casa a Sinistra
 * **Location**: [View on Google Maps](http://googleusercontent.com/maps/google.com/0)
@@ -57,6 +53,10 @@ date: 2025-09-19
 * **Dettagli**: Composto da 3 subalterni, categoria A/4, 5 vani, e un C/6 (autorimessa/stalla).
     * **Rendita Catastale Complessiva**: € 256,58
     * **Valore Catastale Stimato (Seconda Casa, A/4)**: (€ 256,58 x 1,05) x 126 = **€ 33.927,65**
+
+## Mappa Catastale
+![[Screenshot 2025-09-19 at 17.31.12.png]]
+*La mappa catastale completa e interattiva è disponibile sul sito [formaps.it](https://www.formaps.it/) cercando l'indirizzo degli immobili.*
 
 ## Note Tecniche e Definizioni
 

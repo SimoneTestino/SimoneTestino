@@ -1,6 +1,7 @@
 ---
 draft: false
-date: 2025-09-17
+date: 2025-09-21
+language: IT/EN
 ---
 --Italiano sotto --
 > [!NOTE] Technical Notes & Action Items

@@ -1,0 +1,130 @@
+#!/usr/bin/env python3
+"""
+OccupancyHeatmap.py
+
+Generates a multi-month calendar heatmap displaying the overall daily occupancy
+rate for the entire ColivingLiguria project. This visualization is ideal for
+strategic planning, allowing for easy identification of high and low seasons.
+"""
+
+import sys
+import os
+import calendar
+import matplotlib.pyplot as plt
+import matplotlib.colors as mcolors
+import numpy as np
+import pandas as pd
+from datetime import date
+from dateutil.relativedelta import relativedelta
+
+# --- ROBUST PATH SETUP ---
+current_dir = os.path.dirname(os.path.abspath(__file__))
+coliving_dir = os.path.dirname(current_dir)
+if coliving_dir not in sys.path:
+    sys.path.insert(0, coliving_dir)
+
+# --- Project Imports ---
+from Constants.ActualData import cascina_brignone_register
+from Plots.Palette import PALETTE, HEATMAP_GREENS
+
+# ==============================================================================
+# DATA CALCULATION FUNCTION
+# ==============================================================================
+
+def calculate_daily_occupancy(register, start_date, end_date):
+    """
+    Calculates the daily occupancy rate as a percentage for a given period.
+    """
+    # 1. Calculate total available beds
+    total_beds = sum(
+        room.actual_capacity
+        for apartment in register.apartments
+        for room in apartment.get_bedrooms()
+        if room.actual_capacity > 0
+    )
+    if total_beds == 0:
+        return pd.Series(0, index=pd.date_range(start_date, end_date))
+
+    # 2. Create a date range and initialize daily occupancy counts to zero
+    date_range = pd.date_range(start_date, end_date)
+    daily_occupancy = pd.Series(0, index=date_range)
+
+    # 3. Add one occupant for each day of each booking
+    for booking in register.bookings:
+        # Create a date range for the duration of the single booking
+        booking_range = pd.date_range(booking.check_in_date, booking.check_out_date - relativedelta(days=1))
+        # Add 1 to the count for each of those days
+        daily_occupancy.loc[booking_range] += 1
+
+    # 4. Calculate the percentage
+    occupancy_rate = (daily_occupancy / total_beds) * 100
+    return occupancy_rate
+
+# ==============================================================================
+# PLOTTING FUNCTION
+# ==============================================================================
+
+def plot_heatmap_calendar(register, months_to_show=6):
+    """
+    Generates and displays a multi-month heatmap calendar.
+    """
+    start_date = date(2025, 10, 1)
+    end_date = start_date + relativedelta(months=months_to_show, days=-1)
+    occupancy_data = calculate_daily_occupancy(register, start_date, end_date)
+
+    # Create the plot layout (2 rows, 3 columns for 6 months)
+    fig, axes = plt.subplots(2, 3, figsize=(20, 10), constrained_layout=True)
+    fig.patch.set_facecolor(PALETTE['background'])
+    fig.suptitle(f'{register.name} - Overall Occupancy Rate', fontsize=24, fontweight='bold', color=PALETTE['text_primary'])
+
+    # Create a custom colormap from our palette
+    cmap = mcolors.LinearSegmentedColormap.from_list("heatmap_greens", HEATMAP_GREENS)
+
+    for i, ax in enumerate(axes.flat):
+        ax.set_facecolor(PALETTE['background'])
+        cal_date = start_date + relativedelta(months=i)
+        
+        # Get calendar matrix for the month
+        month_matrix = calendar.monthcalendar(cal_date.year, cal_date.month)
+        
+        # Create a data matrix that matches the calendar shape
+        data_matrix = np.full((len(month_matrix), 7), np.nan)
+        
+        for week_idx, week in enumerate(month_matrix):
+            for day_idx, day in enumerate(week):
+                if day != 0:
+                    current_date = pd.Timestamp(year=cal_date.year, month=cal_date.month, day=day)
+                    if current_date in occupancy_data.index:
+                        data_matrix[week_idx, day_idx] = occupancy_data[current_date]
+                        
+                        # Annotate the cell with the day number
+                        ax.text(day_idx, week_idx, str(day), ha='center', va='center',
+                                color=PALETTE['text_primary'], fontsize=10)
+
+        # Plot the heatmap for the month
+        im = ax.imshow(data_matrix, cmap=cmap, vmin=0, vmax=100, aspect='equal')
+        
+        # Formatting
+        ax.set_title(cal_date.strftime('%B %Y'), color=PALETTE['text_primary'], fontsize=16)
+        ax.set_xticks(np.arange(7))
+        ax.set_xticklabels(['M', 'T', 'W', 'T', 'F', 'S', 'S'], color=PALETTE['text_secondary'])
+        ax.set_yticks([]) # Hide week numbers
+        
+        # Remove spines and ticks
+        for spine in ax.spines.values():
+            spine.set_visible(False)
+        ax.tick_params(axis='both', which='both', length=0)
+
+    # Add a single colorbar for the whole figure
+    cbar = fig.colorbar(im, ax=axes.ravel().tolist(), shrink=0.6, location='bottom', pad=0.05)
+    cbar.set_label('Occupancy (%)', color=PALETTE['text_secondary'])
+    cbar.ax.tick_params(colors=PALETTE['text_secondary'])
+    cbar.outline.set_visible(False)
+
+    plt.show()
+
+# --- SCRIPT EXECUTION ---
+if __name__ == "__main__":
+    print("Generating Occupancy Heatmap Calendar...")
+    plot_heatmap_calendar(cascina_brignone_register)
+    print("Plot display complete.")

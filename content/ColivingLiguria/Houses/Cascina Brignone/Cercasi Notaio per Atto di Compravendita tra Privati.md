@@ -1,7 +1,6 @@
 ---
 draft: false
 date: 2025-09-17
-title: Cercasi Notaio per Atto di Compravendita tra Privati
 ---
 > [!Abstract]
 > Questa pagina delinea i requisiti e le specifiche per la stipula di un atto di compravendita immobiliare a Cairo Montenotte. Si invitano i notai interessati a esaminare i dettagli di seguito e a fornire le informazioni richieste per una potenziale collaborazione.
