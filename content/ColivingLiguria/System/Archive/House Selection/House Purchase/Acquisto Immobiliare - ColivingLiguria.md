@@ -2,7 +2,6 @@
 draft: false
 date: 2025-08-01
 ---
-
 > [!Abstract] Ricerca dell'Immobile
 > Avvenuta la conferma da parte del Fi.L.S.E. della regione Liguria dell'ottenimento dei fondi del [[Bando Pubblico Fesr 2021-2027. OS 1.3]] per il progetto [[ColivingLiguria]], iniziamo la ricerca dell'immobile più adatto. Scriviamo questa pagina con lo scopo di chiarire agli agenti immobiliari della zona i nostri requisiti in modo da poter concludere con l'individuazione dell'immobile nel minor tempo possibile e con la massima efficienza.
 
