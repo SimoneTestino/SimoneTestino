@@ -1,17 +1,22 @@
+---
+draft: true
+---
+
 #### **Informazioni Generali**
-- **Link Annuncio:** https://www.idealista.it/immobile/25839134/
-- **Indirizzo:** Val Maremola
-- **Comune:** Calizzano 
-- **Prezzo Richiesto:** 195k €
+- **Link Annuncio:** https://www.idealista.it/immobile/31415694/
+- **Indirizzo:**
+- **Comune:**  Murialdo 
+- **Prezzo Richiesto:** 110k €
 - **Minimo Prevedibile in Trattativa:** €
 - **Certezza sulla Conformità:** [Bassa/Media/Alta]
-- **Visitato:** [si]
+- **Visitato:** [no]
+    - 06.08, 11:00
 
 ---
 #### **Caratteristiche Strutturali**
-- **Metri Quadri (Calpestabili/Commerciali):**
-- **Anno di Costruzione:** 1960
-- **Numero Vani:** 
+- **Metri Quadri (Calpestabili/Commerciali):** 300 m2 commerciali, 270 m2 calpestabili 
+- **Anno di Costruzione:**
+- **Numero Vani:** 10
 - **Camere da Letto:**
 - **Condizione del Tetto:**
 - **Condizione Impianto Idraulico:**
@@ -21,9 +26,9 @@
 - **Infissi con Doppio Vetro:** [si/no]
 - **Pavimentazione Presente:** [si/no]
 - **Certificato di Agibilità:** [si/no/da verificare]
-- **Classe Energetica:** G
+- **Classe Energetica:** F
 - **Tipo di Riscaldamento:**
-- **Casa Indipendente:** [si/no/semi-indipendente]
+- **Casa Indipendente:** [si]
 - **Planimetria:** [Link o allegato]
 - **Massimo Camere Totali:** 
 	- **Massimo Camere Private:**
@@ -42,8 +47,8 @@
 ---
 #### **Terreni e Spazi Esterni**
 - **Giardino Adiacente:** [si]
-- **Metratura Giardino:** 300mq
-- **Terreno Adiacente:** [si]
-- **Metratura Terreno:** 4000mq
+- **Metratura Giardino:** 2000 mq
+- **Terreno Adiacente:** [si/no]
+- **Metratura Terreno:** mq
 - **Terreno Edificabile:** [si/no]
 - **Terreno/Giardino Pianeggiante:** [si/no/in parte]

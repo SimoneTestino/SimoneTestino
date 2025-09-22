@@ -1,17 +1,19 @@
+---
+draft: true
+---
+
 #### **Informazioni Generali**
-- **Link Annuncio:** https://www.idealista.it/immobile/31495224/
-- **Indirizzo:** Località Riofreddo
-- **Comune:** Murialdo
-- **Prezzo Richiesto:** 180k€
+- **Link Annuncio:** https://www.idealista.it/immobile/31765852/
+- **Indirizzo:** Via Revelli, 8
+- **Comune:** Quiliano 
+- **Prezzo Richiesto:** 143k€
 - **Minimo Prevedibile in Trattativa:** €
 - **Certezza sulla Conformità:** [Bassa/Media/Alta]
-- **Visitato:** [no]
-    - 06.08, 14:30
 ---
 #### **Caratteristiche Strutturali**
-- **Metri Quadri (Calpestabili/Commerciali):** 600m2 commerciali, 500 m2 calpestabili
+- **Metri Quadri (Calpestabili/Commerciali):** 254 mq commerciali 
 - **Anno di Costruzione:**
-- **Numero Vani:** 23, 6 bagni 
+- **Numero Vani:** 9
 - **Camere da Letto:**
 - **Condizione del Tetto:**
 - **Condizione Impianto Idraulico:**
@@ -22,9 +24,15 @@
 - **Pavimentazione Presente:** [si/no]
 - **Certificato di Agibilità:** [si/no/da verificare]
 - **Classe Energetica:** G
-- **Tipo di Riscaldamento:**
+- **Tipo di Riscaldamento:** 
 - **Casa Indipendente:** [si]
-- **Planimetria:** [Link o allegato]
+- **Planimetria:**
+	- https://www.idealista.it/immobile/31765852/planimetria/1/
+	- https://www.idealista.it/immobile/31765852/planimetria/2/
+     - https://www.idealista.it/immobile/31765852/planimetria/3/
+     - https://www.idealista.it/immobile/31765852/planimetria/4/
+     - https://www.idealista.it/immobile/31765852/planimetria/5/
+     - https://www.idealista.it/immobile/31765852/planimetria/6/
 - **Massimo Camere Totali:** 
 	- **Massimo Camere Private:**
 	- **Massimo Camere Condivise:**
@@ -41,9 +49,9 @@
 
 ---
 #### **Terreni e Spazi Esterni**
-- **Giardino Adiacente:** dalle immagini sembra di sì, ma non è specificato
+- **Giardino Adiacente:** [si]
 - **Metratura Giardino:** mq
-- **Terreno Adiacente:** [si/no]
-- **Metratura Terreno:** mq
+- **Terreno Adiacente:** [si]
+- **Metratura Terreno:** 80000 mq
 - **Terreno Edificabile:** [si/no]
 - **Terreno/Giardino Pianeggiante:** [si/no/in parte]

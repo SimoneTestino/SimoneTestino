@@ -1,5 +1,5 @@
 ---
-draft: 
+draft: true
 date: 2025-08-05
 ---
 - **Link Annuncio:** https://www.idealista.it/immobile/28006334/

@@ -1,17 +1,21 @@
-#### **Informazioni Generali** 
-- **Link Annuncio:** https://www.idealista.it/immobile/30466484/
-- **Indirizzo:** Via Molini
-- **Comune:** Quiliano 
-- **Prezzo Richiesto:** 168k €
-- **Minimo Prevedibile in Trattativa:** € 140
+---
+draft: true
+---
+
+#### **Informazioni Generali**
+- **Link Annuncio:** https://www.idealista.it/immobile/31495224/
+- **Indirizzo:** Località Riofreddo
+- **Comune:** Murialdo
+- **Prezzo Richiesto:** 180k€
+- **Minimo Prevedibile in Trattativa:** €
 - **Certezza sulla Conformità:** [Bassa/Media/Alta]
-- - **Visitato:** [no]
-    - 08.08, 17:00
+- **Visitato:** [no]
+    - 06.08, 14:30
 ---
 #### **Caratteristiche Strutturali**
-- **Metri Quadri (Calpestabili/Commerciali):** 250 m2 commerciali, 200 calpestabili 
-- **Anno di Costruzione:** 
-- **Numero Vani:** 8 locali 
+- **Metri Quadri (Calpestabili/Commerciali):** 600m2 commerciali, 500 m2 calpestabili
+- **Anno di Costruzione:**
+- **Numero Vani:** 23, 6 bagni 
 - **Camere da Letto:**
 - **Condizione del Tetto:**
 - **Condizione Impianto Idraulico:**
@@ -19,7 +23,7 @@
 - **Condizione Impianto Elettrico:**
 - **Condizione Infissi:**
 - **Infissi con Doppio Vetro:** [si/no]
-- **Pavimentazione Presente:** [si]
+- **Pavimentazione Presente:** [si/no]
 - **Certificato di Agibilità:** [si/no/da verificare]
 - **Classe Energetica:** G
 - **Tipo di Riscaldamento:**
@@ -41,8 +45,8 @@
 
 ---
 #### **Terreni e Spazi Esterni**
-- **Giardino Adiacente:** [si]
-- **Metratura Giardino:** 300 mq
+- **Giardino Adiacente:** dalle immagini sembra di sì, ma non è specificato
+- **Metratura Giardino:** mq
 - **Terreno Adiacente:** [si/no]
 - **Metratura Terreno:** mq
 - **Terreno Edificabile:** [si/no]

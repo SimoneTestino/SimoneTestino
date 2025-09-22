@@ -1,19 +1,21 @@
+---
+draft: true
+---
 
 #### **Informazioni Generali**
-- **Link Annuncio: https://www.idealista.it/immobile/31031711/ & https://www.idealista.it/immobile/31045990/
-- **Indirizzo:** Località Brovida
-- **Comune:** Bormida 
-- **Prezzo Richiesto:** 190k
+- **Link Annuncio:** https://www.idealista.it/immobile/25839134/
+- **Indirizzo:** Val Maremola
+- **Comune:** Calizzano 
+- **Prezzo Richiesto:** 195k €
 - **Minimo Prevedibile in Trattativa:** €
 - **Certezza sulla Conformità:** [Bassa/Media/Alta]
-- **Visitato:** [no]
-    - 06.08, 11:00
+- **Visitato:** [si]
 
 ---
 #### **Caratteristiche Strutturali**
-- **Metri Quadri (Calpestabili/Commerciali):** 770 m2 commerciali, 700 m2 calpestabili
-- **Anno di Costruzione:** 1700
-- **Numero Vani:** 19 locali, 3 bagni 
+- **Metri Quadri (Calpestabili/Commerciali):**
+- **Anno di Costruzione:** 1960
+- **Numero Vani:** 
 - **Camere da Letto:**
 - **Condizione del Tetto:**
 - **Condizione Impianto Idraulico:**
@@ -25,25 +27,27 @@
 - **Certificato di Agibilità:** [si/no/da verificare]
 - **Classe Energetica:** G
 - **Tipo di Riscaldamento:**
-- **Casa Indipendente:** [si]
+- **Casa Indipendente:** [si/no/semi-indipendente]
 - **Planimetria:** [Link o allegato]
 - **Massimo Camere Totali:** 
 	- **Massimo Camere Private:**
 	- **Massimo Camere Condivise:**
+
 ---
-#### **Posizione e Contesto** 5 minuti dal centro di Dego
-- **Distanza da Supermercato:** 
+#### **Posizione e Contesto**
+- **Distanza da Supermercato:**
 - **Distanza da Savona FS:**
 - **Distanza da Ex Base Nato (Finale Ligure):**
 - **Distanza dal Mare:**
 	- **Spiaggia:**
 - **Rischio Idrogeologico (Frana/Alluvione):**
 - **Rischio "Casino" (Disturbo/Rumore):**
+
 ---
 #### **Terreni e Spazi Esterni**
 - **Giardino Adiacente:** [si]
-- **Metratura Giardino:** mq
+- **Metratura Giardino:** 300mq
 - **Terreno Adiacente:** [si]
-- **Metratura Terreno:** 28710 mq + (altri 30 ettari acquistabili)
+- **Metratura Terreno:** 4000mq
 - **Terreno Edificabile:** [si/no]
 - **Terreno/Giardino Pianeggiante:** [si/no/in parte]

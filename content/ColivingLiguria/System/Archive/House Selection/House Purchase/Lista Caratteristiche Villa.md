@@ -1,18 +1,26 @@
+---
+draft: true
+date: 2025-08-05
+---
 #### **Informazioni Generali**
-- **Link Annuncio:** https://www.idealista.it/immobile/20265573/
+- **Link Annuncio:**
 - **Indirizzo:**
-- **Comune:** Cosseria
-- **Prezzo Richiesto:** 180k €
+- **Comune:**
+- **Prezzo Richiesto:** €
 - **Minimo Prevedibile in Trattativa:** €
 - **Certezza sulla Conformità:** [Bassa/Media/Alta]
-- **Visitato:** [no]
-    - Needs to be replanned!
+- **Asta:** [si/no]
+    - **Base d'asta:** €
+    - **Data dell'asta:**
+    - **Tipo di Asta:**
+    - **Link dell'asta:**
+    - **Perizia Giurata Disponibile:** [si/no]
 
 ---
 #### **Caratteristiche Strutturali**
-- **Metri Quadri (Calpestabili/Commerciali):** 480 m2 commerciali 
-- **Anno di Costruzione:** 1960
-- **Numero Vani:** 20, 3 bagni
+- **Metri Quadri (Calpestabili/Commerciali):**
+- **Anno di Costruzione:**
+- **Numero Vani:**
 - **Camere da Letto:**
 - **Condizione del Tetto:**
 - **Condizione Impianto Idraulico:**
@@ -22,7 +30,7 @@
 - **Infissi con Doppio Vetro:** [si/no]
 - **Pavimentazione Presente:** [si/no]
 - **Certificato di Agibilità:** [si/no/da verificare]
-- **Classe Energetica:** G
+- **Classe Energetica:**
 - **Tipo di Riscaldamento:**
 - **Casa Indipendente:** [si/no/semi-indipendente]
 - **Planimetria:** [Link o allegato]
@@ -42,7 +50,7 @@
 
 ---
 #### **Terreni e Spazi Esterni**
-- **Giardino Adiacente:** [si]
+- **Giardino Adiacente:** [si/no]
 - **Metratura Giardino:** mq
 - **Terreno Adiacente:** [si/no]
 - **Metratura Terreno:** mq

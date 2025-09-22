@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 - **Link Annuncio:** https://www.idealista.it/immobile/30144904 
 - **Indirizzo: 
 - **Comune: Quiliano 

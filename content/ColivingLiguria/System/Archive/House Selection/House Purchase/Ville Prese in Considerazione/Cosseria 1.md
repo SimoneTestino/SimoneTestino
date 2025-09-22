@@ -1,18 +1,22 @@
+---
+draft: true
+---
+
 #### **Informazioni Generali**
-- **Link Annuncio:** https://www.idealista.it/immobile/31415694/
+- **Link Annuncio:** https://www.idealista.it/immobile/20265573/
 - **Indirizzo:**
-- **Comune:**  Murialdo 
-- **Prezzo Richiesto:** 110k €
+- **Comune:** Cosseria
+- **Prezzo Richiesto:** 180k €
 - **Minimo Prevedibile in Trattativa:** €
 - **Certezza sulla Conformità:** [Bassa/Media/Alta]
 - **Visitato:** [no]
-    - 06.08, 11:00
+    - Needs to be replanned!
 
 ---
 #### **Caratteristiche Strutturali**
-- **Metri Quadri (Calpestabili/Commerciali):** 300 m2 commerciali, 270 m2 calpestabili 
-- **Anno di Costruzione:**
-- **Numero Vani:** 10
+- **Metri Quadri (Calpestabili/Commerciali):** 480 m2 commerciali 
+- **Anno di Costruzione:** 1960
+- **Numero Vani:** 20, 3 bagni
 - **Camere da Letto:**
 - **Condizione del Tetto:**
 - **Condizione Impianto Idraulico:**
@@ -22,9 +26,9 @@
 - **Infissi con Doppio Vetro:** [si/no]
 - **Pavimentazione Presente:** [si/no]
 - **Certificato di Agibilità:** [si/no/da verificare]
-- **Classe Energetica:** F
+- **Classe Energetica:** G
 - **Tipo di Riscaldamento:**
-- **Casa Indipendente:** [si]
+- **Casa Indipendente:** [si/no/semi-indipendente]
 - **Planimetria:** [Link o allegato]
 - **Massimo Camere Totali:** 
 	- **Massimo Camere Private:**
@@ -43,7 +47,7 @@
 ---
 #### **Terreni e Spazi Esterni**
 - **Giardino Adiacente:** [si]
-- **Metratura Giardino:** 2000 mq
+- **Metratura Giardino:** mq
 - **Terreno Adiacente:** [si/no]
 - **Metratura Terreno:** mq
 - **Terreno Edificabile:** [si/no]

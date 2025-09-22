@@ -1,5 +1,6 @@
 ---
 date: 2025-08-14
+draft: true
 ---
 You can make an idea yourself of this villa by looking at the [Listing]( https://www.idealista.it/immobile/31608509/).
 ### Property Overview and Potential

@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 date: 2025-08-05
 ---
 Following the remarks made on [[Acquisto Immobiliare - ColivingLiguria]], we proceed here by actually ordering the houses that we either found ourselves or that we have been suggested by the agencies. We add them here by taking into account all the measures.

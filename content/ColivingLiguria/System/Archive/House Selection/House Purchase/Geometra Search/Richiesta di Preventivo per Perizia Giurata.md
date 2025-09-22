@@ -1,3 +1,7 @@
+---
+draft: true
+date: 2025-09-22
+---
 > [!Abstract]
 > Siamo alla ricerca di un Geometra abilitato per la redazione di una perizia giurata di stima e conformità, requisito indispensabile per l'acquisto di un immobile finanziato da un bando pubblico FESR. Questa pagina descrive l'incarico, i requisiti stringenti del bando e le tempistiche estremamente celeri richieste (5-10 giorni). Invitiamo i professionisti della provincia di Savona e dintorni a inviare un preventivo di massima per la prestazione.
 
