@@ -1,3 +1,8 @@
+---
+date: 2025-01-29
+draft: true
+---
+
 > "Frumentum in acervis optime servatur, si in loco salubri ponatur, inaequabili tempestate nec alternis imbribus aut solibus vexato. Nam neque exustis infringi illud convenit neque humidis, priusquam bis singulis diebus terantur. In horreis non minus diligenter exculcato quam in terris exarato bene servatur. Sed in acervis per se natura vigilat, mures praeterea arcentur."
 
 Plinius Secundus, *Naturalis Historia*, Liber XVIII, Caput XXX
