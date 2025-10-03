@@ -1,7 +1,6 @@
 ---
 draft: true
 ---
-
 Filando d’intimi pensier’ la rete,\\
 lascio ‘l piede col piede soli ‘ndare\\
 e canticchiando tra me note liete,\\

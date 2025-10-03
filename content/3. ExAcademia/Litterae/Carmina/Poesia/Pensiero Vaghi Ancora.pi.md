@@ -1,7 +1,6 @@
 ---
 draft: true
 ---
-
 Pensiero vaghi ancora,\\
 perso porti le membra,\\
 finché non giungi\\

@@ -12,6 +12,7 @@ To complement your reading, immersing yourself in spoken Latin can dramatically 
 * [Scorpio Martianus](https://www.youtube.com/@ScorpioMartianus): Focuses on high-quality spoken Latin, immersion, and historical pronunciation.
 * [polyMATHY (Luke Ranieri)](https://www.youtube.com/@polyMATHY_Luke): A strong proponent of the living language method, featuring conversations and readings.
 * [Satura Lanx](https://www.youtube.com/@SaturaLanx): Provides a wealth of content, including news, stories, and grammar lessons, all in clear, spoken Latin.
+* [Via Latina](https://www.youtube.com/@via.latina): Focusses on reading simple texts with ecclesiastic pronunciation.
 
 ### Starting Point: The Clarity of Neo-Latin
 After completing *Familia Romana*, the most effective next step is to dive into reading original texts. We'll start not with the classics, but with authors from the [Neo-Latin period](https://www.thelatinlibrary.com/neo.html). In this era, Latin functioned much as English does today: as a universal language for science, philosophy, and culture. Its grammar was often simplified for clarity, making these works remarkably accessible for a learner.

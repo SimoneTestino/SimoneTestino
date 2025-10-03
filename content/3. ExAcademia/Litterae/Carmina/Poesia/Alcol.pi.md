@@ -1,7 +1,6 @@
 ---
 draft: true
 ---
-
 In gola stilla’l vapore,\\
 sale, gli occhi socchiude,\\
 sale, ragione esclude\\

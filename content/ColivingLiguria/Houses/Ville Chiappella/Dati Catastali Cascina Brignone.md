@@ -55,7 +55,7 @@ Questa nota riassume i dati catastali e le informazioni tecniche necessarie per 
     * **Valore Catastale Stimato (Seconda Casa, A/4)**: (€ 256,58 x 1,05) x 126 = **€ 33.927,65**
 
 ## Mappa Catastale
-![[Screenshot 2025-09-19 at 17.31.12.png]]
+[[Catasto Foglio 29 e 46.png]]
 *La mappa catastale completa e interattiva è disponibile sul sito [formaps.it](https://www.formaps.it/) cercando l'indirizzo degli immobili.*
 
 ## Note Tecniche e Definizioni

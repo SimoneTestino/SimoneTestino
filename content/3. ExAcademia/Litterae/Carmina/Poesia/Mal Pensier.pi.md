@@ -1,7 +1,6 @@
 ---
 draft: true
 ---
-
 Mal pensier lancinante rodi\\
 dello stomaco le pareti\\
 da cui il terror non odi.\\

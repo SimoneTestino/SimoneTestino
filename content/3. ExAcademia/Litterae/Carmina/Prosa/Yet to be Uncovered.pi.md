@@ -4,7 +4,6 @@ tags:
 date: ""
 draft: true
 ---
-
 A neat hand tidies up two brown curls and reveals a still and serious gaze, it softens once the eyebrows rise form surprise; silently she hints a smile and the cheeks get round and smooth...
 The milky white neck is now stained by a blot of red ink, substance to write a story on the skin yet to be uncovered.
 
