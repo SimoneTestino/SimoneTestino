@@ -19,6 +19,7 @@ The property includes the following main buildings:
 The property also includes several large plots of land, which will be used for our activities. More details on these will be shared soon:
 - [[Terreni oltre Torrente]]
 - [[Terreni Lungotorrente]]
+- [[Terreno alla Fonte]]
 
 Our plan for acquiring and launching this property involves several key steps. The projected timeline is detailed in the [[Calendar Ville Chiappella]].
 

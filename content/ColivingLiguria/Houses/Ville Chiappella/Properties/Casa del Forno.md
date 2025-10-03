@@ -1,3 +1,7 @@
+---
+date: 2025-10-03
+draft: false
+---
 — Italiano sotto —
 
 This document provides a detailed breakdown of the "Casa del Forno" property, located at STRADA CHIAPPELLA, Comune di CAIRO MONTENOTTE (SV). The property consists of a main residential building (Particella 440) divided into three sub-units, a separate utility building ("The Oven"), and appurtenant lands.
