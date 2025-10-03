@@ -18,7 +18,7 @@ Ai fini delle agevolazioni, la scelta della “prima casa” ricadrà sull’uni
 ### Natura dell’atto e requisiti specifici
 
 - **Compravendita a prezzo simbolico di 3.000 €**  
-  Formula scelta per motivi di efficienza legale (vedi dettagli nel [[Acquisto_vs_Donazione.pdf]])
+  Formula scelta per motivi di efficienza legale (vedi dettagli nel [[Acquisto_vs_Donazione 1.pdf]])
 - Richiesta inclusione di una specifica clausola strategica come da documento di analisi allegato
 
 ### Esigenze principali
@@ -36,7 +36,7 @@ Ai fini delle agevolazioni, la scelta della “prima casa” ricadrà sull’uni
 
 ### Revisione strategia e allegati
 
-Si prega di esaminare con attenzione il [documento di analisi legale](Acquisto_vs_Donazione.pdf) e la [visura](VISURA IMMOBILI STRADA CHIAPPELLA.pdf). Qualora emergano criticità sul piano giuridico evidenziatele subito.
+Si prega di esaminare con attenzione il [documento di analisi legale](Acquisto_vs_Donazione%201.pdf) e la [visura](VISURA IMMOBILI STRADA CHIAPPELLA.pdf). Qualora emergano criticità sul piano giuridico evidenziatele subito.
 
 ### Contatti
 

@@ -5,7 +5,7 @@ date: 2025-08-26
 To Do:
 - DIRE concludi
 - Finish Python Database (financials, residents calendar etc.)
-- Begin listing To Do in [[Cascina Brignone]].
+- Begin listing To Do in [[Ville Chiappella]].
 - Apply to link below
 - (Main Villa)
 

@@ -10,7 +10,7 @@ language: IT/EN
 ### 1. Legal & Acquisition Strategy
 
 * **Donation vs. Sale Analysis**: The initial proposal was a donation. However, after a legal analysis, a symbolic sale is the only viable path to ensure long-term security for the project. A donation would carry a 20-year risk of claims from heirs and would prevent resale, making any significant investment untenable.
-    * **Reference Document**: [[Acquisto_vs_Donazione.pdf]]
+    * **Reference Document**: [[Acquisto_vs_Donazione 1.pdf]]
 
 * **Strategy for the "House in the Middle"**: There is a third property for sale between our two houses ([Idealista Link](https://www.idealista.it/immobile/32529022/)). It is crucial to negotiate for this **before** renovations begin. The plan is to make a low initial offer and evaluate financing through private funds or the [[Bando Pubblico Fesr 2021-2027. OS 1.3]], pending an official appraisal.
 
@@ -40,7 +40,7 @@ language: IT/EN
 ### 1. Strategia Legale e di Acquisizione
 
 * **Analisi Donazione vs. Vendita**: La proposta iniziale era una donazione. Tuttavia, dopo un'analisi legale, una vendita simbolica è l'unica via percorribile per garantire la sicurezza a lungo termine del progetto. Una donazione comporterebbe un rischio di 20 anni di rivendicazioni da parte degli eredi e impedirebbe la rivendita, rendendo insostenibile qualsiasi investimento significativo.
-    * **Documento di Riferimento**: [[Acquisto_vs_Donazione.pdf]]
+    * **Documento di Riferimento**: [[Acquisto_vs_Donazione 1.pdf]]
 
 * **Strategia per la "Casa in Mezzo"**: C'è una terza proprietà in vendita tra le nostre due case ([Link Idealista](https://www.idealista.it/immobile/32529022/)). È fondamentale negoziare per questa casa **prima** che inizino le ristrutturazioni. Il piano è di fare un'offerta iniziale bassa e valutare il finanziamento tramite fondi privati o il [[Bando Pubblico Fesr 2021-2027. OS 1.3]], previa perizia ufficiale.
 

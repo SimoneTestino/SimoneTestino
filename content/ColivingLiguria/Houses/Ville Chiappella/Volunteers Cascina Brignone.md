@@ -5,11 +5,11 @@ title: 🏡 Volunteering Offer at Cascina Brignone
 ---
 --Italiano sotto --
 > [!Abstract] Volunteer Program at Cascina Brignone
-> This page is for anyone interested in joining us as a volunteer at [[Cascina Brignone]], the first property of the [[ColivingLiguria]] project. This is a foundational project, meaning you will be part of bringing this house to life from its very beginnings under rustic, hands-on conditions. On this page, you will find our complete offer for [[Volunteers Cascina Brignone|volunteers]], the property's [[Location Cascina Brignone|location]], the project [[Calendar Cascina Brignone|timeline]], and a gallery of [videos](https://drive.google.com/drive/folders/1HiJg344UYUwVPZ8Rbw6DNb2TAsSAaAZR?usp=sharing) showing its current state.
+> This page is for anyone interested in joining us as a volunteer at [[Ville Chiappella]], the first property of the [[ColivingLiguria]] project. This is a foundational project, meaning you will be part of bringing this house to life from its very beginnings under rustic, hands-on conditions. On this page, you will find our complete offer for [[Volunteers Cascina Brignone|volunteers]], the property's [[Location Ville Chiappella|location]], the project [[Calendar Ville Chiappella|timeline]], and a gallery of [videos](https://drive.google.com/drive/folders/1HiJg344UYUwVPZ8Rbw6DNb2TAsSAaAZR?usp=sharing) showing its current state.
 ### Availability & How to Apply
-Positions for this project will be available from **early October**. The best way to get a transparent look at the house in its current, un-renovated state is to view our [**video gallery on Google Drive**](https://drive.google.com/drive/folders/1HiJg344UYUwVPZ8Rbw6DNb2TAsSAaAZR?usp=sharing). For more general information about the property or its [[Location Cascina Brignone|location]], please see the [[Cascina Brignone]] page,
+Positions for this project will be available from **early October**. The best way to get a transparent look at the house in its current, un-renovated state is to view our [**video gallery on Google Drive**](https://drive.google.com/drive/folders/1HiJg344UYUwVPZ8Rbw6DNb2TAsSAaAZR?usp=sharing). For more general information about the property or its [[Location Ville Chiappella|location]], please see the [[Ville Chiappella]] page,
 
-The exact start date will be announced in our [[Whatsapp Community]]. You can **[Click here to join our 📢 Open Group](https://chat.whatsapp.com/J67Cds7idarLwZrJRNywQS?mode=ac_t)** to get the latest updates. We also recommend checking the [[Calendar Cascina Brignone]] for all updated availability information.
+The exact start date will be announced in our [[Whatsapp Community]]. You can **[Click here to join our 📢 Open Group](https://chat.whatsapp.com/J67Cds7idarLwZrJRNywQS?mode=ac_t)** to get the latest updates. We also recommend checking the [[Calendar Ville Chiappella]] for all updated availability information.
 
 To apply, the preferred way to make initial contact is via Instagram at **[@colivingliguria](https://www.instagram.com/colivingliguria/)**. Alternatively, you can text on WhatsApp at **+39 339 637 9372**. I usually schedule a brief video call with prospective residents to get to know each other before sending the formal `comodato` agreement. For other contact details, you can refer to our [[Contact]] page.
 ### What We Offer
@@ -29,7 +29,7 @@ To apply, the preferred way to make initial contact is via Instagram at **[@coli
 * **Pets are welcome!** There is a large outdoor space, and pets have designated indoor areas to sleep. Most people incoming will bring their pet and we expect to have as many people as pets staying in the place! Keep in mind though that they are **not allowed in active renovation zones**.
 
 **5. Amenities:**
-* **Internet**: A connection **will be available from day one** via a personal mobile hotspot (approx. 15-30 Mbps). A faster 5G connection is planned; check the [[Calendar Cascina Brignone]] for updates.
+* **Internet**: A connection **will be available from day one** via a personal mobile hotspot (approx. 15-30 Mbps). A faster 5G connection is planned; check the [[Calendar Ville Chiappella]] for updates.
 * **Electricity & Heating**: There will be a **communal charging station**. Initial heating will be from a **wood stove**.
 
 **6. Personal and Professional Growth:**
@@ -62,11 +62,11 @@ It is essential to understand the legal nature of your stay. While we use the te
 ---
 
 > [!Abstract] Programma di Volontariato a Cascina Brignone
->Questa pagina è per chiunque sia interessato a unirsi a noi come volontario a [[Cascina Brignone]], la prima proprietà del progetto [[ColivingLiguria (IT)|ColivingLiguria]]. Si tratta di un progetto fondativo, il che significa che parteciperai a dare vita a questa casa fin dall'inizio, in condizioni rustiche e con un approccio pratico. In questa pagina troverai la nostra offerta completa per i [[Volunteers Cascina Brignone|volontari]], la [[Location Cascina Brignone|posizione]] della proprietà, la [[Calendar Cascina Brignone|timeline]] del progetto e una galleria di [video](https://drive.google.com/drive/folders/1HiJg344UYUwVPZ8Rbw6DNb2TAsSAaAZR?usp=sharing) che mostrano il suo stato attuale.
+>Questa pagina è per chiunque sia interessato a unirsi a noi come volontario a [[Ville Chiappella]], la prima proprietà del progetto [[ColivingLiguria (IT)|ColivingLiguria]]. Si tratta di un progetto fondativo, il che significa che parteciperai a dare vita a questa casa fin dall'inizio, in condizioni rustiche e con un approccio pratico. In questa pagina troverai la nostra offerta completa per i [[Volunteers Cascina Brignone|volontari]], la [[Location Ville Chiappella|posizione]] della proprietà, la [[Calendar Ville Chiappella|timeline]] del progetto e una galleria di [video](https://drive.google.com/drive/folders/1HiJg344UYUwVPZ8Rbw6DNb2TAsSAaAZR?usp=sharing) che mostrano il suo stato attuale.
 ### Disponibilità e Come Candidarsi
-Le posizioni for this progetto saranno disponibili a partire dai **primi di ottobre**. Il modo migliore per avere una visione trasparente della casa nel suo stato attuale e non ristrutturato è guardare la nostra [**galleria video su Google Drive**](https://drive.google.com/drive/folders/1HiJg344UYUwVPZ8Rbw6DNb2TAsSAaAZR?usp=sharing). Per informazioni più generali sulla proprietà e sulla sua [[Location Cascina Brignone|posizione]], si prega di consultare la pagina [[Cascina Brignone]].
+Le posizioni for this progetto saranno disponibili a partire dai **primi di ottobre**. Il modo migliore per avere una visione trasparente della casa nel suo stato attuale e non ristrutturato è guardare la nostra [**galleria video su Google Drive**](https://drive.google.com/drive/folders/1HiJg344UYUwVPZ8Rbw6DNb2TAsSAaAZR?usp=sharing). Per informazioni più generali sulla proprietà e sulla sua [[Location Ville Chiappella|posizione]], si prega di consultare la pagina [[Ville Chiappella]].
 
-La data esatta di inizio sarà annunciata nella nostra [[Whatsapp Community]]. Puoi **[Cliccare qui per unirti al nostro 📢 Gruppo Aperto](https://chat.whatsapp.com/J67Cds7idarLwZrJRNywQS?mode=ac_t)** per ricevere gli ultimi aggiornamenti. Raccomandiamo anche di controllare il [[Calendar Cascina Brignone]] per tutte le informazioni aggiornate sulla disponibilità.
+La data esatta di inizio sarà annunciata nella nostra [[Whatsapp Community]]. Puoi **[Cliccare qui per unirti al nostro 📢 Gruppo Aperto](https://chat.whatsapp.com/J67Cds7idarLwZrJRNywQS?mode=ac_t)** per ricevere gli ultimi aggiornamenti. Raccomandiamo anche di controllare il [[Calendar Ville Chiappella]] per tutte le informazioni aggiornate sulla disponibilità.
 
 Per candidarsi, il modo preferito per un primo contatto è tramite Instagram a **@colivingliguria**. In alternativa, puoi inviare un messaggio su WhatsApp al **+39 339 637 9372**. Di solito organizzo una breve videochiamata con i potenziali residenti per conoscerci prima di inviare l'accordo formale di `comodato`. Per altri dettagli di contatto, consulta la nostra pagina [[Contatti]].
 ### Cosa Offriamo
@@ -87,7 +87,7 @@ Per candidarsi, il modo preferito per un primo contatto è tramite Instagram a *
 * **Gli animali sono i benvenuti!** C'è un grande spazio esterno e aree interne designate per dormire. La maggior parte delle persone che arriveranno porterà il proprio animale e ci aspettiamo di avere tanti animali quante persone! Tieni presente però che **non sono ammessi nelle zone di cantiere attive**.
 
 **5. Servizi:**
-* **Internet**: La connessione **sarà disponibile fin dal primo giorno** tramite hotspot mobile (circa 15-30 Mbps). È prevista una connessione 5G più veloce; controlla il [[Calendar Cascina Brignone]] per aggiornamenti.
+* **Internet**: La connessione **sarà disponibile fin dal primo giorno** tramite hotspot mobile (circa 15-30 Mbps). È prevista una connessione 5G più veloce; controlla il [[Calendar Ville Chiappella]] per aggiornamenti.
 * **Elettricità e Riscaldamento**: Ci sarà una **stazione di ricarica comune**. Il riscaldamento iniziale sarà da una **stufa a legna**.
 
 **6. Crescita Personale e Professionale:**

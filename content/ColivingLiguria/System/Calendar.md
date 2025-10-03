@@ -4,7 +4,7 @@ date: 2025-08-28
 language: IT/EN
 ---
 > [!Warning] This Page is Updated Frequently!
-> This calendar is a live document outlining our current plans and future ambitions. As we have now secured our first property, [[Cascina Brignone]], these goals will be updated often. Please check back regularly for the latest news. For a more detailed timeline specific to our main villa, please see the [[Calendar Cascina Brignone]].
+> This calendar is a live document outlining our current plans and future ambitions. As we have now secured our first property, [[Ville Chiappella]], these goals will be updated often. Please check back regularly for the latest news. For a more detailed timeline specific to our main villa, please see the [[Calendar Ville Chiappella]].
 
 --italiano sotto--
 > [!NOTE] Project Timeline and Initial Steps

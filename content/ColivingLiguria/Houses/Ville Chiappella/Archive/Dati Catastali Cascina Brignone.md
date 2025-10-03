@@ -4,7 +4,7 @@ date: 2025-09-21
 language: IT
 ---
 ### Abstract
-Questa nota riassume i dati catastali e le informazioni tecniche necessarie per la stipula di un atto di compravendita per il progetto [[Cascina Brignone]]. Fa da complemento alle note strategiche, [[Technical Notes Cascina Brignone]], e alla descrizione fisica degli immobili, [[Note on Exteriors of Cascina Brignone]]. I dati catastali qui riportati sono fondamentali per la preparazione dell'atto e verranno forniti per [[Cercasi Notaio per Atto di Compravendita tra Privati]].
+Questa nota riassume i dati catastali e le informazioni tecniche necessarie per la stipula di un atto di compravendita per il progetto [[Ville Chiappella]]. Fa da complemento alle note strategiche, [[Technical Notes Cascina Brignone]], e alla descrizione fisica degli immobili, [[Note on Exteriors of Cascina Brignone]]. I dati catastali qui riportati sono fondamentali per la preparazione dell'atto e verranno forniti per [[Cercasi Notaio per Atto di Compravendita tra Privati]].
 
 ### Casa a Sinistra
 * **Location**: [View on Google Maps](http://googleusercontent.com/maps/google.com/0)

@@ -9,8 +9,8 @@ draft: false
 The best way to connect with us and follow our day-to-day progress is by joining our [[Whatsapp Community]]. It's the most direct way to get updates and chat with us.
 * **[Click here to join our WhatsApp Group](https://chat.whatsapp.com/J67Cds7idarLwZrJRNywQS?mode=ac_t)**
 
-### Our First Home: [[Cascina Brignone]]
-Our project is born from a desire to create a unique space where productivity, community, and nature converge. We are thrilled to announce that we have secured our first permanent property and main operational hub: **[[Cascina Brignone]]**! This villa will be the heart of our community, hosting our residents, activities, and startup projects.
+### Our First Home: [[Ville Chiappella]]
+Our project is born from a desire to create a unique space where productivity, community, and nature converge. We are thrilled to announce that we have secured our first permanent property and main operational hub: **[[Ville Chiappella]]**! This villa will be the heart of our community, hosting our residents, activities, and startup projects.
 
 Our ambitious plan remains to have two villas under our management by the end of the year. You can follow our high-level progress on the main [[Calendar]].
 
@@ -36,8 +36,8 @@ Drawing from direct experience, founder [[Simone Testino]] offers [[Project Laun
 Il modo migliore per connettersi con noi e seguire i nostri progressi quotidiani è unirsi alla nostra [[Whatsapp Community]]. È il modo più diretto per ricevere aggiornamenti e parlare con noi.
 * **[Clicca qui per unirti al nostro gruppo WhatsApp](https://chat.whatsapp.com/J67Cds7idarLwZrJRNywQS?mode=ac_t)**
 
-### La Nostra Prima Casa: [[Cascina Brignone]]
-Il nostro progetto nasce dal desiderio di creare uno spazio unico dove produttività, comunità e natura convergono. Siamo entusiasti di annunciare che ci siamo assicurati la nostra prima proprietà permanente e hub operativo principale: **[[Cascina Brignone]]**! Questa villa sarà il cuore della nostra comunità, ospitando i nostri residenti, le attività e i progetti di startup.
+### La Nostra Prima Casa: [[Ville Chiappella]]
+Il nostro progetto nasce dal desiderio di creare uno spazio unico dove produttività, comunità e natura convergono. Siamo entusiasti di annunciare che ci siamo assicurati la nostra prima proprietà permanente e hub operativo principale: **[[Ville Chiappella]]**! Questa villa sarà il cuore della nostra comunità, ospitando i nostri residenti, le attività e i progetti di startup.
 
 Il nostro piano ambizioso rimane quello di avere due ville in gestione entro la fine dell'anno. Potete seguire i nostri progressi di alto livello sul [[Calendar]] principale.
 

@@ -13,7 +13,7 @@ draft: false
 #### September 2025
 * **[[Deletion of the Open Groupchat]]**: An analysis of the risks and benefits of the open WhatsApp group, leading to a decision to restructure our community's communication channels to improve focus and reduce spam.
 * **[[Ethics of ColivingLiguria]]**: A preliminary draft outlining the core ethical principles and values that will guide the Coliving Liguria community and its projects.
-* **[[Conto Termico 3.0]]**: An exploration of the "Conto Termico" government incentive and its potential application for the energy-efficient renovation of our properties, particularly [[Cascina Brignone]].
+* **[[Conto Termico 3.0]]**: An exploration of the "Conto Termico" government incentive and its potential application for the energy-efficient renovation of our properties, particularly [[Ville Chiappella]].
 
 #### August 2025 & Earlier
 * **[[The Beginning]]**

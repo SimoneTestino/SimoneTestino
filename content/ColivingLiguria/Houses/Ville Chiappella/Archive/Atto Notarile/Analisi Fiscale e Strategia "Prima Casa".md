@@ -3,7 +3,7 @@ draft: true
 date: 2025-09-19
 language: IT
 ---
-Questa nota analizza la strategia fiscale ottimale per l'acquisto e la gestione delle proprietà del progetto [[Cascina Brignone]], con l'obiettivo di minimizzare il carico fiscale. Le stime si basano sui dati raccolti in [[Dati Catastali Cascina Brignone]].
+Questa nota analizza la strategia fiscale ottimale per l'acquisto e la gestione delle proprietà del progetto [[Ville Chiappella]], con l'obiettivo di minimizzare il carico fiscale. Le stime si basano sui dati raccolti in [[Dati Catastali Cascina Brignone]].
 
 ## Raccomandazione "Prima Casa"
 

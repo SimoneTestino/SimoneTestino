@@ -1,6 +1,6 @@
 ---
 draft: true
-date: 2025-08-24
+date: 2025-10-03
 ---
 I use the same program to write this website as I do for my personal notes. The following is a section from my private notes, intended to remain confidential. I keep these notes to track all the people who get in touch with me and who could be useful for the project in the future.
 
@@ -77,3 +77,9 @@ I use the same program to write this website as I do for my personal notes. The 
 	- **Notes:** We had a call in mid sept, she is available starting January to make an interior design of the house (once decently renovated) in exchange of free rent alone.
 
 - **Interior Designer:** Parisa
+
+- **Potential Cofounders**: Luca
+	- +39 39 137 858 86
+
+- **Farmer for Terrains**:
+	- ‪+39 334 836 7339‬ (from MV)

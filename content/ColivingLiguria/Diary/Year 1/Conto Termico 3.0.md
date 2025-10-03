@@ -3,7 +3,7 @@ draft: false
 date: 2025-09-21
 ---
 > [!Abstract]
-> Questo documento riassume le informazioni relative all'incentivo "Conto Termico" basandosi su un'analisi video e fonti informative online, con un focus specifico sulla sua applicazione per i progetti [[ColivingLiguria]] e [[Luna]], in particolare per la ristrutturazione di [[Cascina Brignone]]. Si analizzano gli interventi ammissibili, le modalità di erogazione del bonus e le procedure da seguire, evidenziando le opportunità strategiche per ottimizzare i costi di riqualificazione energetica.
+> Questo documento riassume le informazioni relative all'incentivo "Conto Termico" basandosi su un'analisi video e fonti informative online, con un focus specifico sulla sua applicazione per i progetti [[ColivingLiguria]] e [[Luna]], in particolare per la ristrutturazione di [[Ville Chiappella]]. Si analizzano gli interventi ammissibili, le modalità di erogazione del bonus e le procedure da seguire, evidenziando le opportunità strategiche per ottimizzare i costi di riqualificazione energetica.
 
 ### Link Utili
 * **Fonte Video:** [Guida completa al Conto Termico 2025](https://youtu.be/5N8PrC0GfLE?si=m-Q27hrYv_TEfzXq)
@@ -16,7 +16,7 @@ date: 2025-09-21
 
 Il Conto Termico è un incentivo statale gestito dal GSE (Gestore Servizi Energetici) che, a differenza di altri bonus come l'Ecobonus, non funziona come detrazione fiscale IRPEF. Viene erogato tramite bonifico bancario direttamente sul conto corrente del richiedente. Per importi fino a 5.000 €, il pagamento avviene in un'unica soluzione; per importi superiori, viene suddiviso in rate annuali costanti (da 2 a 5 anni). Questo lo rende particolarmente interessante perché fornisce liquidità diretta. È anche possibile cedere il credito a un'azienda in cambio di uno sconto in fattura.
 
-Per un progetto come il nostro, l'edificio di [[Cascina Brignone]] può essere suddiviso in due categorie ai fini dell'incentivo:
+Per un progetto come il nostro, l'edificio di [[Ville Chiappella]] può essere suddiviso in due categorie ai fini dell'incentivo:
 
 1.  **Parte ad uso "Terziario/Residenziale" (Coliving/Luna):** Questa parte, dedicata all'attività di coliving e alla startup [[Luna]], rientra nella categoria del terziario.
 2.  **Parte ad uso "Prima Casa":** Una porzione dell'immobile potrebbe essere designata come mia abitazione principale (residenziale privato), con un regime fiscale agevolato come indicato in [[Dati Catastali Cascina Brignone]].

@@ -43,3 +43,8 @@ La procedura si articola in due fasi:
       - In dialogo con la famiglia Brignone (l'attuale proprietà), si dovrà redigere una **proposta di vendita (preliminare)** contenente le esatte condizioni dell'accordo (prezzo di 3.000 € e altre clausole).
       - La famiglia Brignone dovrà **notificare formalmente** tale proposta al confinante tramite lettera raccomandata con avviso di ricevimento.
       - Si dovrà attendere il termine di **30 giorni** per un'eventuale risposta. Solo dopo la scadenza di tale termine senza esercizio della prelazione, si potrà procedere con il rogito.
+        
+        
+        
+        
+        Fonti da leggere bene: https://www.notaioplasmati.it/sintesi-prelazione-del-confinante
