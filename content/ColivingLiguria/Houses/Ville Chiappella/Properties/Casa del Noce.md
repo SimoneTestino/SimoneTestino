@@ -1,3 +1,7 @@
+---
+date: 2025-10-04
+draft: false
+---
 — Italiano sotto —
 
 This document provides a detailed breakdown of the "Casa del Noce" property, located at STRADA CHIAPPELLA, Comune di CAIRO MONTENOTTE (SV). The property consists of a main residential building, a large rustic outbuilding, and a significant garden.
@@ -6,6 +10,7 @@ This document provides a detailed breakdown of the "Casa del Noce" property, loc
 
 ### Main House (Particella 519, Sub. 6 & Particella 520)
 
+- **Location:** [Google Maps](https://maps.app.goo.gl/B6dYxZpMF8CGPViJ7) | Coordinates: 44.402941, 8.253473
 - **Land Registry:** Foglio 29, Particella 519 (Sub. 6) & 520
 - **Category:** A/4 (Residential)
 - **Surface Area:** 59 m²
@@ -15,6 +20,7 @@ This document provides a detailed breakdown of the "Casa del Noce" property, loc
 ### Rustic Outbuilding (Particella 521)
 A large, independent rustic building located within the garden, offering significant potential for future development (e.g., "Progetto Luna").
 
+- **Location:** [Google Maps](https://maps.app.goo.gl/CFXPfVBmjRiG7Fx46) | Coordinates: 44.402817, 8.253551
 - **Land Registry:** Foglio 29, Particella 521
 - **Category:** C/2 (Warehouse/Storage)
 - **Surface Area:** 60 m²
@@ -34,6 +40,7 @@ Questo documento fornisce una suddivisione dettagliata della proprietà "Casa de
 
 ### Casa Principale (Particella 519, Sub. 6 & Particella 520)
 
+- **Posizione:** [Google Maps](https://maps.app.goo.gl/B6dYxZpMF8CGPViJ7) | Coordinate: 44.402941, 8.253473
 - **Dati Catastali:** Foglio 29, Particella 519 (Sub. 6) & 520
 - **Categoria:** A/4 (Residenziale)
 - **Superficie:** 59 m²
@@ -43,6 +50,7 @@ Questo documento fornisce una suddivisione dettagliata della proprietà "Casa de
 ### Rustico (Particella 521)
 Un grande edificio rustico indipendente situato all'interno del giardino, che offre un notevole potenziale per sviluppi futuri (es. "Progetto Luna").
 
+- **Posizione:** [Google Maps](https://maps.app.goo.gl/CFXPfVBmjRiG7Fx46) | Coordinate: 44.402817, 8.253551
 - **Dati Catastali:** Foglio 29, Particella 521
 - **Categoria:** C/2 (Magazzino/Deposito)
 - **Superficie:** 60 m²

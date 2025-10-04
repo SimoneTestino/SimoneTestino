@@ -1,14 +1,17 @@
 ---
-date: 2025-10-03
+date: 2025-10-04
 draft: false
 ---
 — Italiano sotto —
 
-This document provides a detailed breakdown of the "Casa del Forno" property, located at STRADA CHIAPPELLA, Comune di CAIRO MONTENOTTE (SV). The property consists of a main residential building (Particella 440) divided into three sub-units, a separate utility building ("The Oven"), and appurtenant lands.
+This document provides a detailed breakdown of the "Casa del Forno" property, located at STRADA CHIAPPELLA, Comune di CAIRO MONTENOTTE (SV). The property consists of a main residential building, a separate utility building ("The Oven"), and appurtenant lands.
 
-![Cadastral Map Casa del Forno](Catasto%20Casa%20del%20Forno.png)
+![Mappa Catastale Casa del Forno](Catasto%20Casa%20del%20Forno.png)
+
+**Location:** Str. Chiappella, 19 | [Google Maps](https://maps.app.goo.gl/LuoaRw2AM4vUGP5q8) | Coordinates: 44°24'11.2"N 8°15'13.5"E
 
 ### Main Residential Building - Particella 440
+This is the larger of the two houses. The structure is a mix of stone and brick, but it is well-plastered, with straight walls and no obvious structural issues. The windows need to be replaced.
 
 #### Subalterno 5
 - **Land Registry:** Foglio 29, Particella 440, Sub. 5
@@ -35,24 +38,27 @@ This document provides a detailed breakdown of the "Casa del Forno" property, lo
 - **Associated Cellars:** The floor plan also shows three cellars. Their future use is still undecided; they could be converted into a gym, offices, or connected to the apartment via internal stairs to create more bedrooms. Further planning is required.
 
 ### Appurtenant Lands
-These two adjacent plots will form a convenient and beautiful vegetable garden (*orticello*) right in front of the house.
+These two adjacent plots will form a convenient and beautiful vegetable garden (*orticello*) right in front of the house. The main plot is currently uncultivated, with two small trees.
 - **Particella 531:** SEMIN ARBOR, Class 2 - Surface: 210 m²
 - **Particella 532:** SEMIN IRRIG, Class 2 - Surface: 104 m²
 
-### The Oven - Particella 529
-This is a separate building registered as a warehouse/storage unit (Category C/2), located next to the planned vegetable garden.
+### The Oven (Former Chicken Coop) - Particella 529
+This is a separate brick building in good structural condition, with an electrical connection. Its roof appears more precarious than others and requires inspection. An adjacent small wooden hut is also present.
 - **Land Registry:** Foglio 29, Particella 529
 - **Surface Area:** 52 m²
 - **Floor Plan:** [[PLANIMETRIA FG 29 MAPP 529.pdf]]
-- **Future Use:** The plan is to keep its function as an oven while enhancing it. Since it already has electricity, the idea is to add a water connection from the main house. This would allow for the creation of a large, communal outdoor kitchen, perfect for cooking with a wood-fired oven (for pizzas, bread), electricity, or gas tanks.
+- **Future Use:** The plan is to enhance it into a large, communal outdoor kitchen. The existing electrical connection will be supplemented with a water line from the main house. It will be perfect for cooking with a wood-fired oven, electricity, or gas tanks.
 
 ---
 
-Questo documento fornisce una suddivisione dettagliata della proprietà "Casa del Forno", situata in STRADA CHIAPPELLA, Comune di CAIRO MONTENOTTE (SV). La proprietà è composta da un edificio residenziale principale (Particella 440) suddiviso in tre subalterni, un edificio accessorio separato ("Il Forno") e terreni pertinenziali.
+Questo documento fornisce una suddivisione dettagliata della proprietà "Casa del Forno", situata in STRADA CHIAPPELLA, Comune di CAIRO MONTENOTTE (SV). La proprietà è composta da un edificio residenziale principale, un edificio accessorio separato ("Il Forno") e terreni pertinenziali.
 
 ![Mappa Catastale Casa del Forno](Catasto%20Casa%20del%20Forno.png)
 
+**Posizione:** Str. Chiappella, 19 | [Google Maps](https://maps.app.goo.gl/LuoaRw2AM4vUGP5q8) | Coordinate: 44°24'11.2"N 8°15'13.5"E
+
 ### Edificio Residenziale Principale - Particella 440
+È la casa più grande delle due. La struttura è un misto di pietra e mattoni, ma si presenta ben intonacata, con mura dritte e senza problemi strutturali evidenti. Le finestre sono da sostituire.
 
 #### Subalterno 5
 - **Dati Catastali:** Foglio 29, Particella 440, Sub. 5
@@ -79,13 +85,13 @@ Questo documento fornisce una suddivisione dettagliata della proprietà "Casa de
 - **Cantine Associate:** La planimetria mostra anche tre cantine. Il loro futuro utilizzo è ancora incerto; potrebbero diventare una palestra, uffici, o essere collegate all'appartamento con scale interne per creare più stanze da letto. Sono necessari ulteriori piani a riguardo.
 
 ### Terreni Pertinenziali
-Questi due lotti adiacenti andranno a formare un comodo e bell'orticello proprio di fronte a casa.
+Questi due lotti adiacenti andranno a formare un comodo e bell'orticello proprio di fronte a casa. Il lotto principale è attualmente incolto e presenta due alberelli.
 - **Particella 531:** SEMIN ARBOR, Classe 2 - Superficie: 210 m²
 - **Particella 532:** SEMIN IRRIG, Classe 2 - Superficie: 104 m²
 
-### Il Forno - Particella 529
-Edificio separato, accatastato come magazzino/deposito (Categoria C/2), situato accanto all'orto di progetto.
+### Il Forno (Ex Pollaio) - Particella 529
+Edificio separato in mattoni, in buone condizioni strutturali e con allaccio alla corrente elettrica. Il tetto appare più precario rispetto agli altri e richiede una verifica. Adiacente si trova una piccola casupola in legno.
 - **Dati Catastali:** Foglio 29, Particella 529
 - **Superficie:** 52 m²
 - **Planimetria:** [[PLANIMETRIA FG 29 MAPP 529.pdf]]
-- **Utilizzo Futuro:** L'idea è di mantenere la sua funzione di forno, potenziandola. Dato che ha già la corrente, si prevede di aggiungere un collegamento idrico dalla casa principale. Questo permetterebbe di creare una grande cucina esterna comune, ideale per cucinare con forno a legna (per pizze, pane), elettricità o bombole del gas.
+- **Utilizzo Futuro:** L'idea è di potenziarlo per creare una grande cucina esterna comune. All'allaccio elettrico esistente si aggiungerà un collegamento idrico dalla casa principale. Sarà ideale per cucinare con forno a legna, elettricità o bombole del gas.
