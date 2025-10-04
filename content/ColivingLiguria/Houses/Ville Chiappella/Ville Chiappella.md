@@ -12,14 +12,16 @@ date: 2025-10-03
 **Ville Chiappella** is a traditional farmhouse complex composed of three distinct houses and extensive appurtenant lands. It represents a key opportunity for developing our coliving community. For a deep dive into the building's current state, including its masonry, roof, and grounds, you can find a full technical analysis in the [[Note on Exteriors of Cascina Brignone]].
 
 The property includes the following main buildings:
-- **[[Casa del Noce]]**: A very spacious house with a large front garden featuring a beautiful walnut tree. The house includes many cellars and various rooms.
-- **[[Casa del Forno]]**: This house has a nice external wood-fired oven, a lovely vegetable garden, and is generally in good condition, though some floor slabs will need redoing. It's very spacious and requires some renovation.
-- **[[Casa del Caco]]**: A house in poorer condition where the roof and floor slabs need to be completely redone. It features a small garden at house level with a beautiful persimmon tree.
+
+- **[[Casa del Noce]]**: A spacious house with a solid structure, a large garden, many cellars, and a significant rustic outbuilding with great potential.
+- **[[Casa del Forno]]**: The largest of the houses, divided into multiple apartments. It is in generally good condition but requires some renovation, particularly to the floor slabs. It features a lovely external wood-fired oven and a vegetable garden.
+- **[[Casa del Caco]]**: A house in poorer condition that requires a full renovation of the roof and floor slabs, but which benefits from an already approved renovation project.
 
 The property also includes several large plots of land, which will be used for our activities. More details on these will be shared soon:
-- [[Terreni oltre Torrente]]
-- [[Terreni Lungotorrente]]
-- [[Terreni alla Fonte]]
+
+- **[[Terreni Lungotorrente]]**: Riverside agricultural plots, flat and ideal for cultivation.
+- **[[Terreni oltre Torrente]]**: Steep, wooded plots with potential for firewood and collaboration with neighboring activities.
+- **[[Terreni alla Fonte]]**: Steep, wooded plots at the source of a stream, presenting logistical challenges but interesting strategic potential.
 
 Our plan for acquiring and launching this property involves several key steps. The projected timeline is detailed in the [[Calendar Ville Chiappella]].
 
@@ -41,13 +43,16 @@ The property offers a perfect balance of rural tranquility and convenient access
 **Ville Chiappella** è un complesso di casali tradizionali composto da tre case distinte e vasti terreni di pertinenza. Rappresenta un'opportunità chiave per lo sviluppo della nostra comunità di coliving. Per un'analisi approfondita dello stato attuale, incluse le murature, il tetto e gli spazi esterni, è disponibile un'analisi tecnica completa nella nota [[Note on Exteriors of Cascina Brignone]].
 
 La proprietà include i seguenti edifici principali:
-- **[[Casa del Noce]]**: una casa molto spaziosa, con un giardinone di fronte, e un bell'albero di noce che fa parte del giardino. Nella casa abbiamo molte cantine e diversi locali.
-- **[[Casa del Forno]]**: una casa con un bel forno a legna esterno di fronte, un bell'orto. Della casa dovremo rifare parte dei solai ma per il resto è in buone condizioni, molto spaziosa e ha bisogno di un po' di ristrutturazione.
-- **[[Casa del Caco]]**: una casa in condizioni peggiori in cui dovremo rifare tetto e solai, con un piccolo giardinetto a livello della casa con un bellissimo albero di cachi.
+
+- **[[Casa del Noce]]**: Una casa spaziosa con una struttura solida, un grande giardino, molte cantine e un significativo rustico annesso con grande potenziale.
+- **[[Casa del Forno]]**: La più grande delle case, suddivisa in più appartamenti. È in buone condizioni generali ma richiede alcuni lavori di ristrutturazione, in particolare ai solai. Dispone di un bel forno a legna esterno e di un orto.
+- **[[Casa del Caco]]**: Una casa in condizioni peggiori che necessita di una ristrutturazione completa di tetto e solai, ma che beneficia di un progetto di ristrutturazione già approvato.
 
 La proprietà include anche diversi grandi appezzamenti di terreno, che useremo per le nostre attività. Maggiori dettagli su questi verranno condivisi a breve:
-- [[Terreni oltre Torrente]]
-- [[Terreni Lungotorrente]]
+
+- **[[Terreni Lungotorrente]]**: Appezzamenti agricoli lungo il fiume, pianeggianti e ideali per la coltivazione.
+- **[[Terreni oltre Torrente]]**: Lotti boschivi e scoscesi, con potenziale per legna da ardere e collaborazioni con attività vicine.
+- **[[Terreni alla Fonte]]**: Lotti boschivi e scoscesi alla fonte di un torrente, che presentano sfide logistiche ma un interessante potenziale strategico.
 
 Il nostro piano per l'acquisizione e l'avvio di questa proprietà prevede diversi passaggi chiave. La timeline prevista è dettagliata nel [[Calendar Ville Chiappella]].
 
