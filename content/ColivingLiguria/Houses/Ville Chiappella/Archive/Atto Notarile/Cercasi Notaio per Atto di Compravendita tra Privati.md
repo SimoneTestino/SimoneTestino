@@ -2,46 +2,46 @@
 draft: false
 date: 2025-10-01
 ---
-> **Oggetto:** Richiesta preventivo per atto di compravendita immobiliare – Cairo Montenotte
+> [!Abstract] In breve
+> Questa pagina delinea i requisiti e le specifiche per la stipula di un atto di compravendita immobiliare a Cairo Montenotte. L'operazione, complessa nella sua struttura, è interamente finanziata con mezzi propri. Si prega di esaminare i dettagli di seguito per la predisposizione di un preventivo.
 
-Questa pagina delinea i requisiti e le specifiche per la stipula di un atto di compravendita immobiliare a Cairo Montenotte. L’acquisto riguarda, da privato, una proprietà composta da più unità immobiliari e terreni (vedi dettagli nella [[VISURA IMMOBILI STRADA CHIAPPELLA.pdf]]), con operazione integralmente finanziata tramite risparmi personali. Nessun mutuo, nessuna agenzia coinvolta.
+### Dettagli dell'Operazione
 
-### Dati catastali e dettagli operazione
+- **Acquirente:** Privato cittadino, non in possesso di altri immobili. Prevede di trasferire la residenza a Cairo Montenotte subito dopo l'acquisto.
+- **Immobili Oggetto di Acquisto:** L'intero lotto di fabbricati e terreni come da visura allegata: [[VISURA IMMOBILI STRADA CHIAPPELLA.pdf]].
+- **Regime Fiscale Richiesto:**
+    - **Prima Casa:** Si richiede l'applicazione delle agevolazioni "prima casa" per l'unità abitativa con la rendita catastale maggiore (il fabbricato n.6 nell'elenco).
+    - **Pertinenze:** Si richiede di considerare tutti i terreni agricoli come **pertinenze** della prima casa ai fini dell'imposta di registro, dato che sono tutti raggiungibili a piedi e saranno a servizio diretto dell'abitazione. Si assume che tali terreni siano non edificabili.
+- **Rendite Catastali di Riferimento:**
+    - **Totale Rendita Catastale Fabbricati:** 1.082,03 €
+    - **Totale Reddito Dominicale Terreni:** 18,44 €
 
-- **Totale rendita catastale fabbricati:** €1.082,03  
-- **Totale reddito dominicale terreni:** €18,44 (tutti i terreni sono da considerare non edificabili)
-- **Residenza attuale:** Comune di Genova (prevedo di trasferirla a Cairo Montenotte subito dopo l’acquisto)
-- Non possiedo altri immobili
+### Natura dell'Atto e Prezzo
 
-Ai fini delle agevolazioni, la scelta della “prima casa” ricadrà sull’unità abitativa con la rendita catastale maggiore (n.6 tra i fabbricati elencati).
+- **Struttura dell'Atto:** L'operazione è strutturata come una **compravendita a prezzo simbolico di 3.000 €, con elementi di donazione indiretta**. Questa formula è stata scelta per precise ragioni strategiche e di efficienza legale.
+- **Analisi Legale:** La logica giuridica, la ripartizione del valore e la clausola strategica da inserire nell'atto sono esposte in dettaglio nel documento di analisi: [[Acquisto_vs_Donazione 1.pdf]].
+- **Rapporto tra le Parti:** Si precisa che **non sussiste alcun grado di parentela** tra la parte acquirente e la parte venditrice.
 
-### Natura dell’atto e requisiti specifici
+### Esigenze Principali
 
-- **Compravendita a prezzo simbolico di 3.000 €**  
-  Formula scelta per motivi di efficienza legale (vedi dettagli nel [[Acquisto_vs_Donazione 1.pdf]])
-- Richiesta inclusione di una specifica clausola strategica come da documento di analisi allegato
+1.  **Massima Rapidità:** Si ricerca un professionista con disponibilità immediata. L'operazione è avviabile dal 1 ottobre 2025.
+2.  **Contenimento dei Costi:** Dato il valore simbolico e l'assenza di mediazione, si desidera che l'onorario notarile sia il più contenuto possibile. La stima delle imposte viene gestita autonomamente.
+3.  **Firma Digitale Remota:** Specificare la disponibilità e l'eventuale costo aggiuntivo per una stipula a distanza (si è già in possesso di firma digitale e PEC).
 
-### Esigenze principali
+### Informazioni Richieste
 
-1. **Massima rapidità:** Priorità a professionisti subito disponibili. Operazione avviabile dal 1 ottobre 2025.
-2. **Contenimento costi:** Essendo tutto già concordato tra privati, ciò che mi interessa sono i **costi esclusivamente notarili**.  
-   Faccio autonomamente la stima dei costi fiscali.
-3. **Firma digitale remota:** Specificare la vostra disponibilità e l’eventuale extra-costo per stipula da remoto (sono in possesso di firma digitale e PEC).
+- Un **preventivo di spesa** dettagliato per il solo onorario notarile, indicando separatamente i costi per l'eventuale procedura di firma digitale.
+- La Vostra **prima data disponibile** per un incontro o per il rogito.
+- Disponibilità per una breve **chiamata telefonica** successiva all'invio del preventivo.
 
-### Risposte richieste
+### Revisione della Strategia Legale
 
-- **Preventivo notarile dettagliato** (onorario + eventuale firma digitale)
-- **Prima data utile** per incontro/rogito (da dopo il 24 settembre 2025)
-- **Disponibilità per breve call** dopo il preventivo
-
-### Revisione strategia e allegati
-
-Si prega di esaminare con attenzione il [documento di analisi legale](Acquisto_vs_Donazione%201.pdf) e la [visura](VISURA IMMOBILI STRADA CHIAPPELLA.pdf). Qualora emergano criticità sul piano giuridico evidenziatele subito.
+Si invita a esaminare con attenzione il [documento di analisi legale](Acquisto_vs_Donazione%201.pdf). Qualora venissero riscontrate criticità nella strategia proposta, sarebbe molto apprezzato un riscontro anticipato per garantire la massima sicurezza giuridica dell'operazione.
 
 ### Contatti
 
-- Email: colivingliguria@gmail.com  
-- PEC: simone.testino@legalmail.it  
-- Telefono: 339 637 9372
+- **Email:** colivingliguria@gmail.com
+- **PEC:** simone.testino@legalmail.it
+- **Telefono:** 339 637 9372
 
-*Rispondere esclusivamente via email o PEC allegando il preventivo dettagliato secondo le specifiche richieste.*
+*Si prega di rispondere esclusivamente via email o PEC, allegando il preventivo secondo le specifiche richieste.*
