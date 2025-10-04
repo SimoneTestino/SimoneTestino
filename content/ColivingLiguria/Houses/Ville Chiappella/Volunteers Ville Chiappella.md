@@ -1,7 +1,7 @@
 ---
 draft: false
 date: 2025-10-04
-title: 🏡 Volunteering Offer at Cascina Brignone
+title: 🏡 Volunteering Offer at Ville Chiappella
 ---
 — Italiano sotto —
 
