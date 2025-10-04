@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2025-10-01
+date: 2025-10-04
 ---
 > [!Abstract] In breve
 > Questa pagina delinea i requisiti e le specifiche per la stipula di un atto di compravendita immobiliare a Cairo Montenotte. L'operazione, complessa nella sua struttura, è interamente finanziata con mezzi propri. Si prega di esaminare i dettagli di seguito per la predisposizione di un preventivo.

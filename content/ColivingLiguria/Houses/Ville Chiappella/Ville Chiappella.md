@@ -7,8 +7,6 @@ date: 2025-10-03
 > [!Abstract] In short
 > This page introduces **Ville Chiappella**, the first property complex of the [[ColivingLiguria]] project. Here we present the opportunity for [[Volunteers Cascina Brignone|volunteers]], the property's [[Location Ville Chiappella|location]], and its development [[Calendar Ville Chiappella|timeline]].
 
-### The Project
-
 **Ville Chiappella** is a traditional farmhouse complex composed of three distinct houses and extensive appurtenant lands. It represents a key opportunity for developing our coliving community. For a deep dive into the building's current state, including its masonry, roof, and grounds, you can find a full technical analysis in the [[Note on Exteriors of Cascina Brignone]].
 
 The property includes the following main buildings:
