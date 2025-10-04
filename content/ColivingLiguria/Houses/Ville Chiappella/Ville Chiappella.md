@@ -5,7 +5,7 @@ date: 2025-10-03
 —Italiano sotto —
 
 > [!Abstract] In short
-> This page introduces **Ville Chiappella**, the first property complex of the [[ColivingLiguria]] project. Here we present the opportunity for [[Volunteers Cascina Brignone|volunteers]], the property's [[Location Ville Chiappella|location]], and its development [[Calendar Ville Chiappella|timeline]].
+> This page introduces **Ville Chiappella**, the first property complex of the [[ColivingLiguria]] project. Here we present the opportunity for [[Volunteers Ville Chiappella|volunteers]], the property's [[Location Ville Chiappella|location]], and its development [[Calendar Ville Chiappella|timeline]].
 
 **Ville Chiappella** is a traditional farmhouse complex composed of three distinct houses and extensive appurtenant lands. It represents a key opportunity for developing our coliving community. For a deep dive into the building's current state, including its masonry, roof, and grounds, you can find a full technical analysis in the [[Note on Exteriors of Cascina Brignone]].
 
@@ -25,7 +25,7 @@ Our plan for acquiring and launching this property involves several key steps. T
 
 ### Volunteering & Community
 
-This is a foundational project, and we are looking for motivated people to help us bring the houses to life. The experience is hands-on, focused on renovation, gardening, and building a community from the ground up. We have prepared a detailed page explaining what we offer, what we expect, and the legal framework for your stay. You can read all about it here: **[[Volunteers Cascina Brignone]]**.
+This is a foundational project, and we are looking for motivated people to help us bring the houses to life. The experience is hands-on, focused on renovation, gardening, and building a community from the ground up. We have prepared a detailed page explaining what we offer, what we expect, and the legal framework for your stay. You can read all about it here: **[[Volunteers Ville Chiappella]]**.
 
 ### Location & Resources
 
@@ -34,7 +34,7 @@ The property offers a perfect balance of rural tranquility and convenient access
 ---
 
 > [!Abstract] In breve
-> Questa pagina introduce **Ville Chiappella**, il primo complesso immobiliare del progetto [[ColivingLiguria (IT)|ColivingLiguria]]. Qui presentiamo l'opportunità per i [[Volunteers Cascina Brignone|volontari]], la [[Location Ville Chiappella|posizione]] della proprietà e il suo [[Calendar Ville Chiappella|calendario]] di sviluppo.
+> Questa pagina introduce **Ville Chiappella**, il primo complesso immobiliare del progetto [[ColivingLiguria (IT)|ColivingLiguria]]. Qui presentiamo l'opportunità per i [[Volunteers Ville Chiappella|volontari]], la [[Location Ville Chiappella|posizione]] della proprietà e il suo [[Calendar Ville Chiappella|calendario]] di sviluppo.
 
 ### Il Progetto
 
@@ -56,7 +56,7 @@ Il nostro piano per l'acquisizione e l'avvio di questa proprietà prevede divers
 
 ### Volontariato e Comunità
 
-Questo è un progetto fondativo e stiamo cercando persone motivate che ci aiutino a dare vita alle case. L'esperienza è pratica, incentrata sulla ristrutturazione, il giardinaggio e la costruzione di una comunità dalle fondamenta. Abbiamo preparato una pagina dettagliata che spiega cosa offriamo, cosa ci aspettiamo e il quadro legale per il soggiorno. Puoi leggere tutto qui: **[[Volunteers Cascina Brignone]]**.
+Questo è un progetto fondativo e stiamo cercando persone motivate che ci aiutino a dare vita alle case. L'esperienza è pratica, incentrata sulla ristrutturazione, il giardinaggio e la costruzione di una comunità dalle fondamenta. Abbiamo preparato una pagina dettagliata che spiega cosa offriamo, cosa ci aspettiamo e il quadro legale per il soggiorno. Puoi leggere tutto qui: **[[Volunteers Ville Chiappella]]**.
 
 ### Posizione e Risorse
 

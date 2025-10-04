@@ -1,6 +1,7 @@
 ---
 draft: false
-date: 2025-09-29
+date: 2025-10-04
+language: IT/EN
 ---
 --- Italiano sotto ---
 
