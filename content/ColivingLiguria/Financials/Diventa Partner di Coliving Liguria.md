@@ -50,4 +50,4 @@ La fiducia e la chiarezza sono le fondamenta della nostra partnership. Per quest
 > Questo è un esempio del contratto a lungo termine che verrà discusso e personalizzato durante la fase di comodato. Illustra le clausole principali del nostro modello di partnership, sia per la gestione (Modello A) che per l'affitto con riscatto (Modello B).
 > ![[FacSimileContrattoDefinitivo.pdf]]
 
-Se sei interessato a esplorare questa opportunità, contattaci per fissare un sopralluogo senza impegno. Trovi tutti i riferimenti nella nostra pagina [[Contatti]].
+Se sei interessato a esplorare questa opportunità, contattaci per fissare un sopralluogo senza impegno. Trovi tutti i riferimenti nella nostra pagina [[Contact]].

@@ -7,7 +7,7 @@ date: 2025-08-11
 
 Il progetto Coliving Liguria, una nuova impresa finanziata con fondi europei, è nella fase finale di selezione della sua prima sede operativa. Per questo, siamo alla ricerca di uno Studio Notarile che possa assisterci nella stipula dell'atto di acquisto e fornire consulenza sugli aspetti fiscali e legali dell'operazione.
 
-Potete trovare tutti i miei riferimenti nella pagina [[Contatti]], la mail di riferimento è colivingliguria@gmail.com.
+Potete trovare tutti i miei riferimenti nella pagina [[Contact]], la mail di riferimento è colivingliguria@gmail.com.
 ### Contesto dell'Operazione
 Per permettervi di inquadrare correttamente la pratica, di seguito i dettagli fondamentali:
 * **Parte Acquirente:** Ditta Individuale "Simone Testino".

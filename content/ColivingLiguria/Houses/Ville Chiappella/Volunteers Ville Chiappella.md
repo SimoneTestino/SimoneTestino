@@ -87,7 +87,7 @@ La data esatta di inizio dipende dall'appuntamento definitivo con il notaio. Tut
 
 Raccomandiamo anche di controllare il [[Calendar Ville Chiappella]] per tutte le informazioni aggiornate sulla disponibilità.
 
-Per candidarsi, il modo preferito per un primo contatto è tramite Instagram a **@colivingliguria**. In alternativa, puoi inviare un messaggio su WhatsApp al **+39 339 637 9372**. Di solito organizzo una breve videochiamata con i potenziali residenti per conoscerci prima di inviare l'accordo formale di `comodato`. Per altri dettagli di contatto, consulta la nostra pagina [[Contatti]].
+Per candidarsi, il modo preferito per un primo contatto è tramite Instagram a **@colivingliguria**. In alternativa, puoi inviare un messaggio su WhatsApp al **+39 339 637 9372**. Di solito organizzo una breve videochiamata con i potenziali residenti per conoscerci prima di inviare l'accordo formale di `comodato`. Per altri dettagli di contatto, consulta la nostra pagina [[Contact]].
 
 ### Cosa Offriamo
 

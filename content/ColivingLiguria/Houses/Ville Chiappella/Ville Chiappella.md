@@ -7,8 +7,7 @@ date: 2025-10-03
 > [!Abstract] In short
 > This page introduces **Ville Chiappella**, the first property complex of the [[ColivingLiguria]] project. Here we present the opportunity for [[Volunteers Ville Chiappella|volunteers]], the property's [[Location Ville Chiappella|location]], and its development [[Calendar Ville Chiappella|timeline]].
 
-**Ville Chiappella** is a traditional farmhouse complex composed of three distinct houses and extensive appurtenant lands. It represents a key opportunity for developing our coliving community. For a deep dive into the building's current state, including its masonry, roof, and grounds, you can find a full technical analysis in the [[Note on Exteriors of Cascina Brignone]].
-
+**Ville Chiappella** is a traditional farmhouse complex composed of three distinct houses and extensive appurtenant lands. It represents a key opportunity for developing our coliving community.
 The property includes the following main buildings:
 
 - **[[Casa del Noce]]**: A spacious house with a solid structure, a large garden, many cellars, and a significant rustic outbuilding with great potential.
@@ -38,7 +37,7 @@ The property offers a perfect balance of rural tranquility and convenient access
 
 ### Il Progetto
 
-**Ville Chiappella** è un complesso di casali tradizionali composto da tre case distinte e vasti terreni di pertinenza. Rappresenta un'opportunità chiave per lo sviluppo della nostra comunità di coliving. Per un'analisi approfondita dello stato attuale, incluse le murature, il tetto e gli spazi esterni, è disponibile un'analisi tecnica completa nella nota [[Note on Exteriors of Cascina Brignone]].
+**Ville Chiappella** è un complesso di casali tradizionali composto da tre case distinte e vasti terreni di pertinenza. Rappresenta un'opportunità chiave per lo sviluppo della nostra comunità di coliving.
 
 La proprietà include i seguenti edifici principali:
 

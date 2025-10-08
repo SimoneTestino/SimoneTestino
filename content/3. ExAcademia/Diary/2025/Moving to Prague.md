@@ -28,5 +28,7 @@ I should forward the email to: [Institute for Greek and Latin Studies](https://u
 
 [Course Catalogue Mathematics](https://is.cuni.cz/studium/eng/predmety/index.php?do=search&nazev=&kod=&match=substring&srch_nazev=0&srch_nazev=0&srch_nazev=1&srch_pam_a=0&srch_pam_s=0&fak=11320&ustav=&sekce=&trida=&klas=&p4euplus=&pvirtmob=&pvyjazyk=&sem=&pocet=500&ujmeno=&utyp=3&b=Search)
 
+https://logika.ff.cuni.cz/cs/studium/harmonogram/
+
 ## Rental
 ‪+420 725 964 775‬, 28.10.-30.11, Prague 2 Vinohrady, 28k, great to share.

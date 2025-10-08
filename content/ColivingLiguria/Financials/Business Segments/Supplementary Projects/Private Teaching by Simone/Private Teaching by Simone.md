@@ -38,7 +38,7 @@ Il pacchetto "all-inclusive" comprende:
     * Servizio di trasporto dalla stazione di Genova alla villa.
     * Uso di uno scooter 125cc per muoversi in autonomia, con benzina inclusa nel prezzo.
 ### Contatti
-Se sei interessato a una consulenza o a prenotare delle lezioni, puoi [[Contatti|contattarmi]] direttamente tramite i miei canali personali.
+Se sei interessato a una consulenza o a prenotare delle lezioni, puoi [[Contact|contattarmi]] direttamente tramite i miei canali personali.
 * **WhatsApp (Contatto Preferito):** `+39 339 637 9372`
 * **Email Personale:** [simone.testino@gmail.com](mailto:simone.testino@gmail.com)
 * **Instagram Personale:** [@simone.testino](https://www.instagram.com/simone.testino)

@@ -7,7 +7,7 @@ date: 2025-09-22
 
 Il progetto Coliving Liguria, una nuova impresa finanziata da fondi europei, è nella fase finale di selezione di una villa da acquistare nell'entroterra savonese. Per finalizzare l'acquisto, come richiesto dal bando di finanziamento, è obbligatorio produrre una perizia tecnica giurata.
 
-Potete trovare qua i miei [[Contatti]].
+Potete trovare qua i miei [[Contact]].
 ### Contesto del Progetto
 Il nostro obiettivo è acquistare una villa indipendente o semi-indipendente con una superficie di oltre 200mq. I criteri di selezione dettagliati sono disponibili alla pagina [[Acquisto Immobiliare - ColivingLiguria]], mentre la lista degli immobili attualmente in valutazione è consultabile alla pagina [[House Choice]].
 
@@ -28,7 +28,7 @@ Dato che l'immobile non è ancora stato selezionato, chiediamo ai professionisti
 - Il costo per il giuramento in tribunale.
 - Le tempistiche stimate per il completamento dell'incarico.
 
-Questo può essere inviato ai miei [[Contatti]].
+Questo può essere inviato ai miei [[Contact]].
 
 Aggiorneremo tempestivamente i professionisti che ci contatteranno non appena l'immobile sarà stato scelto, per poter finalizzare il preventivo e affidare l'incarico. La nostra valutazione si baserà non solo sull'aspetto economico, ma in modo preponderante sulle tempistiche garantite..
 

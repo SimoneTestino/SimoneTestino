@@ -36,7 +36,7 @@ Siamo in grado di gestire direttamente gran parte dei lavori di ristrutturazione
 ### Tempistiche e Prossimi Passi
 Il nostro progetto ha una tabella di marcia molto serrata. Il nostro obiettivo è individuare un partner e firmare il contratto di comodato d'uso temporaneo entro **lunedì prossimo**, per poter iniziare immediatamente la fase di progettazione.
 
-Per ogni domanda o per discutere di una possibile partnership, vi invitiamo a contattarci ai riferimenti presenti nella pagina [[Contatti]].
+Per ogni domanda o per discutere di una possibile partnership, vi invitiamo a contattarci ai riferimenti presenti nella pagina [[Contact]].
 
 Alleghiamo di seguito un fac-simile del contratto di comodato che proponiamo, per la massima trasparenza. ![[Contratto di Comodato.pdf]]
 

@@ -34,7 +34,7 @@ Se sei interessato a questa opportunità, contattaci per maggiori dettagli. Per 
 * **Email:** colivingliguria@gmail.com
 * **WhatsApp:** `+39 339 637 9372`
 * **Instagram:**  [@colivingliguria](https://www.instagram.com/colivingliguria).
-* **Per altri contatti, vedi la nostra pagina:** [[Contatti]]
+* **Per altri contatti, vedi la nostra pagina:** [[Contact]]
 
 ---
 _Le informazioni specificate in questa pagina sono da considerarsi indicative. I termini e le condizioni definitive della collaborazione saranno discussi individualmente e formalizzati nel contratto finale._
