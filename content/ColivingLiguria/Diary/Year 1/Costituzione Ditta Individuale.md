@@ -1,43 +1,55 @@
 ---
-date: 2025-10-08
-draft: false
+date: 2025-10-09
+draft: true
 ---
-In questa pagina sono raccolti i passaggi, le problematiche e le soluzioni adottate per la costituzione di una ditta individuale con Partita IVA a regime forfettario.
+# Report sulla Costituzione della Ditta Individuale
 
-## Stato Attuale e Prossimi Passi
+Questo documento riassume i passaggi, le problematiche e le soluzioni adottate per la costituzione di una ditta individuale con Partita IVA a regime forfettario, finalizzata alla partecipazione al bando "Supporto agli investimenti per la creazione di nuove imprese nell’area di crisi industriale complessa del savonese".
 
-Recentemente, sono emersi diversi problemi con il portale Telemaco, che continua a escludere le informazioni inserite tramite il portale DIRE. Sono in contatto costante con il [SARI di Genova](https://supportospecialisticori.infocamere.it/sariWeb/ge) per risolvere la situazione.
+## Esito della Pratica e Stato Attuale
 
-La pratica inviata venerdì 3 ottobre è stata respinta con il seguente errore (richiesta IFCSD-12007181, comunicato da Silvia D.F.):
+In data **9 Ottobre 2025**, dopo numerosi tentativi falliti, la pratica di costituzione dell'impresa è stata finalmente **inviata e protocollata con successo** tramite il portale DIRE.
+
+I dati identificativi della nuova impresa e della pratica sono i seguenti:
+*   **Denominazione / Ragione Sociale**: SIMONE TESTINO
+*   **Codice Fiscale**: TSTSMN03L01D969Y
+*   **Numero REA**: 528690/GE
+*   **Codice Pratica DIRE**: M25A0914808
+*   **Stato Pratica**: Protocollata
+
+Con l'iscrizione al Registro delle Imprese e l'ottenimento del numero REA, la fase più critica è superata. Si è ora in attesa della comunicazione del numero di **Partita IVA** da parte dell'Agenzia delle Entrate, che completerà il quadro dei dati necessari per la documentazione da inviare a FILSE entro la scadenza del **26 Ottobre**.
+
+## Strategia e Prossimi Passi
+
+### Gestione Codici ATECO
+Per superare gli errori del sistema, la pratica è stata inviata con la modalità "ditta individuale senza inizio di attività", che consente l'inserimento di un solo codice ATECO. È stato quindi inserito il codice relativo al progetto principale, **ColivingLiguria**.
+
+Il prossimo passo fondamentale è avviare una pratica di **variazione dati** presso la Camera di Commercio per aggiungere il secondo codice ATECO richiesto dal bando, quello per il progetto **Luna** (`27.40.09`). Questa operazione è necessaria affinché, al momento delle verifiche, FILSE possa riscontrare la presenza di entrambi i codici attività.
+
+### Compilazione Modulistica FILSE
+Una volta ottenuta la Partita IVA, si procederà alla compilazione della dichiarazione sostitutiva di atto notorio. I dati essenziali da inserire, oltre a quelli anagrafici e di impresa già in nostro possesso, richiederanno di attestare:
+*   La classificazione come **Micro Impresa** secondo la Raccomandazione 2003/361/CE.
+*   L'assenza di procedure concorsuali (ai sensi del D.Lgs. n. 14/2019).
+*   La consapevolezza delle sanzioni per dichiarazioni mendaci (ai sensi degli artt. 46 e 47 del DPR n. 445/2000).
+*   La composizione dell'impresa unica secondo il Regolamento (UE) n. 2023/2831.
+
+## Cronistoria dei Problemi Riscontrati e Soluzioni
+
+Il percorso è stato complesso. Inizialmente, tra il 3 e l'8 Ottobre, ogni tentativo di invio della Comunicazione Unica tramite il portale DIRE è fallito. Le pratiche venivano sistematicamente respinte da Telemaco con l'errore:
 
 > L'ATTRIBUZIONE/VARIAZIONE E' ANDATA IN ERRORE PER I SEGUENTI MOTIVI: CODICE ALTRA ATTIVITA' INSERITO COME ATTIVITA' PRINCIPALE 55900
 
-La soluzione che stiamo valutando con il SARI è la seguente:
-1.  Ottenere la Partita IVA separatamente tramite l'Agenzia delle Entrate.
-2.  Successivamente, presentare la domanda di costituzione d'impresa senza dichiarare l'inizio di attività.
-3.  Dichiarare l'inizio di attività in un secondo momento.
+Questa problematica ha richiesto un contatto costante con il servizio di assistenza [SARI di Genova](https://supportospecialisticori.infocamere.it/sariWeb/ge) e con il supporto Telemaco.
 
-Una volta ottenuti, i dati di Partita IVA, REA e il codice fiscale della ditta dovranno essere comunicati a FILSE per il [[Bando Pubblico Fesr 2021-2027. OS 1.3]], come confermato telefonicamente l'8 ottobre.
+Come soluzione alternativa, si era tentato di ottenere la Partita IVA separatamente. Questo ha portato a un ulteriore ostacolo: il software dell'Agenzia delle Entrate per la compilazione del [Modello AA9/10](https://www.agenziaentrate.gov.it/portale/archivio/archivioschedeadempimento/schede-adempimento-2011/richiedere-2011/aa9_10-apertura-variazione-chiusura-pf/modello-pi-pf) si è rivelato obsoleto (aggiornato al 2010) e incompatibile con sistemi operativi moderni, rendendo impossibile la generazione del file telematico richiesto.
 
-Inoltre, tentando di compilare la modulistica direttamente dal sito dell'Agenzia delle Entrate, il portale DIRE reindirizza a una pagina per scaricare un software obsoleto (aggiornato al 2010) e incompatibile con sistemi Mac moderni. Cercando il modello **AA9/10**, ho trovato il [PDF compilabile](https://www.agenziaentrate.gov.it/portale/documents/20143/203699/Modello+AA9_10_AA9-10+modello_b.pdf/edcbac54-89f8-3230-9d10-2127c9086edf?t=1553613199586) sul sito dell' [Agenzia delle Entrate](https://www.agenziaentrate.gov.it/portale/archivio/archivioschedeadempimento/schede-adempimento-2011/richiedere-2011/aa9_10-apertura-variazione-chiusura-pf/modello-pi-pf). La procedura alternativa sarà quindi compilare questo PDF, firmarlo digitalmente con il software FirmaOK e allegarlo alla Comunicazione Unica tramite il portale DIRE.
+La soluzione definitiva è stata quella di riprovare l'invio telematico con la modalità "senza inizio attività", che ha finalmente permesso di protocollare la pratica il 9 Ottobre.
+## Dettagli dell'Impresa
 
----
-
-## Dettagli Costituzione Ditta
-
-### Ragione Sociale e Classificazione
-
-La scelta è ricaduta sull'apertura di una **ditta individuale** con Partita IVA a regime forfettario.
-*   **Ragione Sociale**: Simone Testino.
-*   **Classificazione**: Piccolo imprenditore.
-
-La classificazione come piccolo imprenditore, secondo l'[Art. 2083 del Codice Civile](https://www.gazzettaufficiale.it/atto/serie_generale/caricaArticolo?art.versione=1&art.idGruppo=262&art.flagTipoArticolo=2&art.codiceRedazionale=042U0262&art.idArticolo=2083&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1942-04-04&art.progressivo=0), è motivata dalle dimensioni limitate dell'impresa, dove il lavoro del titolare è prevalente. Questa classificazione, a differenza dell'imprenditore commerciale, implica generalmente la non assoggettabilità al fallimento, anche se i termini precisi sono chiariti nell'[Art. 2 del Codice della Crisi d'Impresa e dell'Insolvenza](https://www.brocardi.it/codice-crisi-impresa/parte-prima/titolo-i/capo-i/art2.html).
-
-### Sede della Ditta
-
-*   **Sede Legale**: Coinciderà con il mio indirizzo di residenza.
-*   **Sede Operativa**: Verrà specificata in un secondo momento e corrisponderà con la villa che sarà acquistata dopo la concessione dei fondi.
-
+*   **Ragione Sociale**: Simone Testino
+*   **Classificazione**: Piccolo imprenditore (ai sensi dell'[Art. 2083 del Codice Civile](https://www.gazzettaufficiale.it/atto/serie_generale/caricaArticolo?art.versione=1&art.idGruppo=262&art.flagTipoArticolo=2&art.codiceRedazionale=042U0262&art.idArticolo=2083&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=1942-04-04&art.progressivo=0))
+*   **Sede Legale**: Coincidente con la residenza del titolare.
+*   **Sede Operativa**: Da definirsi in un momento successivo, corrispondente all'immobile oggetto del finanziamento.
 ### Note da Inserire nella Modulistica
 
 Per garantire la conformità al bando, sono state inserite le seguenti note nelle pratiche.
@@ -73,3 +85,6 @@ Tuttavia, dal 1° aprile 2025 non è più possibile iscrivere nuove imprese con 
 >In conclusione, seguendo quindi questa proposta inserirei per ColivingLiguria il codice ATECO 2025 55.90.00 con una descrizione che esclude la possibile associazione dell'attività con quanto precedentemente rientrante nel codice 2007 68.20.01 e per Luna selezionerei il codice ATECO 2025 27.40.09 senza nessuna ulteriore specifica.
 >
 >Questa che ho proposto è una potenziale soluzione, rimango ignorante dei dettagli e delle specifiche più interne al funzionamento del bando e l'amministrazione delle risorse quindi chiedo chiarimenti su come procedere.
+
+### Procedure di Emergenza
+Nel caso in cui fosse necessario avere la pratica processata il prima possibile si veda: [Sari Genova](https://supportospecialisticori.infocamere.it/sariWeb/ge) digitando: 116984330 per accedere al [modulo](https://intranet.infocamere.it/documents/35834932/116984159/MODELLO+URGENZA/871c1074-fbb7-cd67-285e-3a03b9654422).
