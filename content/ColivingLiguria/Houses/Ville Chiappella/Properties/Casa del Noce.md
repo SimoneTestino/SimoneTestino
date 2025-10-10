@@ -14,8 +14,8 @@ This document provides a detailed breakdown of the "Casa del Noce" property, loc
 - **Land Registry:** Foglio 29, Particella 519 (Sub. 6) & 520
 - **Category:** A/4 (Residential)
 - **Surface Area:** 59 m²
-- **Floor Plan:** [[PLANIMETRIA FG 29 MAPP 519 SUB 6.pdf]] & [[PLANIMETRIA FG 29 MAPP 519 SUB 6 1.pdf]]
-- **Structural Condition:** The main structure is solid and in good condition, built with a characteristic mix of stone and brick. The roof is functional, with main wooden beams in excellent shape. The street-side facade has minor, non-structural cracks and features an aesthetically pleasing stone portion. The garden-side facade is almost entirely stone with high visual potential.
+- **Floor Plan:** [[PLANIMETRIA FG 29 MAPP 519 SUB 6.pdf]]
+- **Structural Condition:** The main structure is solid and in good condition, built with a characteristic mix of stone and brick. The roof is functional, with main wooden beams in good shape. The street-side facade has minor, non-structural cracks and features an aesthetically pleasing stone portion. The garden-side facade is almost entirely stone with high visual potential.
 
 ### Rustic Outbuilding (Particella 521)
 A large, independent rustic building located within the garden, offering significant potential for future development (e.g., "Progetto Luna").
@@ -44,7 +44,7 @@ Questo documento fornisce una suddivisione dettagliata della proprietà "Casa de
 - **Dati Catastali:** Foglio 29, Particella 519 (Sub. 6) & 520
 - **Categoria:** A/4 (Residenziale)
 - **Superficie:** 59 m²
-- **Planimetria:** [[PLANIMETRIA FG 29 MAPP 519 SUB 6.pdf]] & [[PLANIMETRIA FG 29 MAPP 519 SUB 6 1.pdf]]
+- **Planimetria:** [[PLANIMETRIA FG 29 MAPP 519 SUB 6.pdf]]
 - **Condizioni Strutturali:** La struttura principale è solida e in buono stato, costruita con un caratteristico mix di pietra e mattoni. Il tetto è funzionale, con le travi portanti in legno in ottimo stato. La facciata lato strada presenta piccole crepe non strutturali e una porzione in pietra a vista di pregio estetico. La facciata lato giardino è quasi interamente in pietra, con un alto potenziale visivo.
 
 ### Rustico (Particella 521)

@@ -3,7 +3,7 @@ date: 2025-08-27
 title: Lezioni Private con Simone Testino
 ---
 > [!Abstract]
-> Offro lezioni private e a piccole classi, specializzate nella preparazione per esami di ammissione a concorsi pubblici e facoltà sanitarie. Grazie alla mia esperienza e a un approccio intensivo, che può includere anche un soggiorno formativo presso le strutture di [[ColivingLiguria (IT)]], punto a fornire il miglior servizio possibile per garantire il successo dei miei studenti.
+> Offro lezioni private e a piccole classi, specializzate nella preparazione per esami di ammissione a concorsi pubblici e facoltà sanitarie. Grazie alla mia esperienza e a un approccio intensivo, che può includere anche un soggiorno formativo presso le strutture di [[ColivingLiguria]], punto a fornire il miglior servizio possibile per garantire il successo dei miei studenti.
 
 ### Materie e Specializzazione
 
@@ -28,7 +28,7 @@ Ho inoltre vissuto e studiato sia in inglese che in tedesco, conseguendo le segu
 * **Inglese C1:** [[CAE English Certificate (C1).pdf]]
 
 ### Corsi Super Intensivi "All-Inclusive" in Liguria
-In qualità di fondatore e proprietario di [[ColivingLiguria (IT)]], ho la possibilità unica di offrire pacchetti formativi "super intensivi". Questa formula è pensata per chi ha bisogno di una preparazione completa e immersiva in un breve periodo di tempo.
+In qualità di fondatore e proprietario di [[ColivingLiguria]], ho la possibilità unica di offrire pacchetti formativi "super intensivi". Questa formula è pensata per chi ha bisogno di una preparazione completa e immersiva in un breve periodo di tempo.
 
 Il pacchetto "all-inclusive" comprende:
 * **Lezioni Intensive**: Fino a 8 ore di lezione al giorno, individuali o in piccole classi, per garantire la massima attenzione e un apprendimento rapido.

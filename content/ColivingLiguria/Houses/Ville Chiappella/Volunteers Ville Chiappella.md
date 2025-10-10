@@ -75,7 +75,7 @@ It is essential to understand the legal nature of your stay. While we use the te
 
 > [!Abstract] Programma di Volontariato a Ville Chiappella
 >
-> Questa pagina è per chiunque sia interessato a unirsi a noi come volontario a [[Ville Chiappella]], il primo complesso immobiliare del progetto [[ColivingLiguria (IT)|ColivingLiguria]]. Si tratta di un progetto fondativo, il che significa che parteciperai a dare vita a queste case fin dall'inizio, in condizioni rustiche e con un approccio pratico. In questa pagina troverai la nostra offerta completa per i [[Volunteers Ville Chiappella|volontari]], la [[Location Ville Chiappella|posizione]] della proprietà e la [[Calendar Ville Chiappella|timeline]] del progetto.
+> Questa pagina è per chiunque sia interessato a unirsi a noi come volontario a [[Ville Chiappella]], il primo complesso immobiliare del progetto [[ColivingLiguria|ColivingLiguria]]. Si tratta di un progetto fondativo, il che significa che parteciperai a dare vita a queste case fin dall'inizio, in condizioni rustiche e con un approccio pratico. In questa pagina troverai la nostra offerta completa per i [[Volunteers Ville Chiappella|volontari]], la [[Location Ville Chiappella|posizione]] della proprietà e la [[Calendar Ville Chiappella|timeline]] del progetto.
 
 ### Disponibilità e Come Candidarsi
 

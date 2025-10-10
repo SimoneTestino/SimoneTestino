@@ -33,7 +33,7 @@ The property offers a perfect balance of rural tranquility and convenient access
 ---
 
 > [!Abstract] In breve
-> Questa pagina introduce **Ville Chiappella**, il primo complesso immobiliare del progetto [[ColivingLiguria (IT)|ColivingLiguria]]. Qui presentiamo l'opportunità per i [[Volunteers Ville Chiappella|volontari]], la [[Location Ville Chiappella|posizione]] della proprietà e il suo [[Calendar Ville Chiappella|calendario]] di sviluppo.
+> Questa pagina introduce **Ville Chiappella**, il primo complesso immobiliare del progetto [[ColivingLiguria|ColivingLiguria]]. Qui presentiamo l'opportunità per i [[Volunteers Ville Chiappella|volontari]], la [[Location Ville Chiappella|posizione]] della proprietà e il suo [[Calendar Ville Chiappella|calendario]] di sviluppo.
 
 ### Il Progetto
 

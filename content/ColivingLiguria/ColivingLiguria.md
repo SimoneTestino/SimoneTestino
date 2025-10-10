@@ -1,7 +1,9 @@
 ---
-date: 2025-09-21
+date: 2025-08-09
 draft: false
 ---
+-- Italiano sotto --
+
 > [!Abstract]
 > Welcome to Coliving Liguria, a project transforming traditional villas into vibrant hubs for remote workers, creatives, and entrepreneurs. This page outlines our vision, our current properties, the community-driven projects and activities we offer, and how you can join us.
 
@@ -27,7 +29,6 @@ There are two primary ways to join the Coliving Liguria community: as a paying g
 Drawing from direct experience, founder [[Simone Testino]] offers [[Project Launch Consultancy; Funding & Bureaucracy in Italy|consultancy services]] and [[Private Teaching by Simone|specialised private lessons]].
 
 ***
--- Italian Translation --
 
 > [!Abstract]
 > Benvenuti a Coliving Liguria, un progetto che trasforma ville tradizionali in vivaci centri per lavoratori da remoto, creativi e imprenditori. Questa pagina delinea la nostra visione, le nostre proprietà attuali, i progetti e le attività guidate dalla comunità che offriamo e come potete unirvi a noi.
