@@ -1,8 +1,8 @@
 ---
 draft: false
-date: 2025-10-03
+date: 2025-10-11
 ---
-—Italiano sotto —
+—Italiano sotto—
 
 > [!Abstract] In short
 > This page introduces **Ville Chiappella**, the first property complex of the [[ColivingLiguria]] project. Here we present the opportunity for [[Volunteers Ville Chiappella|volunteers]], the property's [[Location Ville Chiappella|location]], and its development [[Calendar Ville Chiappella|timeline]].
