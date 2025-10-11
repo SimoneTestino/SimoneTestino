@@ -1,6 +1,7 @@
 ---
 date: 2025-10-11
 draft: false
+language: EN
 ---
 > [!Abstract]
 >Coliving Liguria is seeking a co-founder to join its on-site team in Liguria, Italy. This is a unique opportunity for an entrepreneurial individual to shape a growing coliving business, supported by secured EU funding. We offer a highly flexible partnership, including full coverage of living expenses and a negotiable compensation package that can include a salary, profit-sharing, or equity in the properties. The role is designed to be synergistic with your own projects, remote work, or startup ideas, with the infrastructure to support them.

@@ -5,7 +5,7 @@ date: 2025-10-11
 —Italiano sotto—
 
 > [!Abstract] In short
-> This page introduces **Ville Chiappella**, the first property complex of the [[ColivingLiguria]] project. Here we present the opportunity for [[Volunteers Ville Chiappella|volunteers]], the property's [[Location Ville Chiappella|location]], and its development [[Calendar Ville Chiappella|timeline]].
+> This page introduces **Ville Chiappella**, the first property complex of the [[ColivingLiguria]] project. Here we present the opportunity for [[Volunteers Ville Chiappella|volunteers]], the property's [[Location Ville Chiappella|location]], and its development [[Calendar|timeline]].
 
 **Ville Chiappella** is a traditional farmhouse complex composed of three distinct houses and extensive appurtenant lands. It represents a key opportunity for developing our coliving community.
 The property includes the following main buildings:
@@ -20,7 +20,7 @@ The property also includes several large plots of land, which will be used for o
 - **[[Terreni oltre Torrente]]**: Steep, wooded plots with potential for firewood and collaboration with neighboring activities.
 - **[[Terreni alla Fonte]]**: Steep, wooded plots at the source of a stream, presenting logistical challenges but interesting strategic potential.
 
-Our plan for acquiring and launching this property involves several key steps. The projected timeline is detailed in the [[Calendar Ville Chiappella]].
+Our plan for acquiring and launching this property involves several key steps. The projected timeline is detailed in the [[Calendar]].
 
 ### Volunteering & Community
 
@@ -33,7 +33,7 @@ The property offers a perfect balance of rural tranquility and convenient access
 ---
 
 > [!Abstract] In breve
-> Questa pagina introduce **Ville Chiappella**, il primo complesso immobiliare del progetto [[ColivingLiguria|ColivingLiguria]]. Qui presentiamo l'opportunità per i [[Volunteers Ville Chiappella|volontari]], la [[Location Ville Chiappella|posizione]] della proprietà e il suo [[Calendar Ville Chiappella|calendario]] di sviluppo.
+> Questa pagina introduce **Ville Chiappella**, il primo complesso immobiliare del progetto [[ColivingLiguria|ColivingLiguria]]. Qui presentiamo l'opportunità per i [[Volunteers Ville Chiappella|volontari]], la [[Location Ville Chiappella|posizione]] della proprietà e il suo [[Calendar|calendario]] di sviluppo.
 
 ### Il Progetto
 
@@ -51,7 +51,7 @@ La proprietà include anche diversi grandi appezzamenti di terreno, che useremo 
 - **[[Terreni oltre Torrente]]**: Lotti boschivi e scoscesi, con potenziale per legna da ardere e collaborazioni con attività vicine.
 - **[[Terreni alla Fonte]]**: Lotti boschivi e scoscesi alla fonte di un torrente, che presentano sfide logistiche ma un interessante potenziale strategico.
 
-Il nostro piano per l'acquisizione e l'avvio di questa proprietà prevede diversi passaggi chiave. La timeline prevista è dettagliata nel [[Calendar Ville Chiappella]].
+Il nostro piano per l'acquisizione e l'avvio di questa proprietà prevede diversi passaggi chiave. La timeline prevista è dettagliata nel [[Calendar]].
 
 ### Volontariato e Comunità
 

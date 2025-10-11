@@ -7,7 +7,7 @@ title: 🏡 Volunteering Offer at Ville Chiappella
 
 > [!Abstract] Volunteer Program at Ville Chiappella
 > 
-> This page is for anyone interested in joining us as a volunteer at [[Ville Chiappella]], the first property complex of the [[ColivingLiguria]] project. This is a foundational project, meaning you will be part of bringing these houses to life from their very beginnings under rustic, hands-on conditions. On this page, you will find our complete offer for [[Volunteers Ville Chiappella|volunteers]], the property's [[Location Ville Chiappella|location]], and the project [[Calendar Ville Chiappella|timeline]].
+> This page is for anyone interested in joining us as a volunteer at [[Ville Chiappella]], the first property complex of the [[ColivingLiguria]] project. This is a foundational project, meaning you will be part of bringing these houses to life from their very beginnings under rustic, hands-on conditions. On this page, you will find our complete offer for [[Volunteers Ville Chiappella|volunteers]], the property's [[Location Ville Chiappella|location]], and the project [[Calendar|timeline]].
 
 ### Availability & How to Apply
 
@@ -17,7 +17,7 @@ The exact start date depends on the final notary appointment. All updates will b
 
 - **[Click here to join the Whatsapp ColivingLiguria Community (Announcements)](https://chat.whatsapp.com/KgBKR5mwW2QAqpmvcDosJO)**
 
-We also recommend checking the [[Calendar Ville Chiappella]] for all updated availability information.
+We also recommend checking the [[Calendar]] for all updated availability information.
 
 To apply, the preferred way to make initial contact is via Instagram at **[@colivingliguria](https://www.instagram.com/colivingliguria/)**. Alternatively, you can text on WhatsApp at **+39 339 637 9372**. I usually schedule a brief video call with prospective residents to get to know each other before sending the formal `comodato` agreement. For other contact details, you can refer to our [[Contact]] page.
 
@@ -39,7 +39,7 @@ To apply, the preferred way to make initial contact is via Instagram at **[@coli
 - **Pets are welcome!** There is large outdoor space, and pets have designated indoor areas to sleep. Most people incoming will bring their pet and we expect to have as many people as pets staying in the place! Keep in mind though that they are **not allowed in active renovation zones**.
 
 **5. Amenities:**
-- **Internet**: A connection **will be available from day one** via a personal mobile hotspot (approx. 15-30 Mbps). A faster 5G connection is planned; check the [[Calendar Ville Chiappella]] for updates.
+- **Internet**: A connection **will be available from day one** via a personal mobile hotspot (approx. 15-30 Mbps). A faster 5G connection is planned; check the [[Calendar]] for updates.
 - **Electricity & Heating**: There will be a **communal charging station**. Initial heating will be from a **wood stove**.
 
 **6. Personal and Professional Growth:**
@@ -75,7 +75,7 @@ It is essential to understand the legal nature of your stay. While we use the te
 
 > [!Abstract] Programma di Volontariato a Ville Chiappella
 >
-> Questa pagina è per chiunque sia interessato a unirsi a noi come volontario a [[Ville Chiappella]], il primo complesso immobiliare del progetto [[ColivingLiguria|ColivingLiguria]]. Si tratta di un progetto fondativo, il che significa che parteciperai a dare vita a queste case fin dall'inizio, in condizioni rustiche e con un approccio pratico. In questa pagina troverai la nostra offerta completa per i [[Volunteers Ville Chiappella|volontari]], la [[Location Ville Chiappella|posizione]] della proprietà e la [[Calendar Ville Chiappella|timeline]] del progetto.
+> Questa pagina è per chiunque sia interessato a unirsi a noi come volontario a [[Ville Chiappella]], il primo complesso immobiliare del progetto [[ColivingLiguria|ColivingLiguria]]. Si tratta di un progetto fondativo, il che significa che parteciperai a dare vita a queste case fin dall'inizio, in condizioni rustiche e con un approccio pratico. In questa pagina troverai la nostra offerta completa per i [[Volunteers Ville Chiappella|volontari]], la [[Location Ville Chiappella|posizione]] della proprietà e la [[Calendar|timeline]] del progetto.
 
 ### Disponibilità e Come Candidarsi
 
@@ -85,7 +85,7 @@ La data esatta di inizio dipende dall'appuntamento definitivo con il notaio. Tut
 
 - **[Clicca qui per unirti alla Community di ColivingLiguria (Annunci)](https://chat.whatsapp.com/KgBKR5mwW2QAqpmvcDosJO)**
 
-Raccomandiamo anche di controllare il [[Calendar Ville Chiappella]] per tutte le informazioni aggiornate sulla disponibilità.
+Raccomandiamo anche di controllare il [[Calendar]] per tutte le informazioni aggiornate sulla disponibilità.
 
 Per candidarsi, il modo preferito per un primo contatto è tramite Instagram a **@colivingliguria**. In alternativa, puoi inviare un messaggio su WhatsApp al **+39 339 637 9372**. Di solito organizzo una breve videochiamata con i potenziali residenti per conoscerci prima di inviare l'accordo formale di `comodato`. Per altri dettagli di contatto, consulta la nostra pagina [[Contact]].
 
@@ -107,7 +107,7 @@ Per candidarsi, il modo preferito per un primo contatto è tramite Instagram a *
 - **Gli animali sono i benvenuti!** C'è un grande spazio esterno e aree interne designate per dormire. La maggior parte delle persone che arriveranno porterà il proprio animale e ci aspettiamo di avere tanti animali quante persone! Tieni presente però che **non sono ammessi nelle zone di cantiere attive**.
 
 **5. Servizi:**
-- **Internet**: La connessione **sarà disponibile fin dal primo giorno** tramite hotspot mobile (circa 15-30 Mbps). È prevista una connessione 5G più veloce; controlla il [[Calendar Ville Chiappella]] per aggiornamenti.
+- **Internet**: La connessione **sarà disponibile fin dal primo giorno** tramite hotspot mobile (circa 15-30 Mbps). È prevista una connessione 5G più veloce; controlla il [[Calendar]] per aggiornamenti.
 - **Elettricità e Riscaldamento**: Ci sarà una **stazione di ricarica comune**. Il riscaldamento iniziale sarà da una **stufa a legna**.
 
 **6. Crescita Personale e Professionale:**
