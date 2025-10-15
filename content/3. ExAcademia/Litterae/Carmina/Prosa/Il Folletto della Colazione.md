@@ -2,6 +2,8 @@
 draft: true
 date: 2025-09-30
 ---
+INCOPMPLETE
+
 "_Se solo potessi essere vivere in un cassetto della sua cucina e prepararle la colazione ogni mattina_"
 
 È l'alba e dalla serratura passa un timido raggio di luce, lui spalanca gli occhi e su, in un balzo fa per alzarsi; _tonc_, e prende una capocciata contro il cassetto sopra. Un po' rimbambito, si stropiccia il grugno, l'emozione di una nuova colazione non è passata, ciondola un po' e con una spallata spalanca il cassetto. Una zampa su un pomello, l'altra su una rientranza ed in un paio di passi è sul piano cucina.

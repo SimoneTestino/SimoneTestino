@@ -1,7 +1,6 @@
 ---
 draft: true
 ---
-
 I due, seduti, la vit’ inaugurano:\\
 sia baci che parole li stringono;\\
 I due, seduti, la vita inaurata,\\

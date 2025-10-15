@@ -25,7 +25,7 @@ Here I list only those books that I read with a certain attention and that I con
 - La Coscienza di Zeno
 - Senilità
 ###### Pirandello
-- Novelle per un anno
+- Novelle per un anno (https://www.pirandellointranslation.org)
 - Il Fu Mattia Pascal
 - Uno Nessuno e Centomila
 ###### D'Annunzio

@@ -1,7 +1,6 @@
 ---
 draft: true
 ---
-
 Funesta festa in testa
 
 Quando sei:

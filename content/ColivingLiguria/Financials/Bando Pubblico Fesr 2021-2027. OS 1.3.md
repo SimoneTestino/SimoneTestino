@@ -3,7 +3,7 @@ date: 2025-09-18
 draft: false
 ---
 --Italiano sotto --
-On July 12, 2025, with the assistance of [[Emanuele Garré]] and following the regulations outlined in [[bando.pdf]], I submitted the application for the [Fesr 2021-2027. OS 1.3](https://www.filse.it/it/bandi-attivi/publiccompetition/310:fesr-2021-2027-os-1-3-azione-1-3-3-supporto-agli-investimenti-per-la-creazione-di-nuove-imprese-nell’area-di-crisi-complessa-del-savonese.html) grant, financed by the European Union.
+On July 12, 2025, with the assistance of [[Emanuele Garré]] and following the regulations outlined in [[bando.pdf]], I submitted the application for the [Fesr 2021-2027. OS 1.3](https://www.filse.it/it/bandi-attivi-nascosto/publiccompetition/310:fesr-2021-2027-os-1-3-azione-1-3-3-supporto-agli-investimenti-per-la-creazione-di-nuove-imprese-nell’area-di-crisi-complessa-del-savonese.html) grant, financed by the European Union.
 
 Subsequently, on July 29, 2025, I received the notification of acceptance for the [[ColivingLiguria]] and [[Luna]] projects. For more details, please see [[Comunicazione Esito Positivo della Domanda.pdf]].
 

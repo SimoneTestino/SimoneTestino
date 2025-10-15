@@ -9,7 +9,7 @@ draft: false
 
 ### Join Our Community
 The best way to connect with us and follow our day-to-day progress is by joining our [[Whatsapp Community]]. It's the most direct way to get updates and chat with us.
-* **[Click here to join our WhatsApp Group](https://chat.whatsapp.com/J67Cds7idarLwZrJRNywQS?mode=ac_t)**
+* **[Click here to join our WhatsApp Community](https://chat.whatsapp.com/KgBKR5mwW2QAqpmvcDosJO?mode=wwt)**
 
 ### Our First Home: [[Ville Chiappella]]
 Our project is born from a desire to create a unique space where productivity, community, and nature converge. We are thrilled to announce that we have secured our first permanent property and main operational hub: **[[Ville Chiappella]]**! This villa will be the heart of our community, hosting our residents, activities, and startup projects.

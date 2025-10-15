@@ -1,7 +1,6 @@
 ---
 draft: true
 ---
-
 Da dentro mi strugge\\
 quel fiore,\\
 che dolce mi rugge.

@@ -1,7 +1,6 @@
 ---
 draft: true
 ---
-
 Sul piano celeste,\\
 e sprizzano sprazzi\\
 di fervide foglie,\\

@@ -1,22 +1,29 @@
 ---
 draft: false
-date: 2025-10-04
+date: 2025-10-15
 language: IT/EN
 ---
 —Italian below—
 
 > [!Warning] This Page is Updated Frequently!
+>
 > This calendar is a live document outlining our current plans and future ambitions. As we have now secured our first property, [[Ville Chiappella]], these goals will be updated often. Please check back regularly for the latest news. For a more detailed timeline specific to our main villa, please see the [[Calendar]].
 
-
 > [!NOTE] Project Timeline and Initial Steps
-> This document outlines the projected timeline for the acquisition and initial operational phase of the Cascina Brignone project. All dates are provisional and subject to change based on administrative timelines.
+>
+> This document outlines the projected timeline for the acquisition and initial operational phase of the Ville Chiappella project. All dates are provisional and subject to change based on administrative timelines.
 
-### Phase 1: Finalising Acquisition (Early November 2025)
+### Volunteer Recruitment: Apply Now for November & December!
 
-*   **Current Status**: We are in the final stages of coordinating with the Notary's office to set a definitive date for the signing. The process is logistically complex, requiring the simultaneous presence of all six elderly owners.
-*   **Timeline**: The current estimate for the notary appointment is in **early November**.
-*   **Objective**: Once the date is set, all parties will meet to sign the final contract. Upon signing, I will have formal ownership of the house and will receive the keys.
+We are now actively looking for volunteers who can commit to the project and confirm their availability for **November and/or December**.
+
+I am reviewing applications now and will begin sending out confirmations **starting this weekend**. Spaces are limited and will be booked quickly, so if you are interested, please **reach out as soon as possible** to secure your spot.
+
+### Phase 1: Finalising Acquisition (7th November 2025)
+
+*   **Current Status**: **CONFIRMED**. The appointment with the Notary's office is set.
+*   **Timeline**: The final contract will be signed on the **7th of November 2025**.
+*   **Objective**: On this day, I will have formal ownership of the house and will receive the keys, officially kicking off the on-site phase of the project.
 
 ### Phase 2: Post-Acquisition - On-site Setup (First Half of November 2025)
 
@@ -26,24 +33,33 @@ language: IT/EN
 
 ### Phase 3: Welcoming the Team and Starting Renovations (From Mid-November 2025)
 
-*   **First Collaborators and Volunteers**: Once the initial setup is complete, we will begin welcoming collaborators, volunteers, and other people involved in the project. The first group will likely be **5-10 people**, as not all rooms will be immediately habitable.
+*   **First Collaborators and Volunteers**: Once the initial setup is complete, we will begin welcoming confirmed collaborators and volunteers. The first group will likely be **5-10 people**, as not all rooms will be immediately habitable.
 *   **Team Management**: A dedicated volunteer manager will be needed to effectively manage this first team.
 *   **Construction Work**: We will engage a professional construction company for some renovations. We will explore the possibility of having our team assist and learn from them, though this needs to be verified from both a legal and practical standpoint.
 
 ---
+
 ### Calendario del Progetto: Acquisizione e Avvio
 
 > [!Warning] Pagina in Aggiornamento Frequente!
+>
 > Questo calendario è un documento in tempo reale che delinea i nostri piani attuali e le ambizioni future. Ora che ci siamo assicurati la nostra prima proprietà, [[Ville Chiappella]], questi obiettivi verranno aggiornati spesso. Si prega di controllare regolarmente per le ultime notizie. Per una cronologia più dettagliata specifica per la nostra villa principale, si prega di consultare il [[Calendar]].
 
 > [!NOTE] Calendario del Progetto e Primi Passi
-> Questo documento delinea la timeline prevista per l'acquisizione e la fase operativa iniziale del progetto Cascina Brignone. Tutte le date sono provvisorie e soggette a modifiche in base alle tempistiche amministrative.
+>
+> Questo documento delinea la timeline prevista per l'acquisizione e la fase operativa iniziale del progetto Ville Chiappella. Tutte le date sono provvisorie e soggette a modifiche in base alle tempistiche amministrative.
 
-### Fase 1: Finalizzazione dell'Acquisizione (Inizio Novembre 2025)
+### Reclutamento Volontari: Candidati Ora per Novembre e Dicembre!
 
-*   **Stato Attuale**: Siamo nelle fasi finali di coordinamento con lo studio notarile per fissare una data definitiva per la firma. Il processo è logisticamente complesso e richiede la presenza simultanea di tutti e sei i proprietari anziani.
-*   **Tempistiche**: La stima attuale per l'appuntamento dal notaio è per l'**inizio di novembre**.
-*   **Obiettivo**: Una volta fissata la data, tutte le parti si incontreranno per firmare il contratto definitivo. Alla firma, otterrò la proprietà formale della casa e riceverò le chiavi.
+Stiamo cercando attivamente volontari che possano impegnarsi nel progetto e confermare la loro disponibilità per **novembre e/o dicembre**.
+
+Sto esaminando le candidature ora e inizierò a inviare le conferme **a partire da questo fine settimana**. I posti sono limitati e si esauriranno rapidamente, quindi se sei interessato, per favore **contattami il prima possibile** per assicurarti il tuo posto.
+
+### Fase 1: Finalizzazione dell'Acquisizione (7 Novembre 2025)
+
+*   **Stato Attuale**: **CONFERMATO**. L'appuntamento con lo studio notarile è fissato.
+*   **Tempistiche**: Il contratto definitivo sarà firmato il **7 novembre 2025**.
+*   **Obiettivo**: In questa data, otterrò la proprietà formale della casa e riceverò le chiavi, dando ufficialmente il via alla fase operativa del progetto.
 
 ### Fase 2: Post-Acquisizione - Preparazione in Loco (Prima Metà di Novembre 2025)
 
@@ -53,6 +69,6 @@ language: IT/EN
 
 ### Fase 3: Accoglienza del Team e Inizio dei Lavori (Da Metà Novembre 2025)
 
-*   **Primi Collaboratori e Volontari**: Una volta completata la preparazione iniziale, inizieremo ad accogliere collaboratori, volontari e altre persone coinvolte nel progetto. Il primo gruppo sarà probabilmente di **5-10 persone**, poiché non tutte le stanze saranno immediatamente abitabili.
+*   **Primi Collaboratori e Volontari**: Una volta completata la preparazione iniziale, inizieremo ad accogliere collaboratori e volontari confermati. Il primo gruppo sarà probabilmente di **5-10 persone**, poiché non tutte le stanze saranno immediatamente abitabili.
 *   **Gestione del Team**: Sarà necessario un responsabile dei volontari dedicato per gestire efficacemente questo primo gruppo.
 *   **Lavori di Ristrutturazione**: Coinvolgeremo un'impresa edile professionale per alcune ristrutturazioni. Valuteremo la possibilità che il nostro team possa assisterli e imparare da loro, sebbene questo aspetto debba essere verificato dal punto di vista legale e pratico.

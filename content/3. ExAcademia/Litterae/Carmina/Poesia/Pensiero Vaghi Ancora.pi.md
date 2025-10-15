@@ -13,3 +13,5 @@ Amor
 Genesis: scritta pensando ad Ari, presumo attorno al secondo anno di relazione.
 
 [[Pensiero_Vaghi_Ancora_Genesis.pi.png]]
+
+
