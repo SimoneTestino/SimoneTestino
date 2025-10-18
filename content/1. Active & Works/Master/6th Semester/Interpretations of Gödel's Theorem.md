@@ -1,6 +1,6 @@
 ---
-date: 2025-10-09
-draft: false
+date: 2025-10-17
+draft: true
 ---
 ### I. On Formally Undecidable Proposition of Principia Mathematica and Related Systems I.
 https://monoskop.org/images/9/93/Kurt_Gödel_On_Formally_Undecidable_Propositions_of_Principia_Mathematica_and_Related_Systems_1992.pdf
@@ -13,3 +13,7 @@ Definition of $\omega$-consistency, there is a class sign r such that there is n
 https://en.wikipedia.org/wiki/Ω-consistent_theory
 
 For any consistent formal system, there is a sentence which can neither be proved or disproved. 
+
+Theorem XI:
+Let k be any recursive consistent set of formulas and let the sentential $f|a$ stating that $k$ is consistent, then the sentential $f|a$ is not $k$-provable.
+

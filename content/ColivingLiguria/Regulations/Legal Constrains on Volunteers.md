@@ -1,113 +1,109 @@
 ---
 draft: false
-date: 2025-08-27
+date: 2025-10-18
+---
+-- Italiano sotto --
+
+> [!Abstract]
+> This document defines the legal framework for residency at Coliving Liguria, ensuring full compliance with Italian law. It outlines a clear structure that distinguishes between short-term stays (managed with short-term rental agreements) and long-term stays (managed via standard rentals or registered loan-for-use agreements). Furthermore, it reiterates the strict separation between the "community life" activities expected of all residents and any form of subordinate work, which is excluded from these agreements.
+
+### Premise: Work vs. Community Life
+It is essential to distinguish between "work" and "community life." At Coliving Liguria, **no resident is required to perform work activities** in exchange for hospitality. Our primary interest is to have the houses lived in and cared for with the diligence of a "prudent person" (*buon padre di famiglia*), to prevent the degradation of the properties.
+
+"Community life" activities (such as cooking and eating together, the ordinary cleaning of common spaces, and participating in internal events) are an integral part of the co-living experience. These activities are centrally organised by myself or other members to ensure a smooth and pleasant coexistence among many people, but they are enjoyed and shared by all for mutual benefit. Participation is based on a spirit of collaboration and does not constitute a form of subordinate work.
+
+### Our Residency Models
+
+Every person residing at Coliving Liguria falls into one of the following legal categories.
+
+#### 1. Short-Term Stays (< 30 days): Short-Term Rental
+This is the standard entry model for anyone wishing to experience our community for a limited period.
+* **Contract:** A written **short-term rental agreement** (`contratto di locazione breve`) is stipulated. By law, contracts with a duration of less than 30 days **do not require registration**, thus eliminating initial fixed costs.
+* **Cost:** A contribution of **€30 per week per person** is required. This amount, while very accessible given the condition of the properties, is not a "symbolic price" and serves to cover part of the direct utility costs (water, electricity).
+* **Status:** The person is legally a tenant (`conduttore`) and has no work-related obligations.
+
+#### 2. Medium-Long Stays (> 30 days): Two Options
+After an initial short-term rental period (maximum 29 days), those who wish to stay longer can negotiate one of the following options.
+
+* **Option A: Long-Term Rental Agreement**
+    This involves switching to a proper rental contract, with an agreed-upon monthly rent (e.g., €200 per month). By law, this contract must be registered.
+
+* **Option B: Gratuitous Loan-for-Use Agreement (`Comodato d'Uso Gratuito`)**
+    This option is designed for those who want to integrate more deeply into the project's life.
+    * **Contract:** A **written `comodato d'uso gratuito` contract** is stipulated.
+    * **Registration:** As clarified below, this contract **must be registered**.
+    * **Cost:** The fixed registration tax of **€200 is to be paid by the `comodatario`** (the resident/guest), which they bear as the sole cost to formalize their long-term stay.
+
+To discuss and formalize one of these long-term options, it is necessary to contact me via the company email found on the [[Contact]] page.
+
+#### 3. Independent Entrepreneur (Project Partner)
+This category is reserved for professionals with a VAT number who wish to develop their own business in partnership with Coliving Liguria.
+* **Agreement:** These individuals enter into a rental agreement for a specific portion of the property, which becomes their business's base of operations.
+* **Improvement Works:** Any renovation or improvement work that the entrepreneur carries out is motivated by their own business interests and is agreed upon with me through specific agreements, as outlined on the [[Propose a Project]] page.
+
+### Resident's Obligations (Tenant or `Comodatario`)
+Regardless of the contract type, every resident is required to:
+* Not perform any activity that could be defined as subordinate work.
+* Actively participate in community life (meals, events, etc.).
+* Respect the standardized hygiene rules and keep their personal and common spaces clean.
+* Contribute to the common activities necessary for a good coexistence.
+
+### In-Depth: The Registration of the `Comodato` Contract
+Contrary to a common misconception, a `comodato` contract for a real estate property, if made in writing, **must always be registered**, regardless of its duration.
+
+* **Legal Source:** The obligation is established by the **Consolidated Act on Registration Tax (D.P.R. no. 131/1986)**. Specifically, **Article 5 of the Tariff, Part I**, states that "Loans for use of immovable property - made in writing" are subject to registration at a fixed term with a fixed tax of €200.
+* **Deadline:** The registration must be completed at the Italian Revenue Agency (`Agenzia delle Entrate`) within **30 days** from the date the contract is signed.
+* **Distinction from Rentals:** The rule that exempts contracts under 30 days from registration applies only to rentals, not to written `comodato` agreements.
+
+This procedure ensures legal certainty and protects both parties.
 ---
 > [!Abstract]
-> It is essential to clarify the legal standing of our project and the nature of the relationship with our residents. This page outlines the formal legal framework we operate under, moving away from informal terms to ensure full compliance with Italian law.
-### A Note on the Term "Volunteer"
-On this website, you may occasionally encounter the general term "volunteer." We use this as a commonly understood term for individuals who wish to collaborate and participate in the life of our community. However, it is crucial to understand that, from a legal and fiscal standpoint, **none of our collaborators are volunteers**. The project is not an *Ente del Terzo Settore* (a non-profit or third-sector entity), and all relationships are structured according to one of the formal legal models detailed below.
-### Our Collaboration Models in Detail
-Every individual staying at Coliving Liguria falls into one of the following legal categories:
-1.  **`Comodatario` (Resident/Guest)**
-    This is the primary framework for individuals who reside with us and participate in the daily life of the house. They are not employees or volunteers. Their relationship is governed by a **`comodato d'uso`** (loan for use) agreement. Their responsibilities are limited to the normal upkeep and care of the property, as already outlined by the Italian Civil Code, not work that is directly functional to the business.
-2.  **Employee of Coliving Liguria**
-    Individuals who perform specific tasks directly for the benefit of the Coliving Liguria business are formally employed. This can take the form of a **`lavoro occasionale`** (occasional work contract) for short-term or sporadic tasks, or may evolve into a proper long-term employment contract in the future.
-3.  **Independent Entrepreneur**
-    Some residents may be developing their own independent projects. In this case, they are not working for Coliving Liguria but are clients who **rent spaces, tools, and resources** from us to advance their own business. This relationship is governed by a formal rental or service agreement, as outlined on our [[Propose a Project]] page.
+> Questo documento definisce il quadro legale per la residenza presso Coliving Liguria, garantendo la piena conformità con la legge italiana. Si delinea una struttura chiara che distingue tra soggiorni brevi (gestiti con contratti di locazione breve) e soggiorni a lungo termine (gestiti tramite locazione ordinaria o comodato d'uso registrato). Viene inoltre ribadita la netta separazione tra le attività di "vita di comunità", attese da tutti i residenti, e qualsiasi forma di prestazione lavorativa, che è esclusa da questi accordi.
 
----
+### Premessa: Lavoro vs. Vita di Comunità
+È fondamentale distinguere tra "lavoro" e "vita di comunità". Presso Coliving Liguria, **nessun residente è tenuto a svolgere attività lavorative** in cambio di ospitalità. Il nostro interesse è primariamente quello di avere le case vissute e custodite secondo la diligenza del "buon padre di famiglia", per prevenire il degrado degli immobili.
 
-### The "Comodato d'Uso" Model in Depth
-The relationship between the project and its residents (`Comodatario`) is governed by a **`comodato d'uso`** (loan for use) agreement, as defined by [Article 1803 of the Italian Civil Code](https://www.brocardi.it/codice-civile/libro-quarto/titolo-iii/capo-xiv/art1803.html). This is not an employment relationship, as there is **no work and no payment**. Residents are granted the use of a portion of the house, and their activities are framed within the legal obligations of a *comodatario* (the person receiving the loan for use).
+Le attività di "vita di comunità" (come cucinare e mangiare insieme, la pulizia ordinaria degli spazi comuni, la partecipazione a eventi interni) sono parte integrante dell'esperienza di co-living. Queste attività sono organizzate in modo centralizzato da me o da altri membri per garantire una convivenza fluida e piacevole tra molte persone, ma sono godute e condivise da tutti per il beneficio reciproco. La partecipazione è basata sullo spirito di collaborazione e non costituisce una forma di lavoro subordinato.
 
-#### Nature of Tasks & Responsibilities
-The tasks undertaken by residents are not considered work performed for the direct benefit of the business or its owner. Instead, they fall into two distinct categories:
+### I Nostri Modelli di Residenza
+Ogni persona che risiede presso Coliving Liguria rientra in una delle seguenti categorie legali.
+#### 1. Soggiorni Brevi (< 30 giorni): Locazione Breve
+Questo è il modello standard di ingresso per chiunque voglia vivere la nostra realtà per un periodo limitato.
+* **Contratto:** Si stipula un **contratto di locazione breve** in forma scritta. Per legge, i contratti di durata inferiore a 30 giorni **non hanno obbligo di registrazione**, eliminando così i costi fissi iniziali.
+* **Costo:** È previsto un contributo di **30€ a settimana a persona**. Questa cifra, pur essendo molto accessibile data la condizione degli immobili, non è un prezzo "simbolico" e serve a coprire parte delle spese vive per le utenze (acqua, elettricità).
+* **Status:** La persona è a tutti gli effetti un inquilino (`conduttore`) e non ha alcun obbligo lavorativo.
 
-1.  **Informal Co-living Organisation**: Activities such as daily cleaning and cooking that are part of establishing a shared routine within our small community.
-2.  **Maintenance of the Property**: Tasks aimed at preserving the property itself. This responsibility is codified in [Article 1804 of the Italian Civil Code](https://www.brocardi.it/codice-civile/libro-quarto/titolo-iii/capo-xiv/art1804.html), which states:
+#### 2. Soggiorni Medio-Lunghi (> 30 giorni): Due Opzioni
+Dopo un primo periodo di locazione breve (massimo 29 giorni), chi desidera fermarsi più a lungo può negoziare una delle seguenti opzioni.
 
-> The borrower must guard and preserve the item with the diligence of a prudent person (*diligenza del buon padre di famiglia*), and may only use it according to the agreement or its nature.
+* **Opzione A: Contratto di Locazione a Lungo Termine**
+    Si passa a un contratto di affitto vero e proprio, con un canone mensile concordato (es. 200€ al mese). Questo contratto, per legge, deve essere registrato.
 
-#### Shared Expenses
-The arrangement for shared expenses, detailed in [[Volunteers#Shared Expenses]], is also consistent with the `comodato` framework. [Article 1808 of the Italian Civil Code](https://www.brocardi.it/codice-civile/libro-quarto/titolo-iii/capo-xiv/art1808.html) clarifies that the borrower is responsible for use-related expenses. As such, utility costs will be shared among all individuals residing in the property under the `comodato` agreement.
+* **Opzione B: Contratto di Comodato d'Uso Gratuito**
+    Questa opzione è pensata per chi vuole integrarsi più a fondo nella vita del progetto.
+    * **Contratto:** Si stipula un **contratto di comodato d'uso gratuito in forma scritta**.
+    * **Registrazione:** Come chiariremo sotto, questo contratto **ha l'obbligo di essere registrato**.
+    * **Costo:** L'imposta di registro fissa di **200€ è a carico del comodatario** (l'ospite), che la sostiene come unico onere per formalizzare la sua permanenza a lungo termine.
 
----
-  
+Per discutere e formalizzare una di queste opzioni a lungo termine, è necessario contattarmi tramite la mail aziendale presente nella pagina [[Contact]].
 
-# Italian Laws on Commodatum
-**NB**: This document was prepared in June 2025 and provides an informational summary of the main articles of the Italian Civil Code concerning the loan for use contract (comodato, Articles 1803–1812 c.c.). The following English translation is unofficial and provided solely for informational purposes. For a proper understanding of the legal content, always refer to the original Italian text below.
-### Italian Law: Loan for Use
+#### 3. Imprenditore Indipendente (Partner del Progetto)
+Questa categoria è riservata a professionisti con Partita IVA che desiderano sviluppare un proprio business in partnership con Coliving Liguria.
+* **Accordo:** Queste persone stipulano un contratto di locazione per una porzione specifica della proprietà, che diventa la sede della loro attività.
+* **Lavori di Miglioramento:** Eventuali lavori di ristrutturazione o miglioramento che l'imprenditore esegue sono motivati dal proprio interesse aziendale e vengono concordati con me tramite accordi specifici, come delineato nella pagina [[Propose a Project]].
 
-**Note:** This translation is for informational purposes only and has no legal value. For a precise understanding, always refer to the original Italian version.
+### Obblighi del Residente (Inquilino o Comodatario)
+Indipendentemente dal tipo di contratto, ogni residente è tenuto a:
+* Non svolgere alcuna attività configurabile come lavoro subordinato.
+* Partecipare attivamente alla vita di comunità (pasti, eventi, etc.).
+* Rispettare le norme igieniche standardizzate e mantenere puliti i propri spazi e quelli comuni.
+* Contribuire alle attività comuni necessarie per una buona convivenza.
 
-The *loan for use* (*comodato*) is a [contract](https://www.brocardi.it/dizionario/1690.html) by which one party delivers to another a [movable](https://www.brocardi.it/dizionario/1126.html) or [immovable good](https://www.brocardi.it/dizionario/3575.html) for a specified time or purpose, with the obligation to return the exact same item ([Art. 1803 Civil Code](https://www.brocardi.it/codice-civile/libro-quarto/titolo-iii/capo-xiv/art1803.html)).
+### Approfondimento: La Registrazione del Contratto di Comodato
+Contrariamente a una credenza diffusa, un contratto di comodato su un bene immobile, se redatto in forma scritta, **ha sempre l'obbligo di essere registrato**, indipendentemente dalla sua durata.
 
-The contract is essentially gratuitous ([Art. 1571](https://www.brocardi.it/codice-civile/libro-quarto/titolo-iii/capo-vi/sezione-i/art1571.html)).
+* **Fonte Normativa:** L'obbligo è sancito dal **Testo Unico dell'Imposta di Registro (D.P.R. n. 131/1986)**. In particolare, l'**Art. 5 della Tariffa, Parte I**, stabilisce che i "Comodati di beni immobili - redatti per iscritto" sono soggetti a registrazione in termine fisso con imposta fissa di 200€.
+* **Termine:** La registrazione va effettuata presso l'Agenzia delle Entrate entro **30 giorni** dalla data di stipula del contratto.
+* **Distinzione con la Locazione:** La regola che esonera dalla registrazione i contratti sotto i 30 giorni vale solo per le locazioni, non per il comodato scritto.
 
-The borrower must guard and preserve the item with the [diligence of a prudent person](https://www.brocardi.it/dizionario/1533.html) ([Arts. 1176, 1177, 1804](https://www.brocardi.it/codice-civile/libro-quarto/titolo-iii/capo-xiv/art1804.html)), and may only use it according to the agreement or its nature ([Art. 1805](https://www.brocardi.it/codice-civile/libro-quarto/titolo-iii/capo-xiv/art1805.html)).
-
-The borrower may not transfer use to a third party without consent.
-
-In case of non-compliance, the lender may demand immediate return and [compensation for damages](https://www.brocardi.it/dizionario/3912.html) ([Arts. 1218, 1804, 1819, 1820](https://www.brocardi.it/codice-civile/libro-quarto/titolo-iii/capo-xiv/art1804.html)).
-
-The borrower is liable if the item perishes due to a [foreseeable accident](https://www.brocardi.it/dizionario/1295.html) they could have avoided or if they chose to save their own item instead ([Art. 1805](https://www.brocardi.it/codice-civile/libro-quarto/titolo-iii/capo-xiv/art1805.html)).
-
-The borrower is also liable if they used the item beyond the agreed time or in an unauthorised way, unless they can prove the damage would have occurred anyway ([Arts. 1218, 1221, 1805](https://www.brocardi.it/codice-civile/libro-quarto/titolo-iii/capo-xiv/art1805.html)).
-
-If the item had a declared value, the borrower is liable even if the loss was not their fault.
-
-They are not liable for wear and tear due to agreed use if not caused by fault ([Arts. 1590, 1609, 1807](https://www.brocardi.it/codice-civile/libro-quarto/titolo-iii/capo-xiv/art1807.html)).
-
-The borrower has no right to reimbursement for use-related expenses but is entitled to reimbursement for necessary and urgent extraordinary maintenance ([Art. 1808](https://www.brocardi.it/codice-civile/libro-quarto/titolo-iii/capo-xiv/art1808.html)).
-
-Return is due either at the end of the agreed term or, absent a term, after the agreed use. In cases of urgent and unforeseeable need by the lender, return may be demanded immediately ([Art. 1809](https://www.brocardi.it/codice-civile/libro-quarto/titolo-iii/capo-xiv/art1809.html)).
-
-If no term is set, the item must be returned upon the lender's request ([Art. 1810](https://www.brocardi.it/codice-civile/libro-quarto/titolo-iii/capo-xiv/art1810.html)). Upon the borrower's death, the lender may request immediate return even if a term had been agreed ([Art. 1811](https://www.brocardi.it/codice-civile/libro-quarto/titolo-iii/capo-xiv/art1811.html)).
-
-If the item had hidden [defects](https://www.brocardi.it/dizionario/3434.html) known to the lender but not disclosed, the lender is liable for damages ([Art. 1812](https://www.brocardi.it/codice-civile/libro-quarto/titolo-iii/capo-xiv/art1812.html)).
-### Testo originale (Italiano)
-Here is the original text in Italian of all relevant articles.
-
-Il [comodato](https://www.brocardi.it/dizionario/3579.html "Dizionario Giuridico: Comodato") è il [contratto](https://www.brocardi.it/dizionario/1690.html "Dizionario Giuridico: Contratto") con cui una parte consegna all’altra una [cosa mobile](https://www.brocardi.it/dizionario/1126.html "Dizionario Giuridico: Bene mobile") o [immobile](https://www.brocardi.it/dizionario/3575.html "Dizionario Giuridico: Bene immobile") affinché se ne serva per un tempo o per un uso determinato, con l’obbligo di restituire la medesima cosa ricevuta ([art. 1803 c.c.](https://www.brocardi.it/codice-civile/libro-quarto/titolo-iii/capo-xiv/art1803.html)).
-
-Il comodato è essenzialmente gratuito ([art. 1571 c.c.](https://www.brocardi.it/codice-civile/libro-quarto/titolo-iii/capo-vi/sezione-i/art1571.html)).
-
-Il comodatario è tenuto a custodire e a conservare la cosa con la [diligenza del buon padre di famiglia](https://www.brocardi.it/dizionario/1533.html) ([artt. 1176, 1177, 1804 c.c.](https://www.brocardi.it/codice-civile/libro-quarto/titolo-iii/capo-xiv/art1804.html)). Non può usarla se non nei limiti determinati dal contratto o dalla natura della cosa stessa ([art. 1805 c.c.](https://www.brocardi.it/codice-civile/libro-quarto/titolo-iii/capo-xiv/art1805.html)).
-
-È vietato concedere a terzi il godimento della cosa senza il consenso del comodante.
-
-In caso di inadempimento, il comodante può chiederne l’immediata restituzione e il [risarcimento del danno](https://www.brocardi.it/dizionario/3912.html) ([artt. 1218, 1804, 1819, 1820 c.c.](https://www.brocardi.it/codice-civile/libro-quarto/titolo-iii/capo-xiv/art1804.html)).
-
-Il comodatario risponde se la cosa perisce per [caso fortuito](https://www.brocardi.it/dizionario/1295.html) evitabile con la sostituzione o se, potendo scegliere tra due beni da salvare, ha preferito il proprio ([art. 1805 c.c.](https://www.brocardi.it/codice-civile/libro-quarto/titolo-iii/capo-xiv/art1805.html)).
-
-È responsabile anche qualora abbia impiegato la cosa per un uso diverso o oltre il tempo pattuito, salvo che provi che il danno sarebbe comunque avvenuto ([artt. 1218, 1221, 1805 c.c.](https://www.brocardi.it/codice-civile/libro-quarto/titolo-iii/capo-xiv/art1805.html)).
-
-Se la cosa è stata stimata, il comodatario ne risponde anche se il perimento non è a lui imputabile.
-
-Non risponde del deterioramento derivante dall’uso consentito e senza colpa ([artt. 1590, 1609, 1807 c.c.](https://www.brocardi.it/codice-civile/libro-quarto/titolo-iii/capo-xiv/art1807.html)).
-
-Il comodatario non ha diritto al rimborso delle spese d’uso, ma ha diritto al rimborso delle spese straordinarie necessarie e urgenti sostenute per la conservazione della cosa ([art. 1808 c.c.](https://www.brocardi.it/codice-civile/libro-quarto/titolo-iii/capo-xiv/art1808.html)).
-
-È obbligato a restituire la cosa alla scadenza del termine pattuito o, in mancanza, dopo l’uso previsto dal contratto. In caso di bisogno urgente e impreveduto del comodante, può essere chiesta la restituzione immediata ([art. 1809 c.c.](https://www.brocardi.it/codice-civile/libro-quarto/titolo-iii/capo-xiv/art1809.html)).
-
-In mancanza di termine, la restituzione può essere richiesta in qualsiasi momento ([art. 1810 c.c.](https://www.brocardi.it/codice-civile/libro-quarto/titolo-iii/capo-xiv/art1810.html)). In caso di morte del comodatario, la restituzione può essere pretesa anche se era stato concordato un termine ([art. 1811 c.c.](https://www.brocardi.it/codice-civile/libro-quarto/titolo-iii/capo-xiv/art1811.html)).
-
-Infine, se la cosa ha [vizi](https://www.brocardi.it/dizionario/3434.html) dannosi e il comodante non li ha segnalati pur conoscendoli, è tenuto al risarcimento ([art. 1812 c.c.](https://www.brocardi.it/codice-civile/libro-quarto/titolo-iii/capo-xiv/art1812.html)).
-
----
-  
-  ### Further Resources
-1. [Art. 1803 Codice Civile – Comodato](https://www.brocardi.it/codice-civile/libro-quarto/titolo-iii/capo-xiv/art1803.html)  
-    Definizione normativa del contratto di comodato secondo il Codice Civile.
-2. [Comodato e convivenza – WebColf](https://www.webcolf.com/risorse/notizie-su-lavoro-domestico-e-badanti/articoli-per-argomenti/349-contratto-di-comodato-e-convivenza.html)  
-    Approfondimento pratico sull’uso del comodato nei rapporti di convivenza domestica.
-3. [Aspetti civili e fiscali del comodato – Fisco e Tasse](https://www.fiscoetasse.com/approfondimenti/10960-gli-aspetti-civili-e-fiscali-del-contratto-di-comodato.html#paragrafo2)  
-    Guida agli aspetti giuridici e fiscali del comodato d’uso gratuito.
-4. [Guida alla legislazione sul volontariato – CSV Foggia (PDF)](https://www.csvfoggia.it/documenticsv/Pubblicazioni/GUIDA_LEGISLAZIONE_VOLONTARIATO.pdf)  
-    Panoramica dettagliata sulla normativa vigente in materia di volontariato.
-5. [Legge 266/1991 – Ministero del Lavoro (PDF)](https://www.lavoro.gov.it/archivio-doc-pregressi/AreaSociale_AgenziaTerzoSettore/Leqqe_266_91.pdf)  
-    Testo completo della legge quadro sul volontariato.
-6. [Distribuzione degli utili nel non profit – Cantiere Terzo Settore](https://www.cantiereterzosettore.it/cosa-significa-distribuzione-degli-utili-nel-non-profit/)  
-    Spiegazione del divieto di distribuzione degli utili nelle organizzazioni non profit.
-7. [Volontariato e baratto – Segretari Comunali Vighenzi (PDF)](https://www.segretaricomunalivighenzi.it/archivio/anno-2018/novembre/il-volontariato-ed-il-baratto.pdf)  
-    Analisi critica sul confine tra attività volontaria e baratto nel diritto italiano.
+Questa procedura garantisce certezza legale e tutela entrambe le parti.

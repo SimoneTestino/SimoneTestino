@@ -20,7 +20,7 @@ One should take into account that this involves not all the [[Ville Chiappella]]
 
 #### [[Casa del Noce]]
 
-*   **Total Summary:**
+*   **Total Summary:** [[PLANIMETRIA FG 29 MAPP 519 SUB 6.pdf]]
     *   **Current Status:**
         *   Habitable Bedrooms: 1
         *   Current Beds: 1
