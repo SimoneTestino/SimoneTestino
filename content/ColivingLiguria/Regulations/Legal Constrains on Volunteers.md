@@ -56,6 +56,7 @@ Contrary to a common misconception, a `comodato` contract for a real estate prop
 * **Distinction from Rentals:** The rule that exempts contracts under 30 days from registration applies only to rentals, not to written `comodato` agreements.
 
 This procedure ensures legal certainty and protects both parties.
+
 ---
 > [!Abstract]
 > Questo documento definisce il quadro legale per la residenza presso Coliving Liguria, garantendo la piena conformità con la legge italiana. Si delinea una struttura chiara che distingue tra soggiorni brevi (gestiti con contratti di locazione breve) e soggiorni a lungo termine (gestiti tramite locazione ordinaria o comodato d'uso registrato). Viene inoltre ribadita la netta separazione tra le attività di "vita di comunità", attese da tutti i residenti, e qualsiasi forma di prestazione lavorativa, che è esclusa da questi accordi.
@@ -107,7 +108,6 @@ Contrariamente a una credenza diffusa, un contratto di comodato su un bene immob
 * **Distinzione con la Locazione:** La regola che esonera dalla registrazione i contratti sotto i 30 giorni vale solo per le locazioni, non per il comodato scritto.
 
 Questa procedura garantisce certezza legale e tutela entrambe le parti.
-
 
 ---
 ### Ulteriori Note Personali
