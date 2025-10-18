@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 date: 2025-08-01
 ---
 Volunteers are going to be a central part of the entire project, contributing their skills and motivation to bring it to life. I’ve been genuinely amazed by how many people from all over the world are willing to come and help, each bringing a unique background and a wealth of experience. This diversity, combined with their bare hands and energy, is what will make the project possible—transforming something that would have taken me over a year to complete into a joyful, collective experience we can build together.
