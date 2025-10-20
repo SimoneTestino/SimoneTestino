@@ -33,4 +33,4 @@ Logically, one might think to split utilities according to monthly usage—so th
 To avoid this, I’ve decided to spread utility costs evenly throughout the year. This way, I can purchase heating materials (such as firewood and pellets) in advance and distribute the cost more sustainably, avoiding sudden spikes during the colder season.
 
 ---
-Before anything takes action, I will need to make sure that what I write in [[Legal Constrains on Volunteers]] are valid legal conclusions.
+Before anything takes action, I will need to make sure that what I write in [[Limiti Legali del Volontariato]] are valid legal conclusions.

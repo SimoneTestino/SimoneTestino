@@ -1,8 +1,8 @@
 ---
 draft: false
 date: 2025-08-04
+language: EN
 ---
-
 > [!Abstract]
 > This page outlines our visa assistance policy. In summary, we offer visa assistance to paying guests (remote workers and vocational stays) for bookings over €200, once the booking is confirmed. For volunteers, we generally do not offer visa assistance due to the significant time investment and the legal complexities of the Italian immigration system, which does not have a specific "volunteer visa". Exceptions are very rare and are considered only for individuals with pre-agreed, essential skills required for the project.
 

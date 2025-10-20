@@ -6,7 +6,7 @@ date: 2025-08-01
 > This page outlines our strategy for finding and engaging with individuals who wish to collaborate with the Coliving Liguria project. It details the platforms we will use for outreach and the long-term vision for how these collaborators can become integral parts of our community.
 
 ### Understanding Our "Volunteer" Framework
-Before detailing our recruitment strategy, it is essential to understand the legal context in which we operate. As outlined in our [[Legal Constrains on Volunteers]] page, we use the term "volunteer" colloquially. Legally, our collaborators are not volunteers but are residents under a `comodato d'uso` agreement, contracted professionals, or independent entrepreneurs. It is crucial that this distinction is made clear in all our communications.
+Before detailing our recruitment strategy, it is essential to understand the legal context in which we operate. As outlined in our [[Limiti Legali del Volontariato]] page, we use the term "volunteer" colloquially. Legally, our collaborators are not volunteers but are residents under a `comodato d'uso` agreement, contracted professionals, or independent entrepreneurs. It is crucial that this distinction is made clear in all our communications.
 ### Recruitment Channels
 To find individuals interested in joining our project, we will establish a strong presence on various online platforms.
 #### 1. Facebook Groups

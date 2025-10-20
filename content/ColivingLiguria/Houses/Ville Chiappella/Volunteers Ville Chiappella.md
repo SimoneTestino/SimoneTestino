@@ -84,7 +84,7 @@ Your contribution is to help transform the houses into beautiful, functional spa
 
 **Your Role as a "Comodatario"**
 
-It is essential to understand the legal nature of your stay. While we use the term "volunteer" colloquially, legally you will be a **`comodatario`** (a resident under a free rental contract) governed by a formal **`comodato d'uso`** agreement. Your sole obligation is to take care of the property. For a complete explanation, please read the [[Legal Constrains on Volunteers]] page.
+It is essential to understand the legal nature of your stay. While we use the term "volunteer" colloquially, legally you will be a **`comodatario`** (a resident under a free rental contract) governed by a formal **`comodato d'uso`** agreement. Your sole obligation is to take care of the property. For a complete explanation, please read the [[Limiti Legali del Volontariato]] page.
 
 - **Financial Independence (Required)**: The `comodato` contract can be terminated at any time. Therefore, it is **mandatory that you can prove sufficient financial means to be fully independent** in case the agreement ends unexpectedly.
 
@@ -179,7 +179,7 @@ Il tuo contributo è aiutare a trasformare le case in spazi belli e funzionali, 
 
 **Il Tuo Ruolo come "Comodatario"**
 
-È fondamentale comprendere la natura legale del tuo soggiorno. Sebbene usiamo il termine "volontario" in modo colloquiale, legalmente sarai un **`comodatario`** (un residente con un contratto di affitto gratuito) regolato da un contratto formale di **`comodato d'uso`**. Il tuo unico obbligo è quello di prenderti cura della proprietà. Per una spiegazione completa, leggi la pagina [[Legal Constrains on Volunteers]].
+È fondamentale comprendere la natura legale del tuo soggiorno. Sebbene usiamo il termine "volontario" in modo colloquiale, legalmente sarai un **`comodatario`** (un residente con un contratto di affitto gratuito) regolato da un contratto formale di **`comodato d'uso`**. Il tuo unico obbligo è quello di prenderti cura della proprietà. Per una spiegazione completa, leggi la pagina [[Limiti Legali del Volontariato]].
 
 - **Indipendenza Finanziaria (Obbligatoria)**: Il contratto di comodato può essere risolto in qualsiasi momento. Pertanto, è **obbligatorio che tu possa dimostrare di avere mezzi finanziari sufficienti per essere completamente indipendente** nel caso in cui il contratto termini inaspettatamente.
 

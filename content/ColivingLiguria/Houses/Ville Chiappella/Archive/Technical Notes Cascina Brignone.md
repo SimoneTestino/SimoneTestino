@@ -20,7 +20,7 @@ language: IT/EN
     * **Next Step**: We will conduct a test by attaching a phone running a constant speed test to a drone. By flying the drone at various altitudes, we can determine if increased elevation significantly improves the signal.
     * **Potential Solution**: If elevation is the key, we could use a [[Luna]] balloon (a 5 cubic meter helium aerostat) to stably hold a 5G antenna at the optimal height, connected to the ground via a cable.
 
-* **Floor Slabs (Second Property)**: The second house (to the left, viewed from the road) requires a complete rebuild of its floor slabs (*solai*). We will need to leverage our [[Private Contacts]] to find a cost-effective contractor.
+* **Floor Slabs (Second Property)**: The second house (to the left, viewed from the road) requires a complete rebuild of its floor slabs (*solai*). We will need to leverage our [[Private Contacts for ColivingLiguria]] to find a cost-effective contractor.
 
 * **Identifying the [[Luna Lab]]**: We need to survey all rooms and outbuildings to identify the best location for the [[Luna Lab]], the dedicated workshop for the [[Luna]] project.
 
@@ -50,7 +50,7 @@ language: IT/EN
     * **Prossimo Passo**: Condurremo un test attaccando un telefono con uno speed test costante a un drone. Facendo volare il drone a varie altitudini, potremo determinare se un'elevazione maggiore migliora significativamente il segnale.
     * **Soluzione Potenziale**: Se l'altitudine è la chiave, potremmo usare un pallone [[Luna]] (un aerostato a elio di 5 metri cubi) per mantenere stabilmente un'antenna 5G all'altezza ottimale, collegata a terra tramite un cavo.
 
-* **Solai (Seconda Proprietà)**: La seconda casa (a sinistra, guardando dalla strada) richiede un rifacimento completo dei solai. Dovremo fare leva sui nostri [[Private Contacts]] per trovare un artigiano con un buon rapporto qualità-prezzo.
+* **Solai (Seconda Proprietà)**: La seconda casa (a sinistra, guardando dalla strada) richiede un rifacimento completo dei solai. Dovremo fare leva sui nostri [[Private Contacts for ColivingLiguria]] per trovare un artigiano con un buon rapporto qualità-prezzo.
 
 * **Individuazione del [[Luna Lab]]**: Dobbiamo ispezionare tutte le stanze e i rustici per individuare la migliore location per il [[Luna Lab]], il laboratorio dedicato al progetto [[Luna]].
 
