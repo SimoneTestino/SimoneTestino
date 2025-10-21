@@ -1,7 +1,10 @@
 ---
 draft: false
-date: 2025-09-21
+date: 2025-10-21
+language: IT/EN
 ---
+--English below--
+
 > [!Abstract]
 > Questo documento riassume le informazioni relative all'incentivo "Conto Termico" basandosi su un'analisi video e fonti informative online, con un focus specifico sulla sua applicazione per i progetti [[ColivingLiguria]] e [[Luna]], in particolare per la ristrutturazione di [[Ville Chiappella]]. Si analizzano gli interventi ammissibili, le modalità di erogazione del bonus e le procedure da seguire, evidenziando le opportunità strategiche per ottimizzare i costi di riqualificazione energetica.
 
@@ -57,3 +60,44 @@ La principale implicazione per [[ColivingLiguria]] è che **conviene attendere e
 5.  Per 5 anni dall'erogazione del bonus non è possibile modificare o vendere i beni oggetto dell'incentivo.
 6.  La richiesta va presentata entro 60 giorni dalla fine dei lavori. L'accredito avviene dopo alcuni mesi.
 7.  Gli incentivi non sono cumulabili con altre detrazioni fiscali o incentivi statali sullo stesso intervento. È necessario coprire di tasca propria almeno il 35% della spesa.
+
+---
+> [!Abstract]
+> This note outlines the regulations for the "Architectural Barriers Bonus 75%", updated with the recent restrictions from D.L. 212/2023. It analyzes the eligible interventions, the spending caps, and the strategic advantage of the invoice discount and credit transfer options. It also details the procedure to follow to meet the final deadline of December 31, 2025.
+
+### Regulatory Framework and Eligible Interventions
+
+The Architectural Barriers Bonus is a 75% tax deduction, introduced by the 2022 Budget Law (Law 234/2021) and extended until **December 31, 2025**, by the 2023 Budget Law (Law 197/2022).
+
+> [!ATTENTION]
+> **[Law-Decree No. 212/2023](https://www.gazzettaufficiale.it/eli/id/2023/12/29/23G00226/sg)** has substantially changed the scope of the bonus. For works initiated from December 30, 2023, onwards, the options for an invoice discount and credit transfer have been limited to a specific list of interventions. Many outdated online sources may therefore report a list of eligible works (e.g., fixtures, floors, bathrooms) that is no longer valid.
+
+Following these changes, as also reported by specialized sources like **[BibLus by ACCA Software](https://biblus.acca.it/bonus-barriere-architettoniche/#toggle-id-10)**, the only interventions that allow access to the invoice discount or credit transfer until December 31, 2025, are:
+* **Stairs**
+* **Ramps**
+* **Lifts (Elevators)**
+* **Stairlifts**
+* **Platform lifts**
+
+To be eligible for the bonus, all interventions must comply with the technical requirements of the **[Ministerial Decree No. 236 of June 14, 1989](https://www.gazzettaufficiale.it/eli/id/1989/06/23/089G0311/sg)**. Compliance with these requirements must be certified through a sworn statement (asseverazione) from a qualified technician (e.g., a *geometra*).
+
+For the **ColivingLiguria** project, the interventions of greatest strategic interest in this category are the construction of **external stairs**, **ramps** to overcome differences in level, and the installation of **stairlifts**. The installation of **platform lifts** could also be considered, although their actual utility and feasibility in the project's specific spaces have yet to be verified by a technician.
+
+### Spending Caps and the Advantage of the Invoice Discount
+
+The bonus provides for a 75% tax deduction on incurred expenses, to be distributed in **5 equal annual installments**. For the **ColivingLiguria** structure, which consists of two single-family, functionally independent villas, two separate spending caps are available:
+* **Villa 1:** Spending cap of **€50,000**
+* **Villa 2:** Spending cap of **€50,000**
+* **Total cap:** **€100,000**
+
+The main strategic advantage of this bonus lies in the fact that, unlike other incentives such as the 50% Renovation Bonus, it **retains the options for an invoice discount or credit transfer**. This is of fundamental importance for a project in its startup phase, as it allows for the preservation of liquidity obtained through funding. With the **invoice discount** (sconto in fattura), the construction company applies an immediate discount equal to the value of the bonus, drastically reducing the client's financial outlay.
+
+### Deadlines and Obligations (By December 31, 2025)
+
+To be eligible for the bonus expiring in 2025, it is essential to respect the **"cash basis principle"** (principio di cassa): what matters for tax purposes is the date on which the expense is actually incurred, not the start date of the works.
+
+To secure the right to the bonus by the **December 31, 2025**, deadline, one of the following conditions must be met by that date:
+1.  **In case of an Invoice Discount:** the company must have issued an **invoice with the discount applied** dated no later than 31/12/2025.
+2.  **In case of Direct Deduction or Credit Transfer:** the client must have made a **payment of at least a deposit** via a **"specific purpose bank transfer"** (bonifico parlante) with an execution date no later than 31/12/2025.
+
+To meet this tight deadline, it is essential to start the process immediately. This includes hiring a qualified technician (*geometra*) to design the project and prepare the building permit application (CILA/SCIA), signing the contract with the construction company, and finally, issuing the discounted invoice or paying the deposit before the end of the year.
