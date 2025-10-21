@@ -5,7 +5,7 @@ draft: false
 —Italian below—
 
 > [!Abstract]
-> This document provides a clear and structured overview of the current and potential room and bed capacity for the properties of [[Ville Chiappella]]. The analysis is based on Italian legal requirements for habitability and planned renovations, as detailed in our reference notes on [[Abitabilità e la Destinazione d'Uso]]. The goal is to ensure transparency and compliance in our accommodation offerings.
+> This document provides a clear and structured overview of the current and potential room and bed capacity for the properties of [[Ville Chiappella]]. The analysis is based on Italian legal requirements for habitability and planned renovations, as detailed in our reference notes on [[Agibilità, Abitabilità e la Destinazione d'Uso]]. The goal is to ensure transparency and compliance in our accommodation offerings.
 
 **Overall Summary:**
 *   **Total Current Capacity:** 3 Bedrooms / 7 Beds
@@ -110,7 +110,7 @@ One should take into account that this involves not all the [[Ville Chiappella]]
 ---
 
 > [!Abstract]
-> Questo documento fornisce una panoramica chiara e strutturata della capienza attuale e potenziale di stanze e posti letto per le proprietà di [[Ville Chiappella]]. L'analisi si basa sui requisiti legali italiani per l'abitabilità e sulle ristrutturazioni pianificate, come dettagliato nelle nostre note di riferimento su [[Abitabilità e la Destinazione d'Uso]]. L'obiettivo è garantire trasparenza e conformità nella nostra offerta di alloggi.
+> Questo documento fornisce una panoramica chiara e strutturata della capienza attuale e potenziale di stanze e posti letto per le proprietà di [[Ville Chiappella]]. L'analisi si basa sui requisiti legali italiani per l'abitabilità e sulle ristrutturazioni pianificate, come dettagliato nelle nostre note di riferimento su [[Agibilità, Abitabilità e la Destinazione d'Uso]]. L'obiettivo è garantire trasparenza e conformità nella nostra offerta di alloggi.
 
 **Riepilogo Generale:**
 *   **Capienza Attuale Totale:** 3 Camere da Letto / 7 Posti Letto

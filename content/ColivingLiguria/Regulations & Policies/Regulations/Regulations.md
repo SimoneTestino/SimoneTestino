@@ -17,7 +17,7 @@ Navigating Italian bureaucracy is a core challenge of this project. This section
 #### General Regulations
 * **[[Limiti Legali del Volontariato]]** (Legal Boundaries of "Volunteering")
 * **[[Risorse Umane per la Ristrutturazione]]** (Human Resources for Renovation)
-* **[[Abitabilità e la Destinazione d'Uso]]** (Habitability and Designated Use)
+* **[[Agibilità, Abitabilità e la Destinazione d'Uso]]** (Habitability and Designated Use)
 * **[[Usucapione]]** (Adverse Possession)
 * **[[Visa Assistance Policy]]**
 
@@ -39,7 +39,7 @@ Orientarsi nella burocrazia italiana è una sfida centrale di questo progetto. Q
 #### Regolamenti Generali
 * **[[Limiti Legali del Volontariato]]**
 * **[[Risorse Umane per la Ristrutturazione]]**
-* **[[Abitabilità e la Destinazione d'Uso]]**
+* **[[Agibilità, Abitabilità e la Destinazione d'Uso]]**
 * **[[Usucapione]]**
 * **[[Visa Assistance Policy]]**
 
