@@ -49,8 +49,6 @@ Indipendentemente dal contratto, ogni residente è tenuto a:
 
 ---
 
---English below--
-
 > [!Abstract]
 > This document defines the legal framework for residency at Coliving Liguria, ensuring full compliance with Italian law. It clarifies the use of the term "volunteer" for marketing purposes only, specifying that every relationship is formalized through specific contracts (rental or loan-for-use) to ensure full legal compliance. It also reiterates the strict separation between "community life" activities, which include [[Manutenzione Ordinaria|Ordinary Maintenance]], and any form of subordinate work, which is excluded from these agreements.
 
