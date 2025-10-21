@@ -1,7 +1,7 @@
 ---
 title: Cercasi Modella per Social Media
 date: 2025-09-03
-draft: false
+draft: true
 ---
 > [!Abstract]
 > Questa pagina descrive in dettaglio l'opportunità di diventare uno dei volti della nostra community. Cerchiamo una persona creativa e dinamica per un doppio ruolo che unisce la fotografia e la comunicazione social, offrendo un'esperienza di vita e lavoro unica nel nostro progetto di [[ColivingLiguria]].

@@ -1,0 +1,43 @@
+---
+date: 2025-10-21
+draft: false
+language: IT/EN
+---
+--Italiano sotto--
+> [!Abstract]
+> This page outlines the necessity of a formal contract for all residents of ColivingLiguria, whether they are collaborators, paying guests, staying for a single day or for years. For any interaction with the project, it is essential for us that everything is conducted according to the rules, paying taxes, and ensuring that all arrangements are legally sound and well-documented, as outlined in our [[Ethical Code of ColivingLiguria]].
+
+To collaborate in any way with ColivingLiguria, we require the signing of a contract provided by us. The contract will adhere to Italian law, and on this website, we provide all the necessary documents—often translated into English—to help you get informed. These documents clarify the legal framework governing residency, distinguishing between the different types of stays as detailed in [[Limiti Legali del Volontariato|Legal Boundaries of Volunteering]]. However, please be aware that these are not official translations; they are often written by non-experts or artificial intelligence and should therefore be treated with caution.
+
+A contract will always be in place, and its type will vary depending on the individual's role. However, all residents must sign the "Contratto di Locazione" (Lease Agreement). This is the primary document governing residency, and it is attached below.
+
+> [!Note] Lease Agreement (Contratto di Locazione)
+> The "Contratto di Locazione" is the fundamental agreement for all residents. It establishes the rights and duties of both the resident (Conduttore) and the landlord (Locatore). The full document is attached to this page.
+> ![[Contratto_di_Locazione.pdf]]
+
+### Contract Guidelines
+
+* **Official Language:** The official and legally binding version of the contract is in Italian.
+* **English Translation:** An English translation is provided in good faith. It has been reviewed, but it was written with the help of AI and may not precisely reflect the nuances of the Italian version. The English text is attached to the same document and follows the Italian version, but the Italian text is the authoritative one.
+* **Resident's Obligations:** This contract does not, in any way, obligate the resident to perform any work or tasks within ColivingLiguria. It serves to establish the resident's rights, the costs of the stay, the terms, the security deposit conditions, and the "Regolamento della Casa" (House Rules). The distinction between mandatory ordinary maintenance and any other type of work is further explained in [[Risorse Umane per la Ristrutturazione|Human Resources for Renovation]].
+* **Sanctions:** The regulations attached to the contract include sanctions for non-compliance with certain co-living rules or with the renovation's "Linee Guida Progettuali" (Design Guidelines), specifically in cases where unauthorised actions are taken that conflict with the established project. For more details on what constitutes different types of maintenance, see our notes on [[Manutenzione Ordinaria|Ordinary Maintenance]] and [[Edilizia Libera|Permit-Free Construction]].
+
+---
+
+> [!Abstract]
+> Questa pagina delinea la necessità di un contratto formale per tutti i residenti di ColivingLiguria, che abbiano intenzione di collaborare al progetto o di essere semplicemente clienti paganti, che soggiornino per un giorno o per anni. Per qualsiasi interazione con il progetto, è per noi essenziale che tutto sia fatto seguendo le regole, pagando le tasse e assicurandoci che ogni accordo sia legalmente sicuro e ben dettagliato, come delineato nel nostro [[Ethical Code of ColivingLiguria]].
+
+Per collaborare in qualsiasi modo con ColivingLiguria, richiediamo la firma di un contratto da noi predisposto. Il contratto seguirà il diritto italiano e su questo sito forniamo tutti i documenti necessari, molto spesso tradotti in inglese, per potersi informare a riguardo. Questi documenti chiariscono il quadro legale che regola la residenza, distinguendo tra i diversi tipi di soggiorno come dettagliato nei [[Limiti Legali del Volontariato]]. Tuttavia, si prega di notare che queste non sono traduzioni ufficiali; sono spesso scritte da non esperti o da intelligenza artificiale e devono quindi essere prese con le pinze.
+
+Un contratto sarà sempre presente e sarà di diverso tipo a seconda del ruolo della persona. Tutte le persone residenti, comunque, dovranno sottoscrivere il "Contratto di Locazione", che è il documento primario che regola la residenza e che si trova in allegato.
+
+> [!Note] Contratto di Locazione
+> Il "Contratto di Locazione" è l'accordo fondamentale per tutti i residenti. Stabilisce i diritti e i doveri sia del residente (Conduttore) che del locatore (Locatore). Il documento completo è allegato a questa pagina.
+> ![[Contratto_di_Locazione.pdf]]
+
+### Linee Guida sul Contratto
+
+* **Lingua Ufficiale:** La versione ufficiale e legalmente vincolante del contratto è quella in italiano.
+* **Traduzione Inglese:** Una traduzione in inglese è fornita in buona fede. È stata controllata, ma è stata redatta con l'ausilio di AI e potrebbe non rispecchiare precisamente quanto detto nella versione italiana. Il testo inglese è allegato allo stesso documento e segue la versione italiana, ma quella italiana è quella che fa fede.
+* **Obblighi del Residente:** Questo contratto non obbliga in alcun modo il residente a svolgere alcuna operazione all'interno di ColivingLiguria. Serve a stabilire i diritti del residente, i costi dell'operazione, i termini, le condizioni della cauzione e il "Regolamento della Casa". La distinzione tra la manutenzione ordinaria obbligatoria e qualsiasi altro tipo di lavoro è ulteriormente spiegata nella pagina [[Risorse Umane per la Ristrutturazione]].
+* **Sanzioni:** Il regolamento allegato al contratto prevede sanzioni nel caso in cui non si rispettino determinate regole di convivenza o i codici progettuali della ristrutturazione (nel caso in cui si intraprendano azioni non richieste che vanno contro al progetto stabilito). Per maggiori dettagli su cosa costituisce i diversi tipi di manutenzione, si vedano le nostre note sulla [[Manutenzione Ordinaria]] e l'[[Edilizia Libera]].

@@ -1,6 +1,7 @@
 ---
 date: 2025-08-27
 title: Lezioni Private con Simone Testino
+draft: true
 ---
 > [!Abstract]
 > Offro lezioni private e a piccole classi, specializzate nella preparazione per esami di ammissione a concorsi pubblici e facoltà sanitarie. Grazie alla mia esperienza e a un approccio intensivo, che può includere anche un soggiorno formativo presso le strutture di [[ColivingLiguria]], punto a fornire il miglior servizio possibile per garantire il successo dei miei studenti.

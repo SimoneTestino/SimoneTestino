@@ -1,6 +1,6 @@
 ---
 date: 2025-08-28
-title: Insegnante di Italiano a Coliving Liguria
+title: Insegnante di Italiano a ColivingLiguria
 ---
 > [!Abstract]
 > Stiamo cercando un insegnante di italiano intraprendente che voglia unirsi alla nostra community, avviare la propria attività di insegnamento in un contesto internazionale e vivere un'esperienza unica in Liguria. Ci occupiamo noi di offrire l'alloggio in una delle nostre strutture come parte della retribuzione.
