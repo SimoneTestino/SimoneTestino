@@ -45,7 +45,7 @@ This is the public gateway to the project, split into two parts to ensure clear 
 ### How to Join the Community
 
 *   **Public Access:** You can join the community via this link: **[ColivingLiguria Community](https://chat.whatsapp.com/KgBKR5mwW2QAqpmvcDosJO)**. You will automatically be added to the Announcements Channel. If you also wish to join the Discussion Group, please contact me directly.
-*   **Levels II-V (By Invitation):** Access to the higher-level groups is managed directly by me, [[ColivingLiguria/Poeple/Simone Testino]]. Once we get in touch and define your role and involvement in the project, I will add you to the appropriate group(s).
+*   **Levels II-V (By Invitation):** Access to the higher-level groups is managed directly by me, [[ColivingLiguria/People/Simone Testino]]. Once we get in touch and define your role and involvement in the project, I will add you to the appropriate group(s).
 
 ---
 
@@ -92,4 +92,4 @@ Questo è l'accesso pubblico al progetto, suddiviso in due parti per garantire u
 ### Come Unirsi alla Community
 
 *   **Accesso Pubblico:** Puoi unirti alla community tramite questo link: **[Community di ColivingLiguria](https://chat.whatsapp.com/KgBKR5mwW2QAqpmvcDosJO)**. Sarai aggiunto automaticamente al Canale Annunci. Se desideri unirti anche al Gruppo di Discussione, contattami direttamente.
-*   **Livelli II-V (Su Invito):** L'accesso ai gruppi di livello superiore è gestito direttamente da me, [[ColivingLiguria/Poeple/Simone Testino]]. Una volta che ci saremo messi in contatto e avremo definito il tuo ruolo e coinvolgimento nel progetto, ti aggiungerò al gruppo o ai gruppi appropriati.
+*   **Livelli II-V (Su Invito):** L'accesso ai gruppi di livello superiore è gestito direttamente da me, [[ColivingLiguria/People/Simone Testino]]. Una volta che ci saremo messi in contatto e avremo definito il tuo ruolo e coinvolgimento nel progetto, ti aggiungerò al gruppo o ai gruppi appropriati.

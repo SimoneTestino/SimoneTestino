@@ -22,6 +22,6 @@ There are currently no active supplementary projects. Please check our [[Colivin
 * **[[Photography Course by Chris]]**
     * *A project to offer professional photography courses and workshops.*
 * **[[Private Teaching by Simone]]**
-	* _Private lessons offered by [[ColivingLiguria/Poeple/Simone Testino]] in his areas of expertise that can be combined with short stays at [[ColivingLiguria]]._
+	* _Private lessons offered by [[ColivingLiguria/People/Simone Testino]] in his areas of expertise that can be combined with short stays at [[ColivingLiguria]]._
 * **[[Downhill Tracks]]**
     * *A project to design and build a network of Enduro/Downhill mountain bike trails accessible from our properties.*

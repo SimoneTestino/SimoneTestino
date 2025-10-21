@@ -26,7 +26,7 @@ Coliving Liguria is a hub for learning and adventure, with many activities drive
 There are two primary ways to join the Coliving Liguria community: as a paying guest or as a collaborator. You can find all the details on our dedicated pages for [[Ads for Customers]] and [[Ads for Volunteers]].
 
 ### Founder's Services
-Drawing from direct experience, founder [[Simone Testino]] offers [[Project Launch Consultancy; Funding & Bureaucracy in Italy|consultancy services]] and [[Private Teaching by Simone|specialised private lessons]].
+Drawing from direct experience, founder [[ColivingLiguria/People/Simone Testino]] offers [[Project Launch Consultancy; Funding & Bureaucracy in Italy|consultancy services]] and [[Private Teaching by Simone|specialised private lessons]].
 
 ***
 
@@ -52,7 +52,7 @@ Coliving Liguria è un centro per l'apprendimento e l'avventura, con molte attiv
 Ci sono due modi principali per unirsi alla comunità di Coliving Liguria: come ospite pagante o come collaboratore. Potete trovare tutti i dettagli sulle nostre pagine dedicate: [[Ads for Customers]] e [[Ads for Volunteers]].
 
 ### Servizi del Fondatore
-Basandosi sulla sua esperienza diretta, il fondatore [[Simone Testino]] offre [[Project Launch Consultancy; Funding & Bureaucracy in Italy|servizi di consulenza]] e [[Private Teaching by Simone|lezioni private specializzate]].
+Basandosi sulla sua esperienza diretta, il fondatore [[ColivingLiguria/People/Simone Testino]] offre [[Project Launch Consultancy; Funding & Bureaucracy in Italy|servizi di consulenza]] e [[Private Teaching by Simone|lezioni private specializzate]].
 
 ***
 

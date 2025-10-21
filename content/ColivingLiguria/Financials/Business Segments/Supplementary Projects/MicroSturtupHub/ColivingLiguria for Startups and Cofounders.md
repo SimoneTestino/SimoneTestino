@@ -4,7 +4,7 @@ draft:
 title: ColivingLiguria for Startups and Cofounders
 ---
 > [!Abstract]
-> I'm [[ColivingLiguria/Poeple/Simone Testino]], and I'm currently developing two main projects: [[ColivingLiguria]], which transforms traditional villas into vibrant hubs for remote workers and creatives, and [[Luna]], a startup focused on innovative event and industrial lighting. Coliving Liguria is designed as an ecosystem to foster new ventures. We offer space and support for co-founders for our startups, dedicated contributors, and entrepreneurs who want to develop their own projects within our environment. We provide financial and bureaucratic guidance, access to machinery and workshop space, and marketing support. As a resident, you'll also enjoy all community benefits, including access to courses and supplementary activities.
+> I'm [[ColivingLiguria/People/Simone Testino]], and I'm currently developing two main projects: [[ColivingLiguria]], which transforms traditional villas into vibrant hubs for remote workers and creatives, and [[Luna]], a startup focused on innovative event and industrial lighting. Coliving Liguria is designed as an ecosystem to foster new ventures. We offer space and support for co-founders for our startups, dedicated contributors, and entrepreneurs who want to develop their own projects within our environment. We provide financial and bureaucratic guidance, access to machinery and workshop space, and marketing support. As a resident, you'll also enjoy all community benefits, including access to courses and supplementary activities.
 
 As the founder, I am actively working on building an environment that serves as a launchpad for like-minded entrepreneurs. We offer a unique opportunity to live and work in Liguria while benefiting from a structured support system. We welcome collaborators in three primary ways:
 
@@ -37,7 +37,7 @@ All entrepreneurs and collaborators residing at Coliving Liguria benefit from th
 
 ---
 ### How to Get Started
-The best way to begin is with a direct conversation with me, [[ColivingLiguria/Poeple/Simone Testino]]. I invite you to get in touch to gather more information on our current projects, discuss how you could contribute, share your impressions, or propose your own ideas.
+The best way to begin is with a direct conversation with me, [[ColivingLiguria/People/Simone Testino]]. I invite you to get in touch to gather more information on our current projects, discuss how you could contribute, share your impressions, or propose your own ideas.
 
 For an initial, informal contact, the preferred channels are WhatsApp or Instagram. If you wish to send documents such as a CV, portfolio, or a more detailed project description, please use email.
 

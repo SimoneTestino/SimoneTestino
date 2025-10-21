@@ -29,4 +29,4 @@ Our goal is to create an environment that balances focused work with a strong se
 * **High-speed internet** as a top priority, ensuring a seamless remote work experience.
 * A welcoming atmosphere for **pets** and ample space for those travelling with **camper vans**.
 ---
-This project is founded by [[ColivingLiguria/Poeple/Simone Testino]] and is made possible primarily through funding from the European Union via the [[Bando Pubblico Fesr 2021-2027. OS 1.3]], published by the Region of Liguria.
+This project is founded by [[ColivingLiguria/People/Simone Testino]] and is made possible primarily through funding from the European Union via the [[Bando Pubblico Fesr 2021-2027. OS 1.3]], published by the Region of Liguria.

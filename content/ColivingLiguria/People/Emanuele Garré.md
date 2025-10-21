@@ -6,7 +6,7 @@ Emanuele Garrè played a helpful role in getting the Coliving Liguria project st
 The following contacts are available full-time. Please include me, Simone Testino, in any communication, either directly or in CC.
 
 - **Company Email**: colivingliguria@gmail.com
-- _Personal Contacts_: [[ColivingLiguria/Poeple/Simone Testino]]
+- _Personal Contacts_: [[ColivingLiguria/People/Simone Testino]]
 	- simone.testino@gmail.com
 	- +39 339 637 9372
 	- see also [[Contacts]]

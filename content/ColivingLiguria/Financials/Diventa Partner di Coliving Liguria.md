@@ -5,7 +5,7 @@ date: 2025-08-05
 > [!Abstract]
 > Questa pagina è dedicata ai proprietari di ville, rustici o case indipendenti in Liguria. Coliving Liguria offre diverse soluzioni per valorizzare il vostro immobile: dalla gestione completa in partnership, all'acquisto tramite la formula "affitto con riscatto" (Rent to Buy) e, in casi selezionati, anche con acquisto diretto in un'unica soluzione.
 
-Sei proprietario di una villa, un rustico o una casa indipendente che vorresti trasformare in una fonte di reddito costante o vendere alle giuste condizioni? Il progetto [[ColivingLiguria]], fondato da [[ColivingLiguria/Poeple/Simone Testino]], offre una soluzione completa e trasparente.
+Sei proprietario di una villa, un rustico o una casa indipendente che vorresti trasformare in una fonte di reddito costante o vendere alle giuste condizioni? Il progetto [[ColivingLiguria]], fondato da [[ColivingLiguria/People/Simone Testino]], offre una soluzione completa e trasparente.
 
 Il nostro processo inizia con un **contratto di comodato d'uso temporaneo**, un accordo preliminare che ci permette di risiedere nell'immobile per un breve periodo (solitamente un mese) per redigere un progetto di riqualificazione dettagliato e un contratto di partnership su misura, senza alcun rischio o costo per la proprietà. Successivamente, a seconda del modello concordato, prendiamo in gestione la tua proprietà e ci occupiamo dell'intero processo: dalla gestione dei permessi, fino alla ristrutturazione e alla messa a reddito.
 

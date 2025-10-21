@@ -24,4 +24,4 @@ We are particularly looking for individuals with expertise in the following fiel
 * **Software Engineers:** To refine the physical simulation models, develop the onboard "Luna's Algorithm", and create user-facing control systems, such as a mobile application.
 * **Sales & Business Development Professionals:** To develop our market strategy and build relationships with initial clients and partners.
 
-If you are interested in this project, founded by [[ColivingLiguria/Poeple/Simone Testino]], please visit our [[ColivingLiguria for Startups and Cofounders]] page for a full overview of the collaboration opportunities. For any direct inquiries, please see our [[Contact]] page.
+If you are interested in this project, founded by [[ColivingLiguria/People/Simone Testino]], please visit our [[ColivingLiguria for Startups and Cofounders]] page for a full overview of the collaboration opportunities. For any direct inquiries, please see our [[Contact]] page.

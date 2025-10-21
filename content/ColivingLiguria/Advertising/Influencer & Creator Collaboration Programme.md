@@ -32,6 +32,6 @@ If you fall in love with the project and wish to extend your stay, we are very o
 Social media management is a key area where we need help, and your expertise would be highly valued. If you decide to volunteer, your stay could become entirely free, following the same rules and agreements as our other [[Volunteers]]. This can be discussed and arranged on a personal basis.
 ### How to Apply
 
-If you are a creator and this opportunity interests you, the best way to start is by getting in touch with me, [[ColivingLiguria/Poeple/Simone Testino]], directly. Send me a link to your social media profiles and a brief note about why you'd like to collaborate.
+If you are a creator and this opportunity interests you, the best way to start is by getting in touch with me, [[ColivingLiguria/People/Simone Testino]], directly. Send me a link to your social media profiles and a brief note about why you'd like to collaborate.
 
 You can find all my contact details, including email, WhatsApp, and social media, on the [[Contact]] page.
