@@ -25,10 +25,15 @@ Coliving Liguria is a hub for learning and adventure, with many activities drive
 ### How to Join Us
 There are two primary ways to join the Coliving Liguria community: as a paying guest or as a collaborator. You can find all the details on our dedicated pages for [[Ads for Customers]] and [[Ads for Volunteers]].
 
+### Legal Framework & Transparency
+Operating in Italy requires navigating a complex legal landscape. We are committed to full compliance and transparency in all our operations. We have compiled all our research and policies regarding building permits, residency contracts, and operational rules in our dedicated [[Regulations]] section.
+
 ### Founder's Services
 Drawing from direct experience, founder [[ColivingLiguria/People/Simone Testino]] offers [[Project Launch Consultancy; Funding & Bureaucracy in Italy|consultancy services]] and [[Private Teaching by Simone|specialised private lessons]].
 
-***
+> This project is made possible primarily through funding from the European Union via the [[Bando Pubblico Fesr 2021-2027. OS 1.3]]. Please note that while we often use the term "volunteer" colloquially, collaborators are legally residents under a `comodato` agreement, contracted professionals, or independent entrepreneurs.
+
+---
 
 > [!Abstract]
 > Benvenuti a Coliving Liguria, un progetto che trasforma ville tradizionali in vivaci centri per lavoratori da remoto, creativi e imprenditori. Questa pagina delinea la nostra visione, le nostre proprietà attuali, i progetti e le attività guidate dalla comunità che offriamo e come potete unirvi a noi.
@@ -46,16 +51,15 @@ Il nostro piano ambizioso rimane quello di avere due ville in gestione entro la 
 Coliving Liguria è un centro per l'apprendimento e l'avventura, con molte attività guidate dai nostri residenti.
 * **[[Supplementary Projects]] Attuali:** Il nostro ecosistema di progetti indipendenti sta crescendo. Le iniziative attualmente in fase di pianificazione includono **[[Italian Classes]]**, un **[[Photography Course by Chris]]** e lo sviluppo di **[[Downhill Tracks]]**.
 * **Attività Pianificate:** Prevediamo di organizzare corsi di yoga e sport, gite di gruppo in città vicine come Torino e Genova, ed escursioni in borghi locali come Finale Ligure. Escursioni e tour in mountain bike saranno anche una parte fondamentale della nostra offerta.
-* **Proponi la Tua Iniziativa:** Incoraggiamo attivamente i residenti a lanciare le proprie iniziative. Scopri come sulla nostra pagina [[Propose a Project]].
+* **Proponi la Tua Iniziative:** Incoraggiamo attivamente i residenti a lanciare le proprie iniziative. Scopri come sulla nostra pagina [[Propose a Project]].
 
 ### Come Unirsi a Noi
 Ci sono due modi principali per unirsi alla comunità di Coliving Liguria: come ospite pagante o come collaboratore. Potete trovare tutti i dettagli sulle nostre pagine dedicate: [[Ads for Customers]] e [[Ads for Volunteers]].
 
+### Quadro Legale e Trasparenza
+Operare in Italia richiede di orientarsi in un panorama legale complesso. Siamo impegnati a garantire la piena conformità e trasparenza in tutte le nostre operazioni. Abbiamo raccolto tutte le nostre ricerche e le policy relative a permessi di costruzione, contratti di residenza e regole operative nella nostra sezione dedicata [[Regulations]].
+
 ### Servizi del Fondatore
 Basandosi sulla sua esperienza diretta, il fondatore [[ColivingLiguria/People/Simone Testino]] offre [[Project Launch Consultancy; Funding & Bureaucracy in Italy|servizi di consulenza]] e [[Private Teaching by Simone|lezioni private specializzate]].
 
-***
-
-This project is made possible primarily through funding from the European Union via the [[Bando Pubblico Fesr 2021-2027. OS 1.3]]. Please note that while we often use the term "volunteer" colloquially, collaborators are legally residents under a `comodato` agreement, contracted professionals, or independent entrepreneurs.
-
-Questo progetto è reso possibile principalmente grazie ai fondi dell'Unione Europea tramite il [[Bando Pubblico Fesr 2021-2027. OS 1.3]]. Si prega di notare che, sebbene usiamo colloquialmente il termine "volontario", i collaboratori sono legalmente residenti in base a un contratto di `comodato`, professionisti a contratto o imprenditori indipendenti.
+> Questo progetto è reso possibile principalmente grazie ai fondi dell'Unione Europea tramite il [[Bando Pubblico Fesr 2021-2027. OS 1.3]]. Si prega di notare che, sebbene usiamo colloquialmente il termine "volontario", i collaboratori sono legalmente residenti in base a un contratto di `comodato`, professionisti a contratto o imprenditori indipendenti.

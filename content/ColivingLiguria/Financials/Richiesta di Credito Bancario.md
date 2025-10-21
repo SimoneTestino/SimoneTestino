@@ -3,7 +3,6 @@ draft: false
 date: 2025-10-21
 language: IT
 ---
-
 > [!Abstract]
 > Questa pagina illustra le necessità di finanziamento della ditta individuale ColivingLiguria. Fornisce agli istituti di credito il contesto del progetto, già co-finanziato da fondi pubblici (FESR 2021-2027), e delinea le tipologie di linee di credito ricercate per supportare l'acquisto e la ristrutturazione di immobili ad uso ricettivo e lo sviluppo del progetto secondario "Luna".
 
