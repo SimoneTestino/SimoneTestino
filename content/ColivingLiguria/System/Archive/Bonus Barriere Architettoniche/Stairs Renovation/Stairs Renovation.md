@@ -1,6 +1,6 @@
 ---
 date: 2025-10-21
-draft: false
+draft: true
 language: IT/EN
 ---
 > [!Abstract]
@@ -56,10 +56,13 @@ Questa sezione elenca tutte le scale candidate per la ristrutturazione tramite i
     * **Stato Attuale:** Tre vecchi gradini in un'area esterna che intendiamo chiudere.
     * **Idea di Progetto:** Demolirli e rifarli in uno stile coerente con le altre scale rinnovate.
 
-* **Gradini dei Vicini (4 gradini):**
-    * **Stato Attuale:** Quattro gradini irregolari costruiti dai vicini sulla nostra proprietà per accedere al loro terreno.
-    * **Idea di Progetto:** La questione riguarda principalmente le relazioni con i vicini. Le opzioni sono: far pagare ai vicini una scala a norma e regolarizzata, formalizzare un diritto di passaggio a pagamento, oppure negare l'accesso e recuperare l'area come giardino privato. La questione è da discutere.
+* **Scale per il Giardino:**
+    * **Stato Attuale:** Un percorso misto che parte dalla strada con 5-6 gradini, prosegue con una rampa in cemento di 6-9 metri e termina con una sequenza di scale più definita: 7 gradini dritti in cemento (in buone condizioni strutturali, alti circa 15cm e lunghi 25cm), seguiti da un pianerottolo di circa un metro e da ulteriori 5-6 gradini finali che arrivano al prato.
+    * **Idea di Progetto:** Visto il buono stato strutturale dei gradini finali, l'idea è di migliorarli esteticamente (es. con piastrellatura o altra finitura) anziché demolirli. Si prevede la creazione di un piccolo spiazzo all'ingresso del giardino, subito dopo l'ultimo gradino. L'obiettivo generale rimane quello di rendere l'intero percorso (rampa + scale) funzionale al trasporto di bici, sedie a rotelle, merci e materiali per i laboratori e le cantine.
+    * **Domande da Verificare:** Il rifacimento del muro di contenimento che le scale finali attraversano può essere incluso in questo progetto, magari inquadrandolo come necessario alla stabilità del percorso accessibile?
 
 #### [[Casa del Forno]]
 
 * `[Questa sezione verrà aggiornata con l'elenco e l'analisi delle scale presenti in questa casa.]`
+
+

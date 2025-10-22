@@ -15,7 +15,6 @@ draft: false
 
 ---
 ### Index of Building Incentives
-- [[Bonus Rimozione delle Barriere Architettoniche]] (75% Architectural Barriers Bonus)
 - [[Bonus Conto Termico 3.0]] (Thermal Energy Account Bonus 3.0)
 
 > [!Abstract]
@@ -23,5 +22,4 @@ draft: false
 > Questa pagina funge da indice per tutti i documenti relativi agli incentivi edilizi e ai bonus fiscali applicabili alla ristrutturazione delle proprietà di Coliving Liguria. Questa sezione raccoglie le nostre ricerche e appunti sulle opportunità disponibili per ottimizzare i costi di ristrutturazione.
 
 ### Indice degli Incentivi Edilizi
-- [[Bonus Rimozione delle Barriere Architettoniche]]
 - [[Bonus Conto Termico 3.0]]
