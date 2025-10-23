@@ -26,7 +26,7 @@ Un elenco completo e dettagliato di tutti i mappali oggetto di acquisizione, con
 
 Per poter procedere con l'atto di compravendita notarile, si avanzano le seguenti richieste formali:
 
-**1. Accesso agli Atti**
+##### 1. Accesso agli Atti
 Richiesta per l'accesso completo, la visione e l'estrazione di copia di **ogni documento amministrativo, tecnico e progettuale** presente negli archivi comunali relativo a tutti i fabbricati e terreni elencati di seguito.
 * **Codice Pratica:** `BRGSDR56L07I480K-20102025-1331`
 * **Data Presentazione:** 20/10/2025
@@ -39,7 +39,7 @@ A titolo esemplificativo e non esaustivo, la richiesta include:
 * Documentazione urbanistica storica e attuale.
 * Qualsiasi comunicazione, ordinanza, o atto relativo agli immobili.
 
-**2. Certificato di Destinazione Urbanistica (CDU)**
+##### 2. Certificato di Destinazione Urbanistica (CDU)
 Si richiede il rilascio del CDU ai sensi dell'art. 30 D.P.R. 380/2001 e dell'art. 35 L.R. 6/2008 n. 16, con **procedura ordinaria**, per **scopo compravendita** e riferito **alla data di emissione**, per **tutti i mappali identificati come Catasto Terreni** elencati di seguito:
 * Foglio 29 (Particelle: 522, 525, 531, 532)
 * Foglio 45 (Particelle: 45, 217, 251)
