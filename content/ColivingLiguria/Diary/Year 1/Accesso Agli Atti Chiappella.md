@@ -4,8 +4,6 @@ date: 2025-10-23
 draft: false
 language: IT
 ---
-# Riepilogo Immobili e Richieste - Progetto Coliving Liguria (Località Chiappella)
-
 > [!Abstract]
 > Questa pagina funge da riepilogo operativo per la pratica di acquisizione degli immobili siti in Località Chiappella, Comune di Cairo Montenotte, destinati allo sviluppo del progetto [[ColivingLiguria]]. Specifica l'elenco dei mappali (fabbricati e terreni) oggetto dell'operazione e le richieste formali avanzate al Comune (Accesso agli Atti e CDU).
 
