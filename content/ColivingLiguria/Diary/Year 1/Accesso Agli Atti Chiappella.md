@@ -22,14 +22,11 @@ Per ovvie ragioni di privacy, la delega firmata e il documento di identità del 
 Un elenco completo e dettagliato di tutti i mappali oggetto di acquisizione, con i relativi dati catastali e intestatari, è disponibile nel seguente documento:
 * **[[VISURA IMMOBILI STRADA CHIAPPELLA.pdf]]**
 
-Mappe catastali generali di riferimento:
-* [[Catasto Foglio 29 e 46.png]]
-
 ### Riepilogo Richieste al Comune
 
 Per poter procedere con l'atto di compravendita notarile, si avanzano le seguenti richieste formali:
 
-**1. Accesso agli Atti (Pratica già presentata)**
+**1. Accesso agli Atti**
 Richiesta per l'accesso completo, la visione e l'estrazione di copia di **ogni documento amministrativo, tecnico e progettuale** presente negli archivi comunali relativo a tutti i fabbricati e terreni elencati di seguito.
 * **Codice Pratica:** `BRGSDR56L07I480K-20102025-1331`
 * **Data Presentazione:** 20/10/2025
@@ -42,17 +39,21 @@ A titolo esemplificativo e non esaustivo, la richiesta include:
 * Documentazione urbanistica storica e attuale.
 * Qualsiasi comunicazione, ordinanza, o atto relativo agli immobili.
 
-**2. Certificato di Destinazione Urbanistica (CDU) (Pratica in compilazione)**
-Si richiede il rilascio del CDU per **tutti i mappali identificati come Catasto Terreni** elencati di seguito:
+**2. Certificato di Destinazione Urbanistica (CDU)**
+Si richiede il rilascio del CDU ai sensi dell'art. 30 D.P.R. 380/2001 e dell'art. 35 L.R. 6/2008 n. 16, con **procedura ordinaria**, per **scopo compravendita** e riferito **alla data di emissione**, per **tutti i mappali identificati come Catasto Terreni** elencati di seguito:
 * Foglio 29 (Particelle: 522, 525, 531, 532)
 * Foglio 45 (Particelle: 45, 217, 251)
 * Foglio 46 (Particelle: 104, 105, 200)
+* **Codice Pratica:** `BRGSDR56L07I480K-23102025-1043`
+* **Consegna:** In formato digitale via PEC all'indirizzo del procuratore.
+* **Urgenza:** Si prega di considerare le note di urgenza inserite nella pratica, relative alla scadenza dei precedenti CDU e alla data fissata per l'atto notarile (7 Nov 2025), richiedendo l'emissione entro il 3-4 Nov 2025.
 
 Il sottoscritto è consapevole che per il rilascio del CDU e per l'estrazione di copie è previsto il pagamento di diritti di segreteria e bolli. Si resta a disposizione per recuperare eventuali documenti di identità mancanti degli altri comproprietari, qualora fossero necessari.
+
 ### Dettaglio delle Proprietà Oggetto delle Richieste
 
 > [!note] Nota sulla Localizzazione
-> L'indirizzo principale per tutti i fabbricati è **STRADA CHIAPPELLA**. La pratica di accesso atti riporta "STRADA CHIAPPELLA /X".
+> L'indirizzo principale per tutti i fabbricati è **STRADA CHIAPPELLA**. La pratica di accesso atti e la pratica CDU riportano civico "X".
 > L'indirizzo della [[Casa del Noce]] è **Strada Chiappella 25**.
 > L'indirizzo della [[Casa del Forno]] non è chiaro; si presume possa essere il 29, ma il civico non è visibile sull'edificio né confermato da Google Maps.
 
