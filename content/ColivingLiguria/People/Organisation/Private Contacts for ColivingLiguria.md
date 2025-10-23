@@ -48,6 +48,8 @@ I use the same program to write this website as I do for my personal notes. The 
 - **Celi Matsumaru:**
   - **Role:** Host Acquisition Business Development Representative
   - **Company:** Worldpackers.com
+- Zago Tours
+	- ‪+44 7418 627748‬
 - **Owners of [[Cascina Mallare]]:**
   - **Contact 1:** `+39 331 446 7344`
   - **Contact 2:** `+39 392 839 9070`
@@ -55,6 +57,7 @@ I use the same program to write this website as I do for my personal notes. The 
 	- **Contact:** `+39 39 137 858 86`
 - **Farmer for Terrains:**
 	- **Contact:** `+39 334 836 7339` (from MV)
+- 
 
 ---
 
