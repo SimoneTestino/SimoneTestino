@@ -4,13 +4,23 @@ date: 2025-10-19
 language: IT/EN
 ---
 --English below--
-
-> [!Abstract]
-> Queste note definiscono la strategia per la gestione delle risorse umane nella ristrutturazione delle proprietà di Coliving Liguria. Il piano si basa su una netta separazione delle responsabilità a seconda della tipologia di lavoro (ordinario o straordinario) e della qualifica della persona coinvolta. La manodopera viene reperita tramite tre canali principali: 1) i residenti (inquilini/comodatari) per la sola manutenzione ordinaria; 2) il proprietario, amici stretti o artigiani qualificati per la manutenzione straordinaria in edilizia libera; 3) imprese edili registrate per i lavori straordinari che richiedono permessi. Ogni rapporto è inquadrato in una specifica cornice contrattuale per minimizzare i rischi legali.
+>[!Abstract]
+>Queste note definiscono la strategia per la gestione delle risorse umane nella ristrutturazione delle proprietà di Coliving Liguria. Il piano si basa su una netta separazione delle responsabilità a seconda della tipologia di lavoro (ordinario o straordinario) e della qualifica della persona coinvolta. La manodopera viene reperita tramite tre canali principali: 1) i residenti (inquilini/comodatari) per la sola manutenzione ordinaria; 2) il proprietario, amici stretti o artigiani qualificati per la manutenzione straordinaria in edilizia libera; 3) imprese edili registrate per i lavori straordinari che richiedono permessi. Ogni rapporto è inquadrato in una specifica cornice contrattuale per minimizzare i rischi legali.
 
 ### Introduzione: Un Approccio Strutturato alla Ristrutturazione
 
 Per realizzare la ristrutturazione in modo economicamente sostenibile e legalmente sicuro, è fondamentale distinguere chi fa cosa e a quale titolo. Questo documento delinea le diverse figure coinvolte e il loro ambito di intervento, facendo riferimento al quadro legale discusso in [[Limiti Legali del Volontariato]].
+
+Prima di analizzare nel dettaglio le singole casistiche, la tabella comparativa seguente riassume i due ruoli principali che una persona può assumere in relazione ai lavori: l'**Affittuario** (residente) e la **Ditta Edile** (fornitore esterno). La tabella evidenzia le principali differenze legali, operative e finanziarie tra le due posizioni.
+
+| Caratteristica                | [[Risorse Umane per la Ristrutturazione#1 Manutenzione Ordinaria Gestita dai Residenti\|Affittuario]] | [[Risorse Umane per la Ristrutturazione#B. Lavori Straordinari NON in Edilizia Libera\|Ditta Edile]]                  |
+| :---------------------------- | :---------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------- |
+| **Rapporto**                  | Proprietario-Inquilino                                                                                | Cliente-Fornitore (B2B)                                                                                               |
+| **Contratto**                 | [[Contract for Residents\|Contratto per Residenti]]                                                   | Contratto di Servizio                                                                                                 |
+| **Obbligo Formale di Lavoro** | Nessuno, come definito in [[Contract for Residents\|Contratto per Residenti]]                         | Sì, come definito dal contratto di servizio.                                                                          |
+| **Natura del Lavoro**         | Limitata alla [[Manutenzione Ordinaria]] in [[Edilizia Libera]]                                       | Limitata solo dai permessi della ditta.                                                                               |
+| **Metodo di Pagamento**       | Nessuna retribuzione può seguire dall'esecuzione o la mancata esecuzione di un lavoro nella casa.     | Pagamento monetario e/o in percentuale dei profitti e/o in proprietà immobiliare.                                     |
+| **Finanziamento**             | Proprietà dei beni immobili di ColivingLiguria                                                        | Finanziato al 60% da [[Bando Pubblico Fesr 2021-2027. OS 1.3]] per un massimo di 18.500 euro, inclusivo di materiali. |
 
 ### 1. Manutenzione Ordinaria: Gestita dai Residenti
 
@@ -51,47 +61,58 @@ Per qualsiasi intervento che richieda una pratica comunale (CILA, SCIA, ecc.), l
 * **Attività B2B:** Se un partner con Partita IVA vuole usare un terreno per la sua attività (es. agricola, allevamento), questo rapporto sarà regolato da un contratto specifico (affitto di fondo rustico, partnership, ecc.) e lui sarà responsabile della sua attività, nel rispetto del suo Codice ATECO.
 
 ---
-> [!Abstract]
-> These notes define the strategy for managing human resources for the renovation of the Coliving Liguria properties. The plan is based on a clear separation of responsibilities depending on the type of work (ordinary or extraordinary) and the qualifications of the person involved. Manpower will be sourced through three main channels: 1) residents (tenants/loanees) for ordinary maintenance only; 2) the owner, close friends, or qualified artisans for extraordinary maintenance that falls under permit-free construction; 3) registered construction companies for extraordinary works requiring permits. Each relationship is framed within a specific contractual agreement to minimize legal risks.
+>[!Abstract]
+>These notes define the human resources strategy for the renovation of Coliving Liguria properties. The plan is based on a clear separation of responsibilities according to the type of work (ordinary or extraordinary) and the qualifications of the person involved. Labour is sourced through three main channels: 1) residents (tenants/loan-for-use occupants) for ordinary maintenance only; 2) the owner, close friends, or qualified artisans for extraordinary maintenance that does not require permits; 3) registered construction companies for extraordinary work requiring permits. Each relationship is framed within a specific contractual framework to minimise legal risks.
 
 ### Introduction: A Structured Approach to Renovation
 
-To carry out the renovation in an economically sustainable and legally secure manner, it is essential to distinguish who does what and in what capacity. This document outlines the different roles involved and their scope of action, referring to the legal framework discussed in [[Limiti Legali del Volontariato|Legal Boundaries of "Volunteering"]].
+To carry out the renovation in an economically sustainable and legally secure manner, it is essential to distinguish who does what and in what capacity. This document outlines the different roles involved and their scope of intervention, referencing the legal framework discussed in [[Limiti Legali del Volontariato]].
+
+Before analysing the specific cases in detail, the following comparative table summarises the two main roles a person can assume in relation to the work: the **Tenant** (resident) and the **Construction Company** (external supplier). The table highlights the main legal, operational, and financial differences between the two positions.
+
+| Feature | [[Risorse Umane per la Ristrutturazione#1 Manutenzione Ordinaria Gestita dai Residenti\|Tenant]] | [[Risorse Umane per la Ristrutturazione#B. Lavori Straordinari NON in Edilizia Libera\|Construction Company]] |
+| :--- | :--- | :--- |
+| **Relationship** | Landlord-Tenant | Client-Vendor (B2B) |
+| **Contract** | [[Contract for Residents]] | Service Contract |
+| **Formal Work Obligation** | None, as defined in [[Contract for Residents]] | Yes, as defined by the service contract. |
+| **Nature of Work** | Limited to [[Manutenzione Ordinaria]] within [[Edilizia Libera]] | Limited only by the company's permits. |
+| **Payment Method** | No remuneration can result from the performance or non-performance of work in the house. | Monetary payment and/or a percentage of profits and/or in real estate equity. |
+| **Funding** | Ownership of ColivingLiguria's real estate assets | Funded at 60% by [[Bando Pubblico Fesr 2021-2027. OS 1.3]] for a maximum of 18,500 euros, including materials. |
 
 ### 1. Ordinary Maintenance: Managed by Residents
 
-This type of work, which includes interior finishing and minor repairs arising from use, is entrusted to residents, who are legally framed as tenants or loanees. For a detailed definition of what falls into this category, see the [[Manutenzione Ordinaria|Ordinary Maintenance]] page.
+This type of work, which includes interior finishes and minor repairs resulting from use, is entrusted to residents, classified as tenants or loan-for-use occupants (comodatari). For a detailed definition of what falls into this category, see the [[Manutenzione Ordinaria]] page.
 
-* **Legal Basis:** The resident's obligation to perform minor ordinary maintenance is established by the Italian Civil Code (mainly **Art. 1576 and 1609 c.c.** for rentals and, by analogy, derives from the custody obligations of **Art. 1804 c.c.** for a loan-for-use agreement). This is not work, but the fulfillment of a legal duty.
+* **Legal Basis:** The resident's obligation to perform minor ordinary maintenance is established by the Civil Code (mainly **art. 1576 and 1609 c.c.** for leases and, by analogy, derives from the custody obligations of **art. 1804 c.c.** for loan-for-use agreements). This is not work, but the fulfilment of a legal duty.
 
-* **My Role (as the Owner):**
-    * **Project Definition (Permitted):** I can and must provide a clear and detailed style guide (a kind of "house manual") that defines the standards for quality, design, colors, and materials to ensure a consistent aesthetic throughout the property. This sets the **standard to be achieved**, not a work order.
-    * **Work Direction (Forbidden):** I cannot direct the work, assign tasks to specific people, set schedules, or impose deadlines.
+* **My Role (as Owner):**
+    * **Project Definition (Permitted):** I can and must provide a clear and detailed style document (a kind of "house manual") that defines the standards of quality, design, colours, and materials to ensure a consistent aesthetic throughout the property. This defines the **standard to be met**, not a work order.
+    * **Work Direction (Prohibited):** I cannot direct the work, assign tasks to specific people, set schedules, or impose deadlines.
     * **Monitoring and Reminding (Permitted):** I can verify that the state of the property complies with the standards defined in the contract and regulations. If I find negligence or non-compliance (e.g., a dirty common area, a broken handle not repaired), I can **remind** the group of residents to respect their contractual obligations.
 
-* **Objective of Maintenance:** Be aware that you cannot contractually expect an "improvement" of the property's condition. The resident's legal obligation is to **return the item in the same state in which it was received**, except for normal wear and tear from use (Art. 1590 c.c.). The purpose of ordinary maintenance is to **maintain** this state, not to execute a renovation plan on your behalf. Improvements must come from their own spontaneous initiative to live better, not from a contractual obligation imposed by you.
+* **Objective of Maintenance and Room for Spontaneous Improvements:** Be aware, it is not possible to contractually demand an "improvement" to the state of the property. The resident's legal obligation, established by **art. 1590 of the Civil Code**, is to **return the item in the same state in which it was received**, except for normal wear and tear. The purpose of ordinary maintenance is therefore to **maintain** this state, not to execute a renovation plan on behalf of the owner. However, nothing prevents the resident, on their **own spontaneous initiative** and for their own exclusive benefit, from carrying out ordinary maintenance work aimed at **improving** the space they live in (e.g., painting a wall that is already in good condition to change its colour). These improvements, not being requested, organised, or expected by the owner, fall within the resident's free management of their space to make it more comfortable.
 
 ### 2. Extraordinary Maintenance
 
-This category, detailed on the [[Manutenzione Straordinaria|Extraordinary Maintanance]] page, is divided into two depending on whether the work falls under [[Edilizia Libera|Permit-Free Construction]].
+This category, detailed on the [[Manutenzione Straordinaria]] page, is divided in two depending on whether or not the work falls under [[Edilizia Libera]] (permit-free construction).
 
-#### A. Extraordinary Works under "Edilizia Libera" (Permit-Free)
-This includes all extraordinary works that, by law, do not require municipal permits (CILA/SCIA). For a detailed list, see the page dedicated to [[Edilizia Libera|Permit-Free Construction]].
+#### A. Extraordinary Work in [[Edilizia Libera]] (Permit-Free Construction)
+This includes all extraordinary work that, by law, does not require municipal permits (CILA/SCIA). For a detailed list, see the page dedicated to [[Edilizia Libera]].
 
-For these works, there are three safe options:
+For this work, there are three safe options:
 
-1.  **Direct Execution by the Owner (Myself):** This is the most economical and legally lowest-risk option. As the owner, I can personally carry out work on my property.
-2.  **Friendly Help (`Prestazione di Cortesia`):** I can get help from **long-standing friends**, whose relationship with me is demonstrable and predates the project. The help must be genuinely spontaneous, occasional, and not compensated in any form. This option is not recommended for people met within the project, as the relationship could easily be interpreted as work-related. The risk in case of an accident remains high.
-3.  **Hiring Professionals (VAT Number):** I can hire a qualified company or artisan, with a regular VAT number and a **construction-related ATECO code**, by signing a formal contract and paying against a regular invoice.
+1.  **Direct Execution by the Owner (Me):** This is the cheapest and lowest-risk legal option. As the owner, I can personally perform work on my property.
+2.  **Friendly Help (`Courtesy-based Assistance`):** I can be helped by **long-time friends**, whose relationship with me is demonstrable and pre-dates the project. The help must be genuinely spontaneous, occasional, and uncompensated in any form. This option is discouraged for people met within the project, as the relationship would be easily interpreted as employment. The risk in case of an accident remains high.
+3.  **Hiring Professionals (VAT-registered):** I can hire a qualified company or artisan, with a regular VAT number (Partita IVA) and **construction ATECO code**, by entering into a service contract and paying against a proper invoice.
 
-#### B. Extraordinary Works NOT under "Edilizia Libera"
-For any intervention that requires a municipal procedure (CILA, SCIA, etc.), there is only one viable path.
+#### B. Extraordinary Work NOT in [[Edilizia Libera]] (Permit-Free Construction)
+For any intervention that requires a municipal procedure (CILA, SCIA, etc.), there is only one path forward.
 
-* **Obligation to Hire a Qualified Company:** I must entrust the work to a **duly registered, insured, and legally compliant construction company**. I can find reliable contacts through my network in [[Private Contacts for ColivingLiguria]].
-* **Legal Basis:** This choice is not optional. As the **Client** (`Committente`), the **D.P.R. 380/2001 (Consolidated Building Act)** and especially **D.Lgs. 81/2008 (Consolidated Safety Act)** require me to entrust work only to qualified companies, under penalty of severe civil and criminal liability.
-* **Project Design:** The design and supervision of the works can still be managed by me, using technicians I trust.
+* **Obligation to Hire a Qualified Company:** I must entrust the work to a **properly registered, insured construction company that meets all legal requirements**. I can find reliable contacts through my network in [[Private Contacts for ColivingLiguria]].
+* **Legal Basis:** This choice is not optional. As the **Client** (Committente), **D.P.R. 380/2001 (Consolidated Text on Construction)** and especially **D.Lgs. 81/2008 (Consolidated Text on Safety)** require me to entrust work only to qualified companies, under penalty of serious civil and criminal liability.
+* **Project Design:** The design and work supervision can still be managed by me, using technicians I trust.
 
-### 3. Management of Outdoor Spaces
+### 3. Management of External Spaces
 
-* **Community Garden:** The creation and care of a garden by residents perfectly fit within "community life" activities, provided that the produce is for the **self-consumption** of the residents themselves. If the produce were to be sold or systematically used for the business, it would become work.
-* **B2B Activities:** If a partner with a VAT number wants to use a piece of land for their business (e.g., agriculture, animal husbandry), this relationship will be governed by a specific contract (e.g., rural land lease, partnership), and they will be responsible for their own activity, in compliance with their ATECO code.
+* **Community Garden:** The creation and care of a garden by residents falls perfectly within "community life" activities, provided that the products are intended for the residents' **self-consumption**. If the products were sold or systematically used for the business activity, it would become labour.
+* **B2B Activities:** If a VAT-registered partner wants to use a piece of land for their business (e.g., agriculture, breeding), this relationship will be governed by a specific contract (agricultural land lease, partnership, etc.), and they will be responsible for their activity, in compliance with their ATECO code.
