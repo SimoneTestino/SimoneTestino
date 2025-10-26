@@ -1,8 +1,9 @@
 ---
-language: IT/EN
-date: 2025-10-21
+date: 2025-10-26
 draft: false
+language: IT/EN
 ---
+
 --Italiano sotto--
 
 > [!Abstract]

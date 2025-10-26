@@ -1,6 +1,6 @@
 ---
-draft: true
-date: 2025-10-22
+draft: false
+date: 2025-10-26
 language: IT/EN
 ---
 > [!Abstract]
@@ -25,3 +25,9 @@ Questa sezione elenca e analizza i bandi di finanziamento promossi da Regione Li
     * **Beneficiari:** Micro, piccole, medie e grandi imprese liguri. Le imprese del settore ricettivo (come ColivingLiguria) possono accedere solo per interventi superiori a 100.000 €.
     * **Agevolazione:** Mix di finanziamento a tasso agevolato (1,50%) e contributo a fondo perduto (fino al 43% per MPMI).
     * **Applicabilità a ColivingLiguria:** **Molto Bassa / Improbabile**. Valgono le stesse criticità del bando precedente riguardo al **divieto di cumulo** con altri fondi FESR per il "medesimo intervento". Inoltre, la soglia minima di 100.000 € per il settore ricettivo potrebbe essere un ostacolo ulteriore. **Verifica indispensabile con FILSE**.
+
+3.  **Bando Legge Regionale 6/2025 - [Sostegno Imprese Entroterra](https://www.filse.it/it/bandi-attivi-nascosto/publiccompetition/323:entroterra-sostegno-alle-imprese-dell-artigianato,-commercio,-ristorazione-e-servizi-gi%C3%A0-esistenti.html)**
+    * **Obiettivo:** Fornire liquidità alle **microimprese esistenti** nei comuni non costieri sotto i 5.000 abitanti, coprendo spese di gestione 2024 (affitti, utenze, tributi locali).
+    * **Beneficiari:** Microimprese (meno di 10 dipendenti, fatturato < 2M €) dei settori artigianato, commercio, ristorazione, **attive** e localizzate nei comuni target, con locali accessibili al pubblico al piano strada.
+    * **Agevolazione:** Contributo a fondo perduto fino a 3.600 € a copertura del 100% delle spese ammesse del 2024, in regime "de minimis".
+    * **Applicabilità a ColivingLiguria:** **Nulla**. Il bando è destinato a imprese **già esistenti** per coprire spese del **2024**. ColivingLiguria è una nuova impresa costituita nel 2025 e non ha spese pregresse da rendicontare. Inoltre, la scadenza per la presentazione delle domande è il 31 ottobre 2025, antecedente alla piena operatività.
