@@ -15,16 +15,18 @@ Navigating Italian bureaucracy is a core challenge of this project. This section
 ### Index of Regulations
 
 #### General Regulations
-* **[[Limiti Legali del Volontariato]]** (Legal Boundaries of "Volunteering")
-* **[[Risorse Umane per la Ristrutturazione]]** (Human Resources for Renovation)
-* **[[Agibilità, Abitabilità e la Destinazione d'Uso]]** (Habitability and Designated Use)
 * **[[Usucapione]]** (Adverse Possession)
-* **[[Visa Assistance Policy]]**
+* **[[Diritto di Prelazione Agraria]]** (Agricultural Right of First Refusal)
 
-#### Building Regulations
+#### Building Regulations (Regolazioni Edili)
+* **[[Agibilità, Abitabilità e la Destinazione d'Uso]]** (Habitability and Designated Use)
 * **[[Edilizia Libera]]** (Permit-Free Construction)
 * **[[Manutenzione Ordinaria]]** (Ordinary Maintenance)
 * **[[Manutenzione Straordinaria]]** (Extraordinary Maintenance)
+
+#### Human Resources (Risorse Umane)
+* **[[Limiti Legali del Volontariato]]** (Legal Boundaries of "Volunteering")
+* **[[Risorse Umane per la Ristrutturazione]]** (Human Resources for Renovation)
 
 ---
 
@@ -37,13 +39,15 @@ Orientarsi nella burocrazia italiana è una sfida centrale di questo progetto. Q
 ### Indice dei Regolamenti
 
 #### Regolamenti Generali
-* **[[Limiti Legali del Volontariato]]**
-* **[[Risorse Umane per la Ristrutturazione]]**
-* **[[Agibilità, Abitabilità e la Destinazione d'Uso]]**
 * **[[Usucapione]]**
-* **[[Visa Assistance Policy]]**
+* **[[Diritto di Prelazione Agraria]]**
 
 #### Regolazioni Edili
+* **[[Agibilità, Abitabilità e la Destinazione d'Uso]]**
 * **[[Edilizia Libera]]**
 * **[[Manutenzione Ordinaria]]**
 * **[[Manutenzione Straordinaria]]**
+
+#### Risorse Umane
+* **[[Limiti Legali del Volontariato]]**
+* **[[Risorse Umane per la Ristrutturazione]]**

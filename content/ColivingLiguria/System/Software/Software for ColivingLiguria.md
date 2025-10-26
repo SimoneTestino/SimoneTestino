@@ -4,6 +4,7 @@ language: IT/EN
 draft: false
 ---
 --Italiano sotto--
+
 > [!Abstract]
 > This page provides a general overview of the custom software being developed for Coliving Liguria. Our goal is to create a bespoke, integrated suite to manage the unique operational needs of our co-living community, from resident registration to financial forecasting.
 
