@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: 🏡 House Renovation - Seeking Volunteers!
 date: 2025-08-11
 ---
