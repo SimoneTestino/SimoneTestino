@@ -28,7 +28,7 @@ Access to these plots is currently complex.
 ### Risks and Verifications
 
 Several key factors need to be verified before development:
-- **Pre-emption Rights:** These lands are the most likely to be subject to [[Verifica Prelazione Agraria Confinanti|Agricultural Pre-emption Rights]]. We are currently investigating this risk, which requires an on-site visit to check for current agricultural activity.
+- **Pre-emption Rights:** These lands are the most likely to be subject to [[Verifica Prelazione Agraria|Agricultural Pre-emption Rights]]. We are currently investigating this risk, which requires an on-site visit to check for current agricultural activity.
 - **Building Eligibility:** The potential for construction on the land is yet to be verified.
 - **Hydrological Risk:** Official hydrological risk assessments are pending. However, it was empirically noted that during the major flood of September 2025, which affected much of Cairo Montenotte, these properties and lands did not suffer apparent damage.
 
@@ -60,7 +60,7 @@ L'accesso a questi terreni è attualmente complesso.
 ### Rischi e Verifiche
 
 Diversi fattori chiave devono essere verificati prima di ogni sviluppo:
-- **Prelazione Agraria:** Questi terreni sono i principali sospettati per la [[Verifica Prelazione Agraria Confinanti]]. Siamo in fase di ricerca per escludere tale rischio, ma è necessaria una verifica sul posto per accertare l'assenza di attività agricole.
+- **Prelazione Agraria:** Questi terreni sono i principali sospettati per la [[Verifica Prelazione Agraria]]. Siamo in fase di ricerca per escludere tale rischio, ma è necessaria una verifica sul posto per accertare l'assenza di attività agricole.
 - **Edificabilità:** L'eventuale edificabilità del terreno è ancora da verificare.
 - **Rischio Idrologico:** Le valutazioni ufficiali sul rischio idrogeologico sono in attesa. Tuttavia, a livello empirico si può testimoniare che durante l'acquazzone di settembre 2025, che ha allagato buona parte di Cairo Montenotte, non ci sono stati danni evidenti a queste proprietà né ai terreni adiacenti al torrente.
 
