@@ -1,7 +1,6 @@
 ---
 draft: true
 ---
-
 Andando per via, mano per mano,\\
 qua e là fermi, mani sulla vita,\\
 con i palmi leggeri ci stringiamo.

@@ -44,4 +44,4 @@ Successivamente, si è proceduto alla **Verifica delle Qualifiche Professionali*
 Questa verifica è stata effettuata tramite una **Visura Camerale Ordinaria** per ogni singolo codice fiscale, utilizzando il portale ufficiale [registroimprese.it](https://www.registroimprese.it). Come previsto, la ricerca per codice fiscale ha permesso di identificare immediatamente i soggetti non iscritti (per i quali non sussiste il diritto), e di acquistare la visura solo per i casi in cui la ricerca dava esito positivo.
 
 ## Esito della Verifica e Conclusioni Operative
-... in lavorazione
+Tramite [visureinrete.it](https://www.visureinrete.it/landing-page/ricerca-gratuita.asp?gad_source=1&gad_campaignid=1911285827&gbraid=0AAAAAD_ez1zXGZNEdC0qIE3S8aZQxEfO5&gclid=Cj0KCQjwsPzHBhDCARIsALlWNG12blZPGllXoX78l_QySeX-6IBoeShbxqDwiR69bmcmwrM-LmCd9_waAl94EALw_wcB) possiamo partire da Nome e Cognome e verificare tutto, ahime pero abbiamo memorizzato solo i codici fiscali -_-

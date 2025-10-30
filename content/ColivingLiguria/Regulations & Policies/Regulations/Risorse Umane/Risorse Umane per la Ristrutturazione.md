@@ -4,6 +4,7 @@ date: 2025-10-19
 language: IT/EN
 ---
 --English below--
+
 >[!Abstract]
 >Queste note definiscono la strategia per la gestione delle risorse umane nella ristrutturazione delle proprietà di Coliving Liguria. Il piano si basa su una netta separazione delle responsabilità a seconda della tipologia di lavoro (ordinario o straordinario) e della qualifica della persona coinvolta. La manodopera viene reperita tramite tre canali principali: 1) i residenti (inquilini/comodatari) per la sola manutenzione ordinaria; 2) il proprietario, amici stretti o artigiani qualificati per la manutenzione straordinaria in edilizia libera; 3) imprese edili registrate per i lavori straordinari che richiedono permessi. Ogni rapporto è inquadrato in una specifica cornice contrattuale per minimizzare i rischi legali.
 
@@ -70,14 +71,14 @@ To carry out the renovation in an economically sustainable and legally secure ma
 
 Before analysing the specific cases in detail, the following comparative table summarises the two main roles a person can assume in relation to the work: the **Tenant** (resident) and the **Construction Company** (external supplier). The table highlights the main legal, operational, and financial differences between the two positions.
 
-| Feature | [[Risorse Umane per la Ristrutturazione#1 Manutenzione Ordinaria Gestita dai Residenti\|Tenant]] | [[Risorse Umane per la Ristrutturazione#B. Lavori Straordinari NON in Edilizia Libera\|Construction Company]] |
-| :--- | :--- | :--- |
-| **Relationship** | Landlord-Tenant | Client-Vendor (B2B) |
-| **Contract** | [[Contract for Residents]] | Service Contract |
-| **Formal Work Obligation** | None, as defined in [[Contract for Residents]] | Yes, as defined by the service contract. |
-| **Nature of Work** | Limited to [[Manutenzione Ordinaria]] within [[Edilizia Libera]] | Limited only by the company's permits. |
-| **Payment Method** | No remuneration can result from the performance or non-performance of work in the house. | Monetary payment and/or a percentage of profits and/or in real estate equity. |
-| **Funding** | Ownership of ColivingLiguria's real estate assets | Funded at 60% by [[Bando Pubblico Fesr 2021-2027. OS 1.3]] for a maximum of 18,500 euros, including materials. |
+| Feature                    | [[Risorse Umane per la Ristrutturazione#1 Manutenzione Ordinaria Gestita dai Residenti\|Tenant]] | [[Risorse Umane per la Ristrutturazione#B. Lavori Straordinari NON in Edilizia Libera\|Construction Company]]  |
+| :------------------------- | :----------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------- |
+| **Relationship**           | Landlord-Tenant                                                                                  | Client-Vendor (B2B)                                                                                            |
+| **Contract**               | [[Contract for Residents]]                                                                       | Service Contract                                                                                               |
+| **Formal Work Obligation** | None, as defined in [[Contract for Residents]]                                                   | Yes, as defined by the service contract.                                                                       |
+| **Nature of Work**         | Limited to [[Manutenzione Ordinaria]] within [[Edilizia Libera]]                                 | Limited only by the company's permits.                                                                         |
+| **Payment Method**         | No remuneration can result from the performance or non-performance of work in the house.         | Monetary payment and/or a percentage of profits and/or in real estate equity.                                  |
+| **Funding**                | Ownership of ColivingLiguria's real estate assets                                                | Funded at 60% by [[Bando Pubblico Fesr 2021-2027. OS 1.3]] for a maximum of 18,500 euros, including materials. |
 
 ### 1. Ordinary Maintenance: Managed by Residents
 
