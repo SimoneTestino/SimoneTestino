@@ -14,3 +14,7 @@ https://www.linkedin.com/posts/ilaria-anna-cerqua-055b8b66_genovaglobalgoalsawar
 
 
 https://www.dbu.de
+
+Archicad instead of Fusion360
+
+Wednesday 9pm Sydney time. 
