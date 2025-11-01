@@ -13,10 +13,10 @@ If you've arrived at this page, you are close to securing your spot at ColivingL
 This is a necessary procedure for *every* resident to ensure all legal agreements are clear and signed before arrival.
 
 #### Step 1: Your First Email
-To start the process, you must send an email to colivingliguria@gmail.com containing:
+To start the process, you must send an email to **colivingliguria@gmail.com** containing:
 1.  A clear scan of your ID document (e.g., Passport, ID Card) that is valid for entry into Italy.
 2.  If your nationality requires it, a clear scan of your **valid Visa or Residence Permit** for Italy.
-3.  Your availability for a video call in the upcoming days.
+3.  Your availability for a video call (if we haven't had one already).
 
 #### Step 2: The Video Call
 I, [[ColivingLiguria/People/Simone Testino]], will schedule a video call with you. During this call, I will:
@@ -48,7 +48,13 @@ Once your deposit is received, I will send you a **second and final confirmation
 > [!Danger] CRITICAL: Read Before Paying
 > You must resolve any doubts, uncertainties, or requests for changes to the contract **BEFORE** you send the security deposit and **BEFORE** you arrive at ColivingLiguria.
 >
-> Sending the deposit implies that you have read, understood, and fully agreed to every part of the contract I sent you.
+> Sending the deposit is the **final confirmation** of your booking. It implies that you have read, understood, and fully agreed to every part of the contract I sent you. The amount of the deposit is set in the contract.
+>
+> Once I receive your deposit and send you the final confirmation, I will immediately start organizing everything for your arrival. I will stop taking other bookings for your spot, prepare your room, and arrange room assignments based on your confirmed dates and preferences.
+>
+> This means that if you pay the deposit, as stated in the contract, **you cannot expect it to be returned** if you later change your mind about any details already present in the contract.
+>
+> **Please read the contract very, very, very well before sending any money.**
 >
 > **You will not be given access to the house without this signed contract.**
 
@@ -102,7 +108,13 @@ Una volta ricevuta la cauzione, ti invierò una **seconda e ultima email di conf
 > [!Danger] CRITICO: Leggere Prima di Pagare
 > Devi risolvere qualsiasi dubbio, incertezza o richiesta di modifica del contratto **PRIMA** di inviare la cauzione e **PRIMA** di arrivare a ColivingLiguria.
 >
-> L'invio della cauzione implica che hai letto, compreso e accettato integralmente ogni parte del contratto che ti ho inviato.
+> L'invio della cauzione è la **conferma finale** della tua prenotazione. Implica che hai letto, compreso e accettato integralmente ogni parte del contratto che ti ho inviato. L'importo della cauzione è stabilito nel contratto.
+>
+> Una volta ricevuta la tua cauzione e inviata la conferma finale, inizierò immediatamente a organizzare tutto per il tuo arrivo. Smetterò di accettare altre prenotazioni per il tuo posto, preparerò la tua stanza e organizzerò l'assegnazione delle stanze in base alle tue date e preferenze confermate.
+>
+> Ciò significa che se paghi la cauzione, come stabilito nel contratto, **non puoi aspettarti che ti venga restituita** se in seguito cambi idea su qualsiasi dettaglio già presente nel contratto.
+>
+> **Per favore, leggi il contratto molto, molto, molto bene prima di inviare denaro.**
 >
 > **Non ti sarà dato accesso alla casa senza questo contratto firmato.**
 
