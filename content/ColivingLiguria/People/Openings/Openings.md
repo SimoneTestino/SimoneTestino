@@ -40,12 +40,12 @@ This category includes roles focused on managing our brand and digital infrastru
     > Take full charge of our [[Social Media]] presence. This key role is preferably on-site (but remote is considered) to capture daily life, create content, and build our brand. We are open to beginners with a great eye or seasoned professionals.
 * **[[Photographer]]**
     > A dual role to act as our resident photographer (for social media content) in exchange for accommodation, and to launch your own independent, paid photography school (working with our [[Model]]).
+* **[[Model]]**
+    > Become a face of our brand. This dual role involves modeling for our in-house [[Photographer]]'s school (with profit-sharing) and being a key personality on our [[Social Media]] channels (working with the [[Social Media Manager]]).
 
 ### Community
 This category includes roles focused on building our community and providing services to our residents.
 
-* **[[Model]]**
-    > Become a face of our brand. This dual role involves modeling for our in-house [[Photographer]]'s school (with profit-sharing) and being a key personality on our [[Social Media]] channels (working with the [[Social Media Manager]]).
 * **[[Cook]]**
     > We are looking for a community cook to manage our kitchen, plan meals in synergy with our [[Farmer]], and create a wonderful, shared culinary experience for all residents.
 * **[[Italian Teacher]]**
@@ -120,13 +120,12 @@ Questa categoria include ruoli focalizzati sulla gestione del nostro brand e del
 * **[[Social Media Manager]]**
     > Assumi la piena responsabilità della nostra presenza sui [[Social Media]]. Questo ruolo chiave è preferibilmente in loco (ma si considera anche da remoto) per catturare la vita quotidiana, creare contenuti e costruire il nostro brand. Siamo aperti a principianti con un grande occhio o a professionisti esperti.
 * **[[Photographer]]**
-    > Un doppio ruolo: agire come fotografo residente (per contenuti social) in cambio di alloggio, e lanciare la propria scuola di fotografia indipendente a pagamento (lavorando con la nostra [[Model]]).
+    > Un doppio ruolo: agire come fotografo residente (per contenuti social) in cambio di alloggio, e lanciare la propria scuola di fotografia indipendente a pagamento (lavorando con la nostra [[Model]]).    
+- **[[Model]]**
+    > Diventa uno dei volti del nostro brand. Questo doppio ruolo implica posare per la scuola del nostro [[Photographer]] (con condivisione dei profitti) ed essere una personalità chiave sui nostri canali [[Social Media]] (lavorando con il [[Social Media Manager]]).
 
 ### Community
 Questa categoria include ruoli focalizzati sulla costruzione della nostra community e sulla fornitura di servizi ai nostri residenti.
-
-* [[Model]]]]**
-    > Diventa uno dei volti del nostro brand. Questo doppio ruolo implica posare per la scuola del nostro [[Photographer]] (con condivisione dei profitti) ed essere una personalità chiave sui nostri canali [[Social Media]] (lavorando con il [[Social Media Manager]]).
 * **[[Cook]]**
     > Stiamo cercando un cuoco di comunità per gestire la nostra cucina, pianificare i pasti in sinergia con il nostro [[Farmer]] e creare una meravigliosa esperienza culinaria condivisa per tutti i residenti.
 * **[[Italian Teacher]]**
