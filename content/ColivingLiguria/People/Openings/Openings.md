@@ -16,10 +16,10 @@ This category includes roles focused on developing, managing, and creating value
 
 * **[[Farmer]]**
     > We are looking for a farmer to manage our agricultural production, from the vegetable gardens at [[Casa del Forno]] to new fields at [[Terreni oltre Torrente]] and potentially raising livestock. You will have creative freedom and can build a business selling produce.
-* **[[Gardening Designer]]**
+* **[[Gardener]]**
     > This role focuses on designing our leisure gardens (over 2000m²) around [[Casa del Noce]] and [[Casa del Forno]]. You will select plants, design relaxation and recreation areas, and shape the aesthetic harmony of the property.
 * **[[Woodland Steward]]**
-    > A highly creative role with "carta bianca" to manage our forested lands like [[Terreni alla Fonte]] and [[Terreni Lungotorrente]]. The mission is to inventively develop these spaces, creating water features, art installations, or hidden offices.
+    > A highly creative role with "carta bianca" to manage our forested lands like [[Terreni alla Fonte]], [[Terreni Lungotorrente]] and [[Terreni oltre Torrente]]. The mission is to inventively develop these spaces, creating water features, art installations, or hidden offices.
 * **[[Mountain Bike Guide & Trail Designer]]**
     > Develop a new MTB trail network on our hillside, located right next to the world-famous Finale Ligure outdoor area. This is a business opportunity to act as our resident guide, attracting riders and building your own guiding venture.
 
@@ -31,16 +31,20 @@ This category is for the hands-on creatives who will build and design our physic
 * **[[Interior Designer]]**
     > We are looking for a designer to create the complete interior vision for [[Casa del Noce]] and [[Casa del Forno]]. This role is highly sought after, and we prefer candidates who can join as residents soon to shape the project from the start.
 
-### Community & Digital
-This category includes roles focused on building our community, managing our brand, and providing services to our residents.
+### Digital
+This category includes roles focused on managing our brand and digital infrastructure.
 
 * **[[Web Designer]]**
-    > A hybrid Web/Graphic Designer & Front-End Engineer to design a new, "catchy" commercial website and build the UI for our internal databases (`[[Software for ColivingLiguria]]`). This role can be remote, but on-site residents are preferred.
+    > A hybrid Web/Graphic Designer & Front-End Engineer to design a new, "catchy" commercial website and build the UI for our internal databases ([[Software for ColivingLiguria]]). This role can be remote, but on-site residents are preferred.
 * **[[Social Media Manager]]**
     > Take full charge of our [[Social Media]] presence. This key role is preferably on-site (but remote is considered) to capture daily life, create content, and build our brand. We are open to beginners with a great eye or seasoned professionals.
 * **[[Photographer]]**
-    > A dual role to act as our resident photographer (for social media content) in exchange for accommodation, and to launch your own independent, paid photography school (working with our [[Community Face & Photo Model]]).
-* **[[Community Face & Photo Model]]**
+    > A dual role to act as our resident photographer (for social media content) in exchange for accommodation, and to launch your own independent, paid photography school (working with our [[Model]]).
+
+### Community
+This category includes roles focused on building our community and providing services to our residents.
+
+* **[[Model]]**
     > Become a face of our brand. This dual role involves modeling for our in-house [[Photographer]]'s school (with profit-sharing) and being a key personality on our [[Social Media]] channels (working with the [[Social Media Manager]]).
 * **[[Cook]]**
     > We are looking for a community cook to manage our kitchen, plan meals in synergy with our [[Farmer]], and create a wonderful, shared culinary experience for all residents.
@@ -51,8 +55,6 @@ This category includes roles focused on building our community, managing our bra
 If you don't see yourself in any of these roles, or if you have an even better idea, we highly encourage you to design your own.
 * **For a personal project:** The **[[Propose a Project]]** page explains the process for submitting your idea. This path is highly valued and can be an excellent solution for both you and the project.
 * **For existing Startups:** If you have your own startup and are looking for a place to grow, we can partner. ColivingLiguria is designed to be an incubator and we can host your team. Find out more on our **[[ColivingLiguria for Startups and Cofounders]]** page.
-
----
 
 ### Our Compensation Model: A Flexible Partnership
 We believe in rewarding contribution and commitment. All stays are formalized with a [[Contract for Residents]], and compensation generally follows one of three pathways:
@@ -95,7 +97,7 @@ Questa categoria include ruoli focalizzati sullo sviluppo, la gestione e la crea
 
 * **[[Farmer]]**
     > Cerchiamo un agricoltore per gestire la nostra produzione agricola, dagli orti di [[Casa del Forno]] a nuovi campi presso i [[Terreni oltre Torrente]], fino al potenziale allevamento di bestiame. Avrai libertà creativa e potrai costruire un business vendendo i prodotti.
-* **[[Gardening Designer]]**
+* **[[Gardener]]**
     > Questo ruolo si concentra sulla progettazione dei nostri giardini ricreativi (oltre 2000 m²) attorno a [[Casa del Noce]] e [[Casa del Forno]]. Selezionerai piante, progetterai aree relax e ricreative, e curerai l'armonia estetica della proprietà.
 * **[[Woodland Steward]]**
     > Un ruolo altamente creativo con "carta bianca" per gestire i nostri terreni boschivi come [[Terreni alla Fonte]] e [[Terreni Lungotorrente]]. La missione è sviluppare questi spazi in modo inventivo, creando giochi d'acqua, installazioni artistiche o uffici nascosti.
@@ -110,16 +112,20 @@ Questa categoria è per i creativi "hands-on" che costruiranno e progetteranno i
 * **[[Interior Designer]]**
     > Stiamo cercando un designer per creare la visione d'interni completa per [[Casa del Noce]] e [[Casa del Forno]]. Questo ruolo è molto richiesto e preferiamo candidati che possano unirsi a noi come residenti il prima possibile per plasmare il progetto dall'inizio.
 
-### Community & Digitale
-Questa categoria include ruoli focalizzati sulla costruzione della nostra community, la gestione del nostro brand e la fornitura di servizi ai nostri residenti.
+### Digitale
+Questa categoria include ruoli focalizzati sulla gestione del nostro brand e della nostra infrastruttura digitale.
 
 * **[[Web Designer]]**
-    > Un Designer ibrido Web/Grafico e Sviluppatore Front-End per progettare un nuovo sito web commerciale "accattivante" e costruire l'interfaccia utente per i nostri database interni (`[[Software for ColivingLiguria]]`). Il ruolo può essere da remoto, ma si preferiscono residenti in loco.
+    > Un Designer ibrido Web/Grafico e Sviluppatore Front-End per progettare un nuovo sito web commerciale "accattivante" e costruire l'interfaccia utente per i nostri database interni ([[Software for ColivingLiguria]]). Il ruolo può essere da remoto, ma si preferiscono residenti in loco.
 * **[[Social Media Manager]]**
     > Assumi la piena responsabilità della nostra presenza sui [[Social Media]]. Questo ruolo chiave è preferibilmente in loco (ma si considera anche da remoto) per catturare la vita quotidiana, creare contenuti e costruire il nostro brand. Siamo aperti a principianti con un grande occhio o a professionisti esperti.
 * **[[Photographer]]**
-    > Un doppio ruolo: agire come fotografo residente (per contenuti social) in cambio di alloggio, e lanciare la propria scuola di fotografia indipendente a pagamento (lavorando con la nostra [[Community Face & Photo Model]]).
-* **[[Community Face & Photo Model]]**
+    > Un doppio ruolo: agire come fotografo residente (per contenuti social) in cambio di alloggio, e lanciare la propria scuola di fotografia indipendente a pagamento (lavorando con la nostra [[Model]]).
+
+### Community
+Questa categoria include ruoli focalizzati sulla costruzione della nostra community e sulla fornitura di servizi ai nostri residenti.
+
+* [[Model]]]]**
     > Diventa uno dei volti del nostro brand. Questo doppio ruolo implica posare per la scuola del nostro [[Photographer]] (con condivisione dei profitti) ed essere una personalità chiave sui nostri canali [[Social Media]] (lavorando con il [[Social Media Manager]]).
 * **[[Cook]]**
     > Stiamo cercando un cuoco di comunità per gestire la nostra cucina, pianificare i pasti in sinergia con il nostro [[Farmer]] e creare una meravigliosa esperienza culinaria condivisa per tutti i residenti.
@@ -130,8 +136,6 @@ Questa categoria include ruoli focalizzati sulla costruzione della nostra commun
 Se non ti ritrovi in nessuno di questi ruoli, o se hai un'idea ancora migliore, ti incoraggiamo vivamente a proporla.
 * **Per un progetto personale:** La pagina **[[Propose a Project]]** spiega il processo per presentare la tua idea. Questo percorso è molto apprezzato e può essere un'ottima soluzione sia per ColivingLiguria sia per la persona che lo propone.
 * **Per Startup Esistenti:** Se hai la tua startup e cerchi un posto dove crescere, possiamo collaborare. ColivingLiguria è pensato per essere un incubatore e possiamo ospitare il tuo team. Scopri di più sulla nostra pagina **[[ColivingLiguria for Startups and Cofounders]]**.
-
----
 
 ### Il Nostro Modello di Retribuzione: Una Partnership Flessibile
 Crediamo nel premiare il contributo e l'impegno. Tutti i soggiorni sono formalizzati con un [[Contract for Residents]], e la retribuzione segue generalmente uno dei tre percorsi:
