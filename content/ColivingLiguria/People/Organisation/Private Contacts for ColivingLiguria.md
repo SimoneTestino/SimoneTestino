@@ -33,7 +33,7 @@ I use the same program to write this website as I do for my personal notes. The 
     - **Role:** Interior Designer
 	- **Contact:** `+39 320 321 6119`
 	- **Notes:** We had a call in mid-September, she is available starting January to make an interior design of the house (once decently renovated) in exchange of free rent alone. Calling her again on 21.10.25.
-
+https://www.instagram.com/jaece09/ architetta, molto motivata.
 ### 💻 Digital & Software Professionals
 *Contacts for social media, marketing, and software development.*
 - **Social Media Manager:**
