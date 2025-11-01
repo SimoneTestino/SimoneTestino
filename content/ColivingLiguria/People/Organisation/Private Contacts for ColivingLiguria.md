@@ -1,6 +1,6 @@
 ---
 draft: true
-date: 2025-10-03
+date: 2025-11-01
 ---
 I use the same program to write this website as I do for my personal notes. The following is a section from my private notes, intended to remain confidential. I keep these notes to track all the people who get in touch with me and who could be useful for the project in the future.
 

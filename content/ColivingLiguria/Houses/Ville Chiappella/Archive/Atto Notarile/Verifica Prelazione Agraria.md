@@ -1,5 +1,5 @@
 ---
-date: 2025-10-26
+date: 2025-10-30
 draft: false
 language: IT/EN
 ---
@@ -19,8 +19,7 @@ Questo include i terreni confinanti a:
 * Tutte le particelle classificate come pertinenze agricole delle unità abitative.
 
 ### Metodologia e Software di Analisi
-
-Per gestire questa complessa mappatura di relazioni tra particelle, abbiamo sviluppato un'applicazione software proprietaria in Python, parte del [[Software for ColivingLiguria|Software per ColivingLiguria]]. Questo strumento modella ogni singola particella catastale (sia nostra che dei confinanti) come un oggetto software (`CadastralParcel`).
+Per gestire questa complessa mappatura di relazioni tra particelle, abbiamo sviluppato un'applicazione software proprietaria in Python, parte del [[Software for ColivingLiguria|Software per ColivingLiguria]]. Questo strumento modella ogni singola particella catastale (sia nostra che dei confinanti) come un oggetto software (`CadastralParcel`). Abbiamo ritrovato i codici fiscali necessari tramite il portale dell'[Agenzia delle Entrate](https://iampe.agenziaentrate.gov.it/sam/UI/Login?realm=/agenziaentrate).
 
 Ad ogni particella vengono associati i suoi dati fondamentali, derivati dalle visure:
 * Se è di tipo **agricolo** (rilevante per la prelazione).
@@ -31,7 +30,7 @@ Il programma esegue poi un'analisi incrociata: identifica tutti i confinanti di 
 
 Nel pieno rispetto della normativa sulla privacy (GDPR), i file contenenti i dati catastali sensibili e i codici fiscali dei soggetti coinvolti non sono pubblici e rimangono strettamente confidenziali.
 
-**Output:** Al termine di questa fase, il software ha generato una lista consolidata di **25 codici fiscali** unici, appartenenti ai proprietari dei terreni confinanti agricoli.
+**Output:** Al termine di questa fase, il software ha generato una lista consolidata di **25 codici fiscali** unici, appartenenti ai proprietari dei terreni confinanti agricoli. Questi, per motivi di privacy, non sono pubblicati ma sono comunque presenti in [[Verifica Prelazione Agraria (Private)]].
 
 ### Utilizzo per Consulenza
 
@@ -44,4 +43,4 @@ Successivamente, si è proceduto alla **Verifica delle Qualifiche Professionali*
 Questa verifica è stata effettuata tramite una **Visura Camerale Ordinaria** per ogni singolo codice fiscale, utilizzando il portale ufficiale [registroimprese.it](https://www.registroimprese.it). Come previsto, la ricerca per codice fiscale ha permesso di identificare immediatamente i soggetti non iscritti (per i quali non sussiste il diritto), e di acquistare la visura solo per i casi in cui la ricerca dava esito positivo.
 
 ## Esito della Verifica e Conclusioni Operative
-Tramite [visureinrete.it](https://www.visureinrete.it/landing-page/ricerca-gratuita.asp?gad_source=1&gad_campaignid=1911285827&gbraid=0AAAAAD_ez1zXGZNEdC0qIE3S8aZQxEfO5&gclid=Cj0KCQjwsPzHBhDCARIsALlWNG12blZPGllXoX78l_QySeX-6IBoeShbxqDwiR69bmcmwrM-LmCd9_waAl94EALw_wcB) possiamo partire da Nome e Cognome e verificare tutto, ahime pero abbiamo memorizzato solo i codici fiscali -_-
+Tramite [visureinrete.it](https://www.visureinrete.it/landing-page/ricerca-gratuita.asp?gad_source=1&gad_campaignid=1911285827&gbraid=0AAAAAD_ez1zXGZNEdC0qIE3S8aZQxEfO5&gclid=Cj0KCQjwsPzHBhDCARIsALlWNG12blZPGllXoX78l_QySeX-6IBoeShbxqDwiR69bmcmwrM-LmCd9_waAl94EALw_wcB) possiamo verifichiamo l'esistenza di ditte con denominazione identica o simile al nome e cognome dei proprietari. Questo introduce un margine di incertezza dato che un certo proprietario potrebbe avere una ditta, magari non individuale, e che quindi non ha come denominazione il proprio nome. Non essendoci però alcun codice fiscale di Persona Giuridica, possiamo già escludere che ci siano IAP e concentrare la ricerca su CD, i quali sono tipicamente ditta individuale e avrebbero quindi come denominazione il nome e cognome della persona fisica. 

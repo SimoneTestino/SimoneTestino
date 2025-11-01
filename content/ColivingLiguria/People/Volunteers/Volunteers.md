@@ -1,36 +1,110 @@
 ---
-draft: true
-date: 2025-08-01
+draft: false
+date: 2025-11-01
+language: EN/IT
 ---
-Volunteers are going to be a central part of the entire project, contributing their skills and motivation to bring it to life. I’ve been genuinely amazed by how many people from all over the world are willing to come and help, each bringing a unique background and a wealth of experience. This diversity, combined with their bare hands and energy, is what will make the project possible—transforming something that would have taken me over a year to complete into a joyful, collective experience we can build together.
+--Italiano sotto--
 
-However, this also brings several challenges. Organising a group of people for a full day, especially on a project far outside my own area of expertise, is no easy task. Some volunteers will arrive already skilled, with more technical knowledge than I have myself, while others—likely the majority—will need guidance, structure, and clear instructions. This difference in experience levels becomes the main limiting factor in the size and complexity of the group I can effectively manage. To address this, I’m putting a lot of effort into planning every step of the volunteer journey, from the first contact to the final goodbye, as clearly and efficiently as possible.
+> [!Abstract]
+> This page explains what "volunteering" means at ColivingLiguria. The spirit of collaboration is central to our project, but it's crucial to understand our legal framework. We clarify the term "volunteer," what residents can and cannot do, and how you can *truly* contribute your skills by joining us as an entrepreneurial partner or resident, as outlined on our [[Openings]] page.
 
-Once someone hears about the project through one of the [[Social Media]], I’ll direct them to the "[[To Share Page]]", which offers a concise but accurate overview of the initiative. From there, they’ll find a link to the [Application Form](https://docs.google.com/forms/d/e/1FAIpQLSc9yjx_LboaTdGZLBx25R6sZ-udozPtgDDUxVz3ybQLMuSA9Q/viewform?usp=header), allowing me to keep all applicants in a central database from which I can select volunteers as needed.
+### The Spirit of "Volunteering"
+We have been genuinely amazed by how many people from all over the world are willing to come and help bring our project at [[Ville Chiappella]] to life. This diversity and energy are what make it possible to build a joyful, collective experience together.
 
-The selection process itself is not straightforward. Several factors will play a crucial role, including the applicant’s skillset and how well it aligns with current needs listed on the [[Task Management]] page, bureaucratic feasibility (as issuing work visas is often complicated or impossible), how their proposed dates fit within the [[ColivingLiguria/System/Calendar]], and—perhaps most importantly—their motivation and commitment.
+However, to protect both our residents and the project, we must operate within a clear legal structure. The term "volunteer" must be understood within the specific legal limits of Italian law.
 
-As mentioned, one of the biggest challenges will be assigning the right task to the right person. You’re encouraged to browse the [[Task Management]] page to see what projects are ongoing and consider where your strengths might fit in. For many applicants, we may not be able to identify a suitable role within the core renovation or technical work. However, since we also offer options for Holiday Rental and Remote Work Rental, a hybrid arrangement is always possible. In such cases, volunteers might contribute a larger share of the [[Volunteers#Shared Expenses]] or simply register as a renter. They would still be welcome to stay in the house and contribute as much or as little as they like.
+> [!Warning] A Crucial Legal Distinction
+> For marketing and simplicity, we often use the term "volunteer." However, from a legal standpoint, **no one at ColivingLiguria is a volunteer** in the traditional sense. Coliving Liguria is a for-profit enterprise and cannot use volunteering as defined by the Italian "Third Sector" laws.
 
-This more relaxed option will always be offered as an alternative (or hybrid) to the more work-intensive [[Volunteers#Volunteer Offer]], and will remain significantly more affordable than our standard Holiday Rental rate.
-## Volunteer Offer
-Once a prospective volunteer has completed the application form available on the [[To Share Page]], I will follow up with further questions to better understand how they might fit within the [[Task Management]] structure and the existing [[ColivingLiguria/System/Calendar]]. We will then discuss the general House Rules for Volunteers and agree on the terms of the [[Volunteers#Shared Expenses]].
+### The Legal Framework: Residents, Not Volunteers
+Every person who stays with us, regardless of their contribution, is legally a **Resident** (either a tenant, `conduttore`, or in loan-for-use, `comodatario`).
 
-All this information will be consolidated into a single PDF document, which I will sign and send to the volunteer. They will be asked to return the document signed, along with a scanned copy or a clear photo of a valid ID card or passport.
-### Shared Expenses
-In principle, I am deeply grateful for the contributions of volunteers and, ideally, would love to cover all related expenses myself. However, this project already involves substantial financial commitments, and keeping essential services—such as water and electricity—running in a house shared by several people adds up quickly. These ongoing costs would be difficult to sustain within the current budget without a degree of support from volunteers.
+* **Your Contract:** Every resident must sign a [[Contract for Residents]]. This contract, which clearly outlines rights, rules, and costs, does **not** obligate you to perform any work.
 
-That said, shared expenses are not straightforward. Not everyone has the same financial flexibility—some may be happy to cover the cost of water or food, while others may not be in a position to contribute financially at all. Furthermore, the roles and durations of involvement among volunteers will differ significantly: some may only stay for a few nights, others may settle in for several months; some may bring essential technical skills to the table, while others might be working full-time remotely during their stay.
+### What You *Can* Do: Community Life & Ordinary Maintenance
+As a resident living in the house, you are legally and contractually expected to participate in "community life." This includes:
+* Cooking, cleaning common areas, and taking care of the house.
+* This participation is legally defined as **[[Manutenzione Ordinaria]]** (Ordinary Maintenance).
+* This is **not** considered work; it is the legal duty of any resident to care for the space they live in, as defined by the Italian Civil Code.
 
-Consequently, the financial contribution of each volunteer will vary depending on a number of factors—these include relevant skills, hours worked, general efficiency, accommodation type (private or shared), individual financial circumstances, and the overall demand for space at any given time.
+### The Legal Limit: What You *Cannot* Do
+For clear legal and safety reasons, residents are **strictly prohibited** from performing any tasks that qualify as **[[Manutenzione Straordinaria]]** (Extraordinary Maintenance).
 
-All contributions from volunteers will be used strictly for communal needs, such as food, utilities, and other shared essentials. These will directly benefit those participating in the project. Each volunteer's contribution will be agreed upon in advance with me and recorded transparently on the [[Volunteers#Volunteer Offer]] page.
-#### Sharing Utility Costs
-While food and water costs tend to remain fairly stable throughout the year, the same cannot be said for heating, which represents around 80% of the utility expenses. Heating will be by far the largest cost and is heavily concentrated in the colder months.
+* This includes structural renovation, technical work (electrical, plumbing), or any construction.
+* This work is reserved *only* for qualified professionals, such as a registered [[Carpenter]], or the owner, [[ColivingLiguria/People/Simone Testino]].
 
-Logically, one might think to split utilities according to monthly usage—so that those staying during the winter would pay more. However, this would result in disproportionately high expenses during the winter months, which also coincide with the project’s lowest expected income due to its seasonal nature. This mismatch would cause a serious negative cash flow exactly when it’s least sustainable.
+### How to *Truly* Contribute Your Skills
+The *best* way to contribute your specific skills (e.g., as a carpenter, designer, farmer, or marketer) is not as a simple "volunteer," but by taking on a formal role within the project.
 
-To avoid this, I’ve decided to spread utility costs evenly throughout the year. This way, I can purchase heating materials (such as firewood and pellets) in advance and distribute the cost more sustainably, avoiding sudden spikes during the colder season.
+1.  **Apply for an [[Openings|Opening]]**: This is our preferred method. We are actively looking for entrepreneurial individuals for roles like [[Farmer]], [[Gardening Designer]], [[Social Media Manager]], and more. These are partnerships with clear remuneration models (from free rent to equity).
+2.  **Propose Your Own Project**: If you have a different idea that fits our ecosystem, follow the process on our [[Propose a Project]] page.
+
+### Our Residency Offer (Replacing "Shared Expenses")
+Our offer is now simplified and legally clear, replacing the old "shared expenses" model.
+
+* **Short-Term Stays (< 30 days):** This is the standard entry model. It's a short-term rental agreement where residents contribute **€30 per week** to cover utility costs.
+* **Medium-Long Term Stays (> 30 days):**
+    * **Part-Time Option:** A registered rental agreement with a small monthly rent (under €200) for those who contribute part-time to a project.
+    * **Loan-for-Use (`Comodato`):** For key collaborators, we can offer a free-rent contract, which requires a one-time **€200 registration tax** (paid by the resident).
+
+### How to Apply
+The old application form is no longer in use.
+1.  **Read the Core Documents:** Understand our legal framework by reading [[Limiti Legali del Volontariato]] and the [[Contract for Residents]].
+2.  **Find Your Role:** Review our [[Openings]] page or prepare a project idea via [[Propose a Project]].
+3.  **Contact Us:** Get in touch with me, [[ColivingLiguria/People/Simone Testino]], directly. All details are on our [[Contact]] page.
+
+### A Note on Visas
+As a general rule, **we do not offer visa assistance for "volunteer" positions** due to the legal complexities. Assistance is generally reserved for paying guests or formally contracted partners. For more information read the [[Visa Assistance Policy]].
 
 ---
-Before anything takes action, I will need to make sure that what I write in [[Limiti Legali del Volontariato]] are valid legal conclusions.
+
+> [!Abstract]
+> Questa pagina spiega cosa significa "volontariato" a ColivingLiguria. Lo spirito di collaborazione è centrale nel nostro progetto, ma è fondamentale comprendere il nostro quadro giuridico. Chiariamo il termine "volontario", cosa i residenti possono e non possono fare, e come puoi contribuire *veramente* con le tue competenze unendoti a noi come partner imprenditoriale o residente, come descritto nella nostra pagina [[Openings]].
+
+### Lo Spirito del "Volontariato"
+Siamo rimasti sinceramente stupiti da quante persone da tutto il mondo siano disposte a venire ad aiutarci a dare vita al nostro progetto a [[Ville Chiappella]]. Questa diversità ed energia sono ciò che rende possibile costruire insieme un'esperienza collettiva e gioiosa.
+
+Tuttavia, per proteggere sia i nostri residenti che il progetto, dobbiamo operare all'interno di una chiara struttura legale. Il termine "volontario" deve essere compreso entro gli specifici limiti legali della legge italiana.
+
+> [!Warning] Una Distinzione Legale Cruciale
+> Per motivi di marketing e semplicità, usiamo spesso il termine "volontario". Tuttavia, da un punto di vista legale, **nessuno a ColivingLiguria è un volontario** in senso tradizionale. Coliving Liguria è un'impresa a scopo di lucro e non può avvalersi del volontariato come definito dalle leggi italiane sul "Terzo Settore".
+
+### Il Quadro Legale: Residenti, Non Volontari
+Ogni persona che soggiorna da noi, indipendentemente dal suo contributo, è legalmente un **Residente** (un inquilino, `conduttore`, o in comodato d'uso, `comodatario`).
+
+* **Il Tuo Contratto:** Ogni residente deve firmare un [[Contract for Residents]]. Questo contratto, che delinea chiaramente diritti, regole e costi, **non** obbliga a svolgere alcun lavoro.
+
+### Cosa *Puoi* Fare: Vita Comunitaria e Manutenzione Ordinaria
+Come residente che vive nella casa, ci si aspetta legalmente e contrattualmente che tu partecipi alla "vita comunitaria". Questo include:
+* Cucinare, pulire le aree comuni e prendersi cura della casa.
+* Questa partecipazione è legalmente definita come **[[Manutenzione Ordinaria]]**.
+* Questo **non** è considerato lavoro; è il dovere legale di qualsiasi residente prendersi cura dello spazio in cui vive, come definito dal Codice Civile italiano.
+
+### Il Limite Legale: Cosa *Non Puoi* Fare
+Per chiare ragioni legali e di sicurezza, ai residenti è **severamente vietato** svolgere qualsiasi compito che si qualifichi come **[[Manutenzione Straordinaria]]**.
+
+* Ciò include ristrutturazioni strutturali, lavori tecnici (elettrici, idraulici) o qualsiasi costruzione.
+* Questo lavoro è riservato *solo* a professionisti qualificati, come un [[Carpenter]] registrato, o al proprietario, [[ColivingLiguria/People/Simone Testino]].
+
+### Come Contribuire *Veramente* con le Tue Competenze
+Il modo *migliore* per contribuire con le tue competenze specifiche (ad es. come falegname, designer, agricoltore o esperto di marketing) non è come semplice "volontario", ma assumendo un ruolo formale all'interno del progetto.
+
+1.  **Candidati per una [[Openings|Posizione Aperta]]**: Questo è il nostro metodo preferito. Stiamo cercando attivamente individui imprenditoriali per ruoli come [[Farmer]], [[Gardening Designer]], [[Social Media Manager]] e altri. Si tratta di partnership con modelli di remunerazione chiari (dall'affitto gratuito all'equity).
+2.  **Proponi il Tuo Progetto**: Se hai un'idea diversa che si adatta al nostro ecosistema, segui il processo sulla nostra pagina [[Propose a Project]].
+
+### La Nostra Offerta di Residenza (Sostituisce le "Spese Condivise")
+La nostra offerta è ora semplificata e legalmente chiara, e sostituisce il vecchio modello di "spese condivise".
+
+* **Soggiorni Brevi (< 30 giorni):** Questo è il modello di ingresso standard. È un contratto di locazione breve in cui i residenti contribuiscono con **30€ a settimana** per coprire i costi delle utenze.
+* **Soggiorni a Medio-Lungo Termine (> 30 giorni):**
+    * **Opzione Part-Time:** Un contratto di affitto registrato con un piccolo canone mensile (meno di 200€) per coloro che contribuiscono part-time a un progetto.
+    * **Comodato d'Uso Gratuito:** Per i collaboratori chiave, possiamo offrire un contratto ad affitto zero, che richiede una **tassa di registro una tantum di 200€** (a carico del residente).
+
+### Come Candidarsi
+Il vecchio modulo di candidatura non è più in uso.
+1.  **Leggi i Documenti Fondamentali:** Comprendi il nostro quadro legale leggendo [[Limiti Legali del Volontariato]] e il [[Contract for Residents]].
+2.  **Trova il Tuo Ruolo:** Esamina la nostra pagina [[Openings]] o prepara un'idea di progetto tramite [[Propose a Project]].
+3.  **Contattaci:** Mettiti in contatto direttamente con me, [[ColivingLiguria/People/Simone Testino]]. Tutti i dettagli sono sulla nostra pagina [[Contact]].
+
+### Nota sui Visti
+Come regola generale, **non offriamo assistenza per i visti** per posizioni da "volontario", a causa delle complessità legali. L'assistenza è generalmente riservata agli ospiti paganti o ai partner contrattualizzati formalmente.

@@ -1,6 +1,7 @@
 ---
 date: 2025-10-21
 draft: false
+language: IT/EN
 ---
 > [!Abstract]
 > Questo documento analizza i requisiti di abitabilità per i locali a uso residenziale in Italia. Vengono descritti sia gli standard storici stabiliti dal D.M. del 5 luglio 1975, sia le nuove e significative deroghe introdotte dall'Accordo "Salva Casa" del 2025, con un focus sulle condizioni di applicabilità per immobili ristrutturati. Viene inoltre evidenziato lo stato di adozione di tali normative da parte del Comune di Cairo Montenotte e le scadenze pertinenti.
