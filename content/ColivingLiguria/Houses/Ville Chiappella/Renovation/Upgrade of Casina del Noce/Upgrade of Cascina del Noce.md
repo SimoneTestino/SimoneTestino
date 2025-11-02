@@ -38,12 +38,17 @@ We can estimate the current "Volume Lordo" (gross volume) of the building.
 We calculate the gross volume floor by floor, multiplying the gross area of that floor by its *total* height (net height + slab/roof).
 
 $$V_{\text{terra}} = A_{\text{lorda\_per\_piano}} \times (H_{\text{terra}} + H_{\text{solaio}})$$
+
 $$V_{\text{terra}} = 27.2 \, \text{m}^2 \times (2.30 \, \text{m} + 0.20 \, \text{m}) = 27.2 \, \text{m}^2 \times 2.50 \, \text{m} = 68.00 \, \text{m}^3$$
 
+
 $$V_{\text{primo}} = A_{\text{lorda\_per\_piano}} \times (H_{\text{primo}} + H_{\text{tetto}})$$
+
 $$V_{\text{primo}} = 27.2 \, \text{m}^2 \times (2.20 \, \text{m} + 0.20 \, \text{m}) = 27.2 \, \text{m}^2 \times 2.40 \, \text{m} = 65.28 \, \text{m}^3$$
 
+
 $$V_{\text{attuale}} = V_{\text{terra}} + V_{\text{primo}} = 68.00 \, \text{m}^3 + 65.28 \, \text{m}^3 = \mathbf{133.28 \, \text{m}^3}$$
+
 
 #### 2. Standard 20% Expansion ($V_{20\%}$)
 It is often permitted to expand an existing structure by 20% of its current volume during a major renovation.
@@ -60,6 +65,7 @@ The [[Certificato di Destinazione d'Uso Terreni Chiappella]] states that the adj
 * Area in Zone E (Agricultural @ $0.03 \, \text{m}^3/\text{m}^2$): $1270 \, \text{m}^2 \times 70\% = 889 \, \text{m}^2$
 
 $$V_{522} = (381 \, \text{m}^2 \times 0.4 \, \text{m}^3/\text{m}^2) + (889 \, \text{m}^2 \times 0.03 \, \text{m}^3/\text{m}^2)$$
+
 $$V_{522} = 152.4 \, \text{m}^3 + 26.67 \, \text{m}^3 = \mathbf{179.07 \, \text{m}^3}$$
 
 > [!Danger] CRITICAL Verification
@@ -80,7 +86,9 @@ We may also be able to acquire building rights from other nearby parcels.
 By summing all these potential sources, we get a hypothetical total volume for the new building.
 
 $$V_{\text{totale}} = V_{\text{attuale}} + V_{20\%} + V_{522} + V_{515} + V_{517}$$
+
 $$V_{\text{totale}} = 133.28 + 26.66 + 179.07 + 26.86 + 53.72$$
+
 $$V_{\text{totale}} = \mathbf{419.59 \, \text{m}^3}$$
 
 This total volume is more than three times larger than the current building, allowing for a well-sized, modern house to be built (more than tripling the current gross volume).
@@ -120,12 +128,15 @@ Possiamo stimare il "Volume Lordo" attuale dell'edificio.
 Calcoliamo il volume lordo piano per piano, moltiplicando la superficie lorda di quel piano per la sua altezza *totale* (altezza netta + solaio/tetto).
 
 $$V_{\text{terra}} = A_{\text{lorda\_per\_piano}} \times (H_{\text{terra}} + H_{\text{solaio}})$$
+
 $$V_{\text{terra}} = 27.2 \, \text{m}^2 \times (2.30 \, \text{m} + 0.20 \, \text{m}) = 27.2 \, \text{m}^2 \times 2.50 \, \text{m} = 68.00 \, \text{m}^3$$
 
 $$V_{\text{primo}} = A_{\text{lorda\_per\_piano}} \times (H_{\text{primo}} + H_{\text{tetto}})$$
+
 $$V_{\text{primo}} = 27.2 \, \text{m}^2 \times (2.20 \, \text{m} + 0.20 \, \text{m}) = 27.2 \, \text{m}^2 \times 2.40 \, \text{m} = 65.28 \, \text{m}^3$$
 
 $$V_{\text{attuale}} = V_{\text{terra}} + V_{\text{primo}} = 68.00 \, \text{m}^3 + 65.28 \, \text{m}^3 = \mathbf{133.28 \, \text{m}^3}$$
+
 
 #### 2. Espansione Standard del 20% ($V_{20\%}$)
 È spesso consentito espandere una struttura esistente del 20% del suo volume attuale durante una ristrutturazione importante.
