@@ -12,15 +12,15 @@ To collaborate in any way with ColivingLiguria, we require the signing of a cont
 A contract will always be in place, and its type will vary depending on the individual's role. However, all residents must sign the "Contratto di Locazione" (Lease Agreement). This is the primary document governing residency, and it is attached below.
 
 > [!Note] Lease Agreement (Contratto di Locazione)
-> The "Contratto di Locazione" is the fundamental agreement for all residents. It establishes the rights and duties of both the resident (Conduttore) and the landlord (Locatore). The full document is attached to this page.
+> The "Contratto di Locazione" is the fundamental agreement for all residents. It establishes the rights and duties of both the resident (Conduttore) and the landlord (Locatore). The full document is attached to this page. You can download it from [[Contratto_di_Locazione.pdf|here]].
 > ![[Contratto_di_Locazione.pdf]]
 
 ### Contract Structure
 The Lease Agreement ("Contratto di Locazione") is the main document, but it is composed of several parts:
-* **Main Agreement:** This part defines the parties (you and us), the duration of the stay, the specific room/property, and the financial terms (rent and security deposit). This is the part that is customized for your stay.
+* **Main Agreement:** This part defines the parties (you and us), the duration of the stay, the specific room/property, and the financial terms (rent and security deposit). This is the part that is customised for your stay.
 * **The Annexes (Gli Allegati):** These are fixed clauses that form an integral part of the contract. They include:
     * **Annex F (Financial Management):** Details the "Debit/Credit Line" system for managing the deposit and any outstanding costs or penalties.
-    * **Annex M (Maintenance Clause):** Explains the resident's duty for ordinary maintenance and the penalties for unauthorized works.
+    * **Annex M (Maintenance Clause):** Explains the resident's duty for ordinary maintenance and the penalties for unauthorised works.
     * **Annex R (Conservation Manual) & Annex C (House Rules):** These define the design guidelines and community rules. As per Art. 4, these may be updated, and your acceptance is part of the agreement.
 * **Specific Approval Clause:** To ensure full legal validity under Italian law, the contract includes a final section for the "double signature" (*doppia sottoscrizione*), where you specifically approve key clauses (like penalties and termination rules) a second time.
 
@@ -30,7 +30,7 @@ This page explains *what* the contract is. The step-by-step process for receivin
 Please refer to the **[[Onboarding]]** page for the complete procedure, which details:
 1.  How we conduct the video call to review the contract together.
 2.  How you will receive the official, digitally-signed (.p7m) Italian contract from our certified email (PEC).
-3.  How to pay the security deposit to finalize the booking.
+3.  How to pay the security deposit to finalise the booking.
 4.  The requirement to print the contract and bring the hand-signed paper copy upon arrival.
 
 ### Contract Guidelines
@@ -50,7 +50,7 @@ Per collaborare in qualsiasi modo con ColivingLiguria, richiediamo la firma di u
 Un contratto sarà sempre presente e sarà di diverso tipo a seconda del ruolo della persona. Tutte le persone residenti, comunque, dovranno sottoscrivere il "Contratto di Locazione", che è il documento primario che regola la residenza e che si trova in allegato.
 
 > [!Note] Contratto di Locazione
-> Il "Contratto di Locazione" è l'accordo fondamentale per tutti i residenti. Stabilisce i diritti e i doveri sia del residente (Conduttore) che del locatore (Locatore). Il documento completo è allegato a questa pagina.
+> Il "Contratto di Locazione" è l'accordo fondamentale per tutti i residenti. Stabilisce i diritti e i doveri sia del residente (Conduttore) che del locatore (Locatore). Il documento completo è allegato a questa pagina. Lo puoi scaricare da [[Contratto_di_Locazione.pdf|qua]].
 > ![[Contratto_di_Locazione.pdf]]
 
 ### Struttura del Contratto
