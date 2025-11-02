@@ -5,7 +5,10 @@ language: EN/IT
 ---
 --Italiano sotto--
 
-A large, independent rustic building located within the garden of [[Casa del Noce]], offering significant potential for future development (e.g., "Progetto Luna").
+> [!Abstract]
+> **Conclusion on Mappale 521:** The current rustic building (Mappale 521) is approximately **$133 \, \text{m}^3$**. Our preliminary calculations suggest that by leveraging available building rights, we could potentially construct a new, modern house of over **$419 \, \text{m}^3$** (approx. 150 m² of internal space).
+>
+> This is a hypothesis that **depends entirely on legal and permit verifications** with the municipality. Once these crucial points are confirmed, our internal team of architects, engineers, and our designer will develop the final project.
 
 * **Location:** [Google Maps](http://googleusercontent.com/maps/google.com/3) | Coordinates: 44.402817, 8.253551
 * **Land Registry:** Foglio 29, Particella 521
@@ -84,7 +87,10 @@ This total volume is more than three times larger than the current building, all
 
 ---
 
-Un grande edificio rustico indipendente situato all'interno del giardino di [[Casa del Noce]], che offre un potenziale significativo per lo sviluppo futuro (ad esempio, "Progetto Luna").
+> [!Abstract]
+> **Conclusioni sul Mappale 521:** L'attuale edificio rustico (Mappale 521) ha un volume di circa **$133 \, \text{m}^3$**. I nostri calcoli preliminari suggeriscono che, sfruttando i diritti edificatori disponibili, potremmo potenzialmente costruire una casa nuova e moderna di oltre **$419 \, \text{m}^3$** (circa 150 m² di spazio interno).
+>
+> Questa è un'ipotesi che **dipende interamente da verifiche legali e autorizzative** con il Comune. Una volta confermati questi punti cruciali, il nostro team interno di architetti, ingegneri e designer svilupperà il progetto definitivo.
 
 * **Posizione:** [Google Maps](http://googleusercontent.com/maps/google.com/3) | Coordinate: 44.402817, 8.253551
 * **Catasto:** Foglio 29, Particella 521

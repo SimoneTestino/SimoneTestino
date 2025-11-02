@@ -18,7 +18,7 @@ This document provides a detailed breakdown of the "Casa del Noce" property, loc
 - **Structural Condition:** The main structure is solid and in good condition, built with a characteristic mix of stone and brick. The roof is functional, with main wooden beams in good shape. The street-side facade has minor, non-structural cracks and features an aesthetically pleasing stone portion. The garden-side facade is almost entirely stone with high visual potential.
 
 ### Rustic Outbuilding (Particella 521)
-A large, independent rustic building located within the garden, offering significant potential for future development (e.g., "Progetto Luna").
+A large, independent rustic building located within the garden, offering significant potential for future development. See [[Upgrade of Cascina del Noce]].
 
 - **Location:** [Google Maps](https://maps.app.goo.gl/CFXPfVBmjRiG7Fx46) | Coordinates: 44.402817, 8.253551
 - **Land Registry:** Foglio 29, Particella 521
@@ -48,7 +48,7 @@ Questo documento fornisce una suddivisione dettagliata della proprietà "Casa de
 - **Condizioni Strutturali:** La struttura principale è solida e in buono stato, costruita con un caratteristico mix di pietra e mattoni. Il tetto è funzionale, con le travi portanti in legno in ottimo stato. La facciata lato strada presenta piccole crepe non strutturali e una porzione in pietra a vista di pregio estetico. La facciata lato giardino è quasi interamente in pietra, con un alto potenziale visivo.
 
 ### Rustico (Particella 521)
-Un grande edificio rustico indipendente situato all'interno del giardino, che offre un notevole potenziale per sviluppi futuri (es. "Progetto Luna").
+Un grande edificio rustico indipendente situato all'interno del giardino, che offre un notevole potenziale. Vedi [[Upgrade of Cascina del Noce]].
 
 - **Posizione:** [Google Maps](https://maps.app.goo.gl/CFXPfVBmjRiG7Fx46) | Coordinate: 44.402817, 8.253551
 - **Dati Catastali:** Foglio 29, Particella 521
