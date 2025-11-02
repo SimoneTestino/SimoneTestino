@@ -6,7 +6,7 @@ date: 2025-10-10
 
 📍 Location: Ligurian Riviera hinterland, 🇮🇹 Italy 🇮🇹 — in the 🏔️ mountains a short drive from the 🌊 sea!
 
-🗓️ Availability: We're in the final setup phase! The first spots will be available very soon (from late October onwards). Reach out now to be considered!
+🗓️ Availability: You can come join us starting the 7th of November or book for anytime until early 2026!
 
 Hey everyone! I'm Simone, a 22-year-old student taking a gap year to make a dream a reality. Are you into DIY, gardening, creative projects, or just looking for a unique life experience off the beaten path? Join my project to bring a traditional Ligurian villa complex, "Ville Chiappella," back to life!
 
