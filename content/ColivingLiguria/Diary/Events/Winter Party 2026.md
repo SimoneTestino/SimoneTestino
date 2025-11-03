@@ -84,4 +84,4 @@ Beyond this party, there are other ways to join our community:
 * **[[Digital Nomads Ville Chiappella]]:** We offer a productive, budget-friendly place for remote workers with high-speed internet.
 * **[[Luna]] Project:** We are also launching a tech startup, **[[To Share Page - Luna|Luna]]**, to build a new kind of portable illumination system. We are actively looking for **STEM-skilled students and researchers** (material science, mechatronics, software engineering) to join us as co-founders or collaborators.
 
-Ask me (Simone) for more details on any of these opportunities!
+Ask me for more details on any of these opportunities!
