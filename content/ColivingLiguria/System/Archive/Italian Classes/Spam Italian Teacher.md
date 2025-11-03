@@ -2,14 +2,34 @@
 date: 2025-08-27
 draft: true
 ---
-Cercasi insegnante di Italiano! 🇮🇹📚
+```
+# 🇮🇹 Insegna Italiano in Liguria! 🇮🇹
 
-Il progetto Coliving Liguria cerca un insegnante di italiano (preferibilmente under 35) che voglia unirsi alla nostra community e avviare la propria attività di insegnamento in un contesto internazionale e dinamico.
+(Opportunità SOLO ON-SITE)
 
-Cosa offriamo: La possibilità di vivere in una delle nostre strutture in Liguria 🏡, affittando una stanza a un prezzo ridotto, e l'opportunità di gestire in modo indipendente la tua attività di insegnamento. Ti metteremo noi in contatto con i tuoi studenti: i nostri ospiti sono lavoratori da remoto e studenti internazionali (18-35 anni) intenzionati a imparare l'italiano.
+Cerchiamo una persona che voglia trasferirsi e vivere con noi!
 
-Chi cerchiamo: Un insegnante di italiano qualificato, intraprendente e appassionato, possibilmente con buone competenze in inglese 🇬🇧. Una persona che voglia immergersi in un progetto di co-living e contribuire a una community.
+Il nostro progetto ColivingLiguria sta cercando un/una insegnante di italiano per unirsi alla nostra community e offrire corsi ai nostri residenti internazionali, direttamente sul posto.  
 
-Se sei interessato a questa opportunità unica di vivere e lavorare in un ambiente stimolante, contattaci per maggiori dettagli! 
-📲 WhatsApp: +39 339 637 9372
-📸 Instagram: @colivingliguria - https://www.instagram.com/colivingliguria
+Cosa offriamo:
+📍 Un'opportunità unica di vivere e lavorare in un contesto internazionale in Liguria.
+🌍 Una base di studenti internazionali già presente (i nostri residenti!).
+🏠 Alloggio a condizioni estremamente vantaggiose (affitto ridotto o gratuito) vivendo nel cuore del progetto.
+🚀 Supporto per lanciare e promuovere la tua attività di insegnamento.
+🤝 Un'esperienza di vita comunitaria in un luogo magnifico.  
+
+Chi cerchiamo:
+🇬🇧 Una persona qualificata, intraprendente e con un buon livello di inglese.
+💻 Competenze in Social Media Management (fondamentali per promuovere i tuoi corsi!).
+🧑‍🤝‍🧑 Attitudine proattiva e socievole, perfetta per la vita in co-living.
+
+Si richiede Partita IVA (offriamo consulenza gratuita per l'apertura!) o si valuta assunzione, per un impegno stimato di 10-20 ore settimanali.
+
+Sei la persona giusta per vivere questa esperienza con noi? Scopri tutti i dettagli e come candidarti (leggendo bene la pagina!):
+
+https://simonetestino.pages.dev/ColivingLiguria/People/Openings/Roles/Italian-Teacher
+
+Condividi se pensi possa interessare a qualcuno! Grazie!
+
+#ColivingLiguria #OffertaLavoro #InsegnanteItaliano #Liguria #JobOpportunity #InsegnareItaliano #ItalianTeacher #Coliving #OnSiteJob
+```
