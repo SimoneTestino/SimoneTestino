@@ -2,7 +2,7 @@
 draft: false
 date: 2025-11-03
 language: EN
-title: 🔥 The ColivingLiguria Winter Party (Open Invitation!) 🔥
+title: 🔥 The ColivingLiguria Winter Party 🔥
 ---
 > [!Abstract]
 > This is an open invitation for an epic, rustic party at [[Ville Chiappella]]. We're offering **7 nights of free rent** for a full week of community, pizza parties, music, and adventure in our massive complex (currently under renovation!). The goal? To bring awesome people together, create amazing content, and promote the [[ColivingLiguria]] project.
