@@ -1,64 +1,80 @@
 ---
 draft: false
-date: 2025-11-01
+date: 2025-11-04
 language: IT/EN
 ---
---Italian below--
+--Italiano sotto--
 
-> [!Warning] This Page is Updated Frequently!
-> This calendar is a live document outlining our current plans. As we are now confirmed to start at [[Ville Chiappella]], these goals will be updated often. Please check back regularly for the latest news.
+> [!Warning] Important Update! (Nov 4, 2025)
+> This calendar is a live document. Our planned start date of November 7th is currently uncertain due to an unforeseen bureaucratic delay related to the property's deed of sale. We are actively working to resolve this and will update this page tomorrow, November 5th, with definitive info.
 
 > [!NOTE] Project Timeline and Initial Steps
 > This document outlines the projected timeline for the acquisition and initial operational phase of the [[Ville Chiappella]] project.
 
-### We Start November 7th! Book Your Spot for 2025 & 2026
+### Update: Start Date Under Review - We Still Aim for November!
 
-We are excited to announce our official start date: the project at [[Ville Chiappella]] kicks off on-site on **November 7th**!
+We are facing an unexpected delay in the final purchase contract, which was scheduled for Nov 7th. This means the formal transfer of ownership will likely be postponed until at least the **end of November or early December**.
 
-We are now actively accepting bookings for **November, December, and also for early 2026**.
+**It is therefore not clear if we will be able to start the project on-site on November 7th as planned.**
 
-Some of our first volunteers are already confirmed and incoming. We are building the core team now, so if you are interested, please **get in contact as soon as possible** to be selected. We have openings for [[Volunteers Ville Chiappella|volunteers, guests, and collaborators]].
+We have requested access to the property from Nov 7th anyway, even without ownership. The goal would be to carry out all the preparatory work as originally planned for the first two weeks:
+* In-depth diagnostics of the buildings
+* Taking measurements and assessing materials
+* Activating utilities (at our expense) to test all plumbing and electrical systems
+* General cleaning
+
+**We do not yet know if this access will be guaranteed.** We will update this page tomorrow, November 5th, as soon as we have more information.
+
+Despite this, we are still accepting bookings for **late November, December, and early 2026**. We are building the core team now, so if you are interested, please **get in contact as soon as possible** to be selected. We have openings for [[Volunteers Ville Chiappella|volunteers, guests, and collaborators]].
 
 Reach out to get to know the team and find your place in the project! All application details are on the [[Volunteers Ville Chiappella]] page.
 
-### Phase 1: Project Start (November 7th, 2025)
+### Phase 1: Project Start (Target: TBD)
 
-* **Status**: Confirmed!
-* **Timeline**: The on-site phase of the project will officially start on **November 7th, 2025**.
-* **Objective**: To be on-site, receive the keys, activate utilities, and prepare to welcome the first team at [[Ville Chiappella]], which includes [[Casa del Noce]] and [[Casa del Forno]].
+* **Status**: Under Review
+* **Timeline**: The original start date of **November 7th, 2025** is uncertain.
+* **Objective**: The goal remains to be on-site to activate utilities and prepare to welcome the first team. However, the acquisition of the property is delayed until at least late November/early December. We are awaiting confirmation on whether we can gain access on Nov 7th for preparatory work.
 
-### Phase 2: On-site Setup and Welcoming the First Team (From November 7th onwards)
+### Phase 2: On-site Setup and Welcoming the First Team (From TBD)
 
-* **On-site Setup**: Immediately on the 7th, I will be present on-site to oversee the initial setup. The first priority will be activating utilities like water and electricity, which may take a few days.
-* **First Collaborators and Volunteers**: Once the initial setup is complete, we will begin welcoming confirmed [[Volunteers Ville Chiappella|collaborators and volunteers]]. The first group will likely be **5-10 people**, as not all rooms will be immediately habitable (especially at [[Casa del Caco]], which needs a full renovation).
+* **On-site Setup**: As soon as we gain access, the first priority will be activating utilities and conducting a full diagnostic of the property.
+* **First Collaborators and Volunteers**: Once access is secured and initial setup is complete, we will begin welcoming confirmed [[Volunteers Ville Chiappella|collaborators and volunteers]]. The first group will likely be **5-10 people**, as not all rooms will be immediately habitable (especially at [[Casa del Caco]], which needs a full renovation).
 * **Construction Work**: We will engage a professional construction company for some renovations. We will explore the possibility of having our team assist and learn from them, though this needs to be verified from both a legal and practical standpoint.
 
 ---
 
-### Iniziamo il 7 Novembre! Prenota il tuo Posto per il 2025 e 2026
-
-> [!Warning] Pagina in Aggiornamento Frequente!
-> Questo calendario è un documento in tempo reale che delinea i nostri piani attuali. Ora che l'inizio a [[Ville Chiappella]] è confermato, questi obiettivi verranno aggiornati spesso. Si prega di controllare regolarmente per le ultime notizie.
+> [!Warning] Aggiornamento Importante! (4 Nov 2025)
+> Questo calendario è un documento in tempo reale. La nostra data di inizio prevista per il 7 novembre è attualmente incerta a causa di un ritardo burocratico imprevisto legato all'atto di vendita dell'immobile. Stiamo lavorando attivamente per risolvere la situazione e aggiorneremo questa pagina domani, 5 novembre, con informazioni definitive.
 
 > [!NOTE] Calendario del Progetto e Primi Passi
 > Questo documento delinea la timeline prevista per l'acquisizione e la fase operativa iniziale del progetto [[Ville Chiappella]].
 
-Siamo entusiasti di annunciare la nostra data di inizio ufficiale: il progetto a [[Ville Chiappella]] prenderà il via in loco il **7 novembre**!
+### Aggiornamento: Data di Inizio in Revisione - Puntiamo ancora a Novembre!
 
-Stiamo ora accettando attivamente prenotazioni per **novembre, dicembre e anche per l'inizio del 2026**.
+Stiamo affrontando un ritardo imprevisto nel contratto di acquisto finale, che era previsto per il 7 novembre. Ciò significa che il trasferimento formale della proprietà sarà presumibilmente posticipato almeno fino a **fine novembre o inizio dicembre**.
 
-Alcuni dei nostri primi volontari sono già confermati e in arrivo. Stiamo formando il team principale ora, quindi se sei interessato, per favore **contattaci il prima possibile** per essere selezionato. Abbiamo posti disponibili per [[Volunteers Ville Chiappella|volontari, ospiti e collaboratori]].
+**Non è quindi chiaro se sarà possibile o meno iniziare il progetto in loco il 7 novembre come pianificato.**
+
+Abbiamo richiesto di poter avere comunque accesso alla proprietà dal 7 novembre, anche senza averne ancora la proprietà. L'obiettivo sarebbe quello di eseguire tutti i lavori preparatori come già previsto per le prime due settimane:
+* Diagnostica approfondita degli immobili
+* Presa di misure e valutazione dello stato dei materiali
+* Attivazione delle utenze (a nostre spese) per testare gli impianti idraulici ed elettrici
+* Pulizie generali
+
+**Non sappiamo ancora se questo accesso sarà garantito.** Aggiorneremo questa pagina domani, 5 novembre, non appena avremo maggiori informazioni.
+
+Nonostante questo, stiamo continuando ad accettare prenotazioni per **fine novembre, dicembre e per l'inizio del 2026**. Stiamo formando il team principale ora, quindi se sei interessato, per favore **contattaci il prima possibile** per essere selezionato. Abbiamo posti disponibili per [[Volunteers Ville Chiappella|volontari, ospiti e collaboratori]].
 
 Contattaci per conoscere il team e trovare il tuo posto nel progetto! Tutti i dettagli per candidarsi sono sulla pagina [[Volunteers Ville Chiappella]].
 
-### Fase 1: Avvio del Progetto (7 Novembre 2025)
+### Fase 1: Avvio del Progetto (Target: TBD)
 
-* **Stato**: Confermato!
-* **Tempistiche**: L'avvio della fase in loco del progetto è previsto per il **7 novembre 2025**.
-* **Obiettivo**: Essere sul posto, ricevere le chiavi, attivare le utenze e prepararsi ad accogliere il primo team a [[Ville Chiappella]], che include [[Casa del Noce]] e [[Casa del Forno]].
+* **Stato**: In revisione
+* **Tempistiche**: La data di inizio originale del **7 novembre 2025** è incerta.
+* **Obiettivo**: L'obiettivo rimane essere sul posto per attivare le utenze e prepararsi ad accogliere il primo team. Tuttavia, l'acquisizione della proprietà è ritardata almeno fino a fine novembre/inizio dicembre. Siamo in attesa di conferma sulla possibilità di ottenere l'accesso il 7 novembre per i lavori preparatori.
 
-### Fase 2: Preparazione in Loco e Accoglienza del Team (Dal 7 Novembre in poi)
+### Fase 2: Preparazione in Loco e Accoglienza del Team (Dal TBD)
 
-* **Preparazione in Loco**: Immediatamente dal 7, sarò presente sul posto per supervisionare l'avvio. La prima priorità sarà l'attivazione delle utenze (acqua ed elettricità), che potrebbe richiedere alcuni giorni.
-* **Primi Collaboratori e Volontari**: Una volta completata la preparazione iniziale, inizieremo ad accogliere [[Volunteers Ville Chiappella|collaboratori e volontari]] confermati. Il primo gruppo sarà probabilmente di **5-10 persone**, poiché non tutte le stanze saranno immediatamente abitabili (specialmente a [[Casa del Caco]], che richiede una ristrutturazione completa).
+* **Preparazione in Loco**: Non appena avremo accesso, la prima priorità sarà l'attivazione delle utenze e la conduzione di una diagnostica completa della proprietà.
+* **Primi Collaboratori e Volontari**: Una volta assicurato l'accesso e completata la preparazione iniziale, inizieremo ad accogliere [[Volunteers Ville Chiappella|collaboratori e volontari]] confermati. Il primo gruppo sarà probabilmente di **5-10 persone**, poiché non tutte le stanze saranno immediatamente abitabili (specialmente a [[Casa del Caco]], che richiede una ristrutturazione completa).
 * **Lavori di Ristrutturazione**: Coinvolgeremo un'impresa edile professionale per alcune ristrutturazioni. Valuteremo la possibilità che il nostro team possa assisterli e imparare da loro, sebbene questo aspetto debba essere verificato dal punto di vista legale e pratico.
