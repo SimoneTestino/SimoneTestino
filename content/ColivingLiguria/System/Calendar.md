@@ -17,7 +17,7 @@ We are facing an unexpected delay in the final purchase contract, which was sche
 
 **It is therefore not clear if we will be able to start the project on-site on November 7th as planned.**
 
-We have requested access to the property from Nov 7th anyway, even without ownership. The goal would be to carry out all the preparatory work as originally planned for the first two weeks:
+We have requested access to the property from Nov 7th anyway, even without ownership. The goal would be to carry out all the preparatory work as originally planned for the first two weeks (see [[Plan for the First Days]]):
 * In-depth diagnostics of the buildings
 * Taking measurements and assessing materials
 * Activating utilities (at our expense) to test all plumbing and electrical systems
@@ -37,9 +37,12 @@ Reach out to get to know the team and find your place in the project! All applic
 
 ### Phase 2: On-site Setup and Welcoming the First Team (From TBD)
 
-* **On-site Setup**: As soon as we gain access, the first priority will be activating utilities and conducting a full diagnostic of the property.
+* **On-site Setup**: As soon as we gain access, the first priority will be executing our initial setup plan (see [[Plan for the First Days]]), which includes activating utilities, assessing habitability, and conducting a full diagnostic of the property.
 * **First Collaborators and Volunteers**: Once access is secured and initial setup is complete, we will begin welcoming confirmed [[Volunteers Ville Chiappella|collaborators and volunteers]]. The first group will likely be **5-10 people**, as not all rooms will be immediately habitable (especially at [[Casa del Caco]], which needs a full renovation).
 * **Construction Work**: We will engage a professional construction company for some renovations. We will explore the possibility of having our team assist and learn from them, though this needs to be verified from both a legal and practical standpoint.
+
+### Future Plans: The Winter Party!
+We are also in the early planning stages for a major promotional event, the [[Winter Party 2026]], scheduled for Jan/Feb 2026. The goal is to bring a large group to the property for a week of community and celebration to promote the coliving project. More details will follow once the initial setup phase is complete.
 
 ---
 
@@ -55,7 +58,7 @@ Stiamo affrontando un ritardo imprevisto nel contratto di acquisto finale, che e
 
 **Non è quindi chiaro se sarà possibile o meno iniziare il progetto in loco il 7 novembre come pianificato.**
 
-Abbiamo richiesto di poter avere comunque accesso alla proprietà dal 7 novembre, anche senza averne ancora la proprietà. L'obiettivo sarebbe quello di eseguire tutti i lavori preparatori come già previsto per le prime due settimane:
+Abbiamo richiesto di poter avere comunque accesso alla proprietà dal 7 novembre, anche senza averne ancora la proprietà. L'obiettivo sarebbe quello di eseguire tutti i lavori preparatori come già previsto per le prime due settimane (vedi [[Plan for the First Days]]):
 * Diagnostica approfondita degli immobili
 * Presa di misure e valutazione dello stato dei materiali
 * Attivazione delle utenze (a nostre spese) per testare gli impianti idraulici ed elettrici
@@ -75,6 +78,9 @@ Contattaci per conoscere il team e trovare il tuo posto nel progetto! Tutti i de
 
 ### Fase 2: Preparazione in Loco e Accoglienza del Team (Dal TBD)
 
-* **Preparazione in Loco**: Non appena avremo accesso, la prima priorità sarà l'attivazione delle utenze e la conduzione di una diagnostica completa della proprietà.
+* **Preparazione in Loco**: Non appena avremo accesso, la prima priorità sarà eseguire il nostro piano di setup iniziale (vedi [[Plan for the First Days]]), che include l'attivazione delle utenze, la valutazione dell'abitabilità e la conduzione di una diagnostica completa della proprietà.
 * **Primi Collaboratori e Volontari**: Una volta assicurato l'accesso e completata la preparazione iniziale, inizieremo ad accogliere [[Volunteers Ville Chiappella|collaboratori e volontari]] confermati. Il primo gruppo sarà probabilmente di **5-10 persone**, poiché non tutte le stanze saranno immediatamente abitabili (specialmente a [[Casa del Caco]], che richiede una ristrutturazione completa).
 * **Lavori di Ristrutturazione**: Coinvolgeremo un'impresa edile professionale per alcune ristrutturazioni. Valuteremo la possibilità che il nostro team possa assisterli e imparare da loro, sebbene questo aspetto debba essere verificato dal punto di vista legale e pratico.
+
+### Piani Futuri: Il Winter Party!
+Siamo anche nelle prime fasi di pianificazione di un grande evento promozionale, il [[Winter Party 2026]], previsto per gennaio/febbraio 2026. L'obiettivo è portare un gruppo numeroso alla proprietà per una settimana di comunità e festa per promuovere il progetto di coliving. Maggiori dettagli seguiranno una volta completata la fase di setup iniziale.
