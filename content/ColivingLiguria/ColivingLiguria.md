@@ -1,5 +1,5 @@
 ---
-date: 2025-11-02
+date: 2025-11-04
 draft: false
 language: EN/IT
 ---
@@ -35,7 +35,7 @@ Our property offers a perfect balance of rural tranquility and convenient access
 Operating in Italy requires navigating a complex legal landscape. We are committed to full compliance and transparency. We have compiled our research and policies in our dedicated [[Regulations]] section. All residents must sign a [[Contract for Residents]], and we ask you to read our legal policies, especially [[Limiti Legali del Volontariato]], to understand our framework.
 
 ### Founder's Services
-Drawing from direct experience, founder [[ColivingLiguria/People/Simone Testino]] offers [[Project Launch Consultancy; Funding & Bureaucracy in Italy|consultancy services]] and [[Private Teaching by Simone|specialised private lessons]].
+Drawing from direct experience, founder [[ColivingLiguria/People/Simone Testino]] offers [[Business Consultancy|consultancy services]] and [[Private Teaching by Simone|specialised private lessons]].
 
 > This project is made possible primarily through funding from the European Union via the [[Bando Pubblico Fesr 2021-2027. OS 1.3]]. Please note that while we often use the term "volunteer" colloquially, collaborators are legally **Residents** under a rental or `comodato` agreement, as explained in our [[Onboarding]] process.
 
@@ -71,6 +71,6 @@ La nostra proprietà offre un equilibrio perfetto tra tranquillità rurale e un 
 Operare in Italia richiede di orientarsi in un panorama legale complesso. Siamo impegnati a garantire la piena conformità e trasparenza. Abbiamo raccolto le nostre ricerche e policy nella nostra sezione [[Regulations]]. Tutti i residenti devono firmare un [[Contract for Residents]], e chiediamo di leggere le nostre policy legali, in particolare [[Limiti Legali del Volontariato]], per comprendere il nostro modello.
 
 ### Servizi del Fondatore
-Basandosi sulla sua esperienza diretta, il fondatore [[ColivingLiguria/People/Simone Testino]] offre [[Project Launch Consultancy; Funding & Bureaucracy in Italy|servizi di consulenza]] e [[Private Teaching by Simone|lezioni private specializzate]].
+Basandosi sulla sua esperienza diretta, il fondatore [[ColivingLiguria/People/Simone Testino]] offre [[Business Consultancy|servizi di consulenza]] e [[Private Teaching by Simone|lezioni private specializzate]].
 
 > Questo progetto è reso possibile principalmente grazie ai fondi dell'Unione Europea tramite il [[Bando Pubblico Fesr 2021-2027. OS 1.3]]. Si prega di notare che, sebbene usiamo colloquialmente il termine "volontario", i collaboratori sono legalmente **Residenti** in base a un contratto di locazione o `comodato`, come spiegato nel nostro processo di [[Onboarding]].

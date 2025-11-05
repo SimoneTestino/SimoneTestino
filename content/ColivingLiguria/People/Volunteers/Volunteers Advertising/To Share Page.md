@@ -21,7 +21,7 @@ This is the most exciting phase of our journey. We are in the pivotal stage of f
 #### We're Expanding: Property Partnerships
 As our project grows, we are actively looking for new properties to bring into the Coliving Liguria family. We specialise in taking on rustic farmhouses (`cascine`) to renovate and manage through a partnership model. If you own a property in the Ligurian hinterland and are interested in a hands-off way to bring it to life, learn more on our page about the [[Diventa Partner di Coliving Liguria|Property Partnership Programme]] (Note: Our website is bilingual, but this page is currently available in Italian only).
 #### Do you want to do the same by yourself? Project Launch Consultancy
-Drawing from our direct experience in securing EU funding and navigating Italian bureaucracy, we also help other aspiring entrepreneurs. We offer [[Project Launch Consultancy; Funding & Bureaucracy in Italy|consultancy services]] to guide you through the process of launching your own project in Italy.
+Drawing from our direct experience in securing EU funding and navigating Italian bureaucracy, we also help other aspiring entrepreneurs. We offer [[Business Consultancy|consultancy services]] to guide you through the process of launching your own project in Italy.
 ### The Vision: Life at the Villa
 Our goal is to create an environment that balances focused work with a strong sense of community and a connection to the stunning Italian landscape. Our properties will offer:
 * **Private rooms** for personal space and quiet time.

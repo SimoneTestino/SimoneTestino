@@ -1,6 +1,7 @@
 ---
 draft: false
 date: 2025-08-03
+title: Project Launch Consultancy; Funding & Bureaucracy in Italy
 ---
 > [!Abstract]
 > This page outlines the consultancy services I offer to aspiring entrepreneurs who wish to start a project similar to [[ColivingLiguria]]. I navigated the entire process of securing European funds, writing a business plan, and handling Italian bureaucracy by myself. While doing so, I definitely felt the need for someone who had already been through it. My goal is to use my first-hand experience to help you take the most efficient steps and avoid the mistakes I made.

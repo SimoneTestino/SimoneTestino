@@ -27,7 +27,7 @@ If you have your own business idea, Coliving Liguria provides the ideal environm
 
 #### What We Offer
 
-* **Financial & Bureaucracy Assistance:** I provide guidance on navigating Italian bureaucracy, company formation, and structuring financials for new startups in Italy. This draws from my direct experience securing European funds for [[ColivingLiguria]]. For in-depth support, see my [[Project Launch Consultancy; Funding & Bureaucracy in Italy]] services.
+* **Financial & Bureaucracy Assistance:** I provide guidance on navigating Italian bureaucracy, company formation, and structuring financials for new startups in Italy. This draws from my direct experience securing European funds for [[ColivingLiguria]]. For in-depth support, see my [[Business Consultancy]] services.
 * **Space & Resources:** We provide office space, workshops, and accommodation. For independent projects, this operates on a model where you rent resources from Coliving Liguria.
 * **Prototyping Equipment:** You will have access to high-level industrial tools, including a 3D printer, available on-site for the development of [[Luna]].
 * **Marketing Support:** Leverage our network, including professional photographers and social media managers, to help promote your product or service. This aligns with our collaborative advertising model where promoting supplementary projects enhances the entire ecosystem.

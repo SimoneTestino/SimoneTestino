@@ -22,7 +22,7 @@ We are actively seeking co-founders and collaborators for our flagship technical
 If you have your own business idea, Coliving Liguria provides the ideal environment and support structure to help you bring it to life. Your venture would be listed as one of our [[Supplementary Projects]]. This follows the "Model A" (Independent Project) path described in our [[Propose a Project]] page.
 
 #### What We Offer
-* **Financial & Bureaucracy Assistance:** I provide guidance on navigating Italian bureaucracy, company formation, and structuring financials, drawing from my experience securing EU funds. For in-depth support, see my [[Project Launch Consultancy; Funding & Bureaucracy in Italy]] services.
+* **Financial & Bureaucracy Assistance:** I provide guidance on navigating Italian bureaucracy, company formation, and structuring financials, drawing from my experience securing EU funds. For in-depth support, see my [[Business Consultancy]] services.
 * **Space & Resources:** We provide office space, workshops, and accommodation on a rental model.
 * **Prototyping Equipment:** You will have access to high-level industrial tools, including a 3D printer, available on-site for the development of [[Luna]].
 * **Marketing Support:** Leverage our network, including professional photographers and social media managers.
@@ -59,7 +59,7 @@ Stiamo cercando attivamente co-fondatori e collaboratori per la nostra startup t
 Se hai una tua idea imprenditoriale, Coliving Liguria fornisce l'ambiente ideale e la struttura di supporto per aiutarti a darle vita. La tua impresa verrebbe elencata come uno dei nostri [[Supplementary Projects]]. Questo segue il percorso "Modello A" (Progetto Indipendente) descritto nella nostra pagina [[Propose a Project]].
 
 #### Cosa Offriamo
-* **Assistenza Finanziaria e Burocratica:** Fornisco guida per navigare la burocrazia italiana, la creazione di aziende e la strutturazione finanziaria, attingendo dalla mia esperienza nell'ottenere fondi UE. Per un supporto approfondito, vedi i miei servizi di [[Project Launch Consultancy; Funding & Bureaucracy in Italy]].
+* **Assistenza Finanziaria e Burocratica:** Fornisco guida per navigare la burocrazia italiana, la creazione di aziende e la strutturazione finanziaria, attingendo dalla mia esperienza nell'ottenere fondi UE. Per un supporto approfondito, vedi i miei servizi di [[Business Consultancy]].
 * **Spazio e Risorse:** Forniamo spazi ufficio, laboratori e alloggi su un modello di affitto.
 * **Attrezzature per Prototipazione:** Avrai accesso a strumenti industriali di alto livello, inclusa una stampante 3D, disponibili in loco per lo sviluppo di [[Luna]].
 * **Supporto Marketing:** Sfrutta la nostra rete, inclusi fotografi professionisti e social media manager.

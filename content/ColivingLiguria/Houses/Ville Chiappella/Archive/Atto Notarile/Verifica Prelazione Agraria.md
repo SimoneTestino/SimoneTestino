@@ -34,7 +34,7 @@ Nel pieno rispetto della normativa sulla privacy (GDPR), i file contenenti i dat
 
 ### Utilizzo per Consulenza
 
-Questo strumento software proprietario, sviluppato per questa analisi specifica, può essere adattato ed utilizzato come parte dei servizi offerti nella mia attività di consulenza [[Project Launch Consultancy; Funding & Bureaucracy in Italy]], per assistere clienti che necessitano di una mappatura e analisi del rischio di prelazione agraria per i loro progetti.
+Questo strumento software proprietario, sviluppato per questa analisi specifica, può essere adattato ed utilizzato come parte dei servizi offerti nella mia attività di consulenza [[Business Consultancy]], per assistere clienti che necessitano di una mappatura e analisi del rischio di prelazione agraria per i loro progetti.
 
 ## Verifica delle Qualifiche Professionali
 
