@@ -7,7 +7,7 @@ This section of my website is dedicated to aspects of my life that are unrelated
 > [!Warning] Missing Pages  
 > Some linked pages may be private due to privacy reasons; however, their status usually changes over time.  
 
-I keep track of my [[Personal Finance]] and write several notes on the subject, some of which I choose to make public. This section is particularly significant because it aligns with my goal of using [[Horreum]], this website, as an extension of my [[Curriculum Vitae.pdf]]. Here, I also provide details about my [[Jobs]], [[Investments]], and various [[Financial Ideas]].  
+I keep track of my [[Personal Finance]] and write several notes on the subject, some of which I choose to make public. This section is particularly significant because it aligns with my goal of using [[This Website]], this website, as an extension of my [[Curriculum Vitae.pdf]]. Here, I also provide details about my [[Jobs]], [[Investments]], and various [[Financial Ideas]].  
 
 I also publish some of the [[Poems]] I write. Most of these date back to my [[Condensed Biography#School Years]], though some are more recent. I make an effort to dedicate time to this humanistic side of myself, despite its distance from my [[Research Areas]]. There I also list the [[Books]] I read and the [[Music]] I listen to.
 
