@@ -6,7 +6,8 @@ language: IT/EN
 --English below--
 
 > [!Abstract]
-> Questa pagina documenta le cause del ritardo dell'atto notarile per l'acquisizione di [[Ville Chiappella]], originariamente previsto per il 7 novembre 2025. L'atto è stato annullato a causa di impreviste complicazioni burocratiche e legali emerse da parte della parte venditrice, relative alla necessità di un'autorizzazione giudiziaria per una delle proprietarie. Questa nota spiega la natura del problema, lo stato attuale e le potenziali evoluzioni future, inclusi i rischi di ulteriori ritardi o modifiche alle condizioni pattuite.
+> Questa pagina documenta le cause del ritardo dell'atto notarile per l'acquisizione di [[Ville Chiappella]], originariamente previsto per il 7 novembre 2025. L'atto è stato annullato a causa di impreviste complicazioni burocratiche e legali emerse da parte della parte venditrice, relative alla necessità di un'autorizzazione giudiziaria per una delle proprietarie. Questa nota spiega la natura del problema, lo stato attuale e le potenziali evoluzioni future.
+
 ### Annullamento dell'Atto del 7 Novembre
 
 Con grande rammarico, l'atto notarile (rogito) per l'acquisizione di [[Ville Chiappella]], fissato per il 7 novembre, è stato **annullato**.
@@ -15,31 +16,33 @@ Questa cancellazione non è in alcun modo dovuta a ripensamenti o mancanze da pa
 
 ### La Causa del Ritardo: L'Autorizzazione del Giudice Tutelare
 
-Il 4 novembre, a soli tre giorni dalla data prevista per la firma, *La Commercialista* che segue i venditori ci ha informato di una complicazione insormontabile.
+Il 4 novembre, *La Commercialista* che segue i venditori ci ha informato di una complicazione insormontabile.
 
-*La proprietaria anziana*, una delle co-proprietarie dell'immobile e persona ultracentenaria, non è più in grado di firmare autonomamente. I familiari della proprietaria, che gestiscono i suoi interessi, avevano erroneamente presunto che fosse sufficiente una semplice procura.
+*La proprietaria anziana*, una delle co-proprietarie dell'immobile, è da circa un anno sotto la tutela legale di un *Amministratore di Sostegno* (un suo familiare). *L'avvocatessa* incaricata ha confermato che, data questa situazione, per procedere con la vendita della quota della signora è legalmente necessaria un'**autorizzazione formale da parte del Giudice Tutelare**.
 
-*L'avvocatessa* da loro incaricata ha invece stabilito che, data l'incapacità di firmare, è legalmente necessaria un'**autorizzazione formale da parte del Giudice Tutelare** per poter procedere con la vendita. Questa procedura non era stata avviata per tempo dai venditori.
+Questa procedura non era stata avviata per tempo, poiché pare che *l'Amministratore di Sostegno* sia stato informato della data dell'atto solo il 31 ottobre.
 
 ### Stato Attuale e Prospettive Future
 
-*L'avvocatessa* ha depositato l'istanza urgente presso il tribunale, ma i tempi tecnici minimi per ottenere tale autorizzazione sono stimati "da un minimo di una settimana sino ad una ventina di giorni".
+Oggi, 6 novembre, *l'avvocatessa* ha confermato che sta depositando l'istanza formale al *Giudice Tutelare*.
 
-Questo ritardo ha reso impossibile rispettare la scadenza del 7 novembre. Sebbene sia stata ipotizzata una nuova data provvisoria per il 26 novembre, questa non è in alcun modo confermata.
+Per accelerare i tempi, l'istanza verrà depositata **senza** la *perizia giurata* (una stima giurata del valore) che normalmente sarebbe richiesta. Al suo posto, verranno allegate fotografie, citando "l'urgenza e l'evidente stato di dissesto dell'immobile".
 
-L'intervento del Giudice Tutelare introduce inoltre nuove, significative incertezze che stiamo attivamente cercando di chiarire:
+Domani mattina (7 novembre), *l'avvocatessa* parlerà direttamente con *il Giudice* per chiedere se si possa formalmente evitare la perizia.
 
-1.  **Rischio di Perizia Giurata:** Il Giudice, per proteggere gli interessi della *proprietaria anziana*, ha la facoltà di richiedere una **perizia giurata** per attestare l'effettivo valore di mercato degli immobili prima di autorizzare la vendita (specialmente considerando che si tratta di un prezzo simbolico). Questo allungherebbe ulteriormente i tempi.
-2.  **Rischio di Modifica dei Patti:** Il Giudice potrebbe non approvare i termini dell'accordo (la vendita a prezzo simbolico) per la quota di 2/10 appartenente alla signora, portando a una potenziale rinegoziazione forzata dell'intera operazione.
+Le tempistiche previste ora dipendono da questa decisione:
 
-Stiamo facendo tutto il possibile per ottenere informazioni chiare e univoche, ma al momento abbiamo ricevuto indicazioni contraddittorie da *Lo studio notarile* e da *La Commercialista* riguardo a questi rischi specifici.
+1.  **Scenario A (Nessuna Perizia Richiesta):** Se *il Giudice* accetta di procedere senza perizia, l'autorizzazione potrebbe essere rilasciata in circa **due settimane**.
+2.  **Scenario B (Perizia Richiesta):** Se *il Giudice* ritiene la perizia necessaria, i tempi si allungheranno significativamente, poiché dovrà essere incaricato *un tecnico*.
 
-Questa pagina verrà aggiornata non appena riceveremo risposte definitive e potremo stabilire una nuova data certa per l'acquisizione.
+La data target del **26 novembre** rimane quindi provvisoria e dipende interamente dallo Scenario A. Resta inoltre da confermare che *il Giudice* approvi i termini dell'accordo (la vendita a prezzo simbolico) per la quota della *proprietaria anziana*.
+
+Questa pagina verrà aggiornata non appena riceveremo risposte definitive.
 
 ---
 
 > [!Abstract]
-> This page documents the reasons for the delay of the notarial deed (atto notarile) for the acquisition of [[Ville Chiappella]], originally scheduled for 7 November 2025. The deed was cancelled due to unforeseen bureaucratic and legal complications arising from the selling party, relating to the need for judicial authorisation for one of the owners. This note explains the nature of the problem, the current status, and potential future developments, including the risks of further delays or changes to the agreed-upon conditions.
+> This page documents the reasons for the delay of the notarial deed (atto notarile) for the acquisition of [[Ville Chiappella]], originally scheduled for 7 November 2025. The deed was cancelled due to unforeseen bureaucratic and legal complications arising from the selling party, relating to the need for judicial authorisation for one of the owners. This note explains the nature of the problem, the current status, and potential future developments.
 
 ### Cancellation of the 7 November Deed
 
@@ -49,23 +52,25 @@ This cancellation is in no way due to any reconsideration or failure on our part
 
 ### The Cause of the Delay: Authorisation from the Protective Judge
 
-On 4 November, just three days before the scheduled signing date, *La Commercialista* (the accountant) representing the sellers informed us of an insurmountable complication.
+On 4 November, *La Commercialista* (the accountant) representing the sellers informed us of an insurmountable complication.
 
-*La proprietaria anziana* (the elderly owner), one of the property's co-owners and a person over 100 years old, is no longer able to sign autonomously. The owner's family, who manage her interests, had incorrectly assumed that a simple power of attorney would suffice.
+*La proprietaria anziana* (the elderly owner), one of the property's co-owners, has been under the legal guardianship of an *Amministratore di Sostegno* (a Supporting Administrator, who is a family member) for about a year. *L'avvocatessa* (the lawyer) appointed by them confirmed that, given this situation, a formal **authorisation from the Giudice Tutelare** (Protective Judge) is legally required to proceed with the sale of the owner's share.
 
-Instead, *l'avvocatessa* (the lawyer) they appointed determined that, given the inability to sign, formal **authorisation from the Giudice Tutelare** (Protective Judge) is legally required to proceed with the sale. This procedure was not initiated in time by the sellers.
+This procedure was not initiated in time, as *the Supporting Administrator* was reportedly only informed of the deed date on 31 October.
 
 ### Current Status and Future Outlook
 
-*L'avvocatessa* has filed the urgent petition with the court, but the minimum technical time to obtain such authorisation is estimated to be "from a minimum of one week up to twenty days".
+Today, 6 November, *l'avvocatessa* confirmed that she is filing the formal petition with *the Protective Judge*.
 
-This delay made it impossible to meet the 7 November deadline. Although a new provisional date of 26 November has been targeted, it is by no means confirmed.
+To save time, the petition is being filed **without** the *perizia giurata* (sworn appraisal) of the property's value that would normally be required. Instead, photographs will be attached, citing the "urgency and the evident state of disrepair" of the property.
 
-The intervention of the *Giudice Tutelare* also introduces new, significant uncertainties that we are actively trying to clarify:
+Tomorrow morning (7 November), *l'avvocatessa* will speak directly with *the Judge* to ask if the appraisal can be formally waived.
 
-1.  **Risk of a Sworn Appraisal:** The Judge, to protect the interests of *the elderly owner*, has the authority to request a **perizia giurata** (sworn appraisal) to certify the actual market value of the properties before authorising the sale (especially given it is for a symbolic price). This would extend the timeline even further.
-2.  **Risk of Changing the Terms:** The Judge may not approve the terms of the agreement (the symbolic price sale) for the 2/10 share belonging to the owner, potentially leading to a forced renegotiation of the entire deal.
+The new timeline depends on this decision:
 
-We are doing everything possible to obtain clear and unambiguous information, but at present, we have received contradictory information from *Lo studio notarile* (the notary's office) and *La Commercialista* regarding these specific risks.
+1.  **Scenario A (No Appraisal Required):** If *the Judge* agrees to proceed without an appraisal, the authorisation could be granted in approximately **two weeks**.
+2.  **Scenario B (Appraisal Required):** If *the Judge* deems the appraisal necessary, the timeline will be significantly extended, as *a technician* will need to be hired.
 
-This page will be updated as soon as we receive definitive answers and can establish a new, certain date for the acquisition.
+The target date of **26 November** therefore remains provisional and is entirely dependent on Scenario A. It also remains to be confirmed whether *the Judge* will approve the terms of the agreement (the symbolic price sale) for the *elderly owner's* share.
+
+This page will be updated as soon as we receive definitive answers.
