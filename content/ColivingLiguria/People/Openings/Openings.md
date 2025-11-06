@@ -23,7 +23,7 @@ This category includes roles focused on developing, managing, and creating value
 * **[[Mountain Bike Guide & Trail Designer]]**
     > Develop a new MTB trail network on our hillside, located right next to the world-famous Finale Ligure outdoor area. This is a business opportunity to act as our resident guide, attracting riders and building your own guiding venture.
 * **[[Climber Guide]]**
->	We are looking for a certified Climbing Guide to join our community near Finale Ligure. This is a dual-role business opportunity: design and build on-site bouldering routes (on houses/trees) and launch your own independent guiding business for our residents and guests.
+>	 We are looking for a certified Climbing Guide to join our community near Finale Ligure. This is a dual-role business opportunity: design and build on-site bouldering routes (on houses/trees) and launch your own independent guiding business for our residents and guests.
 
 ### Renovation & Design
 This category is for the hands-on creatives who will build and design our physical spaces.
@@ -106,7 +106,7 @@ Questa categoria include ruoli focalizzati sullo sviluppo, la gestione e la crea
 * **[[Mountain Bike Guide & Trail Designer]]**
     > Sviluppa una nuova rete di sentieri MTB sulla nostra collina, situata proprio accanto alla famosissima area outdoor di Finale Ligure. Questa è un'opportunità di business per agire come nostra guida residente, attirando rider e costruendo la tua impresa di guiding.
 * **[[Climber Guide]]**
-    > Stiamo cercando una Guida di Arrampicata certificata per unirsi alla nostra community vicino a Finale Ligure. È un'opportunità imprenditoriale con un doppio ruolo: progetta e costruisci percorsi boulder in loco (su case/alberi) e lancia la tua attività di guida indipendente per i nostri residenti e ospiti.
+    >  Stiamo cercando una Guida di Arrampicata certificata per unirsi alla nostra community vicino a Finale Ligure. È un'opportunità imprenditoriale con un doppio ruolo: progetta e costruisci percorsi boulder in loco (su case/alberi) e lancia la tua attività di guida indipendente per i nostri residenti e ospiti.
 
 ### Ristrutturazione & Design
 Questa categoria è per i creativi "hands-on" che costruiranno e progetteranno i nostri spazi fisici.
