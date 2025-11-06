@@ -4,59 +4,53 @@ date: 2025-08-04
 language: EN
 ---
 > [!Abstract]
-> This page outlines our visa assistance policy. In summary, **we do not offer visa assistance** as a standard service. We only provide legally registered Lease Agreements (`Contratto di Locazione`), which are **not** offers of employment. To our knowledge, a lease agreement is not a valid basis for a visa application.
->
-> We are only open to discussion if an applicant conducts their own in-depth legal research and submits a formal proposal (see below) demonstrating a viable, legally sound path for us to provide documentation.
+> This page outlines our position on visa assistance. In short: **we do not offer visa sponsorship or employment contracts**. Please do not contact us via WhatsApp or Instagram regarding visa enquiries if you do not already have one. The only way to propose a visa path is via a complete email application, as detailed below. This page explains the only potential, complex, and applicant-driven path that may exist.
 
-### 1. Our Legal Framework: Lease Agreement vs. Employment
+### A Note on Visas: Our Legal Framework
 
-It is essential to understand that ColivingLiguria **does not offer jobs** in the traditional sense. We offer partnership opportunities and residency.
+Welcome to ColivingLiguria. We understand that navigating entry to Italy for non-EU citizens is complex, so we wish to be exceptionally clear from the outset.
 
-* **What We Offer:** All stays are formalised through a [[Contract for Residents]], which is a legally binding Italian Lease Agreement (`Contratto di Locazione`). This document establishes you as a tenant.
-* **What We DO NOT Offer:** We do not offer employment contracts, volunteer contracts (as defined by Italian law), or any documentation that implies a work-for-stay arrangement. As clarified in our [[Limiti Legali del Volontariato|Legal Boundaries of Volunteering]] policy, residents have no obligation to perform work.
+We are a project based on partnership and residency, not traditional employment. All our residents, regardless of their contribution, sign a [[Contract for Residents]], which is a legally registered `Contratto di Locazione` (Lease Agreement). This document establishes you as a tenant, not an employee, and as such, it is **not** a valid basis for a visa application, to our knowledge.
 
-To our knowledge, a standard lease agreement is not sufficient grounds to secure a visa for a non-EU citizen.
+We **do not** offer employment contracts, nor can we use "volunteer" status for legal entry, as detailed in our [[Limiti Legali del Volontariato|Legal Boundaries of Volunteering]] policy.
 
-### 2. General Policy: No Visa Assistance
+### The Only Potential Path: A Self-Employed Partnership
 
-Given the legal framework above, we cannot and will not issue letters of invitation or employment contracts to support a visa application. We cannot justify the significant administrative time to support an application that has no clear legal basis.
+Whilst we do not offer jobs, many of our [[Openings]] (such as [[Farmer]], [[Mountain Bike Guide & Trail Designer]], or [[Italian Teacher]]) are designed as independent business opportunities. This is where a potential, though "borderline," case may exist.
 
-### 3. Exception: The "Applicant-Led Legal Research" Path
+This path would involve you moving to Italy on a self-employment visa, opening your own Italian `Partita IVA` (VAT/sole trader registration), and operating your project as an independent partner of ColivingLiguria. We could provide a partnership contract that details your residency (your bedroom) and outlines the framework for you to generate your own income through your affiliated project.
 
-We may consider making an exception in rare cases, under the strict condition that **the applicant does all the legal groundwork.**
+This *might* be a viable basis for a visa, but it is **your** responsibility to research it.
 
-If you believe a viable legal path exists that would allow you to obtain a visa based on a residency agreement with us, you must conduct in-depth research into Italian law (e.g., Italian Civil Code, Court of Cassation rulings, immigration decrees).
+Please understand that I, the founder, am managing many aspects of this project, and navigating this complex legal path is very far from being a priority of mine. However, if *you* have the motivation, time, and competence to devote to it, it is realistic that you could get here in this way.
 
-You must then submit a formal proposal to us that clearly and precisely outlines this legal path.
+You have all the resources on this website to know what I can offer, and the internet provides all you need to find out what is required to get a visa from the Italian authorities. You must research Italian immigration law (e.g., `Testo Unico sull'Immigrazione`, precedents from the `Corte di Cassazione`, or requirements in the `Codice Civile`) and come to me with a complete, viable plan.
 
-### 4. How to Submit a Visa Proposal
+### How to Apply: The Formal Visa Proposal
 
-If you are confident in your legal research, you must submit a complete application package to colivingliguria@gmail.com. The application must contain all of the following components.
+We receive a high volume of enquiries daily. For this reason, **only perfect and complete applications that follow every instruction will be considered.**
 
-#### A. The Formal Legal Proposal
-Your proposal must:
-1.  Be based on verifiable Italian legal sources.
-2.  Provide a clear, precise, and step-by-step outline of the process.
-3.  State *exactly* what documentation you are requesting from ColivingLiguria.
-4.  You **must** CC the email address of the nearest Italian Consulate or Embassy in your country. This is for transparency, so they can verify that your proposed legal basis is correct and sensible.
-5.  It is highly advantageous to also include a formal statement from a registered Italian lawyer or a consulate official certifying that your proposal is legally sound.
+If you believe you have a viable legal path, you must send a single, complete application via email.
 
-#### B. The Personal Application Packet
-Alongside the legal proposal, you must include:
-1.  **Your Full CV.** Where possible, claims made on the CV must be substantiated with proof.
-2.  **Academic Qualification:** A digital copy of your last academic qualification is mandatory (e.g., PhD, Master's, Bachelor's, or a high school diploma if no higher education has been completed). Translations are not required, but if you have them, please send them in English.
-3.  **Motivation Letter:** Approximately one A4 page, detailing:
-    * Why you specifically want to be part of ColivingLiguria.
-    * Which role(s) from our [[Openings]] page you wish to fill.
-    * What specific qualifications and skills you bring to those roles.
+* **To:** colivingliguria@gmail.com
+* **Subject:** `Visa Assistance Request - Complete Application`
 
-#### C. Language Verification (B2 English Minimum)
-You must demonstrate a minimum B2 level of English.
-1.  **Certification:** The easiest way is to provide a copy of an official certificate (e.g., IELTS, TOEFL, Cambridge).
-2.  **No Certificate?** If you do not have a certificate, you must send a WhatsApp voice note to `+39 339 637 9372` introducing yourself in English.
-3.  **Better Yet:** The best alternative is to attach a short video presentation of yourself (in English) to your application email.
-4.  **Next Step:** If your application is considered, a video call will be scheduled.
+Do not contact us on WhatsApp or Instagram before sending this, or to ask "how" to do it. You may only contact us *after* the email is sent, or for a rapid clarification if absolutely necessary.
 
-### 5. Strict Prohibition on Artificial Intelligence
+Your application email **must** attach all of the following documents in **PDF format**. If even one document is missing, your application will be automatically discarded.
 
-The use of AI (e.g., ChatGPT, Claude, etc.) for any part of your application—including drafting texts or your motivation letter—is **strictly forbidden**. We have tools to detect AI-generated content. If any part of your application is found to be written by AI, your application will be **automatically and permanently discarded**.
+#### Application Checklist (All files as PDF):
+
+1.  **The Legal Proposal (PDF):** A formal document, based on verifiable Italian legal sources, that clearly outlines the specific visa path you are proposing (e.g., self-employment). It must state *exactly* what documentation you require from me (e.g., a specific clause in our partnership contract).
+2.  **Consulate CC:** You **must** CC your nearest Italian Consulate/Embassy on the email. This is for transparency, so they can verify your proposed legal basis is sensible. (Attaching a written statement from an Italian lawyer certifying your proposal is highly advantageous).
+3.  **Your Full CV (PDF):** Your professional and academic curriculum vitae.
+4.  **Academic Qualification (PDF):** A digital scan of your highest academic qualification (e.g., PhD, Master's, Bachelor's, or High School Diploma).
+5.  **Motivation Letter (PDF):** An A4-page letter. This letter is critical. It must demonstrate that you have a deep and thorough understanding of the ColivingLiguria project from reading this website (e.g., [[Ville Chiappella]], [[Openings]], our legal framework). It must explain exactly why you want to join, which role you intend to fill, and what skills you bring to it.
+6.  **Proof of B2 English (PDF or Link):** You must prove a minimum B2 English level. Please provide *one* of the following:
+    * A scan of an official language certificate (PDF).
+    * A link to a short presentation video of yourself in English (e.g., unlisted YouTube or Google Drive link, included in your email).
+    * Alternatively, you may send a WhatsApp voice note introducing yourself to `+39 339 637 9372` *just before* you send the email.
+
+**A final, crucial note on your Motivation Letter:** The use of AI (Artificial Intelligence) to write any part of your application is strictly forbidden. We use tools to detect AI-generated text. If your application is flagged, it will be automatically and permanently discarded. We want to hear *your* voice.
+
+Once you have gathered these results and sent your complete application, we can then schedule a call to discuss how to proceed.
