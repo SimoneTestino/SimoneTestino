@@ -7,7 +7,7 @@ Cucinando assieme, tra una coccola e l'altra:
 
 Di marmocch' a noi cinti
 dolce mi porgi 'l verbo,
-com' un frutto rossastro
+com' un frutto rossastro.
 
 Ma io che pendo in attesa della tua incerta dedizione, correggo:
 

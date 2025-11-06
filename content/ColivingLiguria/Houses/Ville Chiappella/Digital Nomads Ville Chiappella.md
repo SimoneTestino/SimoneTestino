@@ -1,7 +1,7 @@
 ---
 draft: false
 title: Digital Nomad at ColivingLiguria
-date: 2025-11-01
+date: 2025-11-06
 language: EN/IT
 ---
 --Italiano sotto--
@@ -12,7 +12,7 @@ language: EN/IT
 ### The Offer: Work from a Renovating Villa
 Join us at [[Ville Chiappella]] as we transform our houses into a vibrant coliving hub. This is an offer for remote workers who want to be productive while living in a community-focused, rustic environment surrounded by nature.
 
-We are **open and accepting bookings from our start date of November 7th**.
+The project start date is estimated for **late November 2025**. We are currently working to finalize the exact date, which is constantly updated on our **[[Calendar]]** page. Please refer to that page for the latest updates. We are **open and accepting bookings** for our start.
 
 ### What We Offer
 * **High-Speed Internet:** We understand your priority. A fast connection (aiming for **at least 200 Mbps**) will be available almost from day one. Please [[Contact]] me for final confirmation on speeds.
@@ -23,7 +23,7 @@ We are **open and accepting bookings from our start date of November 7th**.
 ### Pricing & Availability: The Renovation Model
 Our pricing is dynamic and reflects the current state of the renovation.
 
-* **Initial Price (Nov 7th - End of Dec 2025):**
+* **Initial Price (From Start Date - End of Dec 2025):**
     We are starting with a fixed price of **€200 per person in private bedroom, per month**. This introductory price is valid for this initial period, **including Christmas and New Year's**.
 * **Future Pricing:**
     Prices will **increase gradually** as the renovation progresses, rooms are improved, and more services (like those in [[Supplementary Projects]]) become available.
@@ -55,7 +55,7 @@ All stays, regardless of duration, are formalised with our standard [[Contract f
 ### L'Offerta: Lavora da una Villa in Ristrutturazione
 Unisciti a noi a [[Ville Chiappella]] mentre trasformiamo le nostre case in un vivace hub di coliving. Questa è un'offerta per lavoratori da remoto che vogliono essere produttivi vivendo in un ambiente rustico, circondato dalla natura e focalizzato sulla community.
 
-Siamo **aperti e accettiamo prenotazioni dalla nostra data di inizio del 7 novembre**.
+La data di inizio del progetto è stimata per la **fine di novembre 2025**. Stiamo attualmente lavorando per finalizzare la data esatta, che viene costantemente aggiornata sulla nostra pagina **[[Calendar]]**. Si prega di fare riferimento a quella pagina per tutti gli ultimi aggiornamenti. Siamo **aperti e accettiamo prenotazioni** per la nostra partenza.
 
 ### Cosa Offriamo
 * **Internet ad Alta Velocità:** Comprendiamo la tua priorità. Una connessione veloce (puntiamo ad **almeno 200 Mbps**) sarà disponibile quasi dal primo giorno. Per favore, [[Contact|contattami]] per la conferma finale sulla velocità.
@@ -66,7 +66,7 @@ Siamo **aperti e accettiamo prenotazioni dalla nostra data di inizio del 7 novem
 ### Prezzi e Disponibilità: Il Modello a Ristrutturazione
 I nostri prezzi sono dinamici e riflettono lo stato attuale della ristrutturazione.
 
-* **Prezzo Iniziale (7 Nov - Fine Dic 2025):**
+* **Prezzo Iniziale (Dalla Data di Inizio - Fine Dic 2025):**
     Partiamo con un prezzo minimo di **200€ a persona, al mese**. Questo prezzo di lancio è valido per il periodo iniziale, **inclusi Natale e Capodanno**.
 * **Prezzi Futuri:**
     I prezzi **aumenteranno gradualmente** man mano che la ristrutturazione procede, le stanze vengono migliorate e più servizi (come quelli nei [[Supplementary Projects]]) diventano disponibili.

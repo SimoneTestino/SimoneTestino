@@ -1,12 +1,12 @@
 ---
 draft: false
 date: 2025-11-04
-language: IT/EN
+language: EN/IT
 ---
 --Italiano sotto--
 
-> [!Warning] Important Update! (Nov 5, 2025)
-> It's confirmed: the November 7th start date is **cancelled**. Unfortunately, due to serious bureaucratic failures and missing documentation from the selling party, who failed to prepare the necessary legal documents on time, the deed of sale has been postponed.
+> [!Warning] Important Update! (Nov 6, 2025)
+> It's confirmed: the November 7th start date is **cancelled**. Unfortunately, due to serious bureaucratic failures and missing documentation from the selling party, who failed to prepare the necessary legal documents on time, the deed of sale has been postponed. For a detailed explanation of the legal issues, see **[[Delays with the Notary Act]]**.
 >
 > **We are now targeting November 26th** for the signing. This date is **provisional** and will only be confirmed once the sellers have resolved their legal issues and all necessary documents are ready and clear.
 >
@@ -19,7 +19,7 @@ language: IT/EN
 
 As anticipated in the warning, the November 7th date is off. The property transfer is now tentatively scheduled for **November 26th**, but this date remains **strictly to be confirmed**.
 
-The cancellation is due to serious and foolish legal errors by the selling party, who failed to prepare the required documents.
+The cancellation is due to serious and foolish legal errors by the selling party, who failed to prepare the required documents, as detailed in **[[Delays with the Notary Act]]**.
 
 **It is therefore not possible to start the project on-site on November 7th as planned.**
 
@@ -42,11 +42,13 @@ Reach out to get to know the team and find your place in the project! All applic
 * **Construction Work**: We will engage a professional construction company for some renovations. We will explore the possibility of having our team assist and learn from them, though this needs to be verified from both a legal and practical standpoint.
 
 ### Future Plans: The Winter Party!
+
 We are also in the early planning stages for a major promotional event, the [[Winter Party 2026]], scheduled for Jan/Feb 2026. The goal is to bring a large group to the property for a week of community and celebration to promote the coliving project. More details will follow once the initial setup phase is complete.
 
 ---
-> [!Warning] Aggiornamento Importante! (5 Nov 2025)
-> È confermato: la data di inizio del 7 novembre è **annullata**. Purtroppo, a causa di gravi mancanze documentali e ritardi burocratici da parte della venditrice, che non ha predisposto i documenti necessari per tempo, l'atto di vendita è stato rinviato.
+
+> [!Warning] Aggiornamento Importante! (6 Nov 2025)
+> È confermato: la data di inizio del 7 novembre è **annullata**. Purtroppo, a causa di gravi mancanze documentali e ritardi burocratici da parte della venditrice, che non ha predisposto i documenti necessari per tempo, l'atto di vendita è stato rinviato. Per una spiegazione dettagliata dei problemi legali, vedi **[[Delays with the Notary Act]]**.
 >
 > **Stiamo ora puntando alla data del 26 novembre** per il rogito. Questa data è **provvisoria** e verrà confermata solo non appena i venditori avranno risolto i loro problemi legali e tutti i documenti necessari saranno pronti e chiari.
 >
@@ -59,7 +61,7 @@ We are also in the early planning stages for a major promotional event, the [[Wi
 
 Come anticipato nell'avviso, la data del 7 novembre è saltata. Il trasferimento della proprietà è ora ipotizzato per il **26 novembre**, ma questa data rimane **assolutamente da confermare**.
 
-L'annullamento è dovuto a gravi e stupidi errori legali commessi dalla parte venditrice, che non è stata in grado di preoccuparsi dei documenti che avrebbe dovuto portare.
+L'annullamento è dovuto a gravi e stupidi errori legali commessi dalla parte venditrice, che non è stata in grado di preoccuparsi dei documenti che avrebbe dovuto portare, come dettagliato in **[[Delays with the Notary Act]]**.
 
 **Non è quindi possibile iniziare il progetto in loco il 7 novembre come pianificato.**
 
@@ -82,4 +84,5 @@ Contattaci per conoscere il team e trovare il tuo posto nel progetto! Tutti i de
 * **Lavori di Ristrutturazione**: Coinvolgeremo un'impresa edile professionale per alcune ristrutturazioni. Valuteremo la possibilità che il nostro team possa assisterli e imparare da loro, sebbene questo aspetto debba essere verificato dal punto di vista legale e pratico.
 
 ### Piani Futuri: Il Winter Party!
+
 Siamo anche nelle prime fasi di pianificazione di un grande evento promozionale, il [[Winter Party 2026]], previsto per gennaio/febbraio 2026. L'obiettivo è portare un gruppo numeroso alla proprietà per una settimana di comunità e festa per promuovere il progetto di coliving. Maggiori dettagli seguiranno una volta completata la fase di setup iniziale.
