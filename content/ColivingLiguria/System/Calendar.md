@@ -6,7 +6,7 @@ language: EN/IT
 --Italiano sotto--
 
 > [!Warning] Important Update! (Nov 6, 2025)
-> It's confirmed: the November 7th start date is **cancelled**. Unfortunately, due to serious bureaucratic failures and missing documentation from the selling party, who failed to prepare the necessary legal documents on time, the deed of sale has been postponed. For a detailed explanation of the legal issues, see **[[Ritardi per l'Atto Notarile]]**.
+> It's confirmed: the November 7th start date is **cancelled**. Unfortunately, due to serious bureaucratic failures and missing documentation from the selling party, who failed to prepare the necessary legal documents on time, the deed of sale has been postponed. For a detailed explanation of the legal issues, see **[[Ritardi dell'Atto Notarile]]**.
 >
 > **We are now targeting November 26th** for the signing. This date is **provisional** and will only be confirmed once the sellers have resolved their legal issues and all necessary documents are ready and clear.
 >
@@ -19,7 +19,7 @@ language: EN/IT
 
 As anticipated in the warning, the November 7th date is off. The property transfer is now tentatively scheduled for **November 26th**, but this date remains **strictly to be confirmed**.
 
-The cancellation is due to serious and foolish legal errors by the selling party, who failed to prepare the required documents, as detailed in **[[Ritardi per l'Atto Notarile]]**.
+The cancellation is due to serious and foolish legal errors by the selling party, who failed to prepare the required documents, as detailed in **[[Ritardi dell'Atto Notarile]]**.
 
 **It is therefore not possible to start the project on-site on November 7th as planned.**
 
@@ -48,7 +48,7 @@ We are also in the early planning stages for a major promotional event, the [[Wi
 ---
 
 > [!Warning] Aggiornamento Importante! (6 Nov 2025)
-> È confermato: la data di inizio del 7 novembre è **annullata**. Purtroppo, a causa di gravi mancanze documentali e ritardi burocratici da parte della venditrice, che non ha predisposto i documenti necessari per tempo, l'atto di vendita è stato rinviato. Per una spiegazione dettagliata dei problemi legali, vedi **[[Ritardi per l'Atto Notarile]]**.
+> È confermato: la data di inizio del 7 novembre è **annullata**. Purtroppo, a causa di gravi mancanze documentali e ritardi burocratici da parte della venditrice, che non ha predisposto i documenti necessari per tempo, l'atto di vendita è stato rinviato. Per una spiegazione dettagliata dei problemi legali, vedi **[[Ritardi dell'Atto Notarile]]**.
 >
 > **Stiamo ora puntando alla data del 26 novembre** per il rogito. Questa data è **provvisoria** e verrà confermata solo non appena i venditori avranno risolto i loro problemi legali e tutti i documenti necessari saranno pronti e chiari.
 >
@@ -61,7 +61,7 @@ We are also in the early planning stages for a major promotional event, the [[Wi
 
 Come anticipato nell'avviso, la data del 7 novembre è saltata. Il trasferimento della proprietà è ora ipotizzato per il **26 novembre**, ma questa data rimane **assolutamente da confermare**.
 
-L'annullamento è dovuto a gravi e stupidi errori legali commessi dalla parte venditrice, che non è stata in grado di preoccuparsi dei documenti che avrebbe dovuto portare, come dettagliato in **[[Ritardi per l'Atto Notarile]]**.
+L'annullamento è dovuto a gravi e stupidi errori legali commessi dalla parte venditrice, che non è stata in grado di preoccuparsi dei documenti che avrebbe dovuto portare, come dettagliato in **[[Ritardi dell'Atto Notarile]]**.
 
 **Non è quindi possibile iniziare il progetto in loco il 7 novembre come pianificato.**
 
