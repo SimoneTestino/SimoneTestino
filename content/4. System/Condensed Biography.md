@@ -1,5 +1,7 @@
 I have always been passionate about both mathematics and philosophy, which has shaped the trajectory of my educational journey. Below is a reflection on my school and early university years, illustrating how I navigated various challenges and transitions, leading me to where I am today.
+
 ### School Years
+
 I was born in [Genoa](https://maps.app.goo.gl/SQ3dbn5pLBdD5xYKA), where I spent my entire childhood until my first year of high school (at 14 years old). After that, I moved to [Baden](https://maps.app.goo.gl/LMU7ArNQwwto4PU48?g_st=ic), Switzerland, with my father, and attended [Liceo Vermigli](http://liceo-vermigli.com/), an Italian private school in Zurich. Aspiring for better integration and academic competitiveness, I decided to switch to the Swiss Cantonal School, and, in order to make the transition, I improved my German from A1 to B2.
 
 For the next two years, I studied at the [Swiss Cantonal School in Baden](https://www.kanti-baden.ch/). By the middle of the second year, however, I started to feel uneasy there as well. My interest in studying the humanities more rigorously grew, and because of both inevitable linguistic challenges and the technical nature of the Swiss school system, I began considering a move back to Italy.
@@ -7,9 +9,17 @@ For the next two years, I studied at the [Swiss Cantonal School in Baden](https:
 Upon returning to Genoa, my goal was to attend [Liceo Classico A. D'Oria](https://liceodoria.edu.it/) to fully pursue my passion for the humanities. However, due to the number of subjects I had not studied in Switzerland, I first spent a year at [Liceo Scientifico Cassini](https://www.liceocassini.it/), a scientific school offering Latin but no Greek. To enrol, I passed exams in six subjects that were not part of the Swiss curriculum.
 
 After spending the summer studying ancient Greek, I finally transferred to the Liceo Classico, where I completed my fifth and final year of high school, graduating with a score of 96/100 [[High School Diploma.pdf]].
-### Early University Years
+
+### University Years
+
 I began my university education at the [University of Constance](https://www.uni-konstanz.de/), officially enrolled in the B.A. Philosophy programme, but I also followed all the courses in the B.Sc. Mathematics. The professors I became closest to were [[Leon Horsten]] and [Sam Roberts](https://www.philosophie.uni-konstanz.de/en/ag-leon-horsten/members-of-the-ag-horsten/academic-staff/sam-roberts/) in analytic philosophy, and [Mateusz Michałek](https://www.mathematik.uni-konstanz.de/working-group-real-geometry-and-algebra/prof-dr-mateusz-michalek/) in algebra. Originally, I had planned to attend the LMU Munich for its excellence in analytic philosophy, but bureaucratic issues with the application process led me to seek alternatives. I consider myself fortunate to have ended up at the University of Constance, where the philosophy department closely aligned with my academic interests.
 
 Despite feeling comfortable in Constance, after my first year, I decided to return to my original plan and transferred to LMU Munich, where I continued both my [[B.A. Philosophy (LMU)]] and [[B.Sc. Mathematics (LMU)]]. At LMU, I particularly enjoyed the [MCMP](https://www.mcmp.philosophie.uni-muenchen.de/index.html), attending various lectures. I became particularly close to [John Dougherty](https://www.mcmp.philosophie.uni-muenchen.de/people/faculty/dougherty_john/index.html), who supervised my [[B.A. Philosophy Thesis]], and [Alessandra Marra](https://www.mcmp.philosophie.uni-muenchen.de/people/faculty/marra_alessandra/index.html).
 
-In August 2024, I completed my [[B.A. Philosophy (LMU)]] before moving to Amsterdam to begin my [[M.Sc. Logic (UvA)]]. I also plan to return to Munich to complete the final exams required for my [[B.Sc. Mathematics (LMU)]].
+In August 2024, I completed my [[B.A. Philosophy (LMU)]] before moving to Amsterdam to begin my [[M.Sc. Logic (UvA)]] at the [[ILLC Amsterdam]]. I also plan to return to Munich to complete the final exams required for my [[B.Sc. Mathematics (LMU)]].
+
+During my first year of the M.Sc., I managed to complete the vast majority of the coursework necessary for the degree. This strategic planning has allowed me to dedicate my second year almost exclusively to my [[Master Thesis]] and related research projects, which can be conducted remotely.
+
+This newfound flexibility has enabled me to pursue other significant entrepreneurial projects outside of my [[Research Areas]], which I collect under [[ExAcademia]]. My primary focus for the current academic year is on two major ventures:
+* **[[ColivingLiguria]]**: A project dedicated to transforming traditional villas into vibrant hubs for remote workers, creatives, and entrepreneurs.
+* **[[Luna]]**: A manufacturing startup developing innovative, patented, and funded high-intensity portable lighting solutions.
