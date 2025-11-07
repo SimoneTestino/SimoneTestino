@@ -1,6 +1,7 @@
 ---
 title: Insegnamento di Logica, Matematica e Fisica
 date: 2025-09-04
+draft: false
 ---
 In questa pagina presento il mio percorso, un intreccio tra la passione per la **logica matematica** e la **filosofia** e l'esperienza pratica nella **didattica** e nello sviluppo di **[[ColivingLiguria|progetti imprenditoriali]]**.
 ### Formazione Accademica

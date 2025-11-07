@@ -23,7 +23,7 @@ This category includes roles focused on developing, managing, and creating value
 * **[[Mountain Bike Guide & Trail Designer]]**
     > Develop a new MTB trail network on our hillside, located right next to the world-famous Finale Ligure outdoor area. This is a business opportunity to act as our resident guide, attracting riders and building your own guiding venture.
 * **[[Climber Guide]]**
->	 We are looking for a certified Climbing Guide to join our community near Finale Ligure. This is a dual-role business opportunity: design and build on-site bouldering routes (on houses/trees) and launch your own independent guiding business for our residents and guests.
+	>We are looking for a certified Climbing Guide to join our community near Finale Ligure. This is a dual-role business opportunity: design and build on-site bouldering routes (on houses/trees) and launch your own independent guiding business for our residents and guests.
 
 ### Renovation & Design
 This category is for the hands-on creatives who will build and design our physical spaces.
