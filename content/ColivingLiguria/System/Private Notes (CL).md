@@ -20,3 +20,6 @@ Archicad instead of Fusion360
 Wednesday 9pm Sydney time. 
 
 Motherport 3D cloudof pooints to have every data of the thign.
+
+
+volontari tramite circoli sportivi o cose di questo tipo, magari ETS allinterno di CL?
