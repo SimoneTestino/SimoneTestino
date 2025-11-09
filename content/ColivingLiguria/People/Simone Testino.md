@@ -10,7 +10,7 @@ language: EN/IT
 > [!Abstract]
 > I am currently a Master's student in [[M.Sc. Logic (UvA)|Logic]] at the University of Amsterdam, having previously completed bachelors in [[B.Sc. Mathematics (LMU)|Mathematics]] and [[B.A. Philosophy (LMU)|Philosophy]] in Munich. I work fluently in Italian (native), [[CAE-English-Certificate-(C1).pdf|English (C1)]], and [[TestDaf-German-Certificate-(C1).pdf|German (C1)]].
 >
-> I have taken a gap year to found [[ColivingLiguria]] and [[Luna]]. I believe in radical transparency, sharing details about my professional ventures and [[Personal Finance]]. You can **book a call directly with me** by clicking [here](https://cal.com/simone.testino/colivingliguria-volunteer-meeting0).
+> I have taken a gap year to found [[ColivingLiguria]] and [[Luna]]. I believe in radical transparency, sharing details about my professional ventures and [[Personal Finance]]. You can **book a call directly with me** by clicking [here](https://cal.com/simone.testino/colivingliguria-volunteer-meeting).
 
 ### My Role in Coliving Liguria
 I am the **founder and sole owner** of Coliving Liguria. The venture is legally registered as an Italian sole proprietorship (*Ditta Individuale*) in my name, "Simone Testino". This means I bear full legal and financial responsibility for the project.
@@ -74,4 +74,4 @@ Puoi raggiungermi direttamente tramite i seguenti canali:
 
 **Prenota un Incontro:**
 Il modo più efficiente per discutere di collaborazioni o porre domande è prenotare una videochiamata direttamente nel mio calendario.
-* **[Clicca qui per prenotare una chiamata di 45 minuti con me](https://cal.com/simone.testino/colivingliguria-volunteer-meeting0)**
+* **[Clicca qui per prenotare una chiamata di 45 minuti con me](https://cal.com/simone.testino/colivingliguria-volunteer-meeting)**
