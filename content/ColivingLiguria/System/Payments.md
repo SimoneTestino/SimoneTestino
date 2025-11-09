@@ -40,7 +40,7 @@ Transparency is paramount. Every valid payment received by Coliving Liguria will
 * **Did not receive it?** If you do not receive this official PEC email within 24 hours of when you believe the funds should have arrived, please [[Contact]] me, [[ColivingLiguria/People/Simone Testino|Simone Testino]], immediately to verify the transaction.
 
 > [!Warning] Payment Claims against Us
-> Any payment request or claim of debt *against* Coliving Liguria must strictly follow our official **[[Payment Requests Procedure]]** via PEC or Registered Mail. Requests made through other channels will not be considered.
+> Any payment request or claim of debt *against* Coliving Liguria must strictly follow our official **[[Richieste di Pagamento non Autorizzate]]** via PEC or Registered Mail. Requests made through other channels will not be considered.
 
 ---
 
@@ -74,4 +74,4 @@ La trasparenza è fondamentale. Ogni pagamento valido ricevuto da Coliving Ligur
 
 
 > [!Warning] Richieste di Pagamento contro di Noi
-> Qualsiasi richiesta di pagamento o pretesa debitoria *nei confronti* di Coliving Liguria deve seguire rigorosamente la nostra **[[Payment Requests Procedure|Procedura Ufficiale]]** via PEC o Raccomandata. Le richieste effettuate tramite altri canali non saranno prese in considerazione.
+> Qualsiasi richiesta di pagamento o pretesa debitoria *nei confronti* di Coliving Liguria deve seguire rigorosamente la nostra **[[Richieste di Pagamento non Autorizzate|Procedura Ufficiale]]** via PEC o Raccomandata. Le richieste effettuate tramite altri canali non saranno prese in considerazione.

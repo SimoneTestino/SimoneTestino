@@ -1,9 +1,8 @@
 ---
 draft: false
-date: 2025-09-03
-title: Richieste di Pagamento non Autorizzate
+date: 2025-11-09
 ---
-(English below)
+--English below--
 
 La presente pagina definisce la procedura esclusiva e inderogabile per la presentazione di qualsiasi richiesta di pagamento o pretesa debitoria nei confronti di Simone Testino, sia in qualità di persona fisica sia come titolare dell'omonima ditta individuale.
 #### 1. Canali di Comunicazione Ammessi

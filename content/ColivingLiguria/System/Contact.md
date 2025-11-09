@@ -2,8 +2,9 @@
 draft: false
 date: 2025-11-09
 language: IT/EN
+title: Contacts
 ---
--- Italian below--
+-- Italiano sotto--
 
 > [!NOTE] Who manages contacts?
 > Currently, all communications for Coliving Liguria are managed directly by the founder, **[[ColivingLiguria/People/Simone Testino|Simone Testino]]**. While you can find further personal contact details on his page, we ask that you prioritize the official channels listed below for all project-related enquiries.
@@ -12,7 +13,7 @@ language: IT/EN
 For general questions, quick chats, or to introduce yourself before booking a formal meeting, the preferred channels are:
 * **Instagram:** DM us at [@colivingliguria](https://www.instagram.com/colivingliguria).
 * **WhatsApp:** Message [[ColivingLiguria/People/Simone Testino|Simone]] directly at `+39 339 637 9372`.
-* **Community:** Join our **[[Whatsapp Community]]** and ask general questions in the **Discussion Group**.
+* **Community:** Join our **[[Whatsapp Community]]** and ask general questions in the **Discussion Group**. **[Click here to join the ColivingLiguria Community](https://chat.whatsapp.com/KgBKR5mwW2QAqpmvcDosJO)**
 
 ### Formal Meetings & Collaborations
 Once you have made initial contact, the most efficient way to discuss complex topics or collaborations is to book a video call.
@@ -27,7 +28,7 @@ For formal communications, submitting documents, or legal matters:
 For bank details and instructions on how to make payments to us (e.g., security deposits, rent), please refer strictly to our **[[Payments]]** page.
 
 > [!Warning] Payment Claims against Us
-> Any payment request or claim of debt *against* Coliving Liguria must strictly follow our official **[[Payment Requests Procedure]]** via PEC or Registered Mail. Requests made through other channels will not be considered.
+> Any payment request or claim of debt *against* Coliving Liguria must strictly follow our official **[[Richieste di Pagamento non Autorizzate]]** via PEC or Registered Mail. Requests made through other channels will not be considered.
 
 ---
 
@@ -53,4 +54,4 @@ Per comunicazioni formali, invio di documenti o questioni legali:
 Per le coordinate bancarie e le istruzioni su come effettuare pagamenti a noi (es. depositi cauzionali, affitto), si prega di fare riferimento esclusivamente alla nostra pagina **[[Payments]]**.
 
 > [!Warning] Richieste di Pagamento contro di Noi
-> Qualsiasi richiesta di pagamento o pretesa debitoria *nei confronti* di Coliving Liguria deve seguire rigorosamente la nostra **[[Payment Requests Procedure|Procedura Ufficiale]]** via PEC o Raccomandata. Le richieste effettuate tramite altri canali non saranno prese in considerazione.
+> Qualsiasi richiesta di pagamento o pretesa debitoria *nei confronti* di Coliving Liguria deve seguire rigorosamente la nostra **[[Richieste di Pagamento non Autorizzate|Procedura Ufficiale]]** via PEC o Raccomandata. Le richieste effettuate tramite altri canali non saranno prese in considerazione.
