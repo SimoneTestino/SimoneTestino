@@ -1,5 +1,5 @@
 ---
-date: 2025-11-04
+date: 2025-11-09
 draft: false
 language: EN/IT
 ---
@@ -13,9 +13,9 @@ The best way to connect with us and follow our day-to-day progress is by joining
 * **[Click here to join our WhatsApp Community](https://chat.whatsapp.com/KgBKR5mwW2QAqpmvcDosJO?mode=wwt)**
 
 ### Our First Home: [[Ville Chiappella]]
-Our project is born from a desire to create a unique space where productivity, community, and nature converge. We are thrilled to announce that we have secured our first permanent property and main operational hub: **[[Ville Chiappella]]**! This villa will be the heart of our community, hosting our residents, activities, and startup projects, starting from **November 7th**.
+Our project is born from a desire to create a unique space where productivity, community, and nature converge. We are thrilled to announce that we have secured our first permanent property and main operational hub: **[[Ville Chiappella]]**! This villa will be the heart of our community, hosting our residents, activities, and startup projects, starting from **late November 2025**.
 
-You can follow our high-level progress on the main [[Calendar]].
+For the most accurate and up-to-date timeline, please always refer to the main **[[Calendar]]**.
 
 ### Activities, Courses & Projects
 Coliving Liguria is a hub for learning and adventure, with many activities driven by our residents.
@@ -49,9 +49,9 @@ Il modo migliore per connettersi con noi e seguire i nostri progressi quotidiani
 * **[Clicca qui per unirti al nostro gruppo WhatsApp](https://chat.whatsapp.com/J67Cds7idarLwZrJRNywQS?mode=ac_t)**
 
 ### La Nostra Prima Casa: [[Ville Chiappella]]
-Il nostro progetto nasce dal desiderio di creare uno spazio unico dove produttività, comunità e natura convergono. Siamo entusiasti di annunciare che ci siamo assicurati la nostra prima proprietà permanente e hub operativo principale: **[[Ville Chiappella]]**! Questa villa sarà il cuore della nostra comunità, ospitando i nostri residenti, le attività e i progetti di startup, a partire dal **7 novembre**.
+Il nostro progetto nasce dal desiderio di creare uno spazio unico dove produttività, comunità e natura convergono. Siamo entusiasti di annunciare che ci siamo assicurati la nostra prima proprietà permanente e hub operativo principale: **[[Ville Chiappella]]**! Questa villa sarà il cuore della nostra comunità, ospitando i nostri residenti, le attività e i progetti di startup, a partire da **fine novembre 2025**.
 
-Potete seguire i nostri progressi di alto livello sul [[Calendar]] principale.
+Per le tempistiche più precise e aggiornate, si prega di fare sempre riferimento al **[[Calendar]]** principale.
 
 ### Attività, Corsi e Progetti
 Coliving Liguria è un centro per l'apprendimento e l'avventura, con molte attività guidate dai nostri residenti.

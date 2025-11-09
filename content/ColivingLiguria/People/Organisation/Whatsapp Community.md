@@ -1,12 +1,12 @@
 ---
 draft: false
-date: 2025-10-04
+date: 2025-11-09
 language: IT/EN
 ---
 --- Italiano sotto ---
 
 The goal is to create an organised space where every member can find relevant information, participate in focused discussions, and feel part of a specific group without being overwhelmed by unrelated messages. The community is the main container, and by joining it, you will gain access to several groups organised by level of involvement. You can access the community from:
-*   **[Click here to join the ColivingLiguria Community](https://chat.whatsapp.com/KgBKR5mwW2QAqpmvcDosJO)**
+* [**Click here to join the Announcements Channel**](https://chat.whatsapp.com/KgBKR5mwW2QAqpmvcDosJO)**
 
 ### Group Structure: A Hierarchy of Involvement
 Our community is structured in levels. The first level is open to everyone, while access to higher levels is by invitation only, based on your active role in the project.
