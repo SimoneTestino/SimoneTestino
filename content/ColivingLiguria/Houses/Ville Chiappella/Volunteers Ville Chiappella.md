@@ -8,7 +8,7 @@ language: EN/IT
 
 > [!Abstract] Welcome to the Ville Chiappella Community!
 >
-> This page is for anyone interested in joining us at [[Ville Chiappella]], the first property complex of the [[ColivingLiguria]] project. This is a foundational project, and we are looking for people to join our community from the very beginning under rustic, hands-on conditions.
+> This page is for anyone interested in joining us at [[Ville Chiappella]], located near **Cairo Montenotte** (Savona). This is a foundational project, and we are looking for people to join our community from the very beginning under rustic, hands-on conditions.
 >
 > **Important:** This page is for general community residency. If you have specific professional skills (e.g., as a [[Carpenter]], [[Farmer]], [[Social Media Manager]], etc.), please see our **[[Openings]]** page for our dedicated partnership offers.
 
@@ -23,6 +23,11 @@ All updates will be posted in our announcement-only channel, which is part of ou
 To apply, you **must actively contact me directly**. My preferred contact methods are **Instagram (@colivingliguria)** or **WhatsApp (+39 339 637 9372)**. I will schedule a brief video call with prospective residents to get to know each other before sending the formal agreement.
 
 **Important:** No one is considered a confirmed resident until the official [[Contract for Residents]] has been signed.
+
+### Location & How to Get Here
+We are located in the tranquil Ligurian countryside.
+* **Where we are:** You can find full details about our surroundings on our **[[Location Ville Chiappella]]** page.
+* **Travel:** For detailed instructions on reaching us by plane, train, or bus, please read our **[[How to get here]]** guide carefully.
 
 ### What We Offer
 **1. Accommodation & Living Conditions:**
@@ -73,7 +78,7 @@ We have replaced our old "work-for-stay" model with a clear, legal residency fra
 
 > [!Abstract] Benvenuti nella Community di Ville Chiappella!
 >
-> Questa pagina è per chiunque sia interessato a unirsi a noi a [[Ville Chiappella]], il primo complesso immobiliare del progetto [[ColivingLiguria]]. Si tratta di un progetto fondativo e stiamo cercando persone che si uniscano alla nostra community fin dall'inizio, in condizioni rustiche e con un approccio pratico.
+> Questa pagina è per chiunque sia interessato a unirsi a noi a [[Ville Chiappella]], situata vicino a **Cairo Montenotte** (Savona). Si tratta di un progetto fondativo e stiamo cercando persone che si uniscano alla nostra community fin dall'inizio, in condizioni rustiche e con un approccio pratico.
 >
 > **Importante:** Questa pagina è per la residenza comunitaria generica. Se hai competenze professionali specifiche (ad es. come [[Carpenter]], [[Farmer]], [[Social Media Manager]], ecc.), consulta la nostra pagina **[[Openings]]** per le nostre offerte di partnership dedicate.
 
@@ -88,6 +93,11 @@ Tutti gli aggiornamenti saranno pubblicati nel nostro canale di soli annunci, ch
 Per candidarsi, è necessario **contattarmi attivamente e direttamente**. I miei contatti preferiti sono **Instagram (@colivingliguria)** o **WhatsApp (+39 339 637 9372)**. Organizzerò una breve videochiamata con i potenziali residenti per conoscerci prima di inviare l'accordo formale.
 
 **Importante:** Nessuno è da considerarsi un residente confermato fino a quando il [[Contract for Residents|Contratto per Residenti]] ufficiale non è stato firmato.
+
+### Posizione e Come Arrivare
+Siamo situati nella tranquilla campagna ligure.
+* **Dove siamo:** Puoi trovare tutti i dettagli sui nostri dintorni nella nostra pagina **[[Location Ville Chiappella]]**.
+* **Viaggio:** Per istruzioni dettagliate su come raggiungerci in aereo, treno o autobus, leggi attentamente la nostra guida **[[How to get here]]**.
 
 ### Cosa Offriamo
 **1. Alloggio e Condizioni di Vita:**
@@ -106,4 +116,30 @@ Per candidarsi, è necessario **contattarmi attivamente e direttamente**. I miei
 
 **5. Servizi:**
 * **Internet**: Una connessione ADSL con velocità tra i **100 e i 200 Mbps** sarà disponibile quasi fin da subito.
-* **Elettricità e Riscaldamento**: Ci sarà una **stazione di rica
+* **Elettricità e Riscaldamento**: Ci sarà una **stazione di ricarica comune**. Il riscaldamento iniziale sarà tramite una **stufa a legna**.
+
+**6. Hai una Competenza Specifica o un'Idea di Business?**
+* Accogliamo con particolare favore le persone intraprendenti. Se hai competenze come [[Farmer]], [[Gardener]], [[Web Designer]], [[Carpenter]], ecc., controlla prima la nostra pagina **[[Openings]]**!
+* Se hai un'idea di business diversa che vorresti sviluppare, scopri come darle vita sulla nostra pagina **[[Propose a Project]]**.
+
+### Cosa Ci Aspettiamo (Il Quadro Legale)
+È essenziale comprendere la natura legale del tuo soggiorno. Sebbene usiamo colloquialmente il termine "volontario", legalmente la tua residenza è regolata da un contratto formale.
+
+**1. La Missione: Vita Comunitaria**
+* Il tuo contributo principale come residente generico è essere un membro attivo e positivo della community.
+* Ciò include la partecipazione alla vita quotidiana, come cucinare, pulire, fare la spesa e curare la stufa a legna.
+* Questo è legalmente definito come **[[Manutenzione Ordinaria]]** ed è un obbligo contrattuale per tutti i residenti che vivono nello spazio.
+
+**2. Cosa NON è Incluso (Il Limite Legale)**
+* Per chiare ragioni legali e di sicurezza, ai residenti è **severamente vietato** svolgere qualsiasi compito che si qualifichi come **[[Manutenzione Straordinaria]]**.
+* Ciò include ristrutturazioni strutturali, lavori tecnici (elettrici, idraulici) o qualsiasi costruzione. Questo lavoro qualificato è riservato *solo* a professionisti qualificati (come il nostro [[Carpenter]]) o al proprietario, [[ColivingLiguria/People/Simone Testino]].
+
+**3. La Nostra Offerta di Residenza**
+Abbiamo sostituito il nostro vecchio modello "lavoro in cambio di alloggio" con un quadro di residenza legale chiaro. Non offriamo più una posizione di "volontario a tempo pieno" per 25-30 ore di lavoro.
+* **Offerta Residente Standard:** Offriamo un'opzione di residenza part-time con un piccolo canone di affitto di **meno di 200€ a persona** al mese. Questo copre il tuo soggiorno e il tuo contributo è focalizzato sulla [[Manutenzione Ordinaria|vita comunitaria]], non su un numero fisso di ore di lavoro.
+* **Soggiorno Breve (< 30 giorni):** Offriamo anche un'opzione a breve termine per **30€ a settimana** per coprire i costi delle utenze.
+* **Nota:** Ai professionisti qualificati che si candidano per un ruolo sulla nostra pagina [[Openings]] potrebbero essere offerti modelli diversi, incluso l'alloggio gratuito (`comodato`).
+
+### Requisiti
+* **Indipendenza Finanziaria (Richiesta)**: Poiché tutti gli accordi di residenza possono essere risolti, è **obbligatorio dimostrare di avere mezzi finanziari sufficienti per essere completamente indipendenti**.
+* **Requisiti Amministrativi**: Per formalizzare il [[Contract for Residents]], devi fornire una copia di un **documento d'identità valido** (carta d'identità o passaporto) e avere una tua **assicurazione sanitaria** valida in Italia.

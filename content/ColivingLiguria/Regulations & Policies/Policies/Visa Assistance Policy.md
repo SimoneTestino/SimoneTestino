@@ -2,6 +2,7 @@
 draft: false
 date: 2025-08-04
 language: EN
+title: Standard Visa Assistance Policy
 ---
 > [!Abstract]
 > This page outlines our position on visa assistance. In short: **we do not offer visa sponsorship or employment contracts**. Please do not contact us via WhatsApp or Instagram regarding visa enquiries if you do not already have one. The only way to propose a visa path is via a complete email application, as detailed below. This page explains the only potential, complex, and applicant-driven path that may exist.
