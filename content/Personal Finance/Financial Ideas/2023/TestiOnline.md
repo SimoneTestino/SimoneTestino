@@ -3,7 +3,7 @@ draft: true
 ---
 
 
-Be aware that sources of this page are in Italian only, the reason will be obvious. If needed, here are my [[4. System/Contacts/Contacts]].
+Be aware that sources of this page are in Italian only, the reason will be obvious. If needed, here are my [[Contacts]].
 ### Business Plan
 #### Context
 In Italy from the middle school to the end of the high school (3+5 years) each family is financially responsible for the expences on school books; per scholar per year those are exitmated to be 481€ ([Federconsumatori](https://www.federconsumatori.it/scuola-per-ogni-ragazzo-si-spenderanno-mediamente-57160-euro-per-il-corredo-scolastico-43-rispetto-al-2021-e-48104-euro-per-i-libri/) quoted by [Sole24Ore](https://alleyoop.ilsole24ore.com/2022/09/13/scuola-spese/?refresh_ce=1)). This value is result of the average of _new_ books from schools of all sorts: middle school, tecnici and licei. Buying used books decreases the costs by 24% (ibid.) even though this isn't possible for many students who are required to buy the newest editions. The expences for new books have increased yoy by 4.3% due to the well-known inflation trends.

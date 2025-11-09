@@ -35,7 +35,7 @@ The following conditions are _not mandatory_ but highly recommended and will be 
 That said, it is important to emphasise that **all candidates** are encouraged to apply! Being highly motivated to move to a new country and start the job is the main quality I am looking for.
 
 > [!Question] You have any Questions?
-> Feel always free to contact me, here you find my [[4. System/Contacts/Contacts]]
+> Feel always free to contact me, here you find my [[Contacts]]
 ### The Application Process
 To complete your application, send an email to [simone.testino@gmail.com](mailto:simone.testino@gmail.com) containing the required documents.
 

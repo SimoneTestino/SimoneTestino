@@ -16,7 +16,7 @@ In this page you can find all details currently available on the house I will re
 #### 🏠 **House Details**:
 - Indoor + terrace: $90m^2 + 20m^2$, 
 -  3 bedrooms, living room (potential bedroom), dining room (my future bedroom), kitchen and bathroom.
-- Here is the complete layout: [[Layout_Amsterdam.pdf]], a video tour is also available ([[4. System/Contacts/Contacts]]).
+- Here is the complete layout: [[Layout_Amsterdam.pdf]], a video tour is also available ([[Contacts]]).
 - Location: Amsterdam 1051 HM, ([Maps](https://maps.app.goo.gl/4ieBqnxZZ5cFQNMT6?g_st=ic)).
 - Fully furnished, to the last cup; walls will be painted before arrival.
 - Utilities are included in the price, any repair will be handled by the housemaster living on the next door.

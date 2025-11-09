@@ -15,7 +15,7 @@ For more details about the location and nearby attractions, check out [[Sublet L
 #### 💸 Booking Information
 For rates and reservation details, including deposit and special rates for longer stays, visit [[Sublet Rates]]. Staying longer or with other people attracts significant savings compared to typical hostels. If you are interested in a long term stay, then the price will be around to 600€/month.
 
-_To complete your booking, please provide a scan of your documents_, you can send the to me through: [[4. System/Contacts/Contacts]]. To be sure that the room will be reserved for you, you will need to transfer 200€ [[Sublet Rates#💰 Deposit]], it will be refunded at the end of the stay.
+_To complete your booking, please provide a scan of your documents_, you can send the to me through: [[Contacts]]. To be sure that the room will be reserved for you, you will need to transfer 200€ [[Sublet Rates#💰 Deposit]], it will be refunded at the end of the stay.
 ## 🛏️ What’s Included with Your Stay
 - 🍳 Access to a shared kitchen with reserved fridge storage.
 - 🚿 Bathroom facilities (shower and toilet) shared with just one other student.

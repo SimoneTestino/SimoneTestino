@@ -1,4 +1,4 @@
-This page is about a field of mathematics which _should exist_ but which I did not hear about yet, if anyone reading this page has ever heard about literature in a field that has even some similarities with this, please contact me, [[4. System/Contacts/Contacts]].
+This page is about a field of mathematics which _should exist_ but which I did not hear about yet, if anyone reading this page has ever heard about literature in a field that has even some similarities with this, please contact me, [[Contacts]].
 
 For now I limit myself to write no more than [[Closure Theory#The Intuition]] in the hope that I will encounter literature directly facing these issues soon; if that will turn out not to be the case, I will then provide some formalisms to the intuition.
 #### The Intuition
