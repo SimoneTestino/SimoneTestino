@@ -1,27 +1,27 @@
 ---
 draft: false
-date: 2025-08-04
-language: EN
+date: 2025-11-09
+language: EN/FR/AR
 title: Standard Visa Assistance Policy
 ---
+--Français ci-dessous--
+
+--العربية أدناه--
+
 > [!Success] Looking for Professional Support?
-> We offer a specialised, paid consultancy service for complex visa applications. If you want personalised guidance to maximise your chances, please see our **[[Premium Visa Assistance|Visa Premium Assistance]]**.
+> We offer a specialised, paid consultancy service for complex visa applications. If you want personalised guidance to maximise your chances, please see our **[[Visa Premium Assistance]]**.
 >
 > If you choose not to use our premium service, you must strictly follow the standard, self-service procedure outlined on this page.
 
----
 > [!Success] Vous recherchez un soutien professionnel ?
 > Nous offrons un service de conseil payant et spécialisé pour les demandes de visa complexes. Si vous souhaitez bénéficier de conseils personnalisés pour maximiser vos chances, veuillez consulter notre **[[Premium Visa Assistance|Assistance Visa Premium]]**.
 >
 > Si vous choisissez de ne pas utiliser notre service premium, vous devez suivre strictement la procédure standard en libre-service décrite sur cette page.
 
----
 > [!Success] هل تبحث عن دعم مهني؟
 > نحن نقدم خدمة استشارية متخصصة ومدفوعة لطلبات التأشيرة المعقدة. إذا كنت ترغب في الحصول على توجيه شخصي لزيادة فرصك، يرجى الاطلاع على **[[Premium Visa Assistance|مساعدة التأشيرة المميزة]]** الخاصة بنا.
 >
 > إذا اخترت عدم استخدام خدمتنا المميزة، يجب عليك اتباع الإجراءات القياسية الموضحة في هذه الصفحة بدقة.
-
---Français ci-dessous--
 
 > [!Abstract]
 > This page outlines our standard position on visa assistance. In short: **we do not offer visa sponsorship or employment contracts**. Please do not contact us via WhatsApp or Instagram regarding visa enquiries if you do not already have one. The only way to propose a visa path without using our paid consultancy is via a complete email application, as detailed below. This page explains the only potential, complex, and applicant-driven path that may exist.
@@ -72,8 +72,6 @@ Once you have gathered these results and sent your complete application, we can 
 
 ---
 
-
-
 > [!Abstract]
 > Cette page décrit notre position standard sur l'assistance visa. En bref : **nous n'offrons pas de parrainage de visa ni de contrats de travail**. Veuillez ne pas nous contacter via WhatsApp ou Instagram concernant des demandes de visa si vous n'en avez pas déjà un. La seule façon de proposer une voie de visa sans utiliser notre conseil payant est via une candidature par email complète, comme détaillé ci-dessous. Cette page explique la seule voie potentielle, complexe et à l'initiative du candidat qui pourrait exister.
 
@@ -120,3 +118,52 @@ Votre email de candidature **doit** joindre tous les documents suivants au **for
 **Une note finale et cruciale sur votre Lettre de Motivation :** L'utilisation de l'IA (Intelligence Artificielle) pour rédiger toute partie de votre candidature est strictement interdite. Nous utilisons des outils pour détecter les textes générés par IA. Si votre candidature est signalée, elle sera automatiquement et définitivement rejetée. Nous voulons entendre *votre* voix.
 
 Une fois que vous aurez rassemblé ces résultats et envoyé votre candidature complète, nous pourrons alors programmer un appel pour discuter de la marche à suivre.
+
+---
+
+> [!Abstract]
+> توضح هذه الصفحة موقفنا القياسي بشأن المساعدة في الحصول على التأشيرة. باختصار: **نحن لا نقدم رعاية للتأشيرة أو عقود عمل**. يرجى عدم الاتصال بنا عبر WhatsApp أو Instagram بخصوص استفسارات التأشيرة إذا لم يكن لديك واحدة بالفعل. الطريقة الوحيدة لاقتراح مسار للحصول على تأشيرة دون استخدام استشارتنا المدفوعة هي من خلال طلب بريد إلكتروني كامل، كما هو مفصل أدناه. تشرح هذه الصفحة المسار المحتمل الوحيد والمعقد والذي يعتمد على مقدم الطلب والذي قد يكون موجودًا.
+
+### ملاحظة حول التأشيرات: إطارنا القانوني
+مرحبًا بك في ColivingLiguria. نحن نتفهم أن التنقل في إجراءات الدخول إلى إيطاليا للمواطنين من خارج الاتحاد الأوروبي أمر معقد، لذا نود أن نكون واضحين للغاية منذ البداية.
+
+نحن مشروع قائم على الشراكة والإقامة، وليس التوظيف التقليدي. يوقع جميع المقيمين لدينا، بغض النظر عن مساهمتهم، على [[Contract for Residents|عقد للمقيمين]]، وهو `Contratto di Locazione` (اتفاقية إيجار) مسجلة قانونيًا. تحدد هذه الوثيقة أنك مستأجر، ولست موظفًا، وبالتالي فهي **ليست** أساسًا صالحًا لطلب تأشيرة عمل قياسي، حسب علمنا.
+
+نحن **لا** نقدم عقود عمل، ولا يمكننا استخدام صفة "متطوع" للدخول القانوني، كما هو مفصل في سياسة [[Limiti Legali del Volontariato|الحدود القانونية للتطوع]] الخاصة بنا.
+
+### المسار المحتمل الوحيد: شراكة العمل الحر
+بينما لا نقدم وظائف، فإن العديد من [[Openings|الفرص المتاحة]] لدينا (مثل [[Farmer|مزارع]]، أو [[Mountain Bike Guide & Trail Designer|مرشد دراجات جبلية ومصمم مسارات]]، أو [[Italian Teacher|مدرس لغة إيطالية]]) مصممة كفرص عمل مستقلة. هنا قد توجد حالة محتملة، وإن كانت "حدية".
+
+سيتضمن هذا المسار انتقالك إلى إيطاليا بتأشيرة **عمل حر (النوع D)**، وفتح `Partita IVA` الإيطالية الخاصة بك (ضريبة القيمة المضافة/تسجيل التاجر الوحيد)، وتشغيل مشروعك كشريك مستقل لـ ColivingLiguria. يمكننا تقديم عقد شراكة يوضح تفاصيل إقامتك (غرفة نومك) ويحدد إطار العمل لك لتوليد دخلك الخاص من خلال مشروعك التابع.
+
+*قد* يكون هذا أساسًا قابلاً للتطبيق للحصول على تأشيرة، ولكن تقع على عاتقك مسؤولية البحث عنه بدقة. يمكنك العثور على ملاحظات فنية مفصلة حول متطلبات هذه التأشيرة المحددة على صفحتنا المخصصة: **[[Visto per Lavoro Autonomo|معلومات تأشيرة العمل الحر]]**.
+
+يرجى تفهم أنني، بصفتي المؤسس، أدير العديد من جوانب هذا المشروع، والتنقل في هذا المسار القانوني المعقد مجانًا بعيد جدًا عن كونه أولوية بالنسبة لي. ومع ذلك، إذا كان *لديك* الدافع والوقت والكفاءة لتكريس نفسك لذلك، فمن الواقعي أن تتمكن من الوصول إلى هنا بهذه الطريقة.
+
+### كيفية التقديم: اقتراح التأشيرة الرسمي
+نتلقى عددًا كبيرًا من الاستفسارات يوميًا. لهذا السبب، **سيتم النظر فقط في الطلبات المثالية والكاملة التي تتبع كل تعليمات.**
+
+إذا كنت تعتقد أن لديك مسارًا قانونيًا قابلاً للتطبيق، فيجب عليك إرسال طلب واحد كامل عبر البريد الإلكتروني.
+
+* **إلى:** `colivingliguria@gmail.com`
+* **الموضوع:** `Visa Assistance Request - Complete Application`
+
+لا تتصل بنا على WhatsApp أو Instagram قبل إرسال هذا، أو للسؤال عن "كيفية" القيام بذلك. يمكنك الاتصال بنا فقط *بعد* إرسال البريد الإلكتروني، أو للحصول على توضيح سريع إذا لزم الأمر تمامًا.
+
+يجب أن يرفق بريدك الإلكتروني للطلب جميع المستندات التالية بتنسيق **PDF**. إذا كان هناك مستند واحد مفقود، فسيتم استبعاد طلبك تلقائيًا.
+
+#### قائمة مراجعة الطلب (جميع الملفات بصيغة PDF):
+
+1.  **الاقتراح القانوني (PDF):** وثيقة رسمية، تستند إلى مصادر قانونية إيطالية يمكن التحقق منها (مع الإشارة إلى **[[Visto per Lavoro Autonomo|ملاحظاتنا الفنية]]** حيثما كان ذلك مناسبًا)، والتي تحدد بوضوح مسار التأشيرة المحدد الذي تقترحه. يجب أن تذكر *بالضبط* الوثائق التي تحتاجها مني (على سبيل المثال، بند محدد في عقد الشراكة الخاص بنا).
+2.  **نسخة للقنصلية (CC):** يجب عليك إرسال نسخة (CC) إلى أقرب قنصلية/سفارة إيطالية لك في البريد الإلكتروني. هذا من أجل الشفافية، حتى يتمكنوا من التحقق من أن الأساس القانوني المقترح الخاص بك معقول. (إرفاق بيان مكتوب من محامٍ إيطالي يشهد على اقتراحك مفيد للغاية).
+3.  **سيرتك الذاتية الكاملة (PDF):** سيرتك الذاتية المهنية والأكاديمية.
+4.  **المؤهل الأكاديمي (PDF):** مسح رقمي لأعلى مؤهل أكاديمي لديك (على سبيل المثال، دكتوراه، ماجستير، بكالوريوس، أو دبلوم المدرسة الثانوية).
+5.  **رسالة الدافع (PDF):** رسالة من صفحة A4 واحدة. هذه الرسالة حاسمة. يجب أن تثبت أن لديك فهمًا عميقًا وشاملاً لمشروع ColivingLiguria من خلال قراءة هذا الموقع الإلكتروني (على سبيل المثال، [[Ville Chiappella]]، [[Openings|الفرص المتاحة]]، إطارنا القانوني). يجب أن تشرح بالضبط سبب رغبتك في الانضمام، والدور الذي تنوي شغله، والمهارات التي تجلبها إليه.
+6.  **إثبات اللغة الإنجليزية B2 (PDF أو رابط):** يجب عليك إثبات مستوى اللغة الإنجليزية B2 كحد أدنى. يرجى تقديم *واحد* مما يلي:
+    * مسح لشهادة لغة رسمية (PDF).
+    * رابط لفيديو تقديمي قصير لنفسك باللغة الإنجليزية (على سبيل المثال، رابط YouTube غير مدرج أو رابط Google Drive، مدرج في بريدك الإلكتروني).
+    * بدلاً من ذلك، يمكنك إرسال ملاحظة صوتية عبر WhatsApp تقدم فيها نفسك إلى `+39 339 637 9372` *قبل* إرسال البريد الإلكتروني مباشرة.
+
+**ملاحظة أخيرة وحاسمة حول رسالة الدافع الخاصة بك:** يُحظر تمامًا استخدام الذكاء الاصطناعي (AI) لكتابة أي جزء من طلبك. نحن نستخدم أدوات للكشف عن النصوص التي تم إنشاؤها بواسطة الذكاء الاصطناعي. إذا تم الإبلاغ عن طلبك، فسيتم استبعاده تلقائيًا وبشكل دائم. نحن نريد سماع *صوتك*.
+
+بمجرد جمع هذه النتائج وإرسال طلبك الكامل، يمكننا بعد ذلك تحديد موعد لمكالمة لمناقشة كيفية المضي قدمًا.
