@@ -1,10 +1,10 @@
 ---
-draft:
+draft: false
 date: 2025-11-09
-language: EN/FR
-title:
+language: EN/FR/AR
 ---
 --Français ci-dessous--
+--العربية أدناه--
 
 > [!Abstract]
 > Based on our extensive research into Italian immigration law (see our technical notes on **[[Visto per Turista|Tourist Visa Information]]** and **[[Visto per Lavoro Autonomo|Self-Employment Visa Information]]**), Coliving Liguria is uniquely positioned to assist prospective residents with their visa applications.
@@ -12,7 +12,7 @@ title:
 > While we cannot guarantee visa approval, we offer a specialized consultancy service to maximize your chances of success within the legal framework of our **[[Contract for Residents]]**. This is a paid, premium service separate from standard residency.
 
 ### Why a Paid Service?
-Navigating the complexities of Italian bureaucracy requires significant time, expertise, and personalised attention. As the founder, my time is currently divided between managing the renovation, coordinating the community, and my other professional activities, such as **[[Business Consultancy]]** and **[[Me as a Teacher|Private Teaching]]**, for which my standard rate is already **€30/hour net**.
+Navigating the complexities of Italian bureaucracy requires significant time, expertise, and personalized attention. As the founder, my time is currently divided between managing the renovation, coordinating the community, and my other professional activities, such as **[[Business Consultancy]]** and **[[Me as a Teacher|Private Teaching]]**, for which my standard rate is already **€30/hour net**.
 
 To offer this high-level, personalised visa assistance, I must dedicate specific working hours away from these other priorities. Therefore, this service is charged at **€40/hour (gross)** to cover taxes and administrative costs.
 
@@ -75,3 +75,39 @@ Notre conseil est conçu pour vous fournir une évaluation complète et une stra
 3.  **Confirmation :** Une fois le paiement reçu, vous recevrez un email de confirmation formel et nous programmerons notre première session de consultation.
 
 Veuillez noter : Ce service ne garantit **pas** l'obtention d'un visa. Nous nous engageons à fournir la meilleure assistance professionnelle possible dans les limites légales et les intérêts de Coliving Liguria (voir **[[Admission Priorities|Priorités d'Admission]]** et **[[Regulations|Règlements]]**).
+
+---
+
+> [!Abstract]
+> بناءً على أبحاثنا المكثفة في قانون الهجرة الإيطالي (انظر ملاحظاتنا الفنية حول **[[Visto per Turista|معلومات تأشيرة السياحة]]** و **[[Visto per Lavoro Autonomo|معلومات تأشيرة العمل الحر]]**)، يتمتع Coliving Liguria بموقع فريد لمساعدة المقيمين المحتملين في طلبات التأشيرة الخاصة بهم.
+>
+> على الرغم من أننا لا نستطيع ضمان الموافقة على التأشيرة، إلا أننا نقدم خدمة استشارية متخصصة لزيادة فرص نجاحك إلى أقصى حد ضمن الإطار القانوني لـ **[[Contract for Residents|عقد المقيمين]]** الخاص بنا. هذه خدمة متميزة ومدفوعة، ومنفصلة عن الإقامة القياسية.
+
+### لماذا هي خدمة مدفوعة؟
+يتطلب التنقل في تعقيدات البيروقراطية الإيطالية وقتًا وخبرة واهتمامًا شخصيًا. بصفتي المؤسس، ينقسم وقتي حاليًا بين إدارة التجديدات، وتنسيق المجتمع، وأنشطتي المهنية الأخرى، مثل **[[Business Consultancy|استشارات الأعمال]]** و **[[Me as a Teacher|التدريس الخاص]]**، والتي يبلغ سعري القياسي لها بالفعل **30 يورو/ساعة صافي**.
+
+لتقديم هذه المساعدة عالية المستوى والشخصية في مجال التأشيرات، يجب أن أخصص ساعات عمل محددة بعيدًا عن هذه الأولويات الأخرى. لذلك، يتم احتساب هذه الخدمة بسعر **40 يورو/ساعة (إجمالي)** لتغطية الضرائب والتكاليف الإدارية.
+
+### باقة الخدمة
+تم تصميم استشاراتنا لتزويدك بتقييم شامل واستراتيجية تقديم قوية. تشمل الخدمة القياسية:
+* **التقييم الأولي:** مراجعة تفصيلية لوضعك الشخصي والمهني والمالي لتحديد مسار التأشيرة الأكثر قابلية للتطبيق (سياحة أو عمل حر).
+* **إعداد المستندات:** المساعدة في جمع وتنسيق جميع المستندات اللازمة، بما في ذلك **[[Contract for Residents|عقد مقيمين]]** مسجل ومخصص يثبت الدفع المسبق للإقامة والمعيشة.
+* **استراتيجية التقديم:** توجيه حول كيفية تقديم قضيتك إلى السفارة لمعالجة "مخاطر الهجرة" بشكل فعال (انظر **[[Visto per Turista|معلومات تأشيرة السياحة]]**).
+
+### الأسعار وشروط الدفع
+* **الحد الأدنى:** تتطلب الخدمة كتلة أولية لا تقل عن **5 ساعات**، وهي كافية عادةً للتقييم القياسي وإعداد المستندات لمقدم طلب واحد.
+* **السعر القياسي:** 40 يورو/ساعة × 5 ساعات = **200 يورو**.
+* **الدفع:** يجب دفع كامل مبلغ الكتلة الدنيا **مقدمًا** قبل بدء أي عمل.
+* **ساعات إضافية:** إذا كانت قضيتك معقدة بشكل خاص وتتطلب أكثر من 5 ساعات، فسيتم احتساب الوقت الإضافي بالسعر القياسي للساعة، والمتفق عليه مسبقًا.
+
+> [!Success] عرض إطلاق لفترة محدودة!
+> نظرًا لأننا نطلق هذه الخدمة للتو، نقدم **خصمًا بنسبة 50٪** لأول أسبوعين.
+> * **سعر العرض:** **100 يورو** لكتلة الـ 5 ساعات الأولية.
+> * **الموعد النهائي:** هذا العرض ساري للمدفوعات المستلمة قبل **الأحد 23 نوفمبر 2025، الساعة 23:59 بتوقيت وسط أوروبا (CET)**.
+
+### كيفية حجز الخدمة
+1.  **إجراء الدفع:** قم بتحويل المبلغ بالكامل (100 يورو قبل 23 نوفمبر، 200 يورو بعد ذلك) باتباع التعليمات الدقيقة على صفحة **[[Payments|المدفوعات]]** الخاصة بنا.
+2.  **مرجع الدفع الإلزامي:** يجب عليك تضمين الوصف التالي (باللغة الإنجليزية) في تحويلك البنكي: `"Visa Consultancy Service for [Your Name]"`
+3.  **التأكيد:** بمجرد استلام الدفع، ستتلقى بريدًا إلكترونيًا رسميًا للتأكيد وسنحدد موعدًا لجلسة الاستشارة الأولى.
+
+يرجى الملاحظة: هذه الخدمة **لا** تضمن الحصول على تأشيرة. نحن نلتزم بتقديم أفضل مساعدة مهنية ممكنة ضمن الحدود القانونية ومصالح Coliving Liguria (انظر **[[Admission Priorities|أولويات القبول]]** و **[[Regulations|اللوائح]]**).

@@ -5,19 +5,19 @@ language: EN
 title: Standard Visa Assistance Policy
 ---
 > [!Success] Looking for Professional Support?
-> We offer a specialised, paid consultancy service for complex visa applications. If you want personalised guidance to maximise your chances, please see our **[[Visa Consultancy to-share|Visa Premium Assistance]]**.
+> We offer a specialised, paid consultancy service for complex visa applications. If you want personalised guidance to maximise your chances, please see our **[[Premium Visa Assistance|Visa Premium Assistance]]**.
 >
 > If you choose not to use our premium service, you must strictly follow the standard, self-service procedure outlined on this page.
 
 ---
 > [!Success] Vous recherchez un soutien professionnel ?
-> Nous offrons un service de conseil payant et spécialisé pour les demandes de visa complexes. Si vous souhaitez bénéficier de conseils personnalisés pour maximiser vos chances, veuillez consulter notre **[[Visa Consultancy to-share|Assistance Visa Premium]]**.
+> Nous offrons un service de conseil payant et spécialisé pour les demandes de visa complexes. Si vous souhaitez bénéficier de conseils personnalisés pour maximiser vos chances, veuillez consulter notre **[[Premium Visa Assistance|Assistance Visa Premium]]**.
 >
 > Si vous choisissez de ne pas utiliser notre service premium, vous devez suivre strictement la procédure standard en libre-service décrite sur cette page.
 
 ---
 > [!Success] هل تبحث عن دعم مهني؟
-> نحن نقدم خدمة استشارية متخصصة ومدفوعة لطلبات التأشيرة المعقدة. إذا كنت ترغب في الحصول على توجيه شخصي لزيادة فرصك، يرجى الاطلاع على **[[Visa Consultancy to-share|مساعدة التأشيرة المميزة]]** الخاصة بنا.
+> نحن نقدم خدمة استشارية متخصصة ومدفوعة لطلبات التأشيرة المعقدة. إذا كنت ترغب في الحصول على توجيه شخصي لزيادة فرصك، يرجى الاطلاع على **[[Premium Visa Assistance|مساعدة التأشيرة المميزة]]** الخاصة بنا.
 >
 > إذا اخترت عدم استخدام خدمتنا المميزة، يجب عليك اتباع الإجراءات القياسية الموضحة في هذه الصفحة بدقة.
 
