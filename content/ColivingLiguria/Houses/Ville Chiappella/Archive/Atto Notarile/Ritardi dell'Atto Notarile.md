@@ -1,5 +1,5 @@
 ---
-date: 2025-11-06
+date: 2025-11-11
 draft: false
 language: IT/EN
 ---
@@ -22,22 +22,26 @@ Il 4 novembre, *La Commercialista* che segue i venditori ci ha informato di una 
 
 Questa procedura non era stata avviata per tempo, poiché pare che *l'Amministratore di Sostegno* sia stato informato della data dell'atto solo il 31 ottobre.
 
-### Stato Attuale e Prospettive Future
+### Stato Attuale e Prospettive Future (Aggiornamento 11 Novembre)
 
-Oggi, 6 novembre, *l'avvocatessa* ha confermato che sta depositando l'istanza formale al *Giudice Tutelare*.
+A seguito delle ultime comunicazioni, lo scenario è cambiato:
 
-Per accelerare i tempi, l'istanza verrà depositata **senza** la *perizia giurata* (una stima giurata del valore) che normalmente sarebbe richiesta. Al suo posto, verranno allegate fotografie, citando "l'urgenza e l'evidente stato di dissesto dell'immobile".
+* **Perizia Obbligatoria:** *L'avvocatessa* ha confermato che il tentativo di procedere senza perizia non è andato a buon fine. È **necessaria una perizia di stima** formale per poter presentare l'istanza al *Giudice Tutelare*.
 
-Domani mattina (7 novembre), *l'avvocatessa* parlerà direttamente con *il Giudice* per chiedere se si possa formalmente evitare la perizia.
+* **Gestione Incarico:** *La parte acquirente* ha contattato *un tecnico* di fiducia (geometra) per la redazione della perizia. I costi di tale perizia saranno a carico *dell'Amministratore di Sostegno*.
 
-Le tempistiche previste ora dipendono da questa decisione:
+* **Punti Sospesi:** Per procedere, si è in attesa di due informazioni chiave da parte *dell'avvocatessa*:
+    1.  Se la perizia debba essere **giurata** o se sia sufficiente una stima firmata da *un tecnico* abilitato.
+    2.  I dati di contatto *dell'Amministratore di Sostegno*, necessari *al tecnico* per inviargli il preventivo formale per l'incarico.
 
-1.  **Scenario A (Nessuna Perizia Richiesta):** Se *il Giudice* accetta di procedere senza perizia, l'autorizzazione potrebbe essere rilasciata in circa **due settimane**.
-2.  **Scenario B (Perizia Richiesta):** Se *il Giudice* ritiene la perizia necessaria, i tempi si allungheranno significativamente, poiché dovrà essere incaricato *un tecnico*.
+* **Tempistiche Previste:**
+    1.  **Perizia:** *Il tecnico* stima di poter completare la perizia in circa 10 giorni dal momento dell'accettazione del preventivo.
+    2.  **Offerta:** Una volta ricevuto il valore dalla perizia, *la parte acquirente* dovrà formulare un'offerta congrua per l'acquisto della quota della *proprietaria anziana*.
+    3.  **Giudice:** Tutta la documentazione (perizia e offerta) verrà inviata al *Giudice Tutelare* per l'approvazione. Le tempistiche per la decisione *del Giudice* non sono al momento note.
 
-La data target del **26 novembre** rimane quindi provvisoria e dipende interamente dallo Scenario A. Resta inoltre da confermare che *il Giudice* approvi i termini dell'accordo (la vendita a prezzo simbolico) per la quota della *proprietaria anziana*.
+* **Data Atto (26 Novembre):** Sebbene non ancora formalmente cancellata, la data del 26 novembre è da considerarsi **altamente improbabile**, visti i passaggi tecnici (preventivo, perizia) e legali (approvazione *Giudice*) ancora necessari.
 
-Questa pagina verrà aggiornata non appena riceveremo risposte definitive.
+Questa pagina verrà aggiornata non appena si otterranno risposte ai punti sospesi.
 
 ---
 
@@ -58,19 +62,23 @@ On 4 November, *La Commercialista* (the accountant) representing the sellers inf
 
 This procedure was not initiated in time, as *the Supporting Administrator* was reportedly only informed of the deed date on 31 October.
 
-### Current Status and Future Outlook
+### Current Status and Future Outlook (Update 11 November)
 
-Today, 6 November, *l'avvocatessa* confirmed that she is filing the formal petition with *the Protective Judge*.
+Following the latest communications, the scenario has changed:
 
-To save time, the petition is being filed **without** the *perizia giurata* (sworn appraisal) of the property's value that would normally be required. Instead, photographs will be attached, citing the "urgency and the evident state of disrepair" of the property.
+* **Appraisal Mandatory:** *The lawyer* (*L'avvocatessa*) has confirmed that the attempt to proceed without an appraisal was unsuccessful. A formal **appraisal of value** (*perizia di stima*) is **required** to submit the petition to *the Protective Judge*.
 
-Tomorrow morning (7 November), *l'avvocatessa* will speak directly with *the Judge* to ask if the appraisal can be formally waived.
+* **Task Management:** *The acquiring party* has contacted a trusted *technician* (geometra) to prepare the appraisal. The costs of this appraisal will be covered by *the Supporting Administrator*.
 
-The new timeline depends on this decision:
+* **Pending Items:** To proceed, we are awaiting two key pieces of information from *the lawyer*:
+    1.  Whether the appraisal must be **sworn** (*giurata*) or if an estimate signed by a qualified *technician* is sufficient.
+    2.  The contact details for *the Supporting Administrator*, which are needed by *the technician* to send them the formal quote for the assignment.
 
-1.  **Scenario A (No Appraisal Required):** If *the Judge* agrees to proceed without an appraisal, the authorisation could be granted in approximately **two weeks**.
-2.  **Scenario B (Appraisal Required):** If *the Judge* deems the appraisal necessary, the timeline will be significantly extended, as *a technician* will need to be hired.
+* **Expected Timeline:**
+    1.  **Appraisal:** *The technician* estimates they can complete the appraisal in approximately 10 days from the moment the quote is accepted.
+    2.  **Offer:** Once the value is received from the appraisal, *the acquiring party* must formulate a suitable offer for the purchase of the *elderly owner's* share.
+    3.  **Judge:** All documentation (appraisal and offer) will be sent to *the Protective Judge* for approval. The timeline for *the Judge's* decision is currently unknown.
 
-The target date of **26 November** therefore remains provisional and is entirely dependent on Scenario A. It also remains to be confirmed whether *the Judge* will approve the terms of the agreement (the symbolic price sale) for the *elderly owner's* share.
+* **Deed Date (26 November):** Although not yet formally cancelled, the 26 November date must be considered **highly improbable**, given the technical (quote, appraisal) and legal (Judge's approval) steps still required.
 
 This page will be updated as soon as we receive definitive answers.

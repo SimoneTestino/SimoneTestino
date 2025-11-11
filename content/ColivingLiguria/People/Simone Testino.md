@@ -39,7 +39,7 @@ You can reach me directly through the following channels:
 
 **Book a Meeting:**
 The most efficient way to discuss collaborations or ask questions is to book a video call directly into my calendar.
-* **[Click here to book a 45-minute call with me](https://cal.com/simone.testino/colivingliguria-volunteer-meeting0)**
+* **[Click here to book a 45-minute call with me](https://cal.com/simone.testino/colivingliguria-volunteer-meeting)**
 
 ---
 > [!Abstract]
