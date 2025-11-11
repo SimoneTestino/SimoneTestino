@@ -20,9 +20,6 @@ This page serves as a guide to what you can expect. Alongside these, we will als
 
 ### Propose Your Own Event
 We highly welcome proposals for new events or new ways to celebrate existing ones! If you have an idea, please get in touch with [[ColivingLiguria/People/Simone Testino]] or the event organisation team. We are always open to community-driven initiatives.
-
----
-
 ### Yearly Events
 These are our celebrations of major Western festivities, re-interpreted with a Coliving Liguria spirit. We focus on community activities and creating shared experiences. Each of these events has a dedicated page for more details.
 
@@ -30,7 +27,7 @@ These are our celebrations of major Western festivities, re-interpreted with a C
 * **[[Christmas in ColivingLiguria|Christmas 🎄]]**: A communal celebration with our own traditions.
 * **[[Easter in ColivingLiguria|Easter 🐣]]**: Celebrating spring and renewal.
 * **[[Halloween in ColivingLiguria|Halloween 🎃]]**: A creative and spooky gathering.
-* **[[University Start Event in ColivingLiguria|University Start Event 🎓]]**: An event held around the start of the academic year, organised in collaboration with the University of Genoa, aimed at welcoming students.
+* **[[University Start Party in ColivingLiguria|University Start Event 🎓]]**: An event held around the start of the academic year, organised in collaboration with the University of Genoa, aimed at welcoming students.
 
 ### Seasonal Events
 These are our largest signature events, designed to bring new people into our community. During these periods, accommodation is often offered for free or at a significant discount to welcome external guests. The dates are flexible and change each year; please check the individual event pages and the [[Events Calendar]] for this year's schedule.
