@@ -3,6 +3,8 @@ draft: false
 date: 2025-11-11
 language: EN/IT
 ---
+---
+---
 --Italiano sotto--
 
 > [!Abstract]
@@ -33,7 +35,7 @@ We are always open to new ideas! If you want to host a workshop, organize a hike
     * **By Invitation/Request:** For smaller community events (like the weekly [[Saturday Pizza Night]]), external guests are welcome but **must ask for permission first** and be approved on a personal basis.
 
 ### How to Register
-Not all events are open for anyone to just show up. For organizational purposes, many events have a limited number of spots.
+Not all events are open for anyone to just show up. For organisational purposes, many events have a limited number of spots.
 * **Registration:** You must register for most events. Please follow the instructions on our **[[Event Registration]]** page.
 * **Event Team:** Our events are managed by the dedicated **[[Event Organisation Team]]**.
 
@@ -58,7 +60,7 @@ Abbiamo due calendari principali per tenerti aggiornato:
 ### Tipi di Eventi
 I nostri eventi rientrano in due categorie principali:
 * **[[Periodic Events|Eventi Periodici]]**: Sono i nostri incontri ricorrenti che danno un ritmo costante alla vita comunitaria, dalle [[Saturday Pizza Night|pizza night]] settimanali alle grandi [[Winter Party in ColivingLiguria|feste stagionali]]. Puoi leggere tutto su di loro nella nostra pagina dedicata.
-* **Eventi Speciali**: Si tratta di eventi, workshop o attività una tantum, proposti dai residenti o dal team organizzativo. Saranno sempre annunciati sul [[Events Calendar|Calendario Eventi]].
+* **Eventi Speciali**: Si tratta di eventi, workshop o attività una tantum, proposti dai residenti o dal team organizzativo. Saranno sempre annunciati sul [[Events Calendar|Calend calendario Eventi]].
 
 ### Proponi il Tuo Evento!
 Siamo sempre aperti a nuove idee! Se vuoi ospitare un workshop, organizzare un'escursione o lanciare una nuova celebrazione, ti incoraggiamo a proporlo.
@@ -78,5 +80,5 @@ Non a tutti gli eventi si può semplicemente partecipare. Per scopi organizzativ
 
 ### Politica Finanziaria e Legale
 * **Filosofia dei Costi:** Gli eventi **non** sono una fonte di profitto primaria per Coliving Liguria; sono per la comunità. Saranno generalmente **gratuiti o molto economici**. Tuttavia, per essere sostenibile, il prezzo deve coprire le spese vive più un **basso margine** per tenere conto dei costi organizzativi (come il tempo del fondatore o del team eventi). Questo assicura che gli eventi rimangano una parte sana e vivida del nostro progetto.
-* **[[Contract for Events|Contratto per Eventi]]**: Gli eventi comportano regole, rischi potenziali e necessità organizzative. Per qualsiasi evento di rilievo, a tutti i partecipanti sarà richiesto di firmare un **[[Contract for Events|Contratto per Eventi]]**. Questo accordo formale assicura che tutti comprendano e accettino le regole e limita la responsabilità di Coliving Liguria.
+* **[[Contract for Events|Contratto per Eventi]]**: Gli eventi comportano regole, rischi potenziali e necessità organizzative. Per qualsiasi evento di rilievo, a tutti i partecipanti sarà richiesto di firmare un **[[Contract for Events|Contratto per Eventi]]**. Questo accordo formale assicura che tutti comprendano e accettINO le regole e limita la responsabilità di Coliving Liguria.
 * **Depositi:** Potrebbe essere richiesto un piccolo deposito agli ospiti esterni per assicurarsi il posto. Questo non è necessario per i residenti interni, la cui caparra principale li copre già.

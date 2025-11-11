@@ -19,7 +19,8 @@ At Coliving Liguria, we structure our community life around a series of periodic
 This page serves as a guide to what you can expect. Alongside these, we will also host **Special Events**, which are non-periodic and will be announced on the [[Events Calendar]] as opportunities arise.
 
 ### Propose Your Own Event
-We highly welcome proposals for new events or new ways to celebrate existing ones! If you have an idea, please get in touch with [[ColivingLiguria/People/Simone Testino]] or the event organisation team. We are always open to community-driven initiatives.
+We highly welcome proposals for new events! If you have an idea, please follow the official process on our **[[Propose an Event]]** page. You can also get in touch with the **[[Event Organisation Team]]** or [[ColivingLiguria/People/Simone Testino]] with your questions.
+
 ### Yearly Events
 These are our celebrations of major Western festivities, re-interpreted with a Coliving Liguria spirit. We focus on community activities and creating shared experiences. Each of these events has a dedicated page for more details.
 
@@ -60,8 +61,8 @@ A Coliving Liguria, la vita comunitaria è strutturata attorno a una serie di ev
 
 Questa pagina serve come guida a ciò che puoi aspettarti. Oltre a questi, ospiteremo anche **Eventi Speciali**, che non sono periodici e saranno annunciati sul [[Events Calendar]] non appena si presenteranno le occasioni.
 
-### Proponi il TuO Evento
-Accogliamo con grande favore proposte per nuovi eventi o nuovi modi di celebrare quelli esistenti! Se hai un'idea, contatta [[ColivingLiguria/People/Simone Testino]] o il team di organizzazione eventi. Siamo sempre aperti a iniziative guidate dalla comunità.
+### Proponi il Tuo Evento
+Accogliamo con grande favore proposte per nuovi eventi! Se hai un'idea, segui il processo ufficiale sulla nostra pagina **[[Propose an Event|Proponi un Evento]]**. Puoi anche contattare il **[[Event Organisation Team|Team Organizzazione Eventi]]** o [[ColivingLiguria/People/Simone Testino]] per qualsiasi domanda.
 
 ---
 
@@ -72,7 +73,7 @@ Queste sono le nostre celebrazioni delle principali festività occidentali, rein
 * **[[Christmas in ColivingLiguria|Natale 🎄]]**: Una celebrazione comunitaria con le nostre tradizioni.
 * **[[Easter in ColivingLiguria|Pasqua 🐣]]**: Per celebrare la primavera e la rinascita.
 * **[[Halloween in ColivingLiguria|Halloween 🎃]]**: Un incontro creativo e spettrale.
-* **[[University Start Event in ColivingLiguria|Evento Inizio Università 🎓]]**: Un evento che si tiene in concomitanza con l'inizio dell'anno accademico, organizzato in collaborazione con l'Università di Genova e rivolto agli studenti.
+* **[[University Start Party in ColivingLiguria|Evento Inizio Università 🎓]]**: Un evento che si tiene in concomitanza con l'inizio dell'anno accademico, organizzato in collaborazione con l'Università di Genova e rivolto agli studenti.
 
 ### Eventi Stagionali
 Questi sono i nostri eventi "di punta" più grandi, pensati per portare nuove persone nella nostra comunità. Durante questi periodi, l'alloggio è spesso offerto gratuitamente o con uno sconto significativo per accogliere ospiti esterni. Le date sono flessibili e cambiano ogni anno; si prega di controllare le pagine dei singoli eventi e il [[Events Calendar]] per il programma di quest'anno.
