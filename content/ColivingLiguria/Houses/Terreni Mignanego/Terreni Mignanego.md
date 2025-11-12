@@ -22,7 +22,7 @@ language: EN/IT
 
 This area contains the only available building. Access is reportedly via others' property after the main road, and the location is "quite isolated."
 
-* **Fabbricato (Cat. C/2):** [View on Map](http://googleusercontent.com/maps/google.com/10)
+* **Fabbricato (Cat. C/2):** [View on Map](https://maps.app.goo.gl/8qiaH7WfsFxm315f8)
     * **Particella 1439**
     * **Size:** 54 m² (Total cadastral area)
     * **Action Plan:** [[Emanuele Garré]] will visit on Friday afternoon (Nov 14, 2025) to assess the building's condition, take internal/external photos, and determine its potential use. We need to verify if the structure is salvageable and if [[Edilizia Libera]] (minor, permit-free works) would be sufficient to make it usable.
@@ -33,7 +33,7 @@ This area contains the only available building. Access is reportedly via others'
 
 ![[Catasto Mignanego F. 15.png]]
 
-#### **Foglio 5: Wooded Land** [View on Map](http://googleusercontent.com/maps/google.com/11)
+#### **Foglio 5: Wooded Land** [View on Map](https://maps.app.goo.gl/S7NpaVR3KxfyfLQDA)
 
 These plots are described as being in the woods, very isolated, and large.
 
@@ -48,7 +48,7 @@ These plots are described as being in the woods, very isolated, and large.
 
 ![[Catasto Mignanego F. 5.png]]
 
-#### **Foglio 7: Wooded Land** [View on Map](http://googleusercontent.com/maps/google.com/12)
+#### **Foglio 7: Wooded Land** [View on Map](https://maps.app.goo.gl/6a1tcepdG9Hev1758)
 
 These are also large, wooded plots.
 
@@ -77,7 +77,7 @@ These are also large, wooded plots.
 
 Quest'area contiene l'unico edificio disponibile. L'accesso avviene apparentemente tramite proprietà altrui dopo la strada principale, e la posizione è "abbastanza isolata".
 
-* **Fabbricato (Cat. C/2):** [Vedi su Mappa](http://googleusercontent.com/maps/google.com/10)
+* **Fabbricato (Cat. C/2):** [Vedi su Mappa](https://maps.app.goo.gl/8qiaH7WfsFxm315f8)
     * **Particella 1439**
     * **Dimensione:** 54 m² (Superficie Catastale Totale)
     * **Piano d'Azione:** [[Emanuele Garré]] si recherà in visita venerdì pomeriggio (14 Nov 2025) per valutare le condizioni dell'edificio, scattare foto interne/esterne e determinare il potenziale utilizzo. Dobbiamo verificare se la struttura è recuperabile e se interventi in [[Edilizia Libera]] siano sufficienti per renderla utilizzabile.
@@ -88,7 +88,7 @@ Quest'area contiene l'unico edificio disponibile. L'accesso avviene apparentemen
 
 ![[Catasto Mignanego F. 15.png]]
 
-#### **Foglio 5: Terreni Boschivi** [Vedi su Mappa](http://googleusercontent.com/maps/google.com/11)
+#### **Foglio 5: Terreni Boschivi** [Vedi su Mappa](https://maps.app.goo.gl/S7NpaVR3KxfyfLQDA)
 
 Questi lotti sono descritti come situati in mezzo al bosco, molto isolati e ampi.
 
@@ -103,7 +103,7 @@ Questi lotti sono descritti come situati in mezzo al bosco, molto isolati e ampi
 
 ![[Catasto Mignanego F. 5.png]]
 
-#### **Foglio 7: Terreni Boschivi** [Vedi su Mappa](http://googleusercontent.com/maps/google.com/12)
+#### **Foglio 7: Terreni Boschivi** [Vedi su Mappa](https://maps.app.goo.gl/6a1tcepdG9Hev1758)
 
 Anche questi sono lotti boschivi e ampi.
 
