@@ -48,7 +48,7 @@ These plots are described as being in the woods, very isolated, and large.
 * **Particella 240 (Prato):** 28 m² (Dominical Income: € 0.04)
     * *Remark: We have good reason to believe this plot is buildable given its size and shape.*
 
-![[Catasto Mignanego F. 5.png]]
+![[Catasto Mignanego F. 5 Coloured.jpeg]]
 
 #### **Mignanego (F202) - Foglio 7: Wooded Land**
 [View on Map](https://maps.app.goo.gl/6a1tcepdG9Hev1758)
@@ -116,7 +116,7 @@ Questi lotti sono descritti come situati in mezzo al bosco, molto isolati e ampi
 * **Particella 240 (Prato):** 28 m² (Reddito Dominicale: € 0,04)
     * *Nota: Abbiamo buone ragioni di credere che questa particella sia edificabile, date le sue dimensioni e la sua forma.*
 
-![[Catasto Mignanego F. 5.png]]
+![[Catasto Mignanego F. 5 Coloured.jpeg]]
 
 #### **Mignanego (F202) - Foglio 7: Terreni Boschivi**
 [Vedi su Mappa](https://maps.app.goo.gl/6a1tcepdG9Hev1758)

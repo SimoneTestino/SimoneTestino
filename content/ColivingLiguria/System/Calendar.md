@@ -31,7 +31,7 @@ language: EN/IT
 ### Other Project Updates
 
 * **Nov 14:** New photos of the [[Ville Chiappella]] houses will be taken. The **[[Marketing Team]]** will begin processing them over the weekend for social media.
-* **Nov 14:** [[Emanuele Garré]] will visit the properties in **Mignanego** (the subject of our other analysis) to take photos and assess their potential. This is a separate, potential side-project, as the lands are not nearby, but could be acquired for free.
+* **Nov 14:** [[Emanuele Garré]] will visit the properties in [[Terreni Mignanego]] (the subject of our other analysis) to take photos and assess their potential. This is a separate, potential side-project, as the lands are not nearby, but could be acquired for free (after paying taxes , see [[Purchase Terreni Mignanego]]).
 * **Nov 26:** [[ColivingLiguria/People/Simone Testino]] will be on-site at [[Ville Chiappella]] for a final inspection and to take exterior photos, even before the final purchase.
 * **Side Projects:** Our [[Supplementary Projects]] with project partners are also moving forward.
 
