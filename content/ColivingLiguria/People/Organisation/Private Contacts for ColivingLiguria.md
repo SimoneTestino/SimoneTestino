@@ -57,7 +57,6 @@ https://www.instagram.com/jaece09/ architetta, molto motivata.
 	- **Contact:** `+39 39 137 858 86`
 - **Farmer for Terrains:**
 	- **Contact:** `+39 334 836 7339` (from MV)
-- 
 
 ---
 

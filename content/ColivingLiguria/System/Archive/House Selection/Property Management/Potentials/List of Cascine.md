@@ -44,7 +44,7 @@ Below is a preliminary list of interesting properties, divided by the type of se
   * Remarks: Ancora da finire di costruire. Il proprietario è imprenditoriale e potrebbe voler partecipare al progetto.
 * [Cascina Cairo 692](https://www.idealista.it/immobile/19084692/)
   * Visit: 16.08 @ 11:00
-  * Remarks: Cascina a gratis, proprietario anziano in pensione chiede solo il pagamento del notaio.
+  * Remarks: Cascina a gratis, proprietario anziano in pensione chiede solo il pagamento del notaio. ([[Ville Chiappella]])
 * [Cascina Roccavignale 647](https://www.idealista.it/immobile/33352637/)
 	* +39 327 943 6085
 * [Cascina Urbe 007](https://www.idealista.it/immobile/29765007/)
