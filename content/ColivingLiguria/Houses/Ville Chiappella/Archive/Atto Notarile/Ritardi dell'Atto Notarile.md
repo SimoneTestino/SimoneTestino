@@ -1,52 +1,12 @@
 ---
-date: 2025-11-11
+date: 2025-11-13
 draft: false
-language: IT/EN
+language: EN/IT
 ---
---English below--
+--Italiano sotto--
 
 > [!Abstract]
-> Questa pagina documenta le cause del ritardo dell'atto notarile per l'acquisizione di [[Ville Chiappella]], originariamente previsto per il 7 novembre 2025. L'atto è stato annullato a causa di impreviste complicazioni burocratiche e legali emerse da parte della parte venditrice, relative alla necessità di un'autorizzazione giudiziaria per una delle proprietarie. Questa nota spiega la natura del problema, lo stato attuale e le potenziali evoluzioni future.
-
-### Annullamento dell'Atto del 7 Novembre
-
-Con grande rammarico, l'atto notarile (rogito) per l'acquisizione di [[Ville Chiappella]], fissato per il 7 novembre, è stato **annullato**.
-
-Questa cancellazione non è in alcun modo dovuta a ripensamenti o mancanze da parte nostra (la parte acquirente), ma è il risultato diretto di gravi e impreviste mancanze burocratiche da parte dei venditori.
-
-### La Causa del Ritardo: L'Autorizzazione del Giudice Tutelare
-
-Il 4 novembre, *La Commercialista* che segue i venditori ci ha informato di una complicazione insormontabile.
-
-*La proprietaria anziana*, una delle co-proprietarie dell'immobile, è da circa un anno sotto la tutela legale di un *Amministratore di Sostegno* (un suo familiare). *L'avvocatessa* incaricata ha confermato che, data questa situazione, per procedere con la vendita della quota della signora è legalmente necessaria un'**autorizzazione formale da parte del Giudice Tutelare**.
-
-Questa procedura non era stata avviata per tempo, poiché pare che *l'Amministratore di Sostegno* sia stato informato della data dell'atto solo il 31 ottobre.
-
-### Stato Attuale e Prospettive Future (Aggiornamento 11 Novembre)
-
-A seguito delle ultime comunicazioni, lo scenario è cambiato:
-
-* **Perizia Obbligatoria:** *L'avvocatessa* ha confermato che il tentativo di procedere senza perizia non è andato a buon fine. È **necessaria una perizia di stima** formale per poter presentare l'istanza al *Giudice Tutelare*.
-
-* **Gestione Incarico:** *La parte acquirente* ha contattato *un tecnico* di fiducia (geometra) per la redazione della perizia. I costi di tale perizia saranno a carico *dell'Amministratore di Sostegno*.
-
-* **Punti Sospesi:** Per procedere, si è in attesa di due informazioni chiave da parte *dell'avvocatessa*:
-    1.  Se la perizia debba essere **giurata** o se sia sufficiente una stima firmata da *un tecnico* abilitato.
-    2.  I dati di contatto *dell'Amministratore di Sostegno*, necessari *al tecnico* per inviargli il preventivo formale per l'incarico.
-
-* **Tempistiche Previste:**
-    1.  **Perizia:** *Il tecnico* stima di poter completare la perizia in circa 10 giorni dal momento dell'accettazione del preventivo.
-    2.  **Offerta:** Una volta ricevuto il valore dalla perizia, *la parte acquirente* dovrà formulare un'offerta congrua per l'acquisto della quota della *proprietaria anziana*.
-    3.  **Giudice:** Tutta la documentazione (perizia e offerta) verrà inviata al *Giudice Tutelare* per l'approvazione. Le tempistiche per la decisione *del Giudice* non sono al momento note.
-
-* **Data Atto (26 Novembre):** Sebbene non ancora formalmente cancellata, la data del 26 novembre è da considerarsi **altamente improbabile**, visti i passaggi tecnici (preventivo, perizia) e legali (approvazione *Giudice*) ancora necessari.
-
-Questa pagina verrà aggiornata non appena si otterranno risposte ai punti sospesi.
-
----
-
-> [!Abstract]
-> This page documents the reasons for the delay of the notarial deed (atto notarile) for the acquisition of [[Ville Chiappella]], originally scheduled for 7 November 2025. The deed was cancelled due to unforeseen bureaucratic and legal complications arising from the selling party, relating to the need for judicial authorisation for one of the owners. This note explains the nature of the problem, the current status, and potential future developments.
+> This page documents the reasons for the delay of the notarial deed for the acquisition of [[Ville Chiappella]]. After identifying unforeseen bureaucratic complications (the need for a Judge's authorisation), the acquiring party has proactively postponed the final deed to **December 3rd, 2025**, to ensure all legal requirements are successfully met and to avoid further delays.
 
 ### Cancellation of the 7 November Deed
 
@@ -58,27 +18,63 @@ This cancellation is in no way due to any reconsideration or failure on our part
 
 On 4 November, *La Commercialista* (the accountant) representing the sellers informed us of an insurmountable complication.
 
-*La proprietaria anziana* (the elderly owner), one of the property's co-owners, has been under the legal guardianship of an *Amministratore di Sostegno* (a Supporting Administrator, who is a family member) for about a year. *L'avvocatessa* (the lawyer) appointed by them confirmed that, given this situation, a formal **authorisation from the Giudice Tutelare** (Protective Judge) is legally required to proceed with the sale of the owner's share.
+*La proprietaria anziana* (the elderly owner), one of the property's co-owners, has been under the legal guardianship of an *Amministratore di Sostegno* (a Supporting Administrator) for about a year. *L'avvocatessa* (the lawyer) appointed by them confirmed that, given this situation, a formal **authorisation from the Giudice Tutelare** (Protective Judge) is legally required to proceed with the sale of the owner's share.
 
 This procedure was not initiated in time, as *the Supporting Administrator* was reportedly only informed of the deed date on 31 October.
 
-### Current Status and Future Outlook (Update 11 November)
+### New Strategy and Final Date (Update 13 November)
 
-Following the latest communications, the scenario has changed:
+The timeline to obtain the mandatory appraisal (*perizia*) and the subsequent authorisation from *the Judge* made the previous target date of November 26th extremely tight.
 
-* **Appraisal Mandatory:** *The lawyer* (*L'avvocatessa*) has confirmed that the attempt to proceed without an appraisal was unsuccessful. A formal **appraisal of value** (*perizia di stima*) is **required** to submit the petition to *the Protective Judge*.
+Failing to meet that deadline would have created a significant risk: the necessary postponement would have pushed the deed past the Christmas holidays, likely into mid-January 2026.
 
-* **Task Management:** *The acquiring party* has contacted a trusted *technician* (geometra) to prepare the appraisal. The costs of this appraisal will be covered by *the Supporting Administrator*.
+To eliminate this risk and ensure a definitive timeline, *la parte acquirente* (the acquiring party) has proactively decided to reschedule the final appointment.
 
-* **Pending Items:** To proceed, we are awaiting two key pieces of information from *the lawyer*:
-    1.  Whether the appraisal must be **sworn** (*giurata*) or if an estimate signed by a qualified *technician* is sufficient.
-    2.  The contact details for *the Supporting Administrator*, which are needed by *the technician* to send them the formal quote for the assignment.
+* **New Definitive Date:** The notarial deed is now confirmed for **December 3rd, 2025, at 18:00 (6:00 PM)** at the office of Notary Stefano Palmieri.
+* **Confidence Level:** This new date provides the necessary buffer to complete all technical and legal steps (appraisal and Judge's authorisation). Confidence that the acquisition will be finalised on this date is now **very high**.
 
-* **Expected Timeline:**
-    1.  **Appraisal:** *The technician* estimates they can complete the appraisal in approximately 10 days from the moment the quote is accepted.
-    2.  **Offer:** Once the value is received from the appraisal, *the acquiring party* must formulate a suitable offer for the purchase of the *elderly owner's* share.
-    3.  **Judge:** All documentation (appraisal and offer) will be sent to *the Protective Judge* for approval. The timeline for *the Judge's* decision is currently unknown.
+### Operational Start and Bookings
 
-* **Deed Date (26 November):** Although not yet formally cancelled, the 26 November date must be considered **highly improbable**, given the technical (quote, appraisal) and legal (Judge's approval) steps still required.
+This new, secure date allows us to begin operations immediately following the purchase.
 
-This page will be updated as soon as we receive definitive answers.
+* **Project Start:** The founder will be able to legally reside in the houses immediately after the signature of the deed on the evening of December 3rd, allowing renovations and setup to begin.
+* **Bookings Now Open:** We are **actively accepting bookings** for all residents (e.g., [[Volunteers Ville Chiappella|volunteers]], [[Digital Nomads Ville Chiappella|digital nomads]]) with an arrival date **starting from December 3rd, 2025**.
+* **Procedure:** All new arrivals must follow the procedure outlined on the [[Onboarding]] page and sign the [[Contract for Residents]]. We are already signing these contracts, which are conditional upon the successful purchase of the houses on December 3rd.
+
+---
+
+> [!Abstract]
+> Questa pagina documenta le cause del ritardo dell'atto notarile per l'acquisizione di [[Ville Chiappella]]. A seguito dell'identificazione di complicazioni burocratiche impreviste (la necessità di un'autorizzazione giudiziaria), la parte acquirente ha posticipato proattivamente l'atto definitivo al **3 dicembre 2025**, per garantire il completamento di tutti i requisiti legali ed evitare ulteriori ritardi.
+
+### Annullamento dell'Atto del 7 Novembre
+
+Con grande rammarico, l'atto notarile (rogito) per l'acquisizione di [[Ville Chiappella]], fissato per il 7 novembre, è stato **annullato**.
+
+Questa cancellazione non è in alcun modo dovuta a ripensamenti o mancanze da parte nostra (la parte acquirente), ma è il risultato diretto di gravi e impreviste mancanze burocratiche da parte dei venditori.
+
+### La Causa del Ritardo: L'Autorizzazione del Giudice Tutelare
+
+Il 4 novembre, *La Commercialista* che segue i venditori ci ha informato di una complicazione insormontabile.
+
+*La proprietaria anziana*, una delle co-proprietarie dell'immobile, è da circa un anno sotto la tutela legale di un *Amministratore di Sostegno*. *L'avvocatessa* incaricata ha confermato che, data questa situazione, per procedere con la vendita della quota della signora è legalmente necessaria un'**autorizzazione formale da parte del Giudice Tutelare**.
+
+Questa procedura non era stata avviata per tempo, poiché pare che *l'Amministratore di Sostegno* sia stato informato della data dell'atto solo il 31 ottobre.
+
+### Nuova Strategia e Data Definitiva (Aggiornamento 13 Novembre)
+
+Le tempistiche necessarie per ottenere la perizia obbligatoria e la successiva autorizzazione del *Giudice Tutelare* rendevano la precedente data del 26 novembre estremamente rischiosa.
+
+Un eventuale fallimento nel rispettare tale scadenza avrebbe comportato un rischio significativo: il rinvio dell'atto oltre le festività natalizie, con conseguente slittamento a metà gennaio 2026.
+
+Per eliminare questo rischio e garantire una tempistica certa, *la parte acquirente* ha deciso proattivamente di riprogrammare l'appuntamento.
+
+* **Nuova Data Definitiva:** Il rogito notarile è ora confermato per il **3 dicembre 2025, alle ore 18:00** presso lo Studio Notarile Stefano Palmieri.
+* **Livello di Fiducia:** Questa nuova data fornisce il margine di tempo necessario per completare tutti i passaggi tecnici e legali (perizia e autorizzazione del Giudice). La fiducia nel finalizzare l'acquisizione in questa data è ora **molto alta**.
+
+### Avvio Operativo e Prenotazioni
+
+Questa nuova data ci permette di avviare l'operatività immediatamente dopo l'acquisto.
+
+* **Avvio Progetto:** Il fondatore potrà legalmente risiedere negli immobili subito dopo la firma del rogito la sera del 3 dicembre, permettendo l'inizio dei lavori di ristrutturazione e allestimento.
+* **Prenotazioni Aperte:** Stiamo **accettando attivamente prenotazioni** per tutti i residenti (es. [[Volunteers Ville Chiappella|volontari]], [[Digital Nomads Ville Chiappella|nomadi digitali]]) con data di arrivo a partire **dal 3 dicembre 2025**.
+* **Procedura:** Tutti i nuovi arrivi devono seguire la procedura descritta nella pagina di [[Onboarding]] e firmare il [[Contract for Residents]]. Stiamo già firmando questi contratti, la cui validità è condizionata al buon fine dell'acquisto delle case in data 3 dicembre.
