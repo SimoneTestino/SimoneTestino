@@ -28,6 +28,8 @@ Navigating Italian bureaucracy is a core challenge of this project. This section
 * **[[Limiti Legali del Volontariato]]** (Legal Boundaries of "Volunteering")
 * **[[Risorse Umane per la Ristrutturazione]]** (Human Resources for Renovation)
 * [[Internships Curriculari in Liguria]] (Offering an Internship)
+* [[Visto per Turista]] (Tourist Visa)
+* [[Visto per Lavoro Autonomo]] (Independent Work Visa)
 
 ---
 
@@ -53,3 +55,5 @@ Orientarsi nella burocrazia italiana è una sfida centrale di questo progetto. Q
 * **[[Limiti Legali del Volontariato]]**
 * **[[Risorse Umane per la Ristrutturazione]]**
 * [[Internships Curriculari in Liguria]]
+* [[Visto per Turista]]
+* [[Visto per Lavoro Autonomo]]
