@@ -57,7 +57,6 @@ From that point, you will proceed with the standard [[Onboarding]] process to be
 This process is built on specific Italian and regional laws. For a detailed breakdown of the legal obligations (especially regarding insurance), please refer to our internal notes: [[Internships Curriculari in Liguria]].
 
 ---
---Italiano sotto--
 > [!Abstract]
 > Questa pagina delinea il processo di candidatura per gli studenti delle università europee che desiderano svolgere un **Tirocinio Curriculare** presso [[ColivingLiguria]] o [[Luna]] attraverso il **Programma Erasmus+ Traineeship**. Questo è il percorso legale principale e più snello per un tirocinio non retribuito.
 
