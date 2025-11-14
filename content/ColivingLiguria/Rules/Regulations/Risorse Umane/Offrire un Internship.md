@@ -3,6 +3,8 @@ draft: false
 date: 2025-11-14
 language: IT/EN
 ---
+--English below--
+
 >[!Abstract]
 >Queste note si focalizzano esclusivamente sulla gestione dei **tirocini curriculari** in **Liguria**, con particolare riferimento all'attivazione con università estere. Si chiarisce che questo è l'unico percorso legale, senza eccezioni per brevi periodi. Il documento analizza i vantaggi del programma Erasmus+, gli obblighi assicurativi (INAIL/RC) con una stima dei costi indicativi, i rischi legali in caso di inadempienza (riqualificazione) e le clausole contrattuali per mitigare i rischi per la Ditta Individuale Simone Testino.
 
@@ -54,7 +56,6 @@ La vera tutela è la **vigilanza preventiva**. Di seguito le clausole fondamenta
 > «L'efficacia del presente accordo e l'inizio effettivo del tirocinio sono **sospensivamente condizionati** alla ricezione da parte del Soggetto Ospitante della documentazione completa (Learning Agreement for Traineeships / Progetto Formativo Individuale) firmata da tutte le parti E della **prova documentale** (es. copia delle polizze o dichiarazione formale nella Sezione 'Insurance' del LAT) dell'avvenuta stipula delle coperture assicurative. In assenza di tale documentazione, il tirocinante non sarà ammesso ai locali aziendali e il tirocinio si intenderà come mai iniziato.»
 
 ---
---English below--
 
 >[!Abstract]
 >This note focuses exclusively on the management of **curricular internships** in **Liguria**, with particular reference to activation with foreign universities. It clarifies that this is the only legal path, with no exceptions for short periods. The document analyzes the advantages of the Erasmus+ program, the insurance obligations (INAIL/RC) with an estimate of indicative costs, the legal risks in case of non-compliance (reclassification), and the contractual clauses to mitigate risks for the "Ditta Individuale Simone Testino" (Simone Testino Sole Proprietorship).
