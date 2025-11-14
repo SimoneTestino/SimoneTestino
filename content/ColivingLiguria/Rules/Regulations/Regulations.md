@@ -27,6 +27,7 @@ Navigating Italian bureaucracy is a core challenge of this project. This section
 #### Human Resources (Risorse Umane)
 * **[[Limiti Legali del Volontariato]]** (Legal Boundaries of "Volunteering")
 * **[[Risorse Umane per la Ristrutturazione]]** (Human Resources for Renovation)
+* [[Offrire un Internship]] (Offering an Internship)
 
 ---
 
@@ -51,3 +52,4 @@ Orientarsi nella burocrazia italiana è una sfida centrale di questo progetto. Q
 #### Risorse Umane
 * **[[Limiti Legali del Volontariato]]**
 * **[[Risorse Umane per la Ristrutturazione]]**
+* [[Offrire un Internship]]
