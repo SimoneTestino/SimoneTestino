@@ -12,40 +12,46 @@ language: EN/IT
 We have established a contact with a horse owner who wishes to join our community immediately. To accommodate her three horses, we are developing a specific plan to ensure their well-being and legal compliance using our available land.
 
 ### Location and Feasibility
-The designated area consists of the **[[Terreni oltre Torrente]]** (Foglio 46, Particelle 104 & 105), chosen for its flat terrain and proximity to water.
+The designated area is **[[Terreni oltre Torrente]]** (Particelle 104 & 105), chosen for its flat terrain and proximity to water.
+
+* **Surface Area Verification:** The total available area is **1,240 m²**. Based on regional standards (approx. 500 m² for the first horse + 200 m² for each additional one), the minimum requirement is 900 m². Our terrain is therefore **sufficient** to serve as a comfortable paddock.
 
 ### Construction Potential & Horse Capacity
-Based on the **CDU 2025/102**, the area is in **Zone E (Agricultural)** with a Land Utilization Index ($Uf$) of **0.03 mq/mq** (covered surface per land surface). We assume a standard internal height of **3.00 meters** for the structure.
+Based on the **CDU 2025/102**, the area is in **Zone E (Agricultural)** with a Land Utilization Index ($Uf$) of **0.03 mq/mq** (covered surface per land surface).
+
+This index dictates the **maximum footprint** (covered surface area) we can build, not the volume.
 
 #### Scenario 1: Current Status (Particelle 104 + 105)
 This is the land we currently own.
-* **Particella 104:** $600 \, \text{m}^2$
-* **Particella 105:** $640 \, \text{m}^2$
+* **Particella 104:** $600 \, \text{m}^2$ (06 are 00 ca)
+* **Particella 105:** $640 \, \text{m}^2$ (06 are 40 ca)
 * **Total Land Area:** **1,240 m²**
 
-**Building Potential:**
+**Building Potential (Surface Area):**
 * **Max Covered Surface ($1240 \times 0.03$):** **37.2 m²**
-* **Total Volume ($37.2 \times 3.00$):** **111.6 m³**
 
-**Horse Capacity (Paddock Rules):**
-According to **[[Normative Detenzione Equini]]** (500 m² for the first horse + 200 m² for each additional), this area can legally host up to **4 Horses**. It is perfect for our current need of 3.
+**Capacity Analysis:**
+* **37.2 m²** is sufficient for a shelter housing 3 horses (standard is ~9-12 m² per horse), though it will be compact.
+* **Legal Paddock Capacity:** Up to **4 Horses** based on land area.
 
 #### Scenario 2: Expansion (Acquiring Particella 106)
-We are evaluating the purchase of the adjacent **Particella 106** (Foglio 46), which is significantly larger than initially estimated.
-* **Particella 106:** $2,360 \, m^2$
+We are evaluating the purchase of the adjacent **Particella 106**.
+* **Particella 106:** **2,360 m²** (23 are 60 ca)
 * **New Total Land Area:** $1,240 + 2,360 = \mathbf{3,600 \, \text{m}^2}$
 
 **Building Potential (Expansion):**
 * **Max Covered Surface ($3600 \times 0.03$):** **108 m²**
-* **Total Volume ($108 \times 3.00$):** **324 m³**
 
-**Horse Capacity (Paddock Rules):**
-With 3,600 m², the legal capacity rises to **16 Horses**. This would transform the project from a small private stable into a potential equestrian centre.
+**Capacity Analysis:**
+* **108 m²** allows for a spacious, professional stable with ample storage and service areas.
+* **Legal Paddock Capacity:** Up to **16 Horses**.
 
 ### Construction Plan: The Enclosed Smart Stable
-We plan to construct a **fully enclosed and insulated structure** utilizing the allowable volume (Scenario 1 or 2).
+We plan to construct a **fully enclosed and insulated structure** utilizing the allowable surface area.
+
+* **Height:** The maximum height is determined by the municipal PUC/PRG regulations, which we will verify. Assuming a standard agricultural height (e.g., 3-4 meters), we can create a comfortable volume within the allowable footprint.
 * **Design:** Materials and design will be defined by the **[[Construction Team]]** and **[[Architecture Team]]**.
-* **Structure:** Enclosed for climate control, potentially with an additional external canopy (tettoia).
+* **Structure:** Enclosed for climate control, potentially with an additional external canopy (tettoia) if permitted outside the main index.
 
 **Technology & Amenities:**
 * **Climate Control:** Insulated walls + Summer forced ventilation (fans).
@@ -58,10 +64,11 @@ We plan to construct a **fully enclosed and insulated structure** utilizing the 
 * **Connections:** Wired connection to the main house for Data (internet) and Power (grid feed-in).
 * **Access:** We will clear a path along the stream bank connecting to **Particella 522** (garden of **[[Casa del Noce]]**).
 
-### Next Steps: On-Site Verification
-I will define the final layout during the **[[Week Before Purchase]]**.
-* **Regulatory Check:** Verify local constraints regarding enclosed animal shelters in Zone E.
-* **Layout Planning:** Mark out boundaries for fencing and the path.
+### Next Steps: Regulatory Verification
+During the **[[Week Before Purchase]]** and subsequent planning phases, we will progressively update this page with precise rules on:
+1.  **Height Limits:** Confirming max height from the PRG/PUC.
+2.  **Building Type:** Verifying specific constraints for constructing stables in Zone E.
+3.  **Permitting:** Confirming the exact procedure for agricultural annexes.
 
 ---
 
@@ -72,40 +79,46 @@ I will define the final layout during the **[[Week Before Purchase]]**.
 Abbiamo stabilito un contatto con una proprietaria di cavalli che desidera unirsi alla nostra comunità immediatamente. Per ospitare i suoi tre cavalli, stiamo sviluppando un piano specifico per garantire il loro benessere e la conformità legale utilizzando i nostri terreni disponibili.
 
 ### Posizione e Fattibilità
-L'area designata sono i **[[Terreni oltre Torrente]]** (Foglio 46, Particelle 104 & 105), scelti per la loro natura pianeggiante e la vicinanza all'acqua.
+L'area designata sono i **[[Terreni oltre Torrente]]** (Particelle 104 & 105), scelti per la loro natura pianeggiante e la vicinanza all'acqua.
+
+* **Verifica Superficie:** L'area totale disponibile è di **1.240 m²**. Basandosi sugli standard regionali (circa 500 m² per il primo cavallo + 200 m² per ogni aggiuntivo), il requisito minimo è di 900 m². Il nostro terreno è quindi **sufficiente** per fungere da comodo paddock.
 
 ### Potenzialità Costruttiva e Capacità Equina
-In base al **CDU 2025/102**, l'area ricade in **Zona E (Agricola)** con un Indice di Utilizzazione Fondiaria ($Uf$) di **0,03 mq/mq**. Assumiamo un'altezza interna standard di **3,00 metri** per la struttura.
+In base al **CDU 2025/102**, l'area ricade in **Zona E (Agricola)** con un Indice di Utilizzazione Fondiaria ($Uf$) di **0,03 mq/mq**.
+
+Questo indice determina la **superficie coperta massima** che possiamo edificare, non il volume.
 
 #### Scenario 1: Stato Attuale (Particelle 104 + 105)
 Questi sono i terreni attualmente di nostra proprietà.
-* **Particella 104:** $600 \, \text{m}^2$
-* **Particella 105:** $640 \, \text{m}^2$
+* **Particella 104:** $600 \, \text{m}^2$ (06 are 00 ca)
+* **Particella 105:** $640 \, \text{m}^2$ (06 are 40 ca)
 * **Superficie Totale Terreno:** **1.240 m²**
 
-**Potenziale Edificatorio:**
+**Potenziale Edificatorio (Superficie):**
 * **Superficie Coperta Max ($1240 \times 0,03$):** **37,2 m²**
-* **Volume Totale ($37,2 \times 3,00$):** **111,6 m³**
 
-**Capacità Cavalli (Normativa Paddock):**
-Secondo le **[[Normative Detenzione Equini]]** (500 m² per il primo cavallo + 200 m² per ogni aggiunto), quest'area può ospitare legalmente fino a **4 Cavalli**. È perfetta per la nostra necessità attuale di 3.
+**Analisi Capacità:**
+* **37,2 m²** sono sufficienti per un rifugio che ospiti 3 cavalli (standard circa 9-12 m² per cavallo), anche se sarà compatto.
+* **Capacità Legale Paddock:** Fino a **4 Cavalli** in base all'area del terreno.
 
 #### Scenario 2: Espansione (Acquisto Particella 106)
-Stiamo valutando l'acquisto dell'adiacente **Particella 106** (Foglio 46), che risulta essere molto più grande di quanto inizialmente stimato.
+Stiamo valutando l'acquisto dell'adiacente **Particella 106**.
 * **Particella 106:** **2.360 m²** (23 are 60 ca)
 * **Nuova Superficie Totale:** $1.240 + 2.360 = \mathbf{3.600 \, \text{m}^2}$
 
 **Potenziale Edificatorio (Espansione):**
 * **Superficie Coperta Max ($3600 \times 0,03$):** **108 m²**
-* **Volume Totale ($108 \times 3.00$):** **324 m³**
 
-**Capacità Cavalli (Normativa Paddock):**
-Con 3.600 m², la capacità legale sale a **16 Cavalli**. Questo trasformerebbe il progetto da una piccola stalla privata in un potenziale centro equestre.
+**Analisi Capacità:**
+* **108 m²** permettono una stalla spaziosa e professionale, con ampie aree di stoccaggio e servizio.
+* **Capacità Legale Paddock:** Fino a **16 Cavalli**.
 
 ### Piano di Costruzione: La Stalla Smart Chiusa
-Pianifichiamo di costruire una **struttura completamente chiusa e isolata** utilizzando la volumetria consentita (Scenario 1 o 2).
+Pianifichiamo di costruire una **struttura completamente chiusa e isolata** utilizzando la superficie consentita.
+
+* **Altezza:** L'altezza massima è determinata dai regolamenti comunali (PUC/PRG), che verificheremo. Assumendo un'altezza agricola standard (es. 3-4 metri), possiamo creare un volume confortevole all'interno dell'impronta a terra consentita.
 * **Design:** Materiali e design saranno definiti dal **[[Construction Team|Team di Costruzione]]** e **[[Architecture Team|Team di Architettura]]**.
-* **Struttura:** Chiusa per il controllo climatico, potenzialmente con una tettoia esterna aggiuntiva.
+* **Struttura:** Chiusa per il controllo climatico, potenzialmente con una tettoia esterna aggiuntiva se permessa al di fuori dell'indice principale.
 
 **Tecnologia e Servizi:**
 * **Controllo Climatico:** Muri isolati + Ventilazione forzata estiva (ventole).
@@ -118,7 +131,8 @@ Pianifichiamo di costruire una **struttura completamente chiusa e isolata** util
 * **Connessioni:** Cavo verso la casa principale per Dati (internet) e Corrente (immissione in rete).
 * **Accesso:** Puliremo un sentiero lungo il torrente collegato alla **Particella 522** (giardino di **[[Casa del Noce]]**).
 
-### Prossimi Passi: Verifica in Loco
-Definirò il layout finale durante la **[[Week Before Purchase]]**.
-* **Verifica Normativa:** Verificare vincoli locali per ricoveri chiusi in Zona E.
-* **Pianificazione Layout:** Tracciare confini per recinzione e sentiero.
+### Prossimi Passi: Verifica Normativa
+Durante la **[[Week Before Purchase]]** e le fasi successive di pianificazione, aggiorneremo progressivamente questa pagina con regole precise su:
+1.  **Limiti di Altezza:** Conferma dell'altezza massima dal PRG/PUC.
+2.  **Tipologia Edilizia:** Verifica dei vincoli specifici per la costruzione di stalle in Zona E.
+3.  **Permessi:** Conferma della procedura esatta per gli annessi agricoli.
