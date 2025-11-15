@@ -5,10 +5,10 @@ language: IT/EN
 ---
 --English below--
 > [!WARNING]
-> **Aggiornamento Critico (D.L. 39/2024): Impossibilità di Utilizzo per [[Simone Testino]]**
+> **Aggiornamento Critico (D.L. 39/2024): Impossibilità di Utilizzo per [[Luna/People/Simone Testino]]**
 > La normativa qui descritta è stata drasticamente modificata dal **D.L. 39/2024**, che ha **cancellato la possibilità di sconto in fattura e cessione del credito** per tutti i nuovi interventi avviati dopo il 29 marzo 2024.
 > 
-> Dato che il committente, [[Simone Testino]], non paga IRPEF (soggetto incapiente), e non potendo più accedere alle opzioni alternative (sconto/cessione), **non esiste alcun modo per poter usufruire di questo bonus fiscale.**
+> Dato che il committente, [[Luna/People/Simone Testino]], non paga IRPEF (soggetto incapiente), e non potendo più accedere alle opzioni alternative (sconto/cessione), **non esiste alcun modo per poter usufruire di questo bonus fiscale.**
 > 
 > **Conclusione:** Il progetto di rifare le scale ([[Stairs Renovation]]) tramite questo bonus **deve essere abbandonato**, in quanto l'agevolazione è di fatto inaccessibile per la nostra specifica situazione.
 
@@ -60,10 +60,10 @@ Di conseguenza, sono da considerarsi non fattibili con questa agevolazione anche
 
 ---
 > [!WARNING]
-> **Critical Update (D.L. 39/2024): Inapplicability for [[Simone Testino]]**
+> **Critical Update (D.L. 39/2024): Inapplicability for [[Luna/People/Simone Testino]]**
 > The regulations described here were drastically changed by **Law-Decree No. 39/2024**, which **canceled the options for invoice discount and credit transfer** for all new interventions not started before March 30, 2024.
 > 
-> Given that the client, [[Simone Testino]], does not pay IRPEF (Italian income tax) and therefore lacks tax capacity, and can no longer access the alternative options (discount/transfer), **there is no way to utilize this tax bonus.**
+> Given that the client, [[Luna/People/Simone Testino]], does not pay IRPEF (Italian income tax) and therefore lacks tax capacity, and can no longer access the alternative options (discount/transfer), **there is no way to utilize this tax bonus.**
 > 
 > **Conclusion:** The project to renovate the stairs ([[Stairs Renovation]]) using this bonus **must be abandoned**, as the incentive is effectively inaccessible for our specific situation.
 

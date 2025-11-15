@@ -19,7 +19,7 @@ La strategia prevede di collaborare con il nostro *Geometra* di fiducia per svil
 
 La strategia finanziaria per questo progetto prevede una copertura su due fronti:
 * **75% tramite Bonus:** La maggior parte dei costi ammissibili (75%) sarà coperta dal [[Bonus Rimozione delle Barriere Architettoniche]], preferibilmente tramite l'opzione dello sconto in fattura per ridurre l'impatto sulla liquidità.
-* **25% rimanente:** La quota restante sarà coperta o da fondi propri del titolare [[Simone Testino]], o attraverso la linea di [[Richiesta di Credito Bancario|Credito Bancario]] richiesta per la ditta individuale, a seconda delle condizioni che verranno ottenute.
+* **25% rimanente:** La quota restante sarà coperta o da fondi propri del titolare [[Luna/People/Simone Testino]], o attraverso la linea di [[Richiesta di Credito Bancario|Credito Bancario]] richiesta per la ditta individuale, a seconda delle condizioni che verranno ottenute.
 
 ### Team di Progetto
 

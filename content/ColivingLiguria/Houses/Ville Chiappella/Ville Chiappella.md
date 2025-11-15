@@ -12,7 +12,6 @@ The property includes the following main buildings:
 
 * **[[Casa del Noce]]**: A spacious house with a solid structure, a large garden, many cellars, and a significant rustic outbuilding with great potential.
 * **[[Casa del Forno]]**: The largest of the houses, divided into multiple apartments. It is in generally good condition but requires some renovation, particularly to the floor slabs. It features a lovely external wood-fired oven and a vegetable garden.
-* **[[Casa del Caco]]**: A house in poorer condition that requires a full renovation of the roof and floor slabs, but which benefits from an already approved renovation project.
 
 The property also includes several large plots of land, which will be used for our activities:
 

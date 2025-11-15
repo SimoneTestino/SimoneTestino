@@ -32,6 +32,6 @@ We have considered two key exclusion criteria and determined they do not represe
 
 **Application Process**
 
-The application process for the Green Start-up programme is a multi-stage selection. It begins with a detailed online application. As all legally binding documents and the application itself must be submitted in **German**, this entire process will be handled by [[Simone Testino]].
+The application process for the Green Start-up programme is a multi-stage selection. It begins with a detailed online application. As all legally binding documents and the application itself must be submitted in **German**, this entire process will be handled by [[Luna/People/Simone Testino]].
 
 The application must be submitted with supporting documents, including CVs and a specific cost plan (using the DBU's Excel template). This written application is the basis for the first selection round, which may be followed by an in-depth interview. All official guidelines can be found on the [DBU's download page](https://www.dbu.de/en/service/downloads/#application-process).
