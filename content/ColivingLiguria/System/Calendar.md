@@ -17,8 +17,6 @@ language: EN/IT
 
 ### The Preparation Phase (Now - Dec 2nd)
 
-* **Nov 14:** New photos of [[Ville Chiappella]] were taken. The **[[Marketing Team]]** is currently processing them.
-* **Nov 14:** [[Emanuele Garré]] visited the properties in **[[Terreni Mignanego]]** to assess their potential. This is a separate project involving land that could be acquired for free (see [[Purchase Terreni Mignanego]]).
 * **Nov 26 - Dec 2 ([[Week Before Purchase]]):** This is a critical week of on-site preparation.
     * **Nov 26:** [[ColivingLiguria/People/Simone Testino]] will be on-site for a final inspection and to officially request the early activation of utilities. See the detailed plan in **[[Attivazione Utenze]]**.
     * **Nov 27 - Dec 2:** While we wait for the deed, we will focus on preparing the exterior lands, particularly for the arrival of the horses. See **[[Setting up the Terrains]]**.
