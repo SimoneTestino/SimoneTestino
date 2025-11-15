@@ -6,95 +6,99 @@ language: EN/IT
 --Italiano sotto--
 
 > [!Abstract]
-> This document outlines the details of **[[Casa Maggiore]]**, a potential new acquisition currently under negotiation. It is a large, independent property featuring a main house, a barn, and significant land, located just across the road from our current complex.
+> This document outlines the details of **[[Casa Maggiore]]**, a potential new acquisition currently under negotiation. Located at Strada Chiappella 37, directly opposite our main complex, this independent property offers immediate capacity expansion and significant workspace potential.
+>
+> **Key Assets Overview:**
+> * **Status:** In advanced negotiation for purchase.
+> * **Total Land:** ~1,000 m² (Edificabile/Buildable).
+> * **Potential Bedrooms:** 8 (4 on Ground Floor + 4 on First Floor).
+> * **Bathrooms:** 1 (Existing) + 1 (Planned).
+> * **Shared Spaces:** Large Barn, Basements for Gym/Coworking, "Half-outdoor" Kitchen.
 
 ### Property Overview
-* **Status:** In negotiation for purchase.
-* **Location:** [Google Maps](https://maps.app.goo.gl/B6dYxZpMF8CGPViJ7) (Approximate, based on proximity to Str. Chiappella).
-* **Composition:** Main residential building (2 apartments), large barn/warehouse, and surrounding land.
+* **Location:** [Google Maps](https://maps.app.goo.gl/XvV4tK4D2612tCQp6), Strada Chiappella 37.
+* **Composition:** Main residential building (spread over multiple levels), large separate barn (Fienile), and private surrounding land.
+
+![[Floor Plans Casa Maggiore.pdf]]
 
 ### Main Residential Building (Particella 502)
-A substantial independent house spread over multiple levels, currently divided into two units plus cellars.
+The main house is a substantial independent structure. Based on our analysis of the floor plans and inspection, we foresee the following layout distribution:
 
-* **Land Registry:** Foglio 29, Particella 502
-* **Structure:**
-    * **Subalterno 1 (Cellars/Storage):** Located on the semi-basement/ground floor. Includes two cellars (*cantina*), a chicken coop (*pollaio*), and storage rooms (*locale di sgombero*). Heights vary between 2.05m and 2.50m.
-    * **Subalterno 2 (Apartment 1):** Ground/First Floor. Layout includes a kitchen, living room, and bedrooms.
-    * **Subalterno 3 (Apartment 2):** First/Second Floor. Layout typically mirrors the floor below or completes the sleeping quarters.
-* **Internal Layout (from plans & listing):**
-    * Entrance, Hall, Living Room, Kitchen.
-    * **4 Bedrooms.**
-    * **2 Bathrooms.**
-    * Large Cellar and Garage.
-* **Condition:** The property appears to be in fair condition but likely requires modernization of systems and finishes.
+#### **Basement / Semi-Basement (Subalterno 1)**
+These spaces are partially below ground level with a ceiling height of approximately **2.00 meters**. While not suitable for bedrooms, they are perfect for communal activities.
+* **Gym / Yoga Space:** A large area suitable for fitness activities.
+* **Coworking Area:** Another large section can be converted into a casual coworking space for occasional use.
+* **"Half-Outdoor" Kitchen:** We see potential to install a major summer kitchen in the area connecting to the garden.
+
+#### **Ground Floor (Subalterno 2)**
+This level will be dedicated primarily to sleeping quarters.
+* **Layout:** We expect to configure **4 Bedrooms** here:
+    * **3 Large Double Bedrooms.**
+    * **1 Smaller Double Bedroom.**
+* **Services:** There is currently no bathroom on this floor, but we plan to build **1 New Bathroom** to service these rooms.
+
+#### **First Floor (Subalterno 3)**
+This floor offers flexibility for private accommodation and potentially utilizes the attic space.
+* **Layout:** We plan for **4 Private Bedrooms**.
+* **Bathroom:** Includes **1 Large Main Bathroom** (currently the only existing bathroom in the house).
+* **Attic (Sottotetto):** There is potential to recuperate and utilize the space immediately below the roof (*sottotetto*) for storage or additional lofted areas.
 
 ### The Barn / Fienile (Particella 742)
-A separate, large agricultural building with immense potential for conversion or workspace.
-
-* **Land Registry:** Foglio 29, Particella 742 (ex 240).
-* **Category:** Fienile (Barn) / C/2 (Warehouse).
-* **Dimensions:**
-    * **Ground Floor:** Large open space ("Fienile") with a height of 2.40m.
-    * **Basement/Intercapedine:** Storage/utility space.
-* **Features:** Includes a portico. The structure is solid and offers significant volume for future [[Supplementary Projects]] or workspace.
+A separate, solid agricultural building featuring a portico.
+* **Category:** C/2 (Warehouse).
+* **Potential:** This volume is immense and ideal for noisy or messy **[[Supplementary Projects]]**, a large workshop, or a covered event venue, keeping these activities separate from the main residential areas.
 
 ### Land and Exteriors
-The property is surrounded by its own private land, adding privacy and potential for gardening or expansion.
-
-* **Land Area:** Approximately **1,000 m²** (as per listing).
-* **Buildability:** The listing mentions "terreno edificabile" (buildable land), which could allow for further expansion or the construction of additional small structures (to be verified with CDU).
-* **Position:** "Immersa nel verde" (Immersed in greenery), ensuring a peaceful atmosphere consistent with the rest of [[Ville Chiappella]].
-
-### Strategic Value
-Acquiring [[Casa Maggiore]] would significantly expand the capacity of [[ColivingLiguria]], providing:
-1.  **Ready-to-use accommodation:** The 4 bedrooms could immediately host new residents or volunteers.
-2.  **Workspace:** The large barn is perfect for a workshop, coworking space, or event venue.
-3.  **Consolidation:** It secures the area directly opposite our main cluster, creating a unified "village" feel.
+The property is surrounded by approximately **1,000 m²** of private land.
+* **Buildability:** The land is listed as *edificabile*, which may allow for the construction of additional small structures or glamping units (subject to verification).
+* **Atmosphere:** "Immersa nel verde" (Immersed in greenery), it maintains the peaceful vibe of the village while being strategically located across the street.
 
 ---
 
 > [!Abstract]
-> Questo documento illustra i dettagli di **[[Casa Maggiore]]**, una potenziale nuova acquisizione attualmente in fase di negoziazione. Si tratta di una grande proprietà indipendente composta da una casa principale, un fienile e un terreno significativo, situata proprio di fronte al nostro attuale complesso.
+> Questo documento illustra i dettagli di **[[Casa Maggiore]]**, una potenziale nuova acquisizione attualmente in fase di negoziazione. Situata in Strada Chiappella 37, proprio di fronte al nostro complesso principale, questa proprietà indipendente offre un'espansione immediata della capacità ricettiva e un notevole potenziale per spazi di lavoro.
+>
+> **Riepilogo Asset Chiave:**
+> * **Stato:** In trattativa avanzata per l'acquisto.
+> * **Terreno Totale:** ~1.000 m² (Edificabile).
+> * **Potenziali Camere:** 8 (4 al Piano Terra + 4 al Primo Piano).
+> * **Bagni:** 1 (Esistente) + 1 (Pianificato).
+> * **Spazi Condivisi:** Grande Fienile, Cantine per Palestra/Coworking, Cucina "Mezza-esterna".
 
 ### Panoramica della Proprietà
-* **Stato:** In trattativa per l'acquisto.
-* **Posizione:** [Google Maps](https://maps.app.goo.gl/B6dYxZpMF8CGPViJ7) (Approssimativa, basata sulla vicinanza a Str. Chiappella).
-* **Composizione:** Edificio residenziale principale (2 unità/subalterni), grande fienile/magazzino e terreno circostante.
+* **Posizione:** [Google Maps](https://maps.app.goo.gl/XvV4tK4D2612tCQp6), Strada Chiappella 37.
+* **Composizione:** Edificio residenziale principale (su più livelli), grande fienile separato e terreno circostante privato.
+
+![[Floor Plans Casa Maggiore.pdf]]
 
 ### Edificio Residenziale Principale (Particella 502)
-Una sostanziosa casa indipendente disposta su più livelli, attualmente divisa in unità abitative più cantine.
+La casa principale è una struttura indipendente sostanziosa. Sulla base della nostra analisi delle planimetrie e dei sopralluoghi, prevediamo la seguente distribuzione:
 
-* **Dati Catastali:** Foglio 29, Particella 502.
-* **Struttura:**
-    * **Subalterno 1 (Cantine/Sgombero):** Situato al piano seminterrato/terra. Include due cantine, un pollaio e locali di sgombero. Le altezze variano tra 2,05m e 2,50m.
-    * **Subalterno 2 (Appartamento 1):** Piano Terra/Primo. Il layout include cucina, soggiorno e camere.
-    * **Subalterno 3 (Appartamento 2):** Piano Primo/Secondo.
-* **Layout Interno (da planimetrie e annuncio):**
-    * Ingresso, Sala, Soggiorno, Cucina.
-    * **4 Camere da letto.**
-    * **2 Bagni (Biservizi).**
-    * Ampia Cantina e Garage.
-* **Condizioni:** La proprietà appare in discrete condizioni ma probabilmente necessita di ammodernamento di impianti e finiture.
+#### **Seminterrato / Piano Fondi (Subalterno 1)**
+Questi spazi sono parzialmente interrati con un'altezza del soffitto di circa **2,00 metri**. Sebbene non adatti a camere da letto, sono perfetti per attività comuni.
+* **Spazio Palestra / Yoga:** Un'area ampia adatta per attività di fitness.
+* **Area Coworking:** Un'altra sezione grande può essere convertita in uno spazio di coworking informale per uso occasionale.
+* **Cucina "Mezza-Esterna":** Vediamo il potenziale per installare una grande cucina estiva nell'area che si collega al giardino.
+
+#### **Piano Terra (Subalterno 2)**
+Questo livello sarà dedicato principalmente alla zona notte.
+* **Layout:** Prevediamo di configurare **4 Camere da letto**:
+    * **3 Grandi Camere Matrimoniali.**
+    * **1 Camera Matrimoniale più piccola.**
+* **Servizi:** Attualmente non c'è un bagno su questo piano, ma pianifichiamo di costruire **1 Nuovo Bagno** per servire queste stanze.
+
+#### **Primo Piano (Subalterno 3)**
+Questo piano offre flessibilità per alloggi privati e potenzialmente utilizza lo spazio del sottotetto.
+* **Layout:** Pianifichiamo **4 Camere Private**.
+* **Bagno:** Include **1 Grande Bagno Principale** (attualmente l'unico bagno esistente nella casa).
+* **Sottotetto:** C'è il potenziale per recuperare e utilizzare lo spazio immediatamente sotto il tetto per deposito o aree soppalcate aggiuntive.
 
 ### Il Fienile (Particella 742)
-Un grande edificio agricolo separato con un immenso potenziale di conversione o spazio di lavoro.
-
-* **Dati Catastali:** Foglio 29, Particella 742 (ex 240).
-* **Categoria:** Fienile / C/2 (Magazzino).
-* **Dimensioni:**
-    * **Piano Terra:** Grande open space ("Fienile") con un'altezza di 2,40m.
-    * **Seminterrato/Intercapedine:** Spazio di deposito/utilità.
-* **Caratteristiche:** Include un porticato. La struttura è solida e offre un volume significativo per futuri [[Supplementary Projects]] o spazi di lavoro.
+Un edificio agricolo separato e solido, dotato di porticato.
+* **Categoria:** C/2 (Magazzino).
+* **Potenziale:** Questo volume è immenso e ideale per **[[Supplementary Projects]]** rumorosi o che sporcano, un grande laboratorio o una sede per eventi al coperto, mantenendo queste attività separate dalle aree residenziali principali.
 
 ### Terreno ed Esterni
-La proprietà è circondata dal proprio terreno privato, che aggiunge privacy e potenziale per giardinaggio o espansione.
-
-* **Superficie Terreno:** Circa **1.000 m²** (come da annuncio).
-* **Edificabilità:** L'annuncio menziona "terreno edificabile", il che potrebbe consentire ulteriori espansioni o la costruzione di piccole strutture aggiuntive (da verificare con CDU).
-* **Posizione:** "Immersa nel verde", garantendo un'atmosfera tranquilla coerente con il resto di [[Ville Chiappella]].
-
-### Valore Strategico
-L'acquisizione di [[Casa Maggiore]] espanderebbe significativamente la capacità di [[ColivingLiguria]], fornendo:
-1.  **Alloggi pronti all'uso:** Le 4 camere potrebbero ospitare immediatamente nuovi residenti o volontari.
-2.  **Spazio di Lavoro:** Il grande fienile è perfetto per un laboratorio, uno spazio di coworking o una sede per eventi.
-3.  **Consolidamento:** Assicura l'area direttamente di fronte al nostro nucleo principale, creando una sensazione di "villaggio" unificato.
+La proprietà è circondata da circa **1.000 m²** di terreno privato.
+* **Edificabilità:** Il terreno è indicato come *edificabile*, il che potrebbe consentire la costruzione di piccole strutture aggiuntive o unità glamping (previa verifica).
+* **Atmosfera:** "Immersa nel verde", mantiene l'atmosfera tranquilla del borgo pur essendo strategicamente situata dall'altra parte della strada.
