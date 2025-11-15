@@ -6,7 +6,7 @@ language: EN/IT
 --Italiano sotto--
 
 > [!Abstract]
-> This page outlines the project to accommodate three horses at [[ColivingLiguria]] from the very beginning of operations. We are designing a dedicated facility on the **[[Terreni oltre Torrente]]**, verifying regulatory compliance, and planning the construction of a high-tech, energy-autonomous stable. Final verification will take place on-site during the **[[Week Before Purchase]]**.
+> This page outlines the project to accommodate three horses at [[ColivingLiguria]] from the very beginning of operations. We are designing a dedicated facility on the **[[Terreni oltre Torrente]]**, verifying regulatory compliance (see **[[Normative Detenzione Equini]]**), and planning the construction of a high-tech, energy-autonomous stable. Final verification will take place on-site during the **[[Week Before Purchase]]**.
 
 ### The Project: Horses at Coliving Liguria
 We have established a contact with a horse owner who wishes to join our community immediately. To accommodate her three horses, we are developing a specific plan to ensure their well-being and legal compliance using our available land.
@@ -39,13 +39,13 @@ We aim to create a highly advanced facility:
 
 ### Next Steps: On-Site Verification
 I will define the final layout and confirm these plans during my site visit in the **[[Week Before Purchase]]**.
-* **Regulatory Check:** Verify local constraints regarding enclosed animal shelters in Zone E.
+* **Regulatory Check:** Verify local constraints regarding enclosed animal shelters in Zone E, ensuring full alignment with **[[Normative Detenzione Equini]]**.
 * **Layout Planning:** Mark out the exact boundaries for the fencing and the path.
 
 ---
 
 > [!Abstract]
-> Questa pagina delinea il progetto per ospitare tre cavalli a [[ColivingLiguria]] fin dall'inizio delle operazioni. Stiamo progettando una struttura dedicata sui **[[Terreni oltre Torrente]]**, verificando la conformità normativa e pianificando la costruzione di una stalla ad alta tecnologia ed energeticamente autonoma. La verifica finale avverrà in loco durante la **[[Week Before Purchase]]**.
+> Questa pagina delinea il progetto per ospitare tre cavalli a [[ColivingLiguria]] fin dall'inizio delle operazioni. Stiamo progettando una struttura dedicata sui **[[Terreni oltre Torrente]]**, verificando la conformità normativa (vedi **[[Normative Detenzione Equini]]**) e pianificando la costruzione di una stalla ad alta tecnologia ed energeticamente autonoma. La verifica finale avverrà in loco durante la **[[Week Before Purchase]]**.
 
 ### Il Progetto: Cavalli a Coliving Liguria
 Abbiamo stabilito un contatto con una proprietaria di cavalli che desidera unirsi alla nostra comunità immediatamente. Per ospitare i suoi tre cavalli, stiamo sviluppando un piano specifico per garantire il loro benessere e la conformità legale utilizzando i nostri terreni disponibili.
@@ -78,5 +78,5 @@ Puntiamo a creare una struttura altamente avanzata:
 
 ### Prossimi Passi: Verifica in Loco
 Definirò il layout finale e confermerò questi piani durante la mia visita nella **[[Week Before Purchase]]**.
-* **Verifica Normativa:** Verificare i vincoli locali riguardanti i ricoveri animali chiusi in Zona E.
+* **Verifica Normativa:** Verificare i vincoli locali riguardanti i ricoveri animali chiusi in Zona E, in conformità con le **[[Normative Detenzione Equini]]**.
 * **Pianificazione Layout:** Traccerò i confini esatti per la recinzione e il sentiero.
