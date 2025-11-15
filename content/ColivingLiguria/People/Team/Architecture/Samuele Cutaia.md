@@ -1,12 +1,12 @@
 ---
-draft: false
+draft: true
 date: 2025-11-15
 language: EN/IT
 ---
 --Italiano sotto--
 
 > [!Abstract]
-> **Samuele Cutaia** is the reference Surveyor (*Geometra*) for the **[[Architecture Team]]** at Coliving Liguria. Born in 2004, he combines technical precision with modern tools like 3D modelling and drone surveillance. He is responsible for municipal relations, topographic surveys, and technical compliance.
+> **Samuele Cutaia** is the reference Surveyor (*Geometra*) for the **[[Architecture Team]]** at Coliving Liguria. Born in 2004, he combines technical precision with modern tools like 3D modelling and professional drone recordings.  He is responsible for municipal relations, topographic surveys, and technical compliance.
 
 ### Professional Profile
 Samuele is a young and talented Surveyor. He is currently finalising his professional path and will be fully registered with the **Order of Surveyors** (*Albo dei Geometri*) by the beginning of 2026. From that moment, he will possess the full legal authority to sign off on all major construction and renovation paperwork.
