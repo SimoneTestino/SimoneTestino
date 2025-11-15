@@ -25,10 +25,10 @@ Before submitting a request, the owner must ensure they have digital copies (PDF
 Admission of horses is not automatic. It follows this strict process:
 
 1.  **Submission of Documentation:**
-    The owner must send an email to **`colivingliguria@gmail.com`** with the subject line "Horse Hospitality Request - [Owner Name]". The email must contain **all** the documents listed in the checklist above.
+    The owner must send an email to **colivingliguria@gmail.com** with the subject line "Horse Hospitality Request - \[Owner Name\]". The email must contain **all** the documents listed in the checklist above.
 
 2.  **Verification and Contract Dispatch:**
-    [[ColivingLiguria/People/Simone Testino]] will verify the regularity of the documents. If successful, he will draft the **Contract for Horses**. This document will be digitally signed by Simone (in `.p7m` format) and sent exclusively from the official certified email address (PEC): **`simone.testino@legalmail.it`**.
+    [[ColivingLiguria/People/Simone Testino]] will verify the regularity of the documents. If successful, he will draft the **Contract for Horses**. This document will be digitally signed by Simone (in `.p7m` format) and sent exclusively from the official certified email address (PEC): simone.testino@legalmail.it.
 
 3.  **Signature and Deposit:**
     The owner must countersign the contract and send it back. At the same time, they must pay the specific **Security Deposit** for the horses (the amount will be specified in the contract based on the number of animals).
