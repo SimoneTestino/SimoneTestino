@@ -1,8 +1,9 @@
 ---
-date: 2025-10-04
 draft: false
+date: 2025-11-15
+language: EN/IT
 ---
-— Italiano sotto —
+--Italiano sotto--
 
 This document provides a detailed breakdown of the "Casa del Forno" property, located at STRADA CHIAPPELLA, Comune di CAIRO MONTENOTTE (SV). The property consists of a main residential building, a separate utility building ("The Oven"), and appurtenant lands.
 
@@ -38,14 +39,25 @@ This is the larger of the two houses. The structure is a mix of stone and brick,
 - **Associated Cellars:** The floor plan also shows three cellars. Their future use is still undecided; they could be converted into a gym, offices, or connected to the apartment via internal stairs to create more bedrooms. Further planning is required.
 
 ### Appurtenant Lands
-These two adjacent plots will form a convenient and beautiful vegetable garden (*orticello*) right in front of the house. The main plot is currently uncultivated, with two small trees.
-- **Particella 531:** SEMIN ARBOR, Class 2 - Surface: 210 m²
-- **Particella 532:** SEMIN IRRIG, Class 2 - Surface: 104 m²
+These two adjacent plots will form a convenient and beautiful vegetable garden (*orticello*) right in front of the house.
+
+* **Particella 531:**
+    * **Quality:** SEMIN ARBOR, Class 2
+    * **Surface:** 210 m²
+    * **Dominical Income:** € 1.41
+    * **Zoning (CDU):** Part Zone E (Agricultural), Part Zone Bp 4 (Residential), subject to (Fs) Frane stabilizzate constraint.
+
+* **Particella 532:**
+    * **Quality:** SEMIN IRRIG, Class 2
+    * **Surface:** 104 m²
+    * **Dominical Income:** € 0.70
+    * **Zoning (CDU):** Part Zone E (Agricultural), Part Zone Bp 4 (Residential), subject to (Fs) Frane stabilizzate constraint.
 
 ### The Oven (Former Chicken Coop) - Particella 529
 This is a separate brick building in good structural condition, with an electrical connection. Its roof appears more precarious than others and requires inspection. An adjacent small wooden hut is also present.
 - **Land Registry:** Foglio 29, Particella 529
 - **Surface Area:** 52 m²
+- **Cadastral Income:** € 121.16
 - **Floor Plan:** [[PLANIMETRIA FG 29 MAPP 529.pdf]]
 - **Future Use:** The plan is to enhance it into a large, communal outdoor kitchen. The existing electrical connection will be supplemented with a water line from the main house. It will be perfect for cooking with a wood-fired oven, electricity, or gas tanks.
 
@@ -85,13 +97,24 @@ Questo documento fornisce una suddivisione dettagliata della proprietà "Casa de
 - **Cantine Associate:** La planimetria mostra anche tre cantine. Il loro futuro utilizzo è ancora incerto; potrebbero diventare una palestra, uffici, o essere collegate all'appartamento con scale interne per creare più stanze da letto. Sono necessari ulteriori piani a riguardo.
 
 ### Terreni Pertinenziali
-Questi due lotti adiacenti andranno a formare un comodo e bell'orticello proprio di fronte a casa. Il lotto principale è attualmente incolto e presenta due alberelli.
-- **Particella 531:** SEMIN ARBOR, Classe 2 - Superficie: 210 m²
-- **Particella 532:** SEMIN IRRIG, Classe 2 - Superficie: 104 m²
+Questi due lotti adiacenti andranno a formare un comodo e bell'orticello proprio di fronte a casa.
+
+* **Particella 531:**
+    * **Qualità:** SEMIN ARBOR, Classe 2
+    * **Superficie:** 210 m²
+    * **Reddito Dominicale:** € 1,41
+    * **Zonizzazione (CDU):** Parte Zona E (Agricola), Parte Zona Bp 4 (Residenziale), soggetta a vincolo (Fs) Frane stabilizzate.
+
+* **Particella 532:**
+    * **Qualità:** SEMIN IRRIG, Classe 2
+    * **Superficie:** 104 m²
+    * **Reddito Dominicale:** € 0,70
+    * **Zonizzazione (CDU):** Parte Zona E (Agricola), Parte Zona Bp 4 (Residenziale), soggetta a vincolo (Fs) Frane stabilizzate.
 
 ### Il Forno (Ex Pollaio) - Particella 529
 Edificio separato in mattoni, in buone condizioni strutturali e con allaccio alla corrente elettrica. Il tetto appare più precario rispetto agli altri e richiede una verifica. Adiacente si trova una piccola casupola in legno.
 - **Dati Catastali:** Foglio 29, Particella 529
 - **Superficie:** 52 m²
+- **Rendita Catastale:** € 121,16
 - **Planimetria:** [[PLANIMETRIA FG 29 MAPP 529.pdf]]
 - **Utilizzo Futuro:** L'idea è di potenziarlo per creare una grande cucina esterna comune. All'allaccio elettrico esistente si aggiungerà un collegamento idrico dalla casa principale. Sarà ideale per cucinare con forno a legna, elettricità o bombole del gas.

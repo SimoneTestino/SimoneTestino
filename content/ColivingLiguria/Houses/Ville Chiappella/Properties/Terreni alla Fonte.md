@@ -1,14 +1,23 @@
-— Italiano sotto —
+---
+draft: false
+date: 2025-11-15
+language: EN/IT
+---
+
+--Italiano sotto--
+
+> [!Abstract]
+> This document details the **[[Terreni alla Fonte]]**, a large, steep, and heavily wooded plot located at the source of a stream. With a surface area of over 4,000 m², its primary potential lies in forestry (firewood) and strategic utility installations (5G antenna), rather than agriculture.
 
 - **Location:** [Google Maps](https://maps.app.goo.gl/fu9qVUUFnK8wMgSv7) | Coordinates: 44.399902, 8.255036
-- **Land Registry:** Foglio 46, Particella 200
+- **Land Registry:** Foglio 46, Particella 200 (**Total Area: 4,410 m²**)
 
 ![[Catasto Terreni alla Fonte.png]]
 ![[Catasto Terreni alla Fonte vs Chiappella.png]]
 
 ### Description and Potential Use
 
-This is a steep, heavily wooded plot of land located at the source of a stream—the very one that flows into the larger stream near our house. However, due to the direction of the current, water from this source flows *away* from our main property.
+This property consists of a single large plot (**Particella 200**, 4,410 m²), which is steep and heavily wooded. It is located at the source of a stream—the very one that flows into the larger stream near our house. However, due to the direction of the current, water from this source flows *away* from our main property.
 
 - **Potential Uses:**
   1.  **5G Antenna Installation:** The high ground could be interesting for installing a 5G internet antenna to get a faster connection in the valley. However, it's unclear if the signal is actually better there; this needs to be tested.
@@ -30,15 +39,18 @@ This area is promising for applying [[Usucapione]] (Adverse Possession) due to t
 
 ---
 
+> [!Abstract]
+> Questo documento descrive i **[[Terreni alla Fonte]]**, un ampio appezzamento scosceso e boschivo situato alla sorgente di un torrente. Con una superficie di oltre 4.000 m², il suo potenziale principale risiede nella silvicoltura (legna da ardere) e in installazioni strategiche (antenna 5G), piuttosto che nell'agricoltura.
+
 - **Posizione:** [Google Maps](https://maps.app.goo.gl/fu9qVUUFnK8wMgSv7) | Coordinate: 44.399902, 8.255036
-- **Dati Catastali:** Foglio 46, Particella 200
+- **Dati Catastali:** Foglio 46, Particella 200 (**Superficie Totale: 4.410 m²**)
 
 ![[Catasto Terreni alla Fonte.png]]
 ![[Catasto Terreni alla Fonte vs Chiappella.png]]
 
 ### Descrizione e Potenziale d'Uso
 
-Si tratta di un terreno scosceso e molto boscoso, situato alla fonte di un torrente, proprio quello che sfocia nel torrente più vicino a casa nostra. Tuttavia, il verso della corrente non permette un flusso d'acqua da questo terreno fino a casa, poiché il torrente principale scorre nella direzione opposta.
+La proprietà consiste in un unico grande lotto (**Particella 200**, 4.410 m²), scosceso e molto boscoso. È situato alla fonte di un torrente, proprio quello che sfocia nel torrente più vicino a casa nostra. Tuttavia, il verso della corrente non permette un flusso d'acqua da questo terreno fino a casa, poiché il torrente principale scorre nella direzione opposta.
 
 - **Usi Potenziali:**
   1.  **Installazione Antenna 5G:** La posizione elevata potrebbe essere interessante per installare un'antenna internet 5G per ottenere una connessione più veloce in paese. Non è però chiaro se la ricezione lì sia effettivamente migliore; è una cosa da sperimentare.
@@ -48,7 +60,7 @@ Si tratta di un terreno scosceso e molto boscoso, situato alla fonte di un torre
 ### Strategia Legale e Terreni Circostanti
 
 Questa zona è promettente per l'applicazione dell'[[Usucapione]], dato il numero molto ridotto di fabbricati vicini.
-- **Lotti di Interesse per Usucapione:**
+- **Lotti di Interesse per [[Usucapione]]:**
     - **224 & 199:** Grandi lotti vicini che potrebbero essere usati come area boschiva limitrofa per ulteriore legna o per altri [[Supplementary Projects|progetti supplementari]] ancora non definiti.
     - **130, 306 & 129:** Fasce di terreno che seguono il torrente verso la valle.
     - **211 & 212:** Uno [spiazzo privo di alberi](https://maps.app.goo.gl/f38Cyiv13JVwL2Gz7) situato poco più in alto. La ragione non è chiara, ma potrebbe essere un'interessante area per il campeggio.
