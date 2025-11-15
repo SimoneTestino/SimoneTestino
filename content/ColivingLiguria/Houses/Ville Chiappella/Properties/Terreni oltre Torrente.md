@@ -2,66 +2,71 @@
 date: 2025-10-04
 draft: false
 ---
-— Italiano sotto —
+--Italiano sotto--
 
-This document outlines the characteristics and potential of two plots of land located along the stream.
+> [!Abstract]
+> This document outlines the characteristics of the **[[Terreni oltre Torrente]]**, two agricultural plots located across the stream. Due to their flat nature and proximity to water, these lands have been officially designated as the grazing and management area for the **horses residing at ColivingLiguria**.
 
 - **Location:** [Google Maps](https://maps.app.goo.gl/3mRibx5VCC2Tsw4c8) | Coordinates: 44°24'07.7"N 8°15'10.6"E
-- **Land Registry:** Foglio 46, Particelle 104 & 105
+- **Land Registry:** Foglio 46, Particelle 104 & 105 (**Total Area: 1,240 m²**)
 
 ![[Catasto Terreni oltre Torrente.png]]
+
 ### Description and Potential Use
 
 The property consists of two agricultural plots:
-- **Particella 104:** Half of it is woodland, offering potential for wood harvesting.
-- **Particella 105:** Already cleared of wood.
+- **Particella 104 (600 m²):** Half of it is woodland, offering potential for wood harvesting.
+- **Particella 105 (640 m²):** Already cleared of wood.
 
-Being flat and close to the stream, these lands are particularly suitable for **agricultural purposes**. They could also be used to host various activities managed by ColivingLiguria. Anyone interested in using this land for agricultural projects in collaboration with us is encouraged to follow the guidelines in [[Propose a Project]] and then [[Contact]] me.
+Being flat and close to the stream, these lands are particularly suitable for **agricultural purposes** and grazing. They are the designated home for the horses of the ColivingLiguria community. Upcoming work will focus on preparing this area to safely host the animals. You can read the detailed preparation plan on the **[[Setting up the Terrains]]** page.
 
-### Access and Legal Status
+**Buildability (CDU Verification):** According to the **CDU 2025/102**, these lands fall under **Zone E (Agricultural)**.
+- **Residential Construction:** Excluded due to the **ANI-MA** classification.
+- **Agricultural Construction:** Permitted with a low land utilization index ($Uf=0.03$ $mq/mq$). This allows for small agricultural structures, such as shelters for the horses or tool sheds, subject to specific project approval.
 
-Access to these plots is currently complex.
-- **Potential Route:** Access could be gained via the municipal road (Str. Chiappella) to the stream, then following the stream bank through plot 106.
-- **Uncertainties:** The ownership of plot 106 is unknown, and consequently, the **right of way is unclear**. The closest confirmed owned property is plot 515, which belongs to [[Casa del Noce]].
-- **Possible Strategies:** The possibility of using [[Usucapione]] (Adverse Possession) for plot 106, or for plots on the opposite side of the stream (e.g., 103, 491), could be explored to secure access. However, this carries the risk of the legal owner asserting their rights. The ownership of these plots must be verified by a licensed technician as soon as possible.
+### Access and Connection Strategies
+
+Access to these plots presents some logistical challenges that we plan to address during the [[Setting up the Terrains]] phase.
+
+- **Vehicle Access:** The municipal road (Str. Chiappella) leads towards the stream but ends near **plot 106**, which is **not owned by us**. We need to verify the possibility of accessing our lands (104 & 105) by passing directly through plot 106.
+- **Connection for Horses:** To connect the grazing area (104 & 105) with the main property, we are exploring a path along the stream bank. The goal is to create a route that leads from these plots directly to **Particella 522**, the land situated right in front of [[Casa del Noce]]. This would allow for easier management of the animals.
 
 ### Risks and Verifications
 
-Several key factors need to be verified before development:
-- **Pre-emption Rights:** These lands are the most likely to be subject to [[Verifica Prelazione Agraria|Agricultural Pre-emption Rights]]. We are currently investigating this risk, which requires an on-site visit to check for current agricultural activity.
-- **Building Eligibility:** The potential for construction on the land is yet to be verified.
-- **Hydrological Risk:** Official hydrological risk assessments are pending. However, it was empirically noted that during the major flood of September 2025, which affected much of Cairo Montenotte, these properties and lands did not suffer apparent damage.
-
-A personal site visit and a formal survey are required. Any resulting reports or resources will be published here.
+- **Pre-emption Rights:** These lands are likely subject to [[Verifica Prelazione Agraria|Agricultural Pre-emption Rights]]. We are currently investigating this risk.
+- **Hydrological Risk:** Official hydrological risk assessments are pending. However, empirical observation during the major flood of September 2025 showed no apparent damage to these lands.
 
 ---
 
-Questo documento delinea le caratteristiche e il potenziale di due appezzamenti di terreno situati lungo il torrente.
+> [!Abstract]
+> Questo documento delinea le caratteristiche dei **[[Terreni oltre Torrente]]**, due lotti agricoli situati oltre il torrente. Grazie alla loro natura pianeggiante e alla vicinanza all'acqua, questi terreni sono stati ufficialmente designati come area di pascolo e gestione per i **cavalli che risiederanno a ColivingLiguria**.
 
 - **Posizione:** [Google Maps](https://maps.app.goo.gl/3mRibx5VCC2Tsw4c8) | Coordinate: 44°24'07.7"N 8°15'10.6"E
-- **Dati Catastali:** Foglio 46, Particelle 104 & 105
+- **Dati Catastali:** Foglio 46, Particelle 104 & 105 (**Superficie Totale: 1.240 m²**)
 
 ![[Catasto Terreni oltre Torrente.png]]
+
 ### Descrizione e Potenziale d'Uso
 
 La proprietà è composta da due lotti agricoli:
-- **Particella 104:** Per metà boschivo, con potenziale per il taglio della legna.
-- **Particella 105:** Già privo di vegetazione ad alto fusto.
+- **Particella 104 (600 m²):** Per metà boschivo, con potenziale per il taglio della legna.
+- **Particella 105 (640 m²):** Già privo di vegetazione ad alto fusto.
 
-Essendo pianeggianti e vicini al torrente, questi terreni si prestano in particolare per **fini agricoli**. Potrebbero inoltre essere usati per ospitare varie attività gestite da ColivingLiguria. Chiunque sia interessato a utilizzare questo terreno per progetti agricoli in collaborazione con noi è invitato a seguire le linee guida presentate in [[Propose a Project]] e a [[Contact|contattarmi]].
+Essendo pianeggianti e vicini al torrente, questi terreni sono particolarmente adatti per **fini agricoli** e per il pascolo. Sono infatti la casa designata per i cavalli della comunità di ColivingLiguria. I prossimi lavori si concentreranno sulla preparazione di quest'area per ospitare gli animali in sicurezza. Puoi leggere il piano dettagliato per la sistemazione nella pagina **[[Setting up the Terrains]]**.
 
-### Accesso e Stato Legale
+**Edificabilità (Verifica CDU):**
+In base al **CDU 2025/102**, questi terreni ricadono in **Zona E (Agricola)**.
+- **Edificazione Residenziale:** Esclusa, in quanto l'area è soggetta al regime **ANI-MA**.
+- **Edificazione Agricola:** Consentita con un indice di utilizzazione fondiaria basso ($Uf=0,03$ $mq/mq$). Questo potrebbe permettere la realizzazione di piccole strutture agricole, come ripari per i cavalli o attrezzi, previa approvazione del progetto.
 
-L'accesso a questi terreni è attualmente complesso.
-- **Percorso Potenziale:** L'accesso potrebbe avvenire tramite la strada comunale (Str. Chiappella) fino al torrente, per poi costeggiarlo attraverso il terreno 106.
-- **Incertezze:** La proprietà del terreno 106 è sconosciuta e, di conseguenza, il **diritto di passaggio non è chiaro**. Il terreno di proprietà più vicino è il 515, pertinente alla [[Casa del Noce]].
-- **Strategie Possibili:** Si potrebbe valutare di sperimentare l'[[Usucapione]] per il terreno 106, o per quelli oltre il torrente (es. 103, 491), per garantirsi un accesso. Ciò comporta però il rischio che il legittimo proprietario faccia valere i propri diritti. La proprietà di questi terreni dovrà essere verificata da un tecnico autorizzato non appena possibile.
+### Accesso e Strategie di Collegamento
+
+L'accesso a questi terreni presenta alcune sfide logistiche che pianifichiamo di affrontare durante la fase di [[Setting up the Terrains]].
+
+- **Accesso Carrabile:** La strada comunale (Str. Chiappella) permette di avvicinarsi con i mezzi, ma porta soltanto fino al **terreno 106**, che **non è di nostra proprietà**. Dovremo verificare la possibilità di accedere direttamente ai nostri terreni (104 e 105) passando attraverso il 106.
+- **Collegamento per i Cavalli:** Per collegare l'area pascolo (104 e 105) con la proprietà principale, stiamo valutando un passaggio lungo il torrente. L'obiettivo è creare un percorso che arrivi fino alla **Particella 522**, ovvero il terreno situato proprio di fronte alla [[Casa del Noce]]. Questo faciliterebbe enormemente la gestione quotidiana degli animali.
 
 ### Rischi e Verifiche
 
-Diversi fattori chiave devono essere verificati prima di ogni sviluppo:
-- **Prelazione Agraria:** Questi terreni sono i principali sospettati per la [[Verifica Prelazione Agraria]]. Siamo in fase di ricerca per escludere tale rischio, ma è necessaria una verifica sul posto per accertare l'assenza di attività agricole.
-- **Edificabilità:** L'eventuale edificabilità del terreno è ancora da verificare.
-- **Rischio Idrologico:** Le valutazioni ufficiali sul rischio idrogeologico sono in attesa. Tuttavia, a livello empirico si può testimoniare che durante l'acquazzone di settembre 2025, che ha allagato buona parte di Cairo Montenotte, non ci sono stati danni evidenti a queste proprietà né ai terreni adiacenti al torrente.
-
-È necessario un sopralluogo di persona e un rilievo formale. Eventuali risorse prodotte verranno pubblicate qui.
+- **Prelazione Agraria:** Questi terreni sono i principali sospettati per la [[Verifica Prelazione Agraria]]. Siamo in fase di ricerca per escludere tale rischio.
+- **Rischio Idrologico:** Le valutazioni ufficiali sul rischio idrogeologico sono in attesa. Tuttavia, a livello empirico, l'alluvione del settembre 2025 non ha causato danni evidenti a questi terreni.

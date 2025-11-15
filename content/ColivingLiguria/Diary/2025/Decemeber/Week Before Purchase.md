@@ -32,7 +32,7 @@ Following the visit, access to the houses will not be possible again until the f
         * **[[Terreni oltre Torrente]]**
         * **[[Terreni alla Fonte]]**
     * **Objective:** Following a thorough visual inspection (from the exterior), these pages will be updated with crucial information regarding their current state, estimated value, potential uses, and any initial findings.
-    * **Initial Cleaning:** Where feasible and non-intrusive, some preliminary cleaning or clearing of the terrains may commence during this period.
+    * **Initial Cleaning:** Where feasible and non-intrusive, some preliminary cleaning or clearing of the terrains may commence during this period. I detail this on [[Setting up the Terrains]].
 
 ### Next Steps: Final Acquisition (December 3rd Onwards)
 
