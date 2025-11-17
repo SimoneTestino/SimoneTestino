@@ -3,11 +3,6 @@ draft: false
 date: 2025-11-17
 language: EN/IT
 ---
----
-draft: true
-date: 2025-11-17
-language: EN/IT
----
 -- Italiano sotto --
 
 > [!Abstract]
