@@ -25,6 +25,7 @@ Below are the primary documents and indices related to public funding for our pr
 #### 1. Core Project Funding
 This is the foundational grant upon which the Coliving Liguria startup is built.
 * **[[FESR Azione 1.3.3. EU Grant]]**
+* **[[FESR Azione 2.2.1 EU Grant]]**
 
 #### 2. Opportunity Tracking Indices
 These pages are actively maintained to track new and potential opportunities.
