@@ -24,11 +24,11 @@ The kitchen must have basic facilities for preparing and storing food.
     * [x] **Table**
         * **Status:** A clean table is available and ready to be brought to the site.
 * **Water Supply:**
-    * [x] **Running Water**
+    * [x] **Running Water** 
         * **Status:** Water activation procedures are underway and expected to be active from the first day of residency.
         * **Reference:** See the water activation timeline detailed in **[[Attivazione Utenze]]**.
 * **Power Supply:**
-    * [x] **Working Power Outlet**
+    * [ ] **Working Power Outlet**
         * **Status:** Electricity activation procedures are underway and expected to provide power. Must be tested on site to ensure functionality in the designated kitchen area.
 
 #### 2. 🚿 Bathroom
@@ -91,7 +91,7 @@ La cucina deve disporre delle strutture di base per la preparazione e la conserv
         * **Stato:** Le procedure di attivazione dell'acqua sono in corso e si prevede che sarà attiva dal primo giorno di residenza.
         * **Riferimento:** Vedere la tempistica di attivazione dell'acqua dettagliata in **[[Attivazione Utenze]]**.
 * **Rifornimento Elettrico:**
-    * [x] **Presa Elettrica Funzionante**
+    * [ ] **Presa Elettrica Funzionante**
         * **Stato:** Le procedure di attivazione dell'elettricità sono in corso e si prevede che forniranno corrente. Deve essere testata in loco per garantirne la funzionalità nell'area cucina designata.
 
 #### 2. 🚿 Bagno
