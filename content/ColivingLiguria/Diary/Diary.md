@@ -18,7 +18,7 @@ draft: false
 #### August 2025 & Earlier
 * **[[The Beginning]]**
 * **[[The Call]]**
-* **[[Apertura della Ditta Individuale]]**
+* **[[Costituzione Ditta Individuale]]**
 * **[[Attivazione Luce]]**
 * **[[Private Camp Site Regulations]]**
 * **[[Purchasing DIY Tools]]**
