@@ -1,9 +1,11 @@
 ---
 title: 📸 Community Face & Photo Model Wanted
-language: EN
+language: EN/IT
 date: 2025-11-01
 draft: false
 ---
+--Italiano sotto--
+
 > [!Abstract]
 > We are looking for a creative and dynamic person to become one of the faces of our community. This is a unique dual role that combines professional modeling for our in-house photography school with being a key personality on our [[Social Media]] channels, offering a unique life and work experience at [[ColivingLiguria]].
 
@@ -49,3 +51,50 @@ To apply, please send an email to colivingliguria@gmail.com with the following:
 For any preliminary questions, you can contact me (Simone Testino):
 * **WhatsApp:** `+39 339 637 9372`
 * **Instagram:** [@colivingliguria](httpsS://www.instagram.com/colivingliguria)
+
+---
+> [!Abstract]
+> Stiamo cercando una persona creativa e dinamica che diventi uno dei volti della nostra community. Si tratta di un doppio ruolo unico che combina la professione di modella per la nostra scuola di fotografia interna con quella di personalità chiave sui nostri canali [[Social Media]], offrendo un'esperienza di vita e lavoro unica a [[ColivingLiguria]].
+
+**[[ColivingLiguria]]** è un progetto che trasforma ville dell'entroterra ligure in hub per studenti, lavoratori da remoto e creativi. La nostra missione è creare un ambiente giovane, internazionale e collaborativo. Le nostre case sono centri di attività, dove i residenti offrono corsi ed eventi, come si vede nella nostra pagina [[Supplementary Projects]].
+### La Doppia Opportunità
+
+Stiamo cercando qualcuno che collabori con noi su due fronti complementari. Questa è un'esperienza immersiva, quindi cerchiamo qualcuno che voglia trasferirsi e vivere con noi.
+
+1.  **Modella/o Fotografico/a:**
+    Sarai il modello principale per una scuola di fotografia indipendente ospitata presso le nostre strutture, che sarà gestita dal nostro futuro **[[Photographer]]** (ad esempio, [[Photography Course by Chris]]). Collaborerai direttamente con il fotografo professionista e i suoi studenti.
+2.  **Volto di ColivingLiguria (Social Media):**
+    Sarai una figura di primo piano sui nostri canali social media, lavorando in stretto dialogo con il nostro **[[Social Media Manager]]**. Il tuo ruolo è condividere in modo autentico la storia, lo stile di vita e le esperienze della nostra comunità.
+
+### Requisiti Linguistici
+* **Inglese:** Per la parte del ruolo relativa ai social media, è **obbligatoria una buona pronuncia inglese**. I nostri contenuti sono quasi esclusivamente in inglese e parte del colloquio di selezione con **[[ColivingLiguria/People/Simone Testino]]** sarà in inglese per valutarla.
+* **Italiano:** L'italiano è un "buon plus" per altri progetti, ma **non è affatto necessario**. Puoi impararlo gratuitamente sul posto con le nostre **[[Italian Classes]]**.
+
+### Compenso e Modelli di Business
+Offriamo una struttura flessibile. La tua permanenza sarà formalizzata con un [[Contract for Residents]].
+
+* **Alloggio:** Offriamo **alloggio gratuito in camera condivisa** o una **camera privata a un affitto fortemente ridotto**.
+* **Modello 1: Residente Principale**
+    Puoi assumere questo ruolo come membro chiave della comunità in cambio del tuo alloggio.
+* **Modello 2: Business Indipendente / Profit-Sharing**
+    Puoi strutturare questa come la tua impresa personale secondo il framework [[Propose a Project]]:
+    1.  **Per il Modeling:** Puoi operare con la tua Partita IVA e creare un **accordo di profit-sharing direttamente con il [[Photographer]]** per dividere i ricavi della scuola di fotografia.
+    2.  **Per i Social Media:** Questo è un accordo separato. Per essere un "volto" chiave del brand, puoi ricevere una **porzione dei profitti del progetto**, sulla base di un accordo stipulato direttamente con ColivingLiguria.
+
+* **Accesso Gratuito:** Avrai **accesso gratuito a tutti i [[Supplementary Projects]]** offerti al coliving, come lingue, yoga, meditazione, sport (arrampicata, MTB) e altro.
+
+### Il Candidato Ideale
+* **Età:** L'età indicativa è 18-30 anni.
+* **Impegno:** Cerchiamo qualcuno per un contratto freelance a lungo termine (18+ mesi) che diventi un volto stabile e riconoscibile del progetto. Sono possibili periodi di prova.
+* **Attitudine:** Hai il carattere giusto per il co-living: proattivo, socievole e dinamico.
+* **Esperienza:** Precedenti esperienze come modello o SMM sono apprezzate, ma **non necessarie**.
+
+### Come Candidarsi
+Per candidarti, invia un'email a colivingliguria@gmail.com con quanto segue:
+1.  **Lettera di Motivazione:** Raccontaci chi sei e perché sei interessato.
+2.  **Aspirazioni ed Esperienze:** Spiega i tuoi obiettivi e le tue esperienze passate, anche se non correlate.
+3.  **Portfolio (Opzionale):** Se ne hai uno, invia link o file di lavori passati.
+
+Per qualsiasi domanda preliminare, puoi contattarmi (Simone Testino):
+* **WhatsApp:** `+39 339 637 9372`
+* **Instagram:** [@colivingliguria](httpshttps://www.instagram.com/colivingliguria)
