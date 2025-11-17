@@ -6,7 +6,7 @@ language: IT/EN
 — Italiano sotto —
 
 > [!Abstract]
-> This page outlines the debt and credit strategy for the [[ColivingLiguria]] project. It serves as an index for the different financing forms we are considering, such as business micro-loans and first-home renovation mortgages. It also details our rationale for using debt, primarily to co-finance the [[Bando Pubblico Fesr 2021-2027. OS 1.3]] grant and to accelerate growth based on quantitative analysis.
+> This page outlines the debt and credit strategy for the [[ColivingLiguria]] project. It serves as an index for the different financing forms we are considering, such as business micro-loans and first-home renovation mortgages. It also details our rationale for using debt, primarily to co-finance the [[FESR Azione 1.3.3. EU Grant]] grant and to accelerate growth based on quantitative analysis.
 
 ### Our Debt and Financing Strategy
 
@@ -27,7 +27,7 @@ Our decision to use debt is not taken lightly and is based on a clear quantitati
 
 **1. Why We Are Seeking Credit (Rationale):**
 
-* **Co-financing the FESR Grant:** The [[Bando Pubblico Fesr 2021-2027. OS 1.3]] grant requires co-financing. We need to cover 40% of the total grant amount of €185,000 (which amounts to **€74,000**).
+* **Co-financing the FESR Grant:** The [[FESR Azione 1.3.3. EU Grant]] grant requires co-financing. We need to cover 40% of the total grant amount of €185,000 (which amounts to **€74,000**).
 * **Funding Sources:** This €74,000 will be covered by a mix of sources. While it may include savings from [[ColivingLiguria/People/Simone Testino|Simone Testino]] or revenue from our [[Business Segments]], a significant portion is expected to be financed through debt.
 * **Accelerated Growth:** We will consider taking on additional debt *only* if interest rates are favorable. This is to allow for better and faster growth, but it is entirely conditional on our balance sheets being solid.
 
@@ -39,7 +39,7 @@ Our decision to use debt is not taken lightly and is based on a clear quantitati
 ---
 
 > [!Abstract]
-> Questa pagina delinea la strategia di debito e credito per il progetto [[ColivingLiguria]]. Serve come indice per le diverse forme di finanziamento che stiamo considerando, come il microcredito per imprese e i mutui per la ristrutturazione della prima casa. Dettaglia inoltre la nostra logica nell'uso del debito, principalmente per co-finanziare il bando [[Bando Pubblico Fesr 2021-2027. OS 1.3]] e per accelerare la crescita basandoci su analisi quantitative.
+> Questa pagina delinea la strategia di debito e credito per il progetto [[ColivingLiguria]]. Serve come indice per le diverse forme di finanziamento che stiamo considerando, come il microcredito per imprese e i mutui per la ristrutturazione della prima casa. Dettaglia inoltre la nostra logica nell'uso del debito, principalmente per co-finanziare il bando [[FESR Azione 1.3.3. EU Grant]] e per accelerare la crescita basandoci su analisi quantitative.
 
 ### La Nostra Strategia di Debito e Finanziamento
 
@@ -60,7 +60,7 @@ La nostra decisione di utilizzare il debito non è presa alla leggera e si basa 
 
 **1. Perché Cerchiamo Credito (Logica):**
 
-* **Co-finanziamento Bando FESR:** Il bando [[Bando Pubblico Fesr 2021-2027. OS 1.3]] richiede un co-finanziamento. Dobbiamo coprire il 40% dell'importo totale del bando di 185.000 € (pari a **74.000 €**).
+* **Co-finanziamento Bando FESR:** Il bando [[FESR Azione 1.3.3. EU Grant]] richiede un co-finanziamento. Dobbiamo coprire il 40% dell'importo totale del bando di 185.000 € (pari a **74.000 €**).
 * **Fonti di Copertura:** Questi 74.000 € saranno coperti da un mix di fonti. Sebbene possano includere i risparmi di [[ColivingLiguria/People/Simone Testino|Simone Testino]] o le entrate dei nostri [[Business Segments]], si prevede che una parte significativa sarà finanziata tramite debito.
 * **Crescita Accelerata:** Prenderemo in considerazione l'assunzione di debito aggiuntivo *solo* se i tassi di interesse saranno convenienti. Questo per consentire una crescita migliore e più rapida, ma è interamente subordinato alla solidità dei nostri bilanci.
 

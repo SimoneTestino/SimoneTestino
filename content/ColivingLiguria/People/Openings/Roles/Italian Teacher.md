@@ -7,7 +7,7 @@ draft: false
 > [!Abstract]
 > Stiamo cercando un insegnante di italiano intraprendente che voglia unirsi alla nostra community, avviare la propria attività di insegnamento in un contesto internazionale e vivere un'esperienza unica in Liguria. Offriamo un'ampia rete di clienti in presenza, un affitto molto favorevole (se non gratuito), e l'esposizione mediatica tramite i canali di ColivingLiguria per avere ulteriori lezioni da remoto.
 
-Il progetto **[[ColivingLiguria]]**, reso possibile grazie ai [[Bando Pubblico Fesr 2021-2027. OS 1.3|fondi dell'Unione Europea]], sta crescendo e, con esso, la nostra community di studenti e lavoratori da remoto provenienti da tutto il mondo. Per arricchire la loro esperienza tra le varie [[Supplementary Projects|attività]] che offriamo, cerchiamo un insegnante che possa offrire corsi di lingua italiana direttamente all'interno delle nostre strutture.
+Il progetto **[[ColivingLiguria]]**, reso possibile grazie ai [[FESR Azione 1.3.3. EU Grant|fondi dell'Unione Europea]], sta crescendo e, con esso, la nostra community di studenti e lavoratori da remoto provenienti da tutto il mondo. Per arricchire la loro esperienza tra le varie [[Supplementary Projects|attività]] che offriamo, cerchiamo un insegnante che possa offrire corsi di lingua italiana direttamente all'interno delle nostre strutture.
 
 L'insegnante avrà autonomia nella gestione dei propri corsi, ma la parte di marketing e l'acquisizione di studenti saranno gestite in stretta collaborazione con Coliving Liguria.
 

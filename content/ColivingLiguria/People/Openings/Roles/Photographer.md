@@ -23,7 +23,7 @@ This is your independent venture. We want to help you launch your own business f
 
 ### Equipment & Resources
 * **Bring Your Own:** It is appreciated if you can bring your own equipment, at least initially.
-* **Project-Funded Gear:** We have the possibility to purchase necessary photography and video equipment using our [[Bando Pubblico Fesr 2021-2027. OS 1.3]] grant funds.
+* **Project-Funded Gear:** We have the possibility to purchase necessary photography and video equipment using our [[FESR Azione 1.3.3. EU Grant]] grant funds.
 * **Ownership:** The ownership of any equipment purchased by ColivingLiguria can be negotiated (it can be sole ownership of either party or shared).
 
 ### The Ideal Candidate
@@ -66,7 +66,7 @@ Questa è la tua impresa indipendente. Vogliamo aiutarti a lanciare la tua attiv
 
 ### Attrezzatura e Risorse
 * **Porta la Tua Attrezzatura:** È apprezzato se puoi portare la tua attrezzatura, almeno all'inizio.
-* **Attrezzatura Finanziata dal Progetto:** Abbiamo la possibilità di acquistare l'attrezzatura foto e video necessaria utilizzando i fondi del nostro bando [[Bando Pubblico Fesr 2021-2027. OS 1.3]].
+* **Attrezzatura Finanziata dal Progetto:** Abbiamo la possibilità di acquistare l'attrezzatura foto e video necessaria utilizzando i fondi del nostro bando [[FESR Azione 1.3.3. EU Grant]].
 * **Proprietà:** La proprietà di qualsiasi attrezzatura acquistata da ColivingLiguria può essere negoziata (può essere proprietà esclusiva di una delle parti o condivisa).
 
 ### Il Candidato Ideale

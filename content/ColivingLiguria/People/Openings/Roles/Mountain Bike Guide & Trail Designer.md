@@ -30,7 +30,7 @@ Your role is to develop this new venture from the ground up.
 This is your business. We provide the land, accommodation, and a base of potential clients; you build the enterprise.
 * **Model:** This will be run as your own independent business (Model A from [[Propose a Project]]), where you rent resources from us at a minimal cost and keep the profits from your guiding services.
 * **Your Income:** Your revenue will come directly from the guests you guide. You will have the freedom to set your prices and packages.
-* **Future Investment:** As this project grows, we have the possibility to use our [[Bando Pubblico Fesr 2021-2027. OS 1.3|European funding]] to co-invest in necessary equipment, such as a fleet of rental bikes or tools.
+* **Future Investment:** As this project grows, we have the possibility to use our [[FESR Azione 1.3.3. EU Grant|European funding]] to co-invest in necessary equipment, such as a fleet of rental bikes or tools.
 
 ### What We Offer
 
@@ -95,7 +95,7 @@ Il tuo ruolo è sviluppare questa nuova impresa da zero.
 Questo è il tuo business. Noi forniamo la terra, l'alloggio e una base di potenziali clienti; tu costruisci l'impresa.
 * **Modello:** Sarà gestito come un tuo progetto indipendente (Modello A da [[Propose a Project]]), in cui affitterai le risorse da noi a un costo minimo e tratterrai i profitti dei tuoi servizi di guida.
 * **Il tuo Guadagno:** Le tue entrate proverranno direttamente dagli ospiti che guiderai. Avrai la libertà di definire i tuoi prezzi e pacchetti.
-* **Investimento Futuro:** Man mano che questo progetto cresce, abbiamo la possibilità di utilizzare i nostri [[Bando Pubblico Fesr 2021-2027. OS 1.3|fondi europei]] per co-investire in attrezzature necessarie, come una flotta di biciclette a noleggio o attrezzi.
+* **Investimento Futuro:** Man mano che questo progetto cresce, abbiamo la possibilità di utilizzare i nostri [[FESR Azione 1.3.3. EU Grant|fondi europei]] per co-investire in attrezzature necessarie, come una flotta di biciclette a noleggio o attrezzi.
 
 ### Cosa Offriamo
 

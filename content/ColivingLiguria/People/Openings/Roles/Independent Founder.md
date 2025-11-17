@@ -12,7 +12,7 @@ language: EN/IT
 As the founder, [[ColivingLiguria/People/Simone Testino]], I am actively working on building an environment that serves as a launchpad for like-minded entrepreneurs. We offer a unique opportunity to live and work in Liguria while benefiting from a structured support system. We welcome collaborators in two primary ways:
 
 ### 1. Join Our In-House Startup: [[Luna]]
-We are actively seeking co-founders and collaborators for our flagship technical startup, **[[Luna]]**, which has received funding through the [[Bando Pubblico Fesr 2021-2027. OS 1.3]]. For individuals who wish to dedicate significant skills to this project, we offer highly advantageous terms, including potentially free accommodation at Coliving Liguria.
+We are actively seeking co-founders and collaborators for our flagship technical startup, **[[Luna]]**, which has received funding through the [[FESR Azione 1.3.3. EU Grant]]. For individuals who wish to dedicate significant skills to this project, we offer highly advantageous terms, including potentially free accommodation at Coliving Liguria.
 
 **What is [[Luna]]?**
 [[Luna]] solves the inefficiencies of traditional light towers used on construction sites and at events. It is a large, spherical, helium-filled aerostatic balloon containing powerful LEDs, providing wide, diffuse, and energy-efficient illumination from a high vantage point (10-25 metres).
@@ -49,7 +49,7 @@ For an initial, informal contact, the preferred channels are WhatsApp or Instagr
 Come fondatore, [[ColivingLiguria/People/Simone Testino]], sto lavorando attivamente per costruire un ambiente che serva da trampolino di lancio per imprenditori con idee affini. Offriamo un'opportunità unica di vivere e lavorare in Liguria beneficiando di un sistema di supporto strutturato. Diamo il benvenuto ai collaboratori in due modi principali:
 
 ### 1. Unisciti alla Nostra Startup Interna: [[Luna]]
-Stiamo cercando attivamente co-fondatori e collaboratori per la nostra startup tecnica di punta, **[[Luna]]**, che ha ricevuto finanziamenti tramite il [[Bando Pubblico Fesr 2021-2027. OS 1.3]]. Alle persone che desiderano dedicare competenze significative a questo progetto, offriamo condizioni molto vantaggiose, inclusa la potenziale sistemazione gratuita presso Coliving Liguria.
+Stiamo cercando attivamente co-fondatori e collaboratori per la nostra startup tecnica di punta, **[[Luna]]**, che ha ricevuto finanziamenti tramite il [[FESR Azione 1.3.3. EU Grant]]. Alle persone che desiderano dedicare competenze significative a questo progetto, offriamo condizioni molto vantaggiose, inclusa la potenziale sistemazione gratuita presso Coliving Liguria.
 
 **Cos'è [[Luna]]?**
 [[Luna]] risolve le inefficienze delle tradizionali torri faro utilizzate nei cantieri e agli eventi. È un grande pallone aerostatico sferico, riempito di elio, contenente potenti LED, che fornisce un'illuminazione ampia, diffusa ed efficiente dal punto di vista energetico da un punto di osservazione elevato (10-25 metri).

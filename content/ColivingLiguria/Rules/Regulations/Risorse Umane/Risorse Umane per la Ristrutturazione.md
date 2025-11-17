@@ -21,7 +21,7 @@ Prima di analizzare nel dettaglio le singole casistiche, la tabella comparativa 
 | **Obbligo Formale di Lavoro** | Nessuno, come definito in [[Contract for Residents\|Contratto per Residenti]]                         | Sì, come definito dal contratto di servizio.                                                                          |
 | **Natura del Lavoro**         | Limitata alla [[Manutenzione Ordinaria]] in [[Edilizia Libera]]                                       | Limitata solo dai permessi della ditta.                                                                               |
 | **Metodo di Pagamento**       | Nessuna retribuzione può seguire dall'esecuzione o la mancata esecuzione di un lavoro nella casa.     | Pagamento monetario e/o in percentuale dei profitti e/o in proprietà immobiliare.                                     |
-| **Finanziamento**             | Proprietà dei beni immobili di ColivingLiguria                                                        | Finanziato al 60% da [[Bando Pubblico Fesr 2021-2027. OS 1.3]] per un massimo di 18.500 euro, inclusivo di materiali. |
+| **Finanziamento**             | Proprietà dei beni immobili di ColivingLiguria                                                        | Finanziato al 60% da [[FESR Azione 1.3.3. EU Grant]] per un massimo di 18.500 euro, inclusivo di materiali. |
 
 ### 1. Manutenzione Ordinaria: Gestita dai Residenti
 
@@ -78,7 +78,7 @@ Before analysing the specific cases in detail, the following comparative table s
 | **Formal Work Obligation** | None, as defined in [[Contract for Residents]]                                                   | Yes, as defined by the service contract.                                                                       |
 | **Nature of Work**         | Limited to [[Manutenzione Ordinaria]] within [[Edilizia Libera]]                                 | Limited only by the company's permits.                                                                         |
 | **Payment Method**         | No remuneration can result from the performance or non-performance of work in the house.         | Monetary payment and/or a percentage of profits and/or in real estate equity.                                  |
-| **Funding**                | Ownership of ColivingLiguria's real estate assets                                                | Funded at 60% by [[Bando Pubblico Fesr 2021-2027. OS 1.3]] for a maximum of 18,500 euros, including materials. |
+| **Funding**                | Ownership of ColivingLiguria's real estate assets                                                | Funded at 60% by [[FESR Azione 1.3.3. EU Grant]] for a maximum of 18,500 euros, including materials. |
 
 ### 1. Ordinary Maintenance: Managed by Residents
 

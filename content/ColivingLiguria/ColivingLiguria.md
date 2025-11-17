@@ -37,7 +37,7 @@ Operating in Italy requires navigating a complex legal landscape. We are committ
 ### Founder's Services
 Drawing from direct experience, founder [[ColivingLiguria/People/Simone Testino]] offers [[Business Consultancy|consultancy services]] and [[Private Teaching by Simone|specialised private lessons]].
 
-> This project is made possible primarily through funding from the European Union via the [[Bando Pubblico Fesr 2021-2027. OS 1.3]]. Please note that while we often use the term "volunteer" colloquially, collaborators are legally **Residents** under a rental or `comodato` agreement, as explained in our [[Onboarding]] process.
+> This project is made possible primarily through funding from the European Union via the [[FESR Azione 1.3.3. EU Grant]]. Please note that while we often use the term "volunteer" colloquially, collaborators are legally **Residents** under a rental or `comodato` agreement, as explained in our [[Onboarding]] process.
 
 ---
 
@@ -73,4 +73,4 @@ Operare in Italia richiede di orientarsi in un panorama legale complesso. Siamo 
 ### Servizi del Fondatore
 Basandosi sulla sua esperienza diretta, il fondatore [[ColivingLiguria/People/Simone Testino]] offre [[Business Consultancy|servizi di consulenza]] e [[Private Teaching by Simone|lezioni private specializzate]].
 
-> Questo progetto è reso possibile principalmente grazie ai fondi dell'Unione Europea tramite il [[Bando Pubblico Fesr 2021-2027. OS 1.3]]. Si prega di notare che, sebbene usiamo colloquialmente il termine "volontario", i collaboratori sono legalmente **Residenti** in base a un contratto di locazione o `comodato`, come spiegato nel nostro processo di [[Onboarding]].
+> Questo progetto è reso possibile principalmente grazie ai fondi dell'Unione Europea tramite il [[FESR Azione 1.3.3. EU Grant]]. Si prega di notare che, sebbene usiamo colloquialmente il termine "volontario", i collaboratori sono legalmente **Residenti** in base a un contratto di locazione o `comodato`, come spiegato nel nostro processo di [[Onboarding]].

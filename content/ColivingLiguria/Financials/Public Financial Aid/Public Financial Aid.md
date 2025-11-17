@@ -24,7 +24,7 @@ Below are the primary documents and indices related to public funding for our pr
 
 #### 1. Core Project Funding
 This is the foundational grant upon which the Coliving Liguria startup is built.
-* **[[Bando Pubblico Fesr 2021-2027. OS 1.3]]**
+* **[[FESR Azione 1.3.3. EU Grant]]**
 
 #### 2. Opportunity Tracking Indices
 These pages are actively maintained to track new and potential opportunities.
@@ -56,7 +56,7 @@ Di seguito sono riportati i documenti e gli indici principali relativi ai finanz
 
 #### 1. Finanziamento Principale del Progetto
 Questo è il bando fondante su cui si basa l'avvio della startup Coliving Liguria.
-* **[[Bando Pubblico Fesr 2021-2027. OS 1.3]]**
+* **[[FESR Azione 1.3.3. EU Grant]]**
 
 #### 2. Indici di Monitoraggio Opportunità
 Queste pagine sono mantenute attivamente per monitorare opportunità nuove e potenziali.

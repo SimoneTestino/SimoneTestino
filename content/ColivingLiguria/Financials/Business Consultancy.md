@@ -14,7 +14,7 @@ My consultancy is designed to provide practical, actionable guidance through eve
 Finding and successfully applying for public grants is often the biggest hurdle. I can help you:
 -   Identify available European and national funds that fit your project's scope, whether it's on a smaller scale like mine (€100k-€300k) or a much larger dimension.
 -   Structure and write a compelling business plan tailored for public bodies—a very different skill from writing one for yourself.
--   Prepare and submit all the necessary documentation, drawing from my successful application for the [[Bando Pubblico Fesr 2021-2027. OS 1.3]], which resulted in the [[Comunicazione Esito Positivo della Domanda.pdf|official approval of funds]].
+-   Prepare and submit all the necessary documentation, drawing from my successful application for the [[FESR Azione 1.3.3. EU Grant]], which resulted in the [[Comunicazione Esito Positivo della Domanda.pdf|official approval of funds]].
 #### **2. Navigating Italian Bureaucracy & Visas**
 The administrative side can be daunting. I can guide you through:
 -   **Company Formation:** Understanding why you need a legal entity (like a *Ditta Individuale* or S.r.l.s.) to receive funds and how to set one up.

@@ -14,7 +14,7 @@ As the founder, I am actively working on building an environment that serves as 
 
 ### 1. Join Our In-House Startup: [[Luna]]
 
-We are actively seeking co-founders and collaborators for our flagship technical startup, **[[Luna]]**, which has received funding through the [[Bando Pubblico Fesr 2021-2027. OS 1.3]]. For individuals who wish to dedicate significant skills to this project, we offer highly advantageous terms, including potentially free accommodation at Coliving Liguria.
+We are actively seeking co-founders and collaborators for our flagship technical startup, **[[Luna]]**, which has received funding through the [[FESR Azione 1.3.3. EU Grant]]. For individuals who wish to dedicate significant skills to this project, we offer highly advantageous terms, including potentially free accommodation at Coliving Liguria.
 
 **What is [[Luna]]?**
 [[Luna]], through recently patented technologies, solves the inefficiencies of traditional light towers used on construction sites and at events. It is a large, spherical, helium-filled aerostatic balloon containing powerful LEDs. Held stable by tethers, it provides wide, diffuse, and energy-efficient illumination from a high vantage point (10-25 metres). The primary target market is high-end event lighting, with secondary applications in industry.

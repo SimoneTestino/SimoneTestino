@@ -26,7 +26,7 @@ He is our primary navigator through the complex landscape of Italian building la
 * **Official Documentation:** As a qualified Surveyor, he manages the submission of construction permits (CILA/SCIA) and renovation practices.
 
 #### 3. Sworn Appraisals & Funding
-His role is crucial for our financial sustainability. He is responsible for drafting and signing **Sworn Appraisals** (*Perizie Giurate*). These documents are legally binding assessments of value and progress, which are strictly required to access funding sources such as the **[[Bando Pubblico Fesr 2021-2027. OS 1.3]]**.
+His role is crucial for our financial sustainability. He is responsible for drafting and signing **Sworn Appraisals** (*Perizie Giurate*). These documents are legally binding assessments of value and progress, which are strictly required to access funding sources such as the **[[FESR Azione 1.3.3. EU Grant]]**.
 
 #### 4. Site Management & Drone Operation
 * **Construction Liaison:** He acts as the technical contact point for local construction firms and suppliers.
@@ -60,7 +60,7 @@ Samuele utilizza attrezzature professionali per creare lo "scheletro" digitale d
 * **Documentazione Ufficiale:** In qualità di Geometra, gestisce la presentazione dei permessi di costruzione (CILA/SCIA) e le pratiche di ristrutturazione.
 
 #### 3. Perizie Giurate e Finanziamenti
-Il suo ruolo è cruciale per la nostra sostenibilità finanziaria. Si occupa della redazione e della firma di **Perizie Giurate**. Questi documenti sono valutazioni legalmente vincolanti del valore e dello stato di avanzamento lavori, strettamente necessari per accedere a fonti di finanziamento come il **[[Bando Pubblico Fesr 2021-2027. OS 1.3]]**.
+Il suo ruolo è cruciale per la nostra sostenibilità finanziaria. Si occupa della redazione e della firma di **Perizie Giurate**. Questi documenti sono valutazioni legalmente vincolanti del valore e dello stato di avanzamento lavori, strettamente necessari per accedere a fonti di finanziamento come il **[[FESR Azione 1.3.3. EU Grant]]**.
 
 #### 4. Gestione del Cantiere e Drone
 * **Contatto Imprese:** Agisce come punto di contatto tecnico per le imprese edili locali e i fornitori.

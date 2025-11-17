@@ -32,7 +32,7 @@ This role requires a formal agreement, and we have three possible paths:
     For a candidate committed to a long-term, on-site partnership, we are **particularly inclined to offer remuneration in the form of equity** (a portion of ownership) in the properties themselves. This is perhaps the clearest case in our entire project for this type of partnership. For this case the same requirements listed for the previous option apply.
 
 ### What We Provide
-* **Material Costs & Retribution:** All costs for materials and construction will be covered by the project, supported by our [[Bando Pubblico Fesr 2021-2027. OS 1.3]] grant.
+* **Material Costs & Retribution:** All costs for materials and construction will be covered by the project, supported by our [[FESR Azione 1.3.3. EU Grant]] grant.
 * **Community:** A vibrant place to live and work, surrounded by interesting people. You will also have full accesso to all the [[Supplementary Projects]].
 
 ### Other Opportunities
@@ -83,7 +83,7 @@ Questo ruolo richiede un accordo formale e abbiamo tre possibili percorsi:
     Per un candidato che si impegna in una partnership a lungo termine e in loco, siamo **particolarmente inclini a offrire una retribuzione sotto forma di equity** (una quota di proprietà) degli immobili stessi. Questo è forse il caso più chiaro in tutto il nostro progetto per questo tipo di partnership.
 
 ### Cosa Forniamo
-* **Costi dei Materiali:** Tutti i costi per materiali e costruzioni saranno coperti dal progetto, supportati dai nostri fondi del [[Bando Pubblico Fesr 2021-2027. OS 1.3]].
+* **Costi dei Materiali:** Tutti i costi per materiali e costruzioni saranno coperti dal progetto, supportati dai nostri fondi del [[FESR Azione 1.3.3. EU Grant]].
 * **Community:** Un luogo stimolante dove vivere e lavorare, circondato da persone interessanti.
 
 ### Altre Opportunità

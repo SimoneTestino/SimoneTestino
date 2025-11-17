@@ -6,7 +6,7 @@ language: EN
 > [!Abstract]
 >Coliving Liguria is seeking a co-founder to join its on-site team in Liguria, Italy. This is a unique opportunity for an entrepreneurial individual to shape a growing coliving business, supported by secured EU funding. We offer a highly flexible partnership, including full coverage of living expenses and a negotiable compensation package that can include a salary, profit-sharing, or equity in the properties. The role is designed to be synergistic with your own projects, remote work, or startup ideas, with the infrastructure to support them.
 
-This document outlines the opportunity for a dedicated co-founder to join the [[ColivingLiguria]] project. We are looking for a true partner to help build, manage, and scale the entire business, leveraging our recent funding from the [[Bando Pubblico Fesr 2021-2027. OS 1.3]] to bring our vision to life.
+This document outlines the opportunity for a dedicated co-founder to join the [[ColivingLiguria]] project. We are looking for a true partner to help build, manage, and scale the entire business, leveraging our recent funding from the [[FESR Azione 1.3.3. EU Grant]] to bring our vision to life.
 
 ### The Role & Vision: A Hands-On Entrepreneur
 

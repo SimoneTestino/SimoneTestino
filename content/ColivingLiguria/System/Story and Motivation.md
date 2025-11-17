@@ -32,7 +32,7 @@ At the same time, I was starting to work on my other entrepreneurial project, a 
 
 Where could I possibly find the space to build a lab? What landlord, especially in a city, would let me set up prototyping equipment, test large-scale hardware, and run a workshop?
 
-That’s when the vision for [[ColivingLiguria]] snapped into focus. This wouldn't just be a solution to my housing problem. It would be the physical **launchpad** for my *other* company—a project that, like [[ColivingLiguria]], has since been validated by securing funding from the [[Bando Pubblico Fesr 2021-2027. OS 1.3]].
+That’s when the vision for [[ColivingLiguria]] snapped into focus. This wouldn't just be a solution to my housing problem. It would be the physical **launchpad** for my *other* company—a project that, like [[ColivingLiguria]], has since been validated by securing funding from the [[FESR Azione 1.3.3. EU Grant]].
 
 To get it all running, I wouldn’t need a team of expensive contractors. I would need a community. I would need volunteers.
 
@@ -77,7 +77,7 @@ Nello stesso periodo, stavo iniziando a lavorare sul mio altro progetto imprendi
 
 Dove avrei mai potuto trovare lo spazio per costruire un laboratorio? Quale padrone di casa, specialmente in una città, mi avrebbe permesso di installare attrezzature di prototipazione, testare hardware su larga scala e gestire un'officina?
 
-È stato allora che la visione di [[ColivingLiguria]] è diventata chiara. Non sarebbe stata solo una soluzione al mio problema abitativo. Sarebbe stata la **rampa di lancio** fisica per la mia *altra* azienda—un progetto che, come [[ColivingLiguria]], è stato da allora convalidato ottenendo i fondi del [[Bando Pubblico Fesr 2021-2027. OS 1.3]].
+È stato allora che la visione di [[ColivingLiguria]] è diventata chiara. Non sarebbe stata solo una soluzione al mio problema abitativo. Sarebbe stata la **rampa di lancio** fisica per la mia *altra* azienda—un progetto che, come [[ColivingLiguria]], è stato da allora convalidato ottenendo i fondi del [[FESR Azione 1.3.3. EU Grant]].
 
 Per avviare tutto, non avrei avuto bisogno di un team di costosi appaltatori. Avrei avuto bisogno di una comunità. Avrei avuto bisogno di volontari.
 

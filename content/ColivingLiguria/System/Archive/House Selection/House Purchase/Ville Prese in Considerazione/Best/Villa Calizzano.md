@@ -29,7 +29,7 @@ The property's primary challenge is its location next to a provincial road (*str
 
 The adjacent river also presents a potential flood risk, but after examination, we consider this to be manageable. The house has a proven history of withstanding severe floods without damage, and its location and elevation are consistent with the rest of the village. The concrete foundations provide a significant structural advantage over traditional stone houses in the area, leading us to believe it is not a major threat.
 ### Outstanding Issues and Next Steps
-There are several outstanding questions that must be answered before we can proceed. The primary issue concerns an outstanding building permit (*pratica edilizia*) that is reportedly in the process of being closed, with a forecasted completion by the end of September. This timeline is critical, as the purchase is dependent on funding from the [[Bando Pubblico Fesr 2021-2027. OS 1.3]]. It remains to be established:
+There are several outstanding questions that must be answered before we can proceed. The primary issue concerns an outstanding building permit (*pratica edilizia*) that is reportedly in the process of being closed, with a forecasted completion by the end of September. This timeline is critical, as the purchase is dependent on funding from the [[FESR Azione 1.3.3. EU Grant]]. It remains to be established:
 
 1.  Can we be provided with all documents and details of the work that needs to be completed, so our technician can review them? This is a priority, as we need to independently verify that the timeline is realistic and assess any risk of the property ultimately failing to achieve compliance. We cannot risk losing two months of operativity on a property that may be ineligible.
 
@@ -51,7 +51,7 @@ Additionally, we would like to ask:
 
 Finally, once all these questions have been addressed:
 
-7.  How should we proceed with the *proposta d'acquisto*? We can either draft our own or begin by editing a version you provide. Given the risks outlined above, it is essential for us that the contract includes clauses to protect us from delays and from the possibility of the house ultimately being non-compliant with the rules of the [[Bando Pubblico Fesr 2021-2027. OS 1.3]].
+7.  How should we proceed with the *proposta d'acquisto*? We can either draft our own or begin by editing a version you provide. Given the risks outlined above, it is essential for us that the contract includes clauses to protect us from delays and from the possibility of the house ultimately being non-compliant with the rules of the [[FESR Azione 1.3.3. EU Grant]].
 
 
 ### General Information

@@ -4,7 +4,7 @@ draft: false
 language: EN
 ---
 > [!Abstract]
-> This note outlines the application strategy for securing the [DBU Green Start-up](https://www.dbu.de/en/promotion/green-start-up/) grant for the [[Luna]] project. The core of the strategy is to leverage [[Luna]]'s high innovation and environmental impact, specifically under **Topic 6 (Energy Efficiency)**. We will address the geographical challenge (non-CEE country) by highlighting the project's "exemplary model character." Furthermore, we will clarify how this funding complements the existing [[Bando Pubblico Fesr 2021-2027. OS 1.3]] grant. The FESR funds are designated for materials and real estate, while the DBU funds would be strategically targeted to cover personnel salaries—a critical need not covered by the FESR grant.
+> This note outlines the application strategy for securing the [DBU Green Start-up](https://www.dbu.de/en/promotion/green-start-up/) grant for the [[Luna]] project. The core of the strategy is to leverage [[Luna]]'s high innovation and environmental impact, specifically under **Topic 6 (Energy Efficiency)**. We will address the geographical challenge (non-CEE country) by highlighting the project's "exemplary model character." Furthermore, we will clarify how this funding complements the existing [[FESR Azione 1.3.3. EU Grant]] grant. The FESR funds are designated for materials and real estate, while the DBU funds would be strategically targeted to cover personnel salaries—a critical need not covered by the FESR grant.
 
 The primary challenge for this application is geographical. The [DBU's project funding](https://www.dbu.de/en/promotion/project-funding/#implementation) is focused primarily on Central and (South) Eastern Europe (CEE). However, the [DBU](https://www.dbu.de/en/) also states that "Funding for international projects beyond CEE is possible in individual cases." Our application will be based on this exception, arguing that [[Luna]]'s high degree of innovation and its exemplary model character for environmental relief make it a strong candidate.
 
@@ -12,7 +12,7 @@ The primary challenge for this application is geographical. The [DBU's project f
 
 We have decided to focus our application on the [DBU Green Start-up](https://www.dbu.de/en/promotion/green-start-up/) programme. This programme is much more suitable for our current liquidity situation. It offers a **non-repayable grant of up to €125,000**, which covers **up to 100%** of the costs.
 
-This funding is primarily intended as a "living allowance" for founders (max. €2,000/month per person) but also covers material costs and external services to a lesser extent. This aligns perfectly with our strategic needs. The existing [[Bando Pubblico Fesr 2021-2027. OS 1.3]] grant can be used for material procurement, while the DBU grant would be strategically used to cover personnel costs (e.g., funding a salary for a new team member). This is a highly efficient use of the combined funds, as the FESR grant is not well-suited for covering salaries.
+This funding is primarily intended as a "living allowance" for founders (max. €2,000/month per person) but also covers material costs and external services to a lesser extent. This aligns perfectly with our strategic needs. The existing [[FESR Azione 1.3.3. EU Grant]] grant can be used for material procurement, while the DBU grant would be strategically used to cover personnel costs (e.g., funding a salary for a new team member). This is a highly efficient use of the combined funds, as the FESR grant is not well-suited for covering salaries.
 
 **Project Suitability & Thematic Alignment**
 
@@ -28,7 +28,7 @@ We have considered two key exclusion criteria and determined they do not represe
 
 * **Projects Already Started:** The DBU normally does not fund projects that have already begun. This is not an issue, as the core research and development phase of the [[Luna]] project, for which this funding is sought, has not yet commenced.
 
-* **Multiple Funding Sources:** The DBU lists "Accumulation of funds from other sponsors" as a potential exclusion criterion. Although a [[Bando Pubblico Fesr 2021-2027. OS 1.3]] grant was secured, those funds are allocated exclusively for real estate purposes (associated with [[ColivingLiguria]]) and do not finance the core business, R&D, or operational activities of the [[Luna]] project. The DBU "Green Start-up" funding is, therefore, necessary specifically for the operational costs (founder subsistence and development) that the Fesr grant does not cover.
+* **Multiple Funding Sources:** The DBU lists "Accumulation of funds from other sponsors" as a potential exclusion criterion. Although a [[FESR Azione 1.3.3. EU Grant]] grant was secured, those funds are allocated exclusively for real estate purposes (associated with [[ColivingLiguria]]) and do not finance the core business, R&D, or operational activities of the [[Luna]] project. The DBU "Green Start-up" funding is, therefore, necessary specifically for the operational costs (founder subsistence and development) that the Fesr grant does not cover.
 
 **Application Process**
 
