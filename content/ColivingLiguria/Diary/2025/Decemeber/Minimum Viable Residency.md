@@ -64,7 +64,7 @@ The sleeping quarters must ensure adequate comfort and warmth.
 Security and access arrangements for the first stage.
 
 * [x] **Keys/Door Security**
-    * **Status:** The primary issue of door security will be temporarily resolved by simply keeping the doors open, as existing locking mechanisms do not significantly enhance safety. The issue of doors will be addressed soon, but it requires time.
+    * **Status:** The primary issue of door security will be temporarily resolved by simply keeping the doors open, as existing locking mechanisms do not significantly enhance safety. The issue of doors will be addressed soon, but it requires time. Before the start of the year we'll be working on [[Doors Renovation]] and solve this issue too!
 
 ---
 
