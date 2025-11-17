@@ -19,7 +19,7 @@ The property consists of two agricultural plots:
 - **Particella 104 (600 m²):** Half of it is woodland, offering potential for wood harvesting.
 - **Particella 105 (640 m²):** Already cleared of wood.
 
-Being flat and close to the stream, these lands are particularly suitable for **agricultural purposes** and grazing. They are the designated home for the horses of the ColivingLiguria community. Upcoming work will focus on preparing this area to safely host the animals. You can read the detailed preparation plan on the **[[Setting up the Terrains]]** page.
+Being flat and close to the stream, these lands are particularly suitable for **agricultural purposes** and grazing. They are the designated home for the horses of the ColivingLiguria community. Upcoming work will focus on preparing this area to safely host the animals. You can read the detailed preparation plan on the **[[Terrain Setup Plan]]** page.
 
 **Buildability (CDU Verification):** According to the **CDU 2025/102**, these lands fall under **Zone E (Agricultural)**.
 - **Residential Construction:** Excluded due to the **ANI-MA** classification.
@@ -27,7 +27,7 @@ Being flat and close to the stream, these lands are particularly suitable for **
 
 ### Access and Connection Strategies
 
-Access to these plots presents some logistical challenges that we plan to address during the [[Setting up the Terrains]] phase.
+Access to these plots presents some logistical challenges that we plan to address during the [[Terrain Setup Plan]] phase.
 
 - **Vehicle Access:** The municipal road (Str. Chiappella) leads towards the stream but ends near **plot 106**, which is **not owned by us**. We need to verify the possibility of accessing our lands (104 & 105) by passing directly through plot 106.
 - **Connection for Horses:** To connect the grazing area (104 & 105) with the main property, we are exploring a path along the stream bank. The goal is to create a route that leads from these plots directly to **Particella 522**, the land situated right in front of [[Casa del Noce]]. This would allow for easier management of the animals.
@@ -53,7 +53,7 @@ La proprietà è composta da due lotti agricoli:
 - **Particella 104 (600 m²):** Per metà boschivo, con potenziale per il taglio della legna.
 - **Particella 105 (640 m²):** Già privo di vegetazione ad alto fusto.
 
-Essendo pianeggianti e vicini al torrente, questi terreni sono particolarmente adatti per **fini agricoli** e per il pascolo. Sono infatti la casa designata per i cavalli della comunità di ColivingLiguria. I prossimi lavori si concentreranno sulla preparazione di quest'area per ospitare gli animali in sicurezza. Puoi leggere il piano dettagliato per la sistemazione nella pagina **[[Setting up the Terrains]]**.
+Essendo pianeggianti e vicini al torrente, questi terreni sono particolarmente adatti per **fini agricoli** e per il pascolo. Sono infatti la casa designata per i cavalli della comunità di ColivingLiguria. I prossimi lavori si concentreranno sulla preparazione di quest'area per ospitare gli animali in sicurezza. Puoi leggere il piano dettagliato per la sistemazione nella pagina **[[Terrain Setup Plan]]**.
 
 **Edificabilità (Verifica CDU):**
 In base al **CDU 2025/102**, questi terreni ricadono in **Zona E (Agricola)**.
@@ -62,7 +62,7 @@ In base al **CDU 2025/102**, questi terreni ricadono in **Zona E (Agricola)**.
 
 ### Accesso e Strategie di Collegamento
 
-L'accesso a questi terreni presenta alcune sfide logistiche che pianifichiamo di affrontare durante la fase di [[Setting up the Terrains]].
+L'accesso a questi terreni presenta alcune sfide logistiche che pianifichiamo di affrontare durante la fase di [[Terrain Setup Plan]].
 
 - **Accesso Carrabile:** La strada comunale (Str. Chiappella) permette di avvicinarsi con i mezzi, ma porta soltanto fino al **terreno 106**, che **non è di nostra proprietà**. Dovremo verificare la possibilità di accedere direttamente ai nostri terreni (104 e 105) passando attraverso il 106.
 - **Collegamento per i Cavalli:** Per collegare l'area pascolo (104 e 105) con la proprietà principale, stiamo valutando un passaggio lungo il torrente. L'obiettivo è creare un percorso che arrivi fino alla **Particella 522**, ovvero il terreno situato proprio di fronte alla [[Casa del Noce]]. Questo faciliterebbe enormemente la gestione quotidiana degli animali.

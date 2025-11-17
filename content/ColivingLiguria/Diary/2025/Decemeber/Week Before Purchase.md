@@ -35,7 +35,7 @@ Following the visit, access to the houses will not be possible again until the f
         * **[[Terreni alla Fonte]]**
     * **Objective:** Following a thorough visual inspection (from the exterior), these pages will be updated with crucial information regarding their current state, estimated value, potential uses, and any initial findings.
     * **Boundary Tracing:** A key task during the setup phase will be to trace the property boundaries for each terrain. We will use the `formaps.it` website, which allows us to view cadastral maps on a mobile phone and utilise its GPS position to find our location (albeit with a 5-10 metre margin of error). We will then use red ribbon to physically mark these boundaries. This will give us a clear understanding of what is ours and what is not.
-    * **Initial Cleaning:** Where feasible and non-intrusive, some preliminary cleaning or clearing of the terrains may commence during this period. I detail this further on the [[Setting up the Terrains]] page.
+    * **Initial Cleaning:** Where feasible and non-intrusive, some preliminary cleaning or clearing of the terrains may commence during this period. I detail this further on the [[Terrain Setup Plan]] page.
 
 ### Next Steps: Final Acquisition (3rd December Onwards)
 
@@ -75,7 +75,7 @@ Dopo la visita, non sarà possibile accedere nuovamente alle case fino alla firm
         * **[[Terreni alla Fonte]]**
     * **Obiettivo:** A seguito di un'accurata ispezione visiva (dall'esterno), queste pagine saranno aggiornate con informazioni cruciali relative al loro stato attuale, valore stimato, usi potenziali e qualsiasi rilievo iniziale.
     * **Tracciamento dei Confini:** Un compito chiave durante la fase di allestimento sarà tracciare i confini di proprietà per ciascun terreno. Utilizzeremo il sito `formaps.it`, che ci permette di visualizzare le mappe catastali direttamente sul cellulare e di utilizzare la posizione GPS del telefono per localizzarci (seppur con un margine di errore di 5-10 metri). Useremo poi un nastro rosso per segnare fisicamente questi confini. Questo ci darà una chiara comprensione di cosa è nostro e cosa no.
-    * **Pulizia Iniziale:** Ove fattibile e non intrusivo, una pulizia preliminare o un disboscamento dei terreni potrà iniziare durante questo periodo. Come ho dettagliato, maggiori informazioni su questo si trovano sulla pagina [[Setting up the Terrains]].
+    * **Pulizia Iniziale:** Ove fattibile e non intrusivo, una pulizia preliminare o un disboscamento dei terreni potrà iniziare durante questo periodo. Come ho dettagliato, maggiori informazioni su questo si trovano sulla pagina [[Terrain Setup Plan]].
 
 ### Prossimi Passi: Acquisizione Finale (Dal 3 dicembre in poi)
 

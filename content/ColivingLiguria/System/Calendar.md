@@ -19,7 +19,7 @@ language: EN/IT
 
 * **Nov 26 - Dec 2 ([[Week Before Purchase]]):** This is a critical week of on-site preparation.
     * **Nov 26:** [[ColivingLiguria/People/Simone Testino]] will be on-site for a final inspection and to officially request the early activation of utilities. See the detailed plan in **[[Attivazione Utenze]]**.
-    * **Nov 27 - Dec 2:** While we wait for the deed, we will focus on preparing the exterior lands, particularly for the arrival of the horses. See **[[Setting up the Terrains]]**.
+    * **Nov 27 - Dec 2:** While we wait for the deed, we will focus on preparing the exterior lands, particularly for the arrival of the horses. See **[[Terrain Setup Plan]]**.
 
 ### Phase 1: Project Start & First Week (From Dec 3rd)
 
@@ -58,7 +58,7 @@ We are in the early planning stages for our first major event, the **[[Winter Pa
 * **14 Nov:** [[Emanuele Garré]] ha visitato le proprietà in **[[Terreni Mignanego]]** per valutarne il potenziale. Si tratta di un progetto separato che coinvolge terreni acquisibili gratuitamente (vedi [[Purchase Terreni Mignanego]]).
 * **26 Nov - 2 Dic ([[Week Before Purchase]]):** Questa è una settimana critica di preparazione in loco.
     * **26 Nov:** [[ColivingLiguria/People/Simone Testino]] sarà sul posto per un'ispezione finale e per richiedere ufficialmente l'attivazione anticipata delle utenze. Vedi il piano dettagliato in **[[Attivazione Utenze]]**.
-    * **27 Nov - 2 Dic:** In attesa del rogito, ci concentreremo sulla preparazione dei terreni esterni, in particolare per l'arrivo dei cavalli. Vedi **[[Setting up the Terrains]]**.
+    * **27 Nov - 2 Dic:** In attesa del rogito, ci concentreremo sulla preparazione dei terreni esterni, in particolare per l'arrivo dei cavalli. Vedi **[[Terrain Setup Plan]]**.
 
 ### Fase 1: Avvio Progetto & Prima Settimana (Dal 3 Dic)
 
