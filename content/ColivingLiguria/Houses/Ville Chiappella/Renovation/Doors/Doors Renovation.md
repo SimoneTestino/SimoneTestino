@@ -58,7 +58,7 @@ The core of the project is to break the door down into manageable components, ma
 This is a multi-disciplinary project that requires close collaboration between several of our core teams:
 
 * **[[Software Team|👨‍💻 Software Team]]**: Will be responsible for the technical 3D modeling, creating and managing the parametric **Fusion 360** project files.
-* **[[Architecture Team|🏛️ design team]]**: The designers within our architecture team will lead the aesthetic and material choices. This includes selecting the wood, the paint colours, and designing the ergonomic and visual shape of the 3D-printed handles.
+* **[[Architecture Team|🏛️ Design Team]]**: The designers within our architecture team will lead the aesthetic and material choices. This includes selecting the wood, the paint colours, and designing the ergonomic and visual shape of the 3D-printed handles.
 * **[[Construction Team|🛠️ Construction Team]]**: Will oversee the hands-on physical manufacturing, from woodworking to assembly, and provide practical feedback on the design's "manufacturability" and durability.
 
 ### 6. Project Goals & Benefits

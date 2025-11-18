@@ -23,6 +23,7 @@ Navigating Italian bureaucracy is a core challenge of this project. This section
 * **[[Edilizia Libera]]** (Permit-Free Construction)
 * **[[Manutenzione Ordinaria]]** (Ordinary Maintenance)
 * **[[Manutenzione Straordinaria]]** (Extraordinary Maintenance)
+* **[[Regolarizzazione Costruzioni Storiche]]** (Admission of Historical Constructions)
 
 #### Human Resources (Risorse Umane)
 * **[[Limiti Legali del Volontariato]]** (Legal Boundaries of "Volunteering")
@@ -50,6 +51,7 @@ Orientarsi nella burocrazia italiana è una sfida centrale di questo progetto. Q
 * **[[Edilizia Libera]]**
 * **[[Manutenzione Ordinaria]]**
 * **[[Manutenzione Straordinaria]]**
+* [[Regolarizzazione Costruzioni Storiche]]
 
 #### Risorse Umane
 * **[[Limiti Legali del Volontariato]]**
