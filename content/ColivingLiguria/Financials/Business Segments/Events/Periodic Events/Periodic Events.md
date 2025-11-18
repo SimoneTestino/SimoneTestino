@@ -1,9 +1,9 @@
 ---
 draft: false
-date: 2025-11-11
+date: 2025-11-18
 language: EN/IT
 ---
---Italiano sotto--
+-- Italiano sotto --
 
 > [!Abstract]
 > This page outlines the periodic events that form the backbone of community life at [[ColivingLiguria]]. It details our hierarchy of recurring events—from major annual festivals to weekly gatherings. For specific dates, schedules, and one-off special events, please always consult our master [[Events Calendar]], which is updated most frequently.
@@ -13,7 +13,7 @@ At Coliving Liguria, we structure our community life around a series of periodic
 
 * **Yearly Events:** Major traditional festivals.
 * **Seasonal Events:** Large, themed parties to welcome externals.
-* **Monthly Events:** Mid-sized community activities (details TBD).
+* **Monthly Events:** Mid-sized community activities.
 * **Weekly Events:** Small, regular social gatherings.
 
 This page serves as a guide to what you can expect. Alongside these, we will also host **Special Events**, which are non-periodic and will be announced on the [[Events Calendar]] as opportunities arise.
@@ -39,7 +39,10 @@ These are our largest signature events, designed to bring new people into our co
 * **[[Autumn Party in ColivingLiguria|Autumn Party 🍂]]**: A 3-5 day event at the end of November, focusing on harvest and indoor cosiness.
 
 ### Monthly Events
-*(This section is currently in development. We plan to introduce regular monthly events as the community grows.)*
+* **[[Propose a Music Event|Music Saturday 🎵]]**: We are introducing "Music Saturday" as our recurring monthly live music slot, scheduled for the **first Friday and Saturday of every month**.
+    * **Note:** This is a *special* periodic event. It is **not guaranteed** and only happens if a musician, band, or artist successfully applies to perform.
+    * **Seasonal:** This event is also **seasonal**, taking place primarily in Spring, Summer, and Autumn when the weather is good for our outdoor stages.
+    * **Get Involved:** Are you an artist? We provide the stage, sound system, transport, and free accommodation. Read all the details on our **[[Propose a Music Event]]** page!
 
 ### Weekly Events
 These are our small, consistent gatherings that anchor the community's social life.
@@ -56,7 +59,7 @@ A Coliving Liguria, la vita comunitaria è strutturata attorno a una serie di ev
 
 * **Eventi Annuali:** Grandi festività tradizionali.
 * **Eventi Stagionali:** Grandi feste a tema per accogliere persone esterne.
-* **Eventi Mensili:** Attività comunitarie di media portata (dettagli TBD).
+* **Eventi Mensili:** Attività comunitarie di media portata.
 * **Eventi Settimanali:** Piccoli incontri sociali regolari.
 
 Questa pagina serve come guida a ciò che puoi aspettarti. Oltre a questi, ospiteremo anche **Eventi Speciali**, che non sono periodici e saranno annunciati sul [[Events Calendar]] non appena si presenteranno le occasioni.
@@ -84,7 +87,10 @@ Questi sono i nostri eventi "di punta" più grandi, pensati per portare nuove pe
 * **[[Autumn Party in ColivingLiguria|Festa d'Autunno 🍂]]**: Un evento di 3-5 giorni alla fine di novembre, incentrato sul raccolto e sull'accoglienza al coperto.
 
 ### Eventi Mensili
-*(Questa sezione è attualmente in fase di sviluppo. Prevediamo di introdurre eventi mensili regolari man mano che la comunità cresce.)*
+* **[[Propose a Music Event|Sabato in Musica 🎵]]**: Stiamo introducendo il "Sabato in Musica" come nostro slot ricorrente per la musica dal vivo, programmato per il **primo venerdì e sabato di ogni mese**.
+    * **Nota:** Questo è un evento periodico *speciale*. **Non è garantito** e si svolge solo se un musicista, una band o un artista si candida con successo per esibirsi.
+    * **Stagionale:** Questo evento è anche **stagionale** e si svolge principalmente in Primavera, Estate e Autunno, quando il tempo è favorevole per i nostri palchi all'aperto.
+    * **Partecipa:** Sei un artista? Forniamo palco, impianto audio, trasporto e alloggio gratuito. Leggi tutti i dettagli sulla nostra pagina **[[Propose a Music Event|Proponi un Evento Musicale]]**!
 
 ### Eventi Settimanali
 Questi sono i nostri piccoli e costanti incontri che ancorano la vita sociale della comunità.

@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2025-11-14
+date: 2025-11-18
 language: EN/IT
 ---
 --italiano sotto--
@@ -16,15 +16,22 @@ To build a functional and fair community, clear expectations are essential. This
 #### Core Principles
 * [[Ethical Code of ColivingLiguria]]
 
-#### Residency & Community
-* [[Contract for Residents]]
-* [[Contract for Events]]
-
-#### Partnership & Collaboration
-* [[Contract Type for Leading Social Media Manager]]
-
-#### International & Onboarding
+#### Legal & Financial Policies
 * [[Visa Assistance Policy]]
+* [[Richieste di Pagamento non Autorizzate]] (Unauthorized Payment Requests)
+
+#### Contracts Index
+*This is an index of our main contract templates. For our full philosophy on contracts, see [[Contracts]].*
+* **Core Agreements:**
+    * [[Contract for Residents]]
+    * [[Contract for Events]] (For attendees)
+* **Proposal & Partnership Contracts:**
+    * [[Contract for Event Proposals]] (For organizers)
+    * [[Contract for Music Event Proposals]]
+    * [[Contract for Internship]]
+    * [[Contract for Horses]]
+* **Role Contracts:**
+    * [[Contract Type for Leading Social Media Manager]]
 
 ---
 
@@ -39,12 +46,19 @@ Per costruire una comunità funzionale ed equa, è essenziale avere aspettative 
 #### Principi Fondamentali
 * [[Ethical Code of ColivingLiguria]]
 
-#### Residenza & Comunità
-* [[Contract for Residents]]
-* [[Contract for Events]]
-
-#### Partnership & Collaborazioni
-* [[Contract Type for Leading Social Media Manager]]
-
-#### Internazionale & Onboarding
+#### Policy Legali e Finanziarie
 * [[Visa Assistance Policy]]
+* [[Richieste di Pagamento non Autorizzate]]
+
+#### Indice dei Contratti
+*Questo è un indice dei nostri modelli contrattuali. Per la nostra filosofia sui contratti, vedi [[Contracts]].*
+* **Accordi Principali:**
+    * [[Contract for Residents]] (Contratto per Residenti)
+    * [[Contract for Events]] (Contratto per Partecipanti a Eventi)
+* **Contratti per Proposte e Partnership:**
+    * [[Contract for Event Proposals]] (Contratto per Proposte di Eventi)
+    * [[Contract for Music Event Proposals]] (Contratto per Proposte di Eventi Musicali)
+    * [[Contract for Internship]] (Contratto di Tirocinio)
+    * [[Contract for Horses]] (Contratto per Cavalli)
+* **Contratti di Ruolo:**
+    * [[Contract Type for Leading Social Media Manager]]
