@@ -2,6 +2,7 @@
 draft: false
 date: 2025-11-18
 language: EN/IT
+title: Take your Music to ColivingLiguria! 🎸
 ---
 -- Italiano sotto --
 
