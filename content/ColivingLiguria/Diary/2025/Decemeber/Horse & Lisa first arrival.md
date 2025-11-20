@@ -4,56 +4,76 @@ date: 2025-11-20
 language: EN
 ---
 > [!Abstract]
-> **Operation First Arrival: Lisa & The Horses**
-> This operational plan details the onboarding strategy for the first resident (Lisa), her three horses, and her associated entourage (Film Crew & Students). It manages the critical transition period between the current "Limbo" phase and the official project start on December 3rd, ensuring legal compliance with ASL regulations regarding the **Codice Stalla** and the physical preparation of the **Temporary Shelter**.
+> **Operation First Arrival: Lisa & The Horses (v2)**
+> **Status:** Active Planning
+> **Goal:** Orchestrate the arrival of the first resident (Lisa), her entourage (Film Crew/Students), and her 3 horses.
+> **Key Challenge:** Managing two separate timelines—one for humans (dependent on renovation) and one for horses (dependent on ASL bureaucracy).
 
-## Phase 1: The "Limbo" (Now - Dec 3rd)
-*Objective: Manage Lisa's immediate needs without compromising the legal status of the property transfer.*
+## 🗓️ The Timeline: Two Parallel Tracks
 
-* **Immediate Personal Housing (Nov 26th - Dec 3rd)**
-    * **Constraint:** We cannot legally host Lisa in [[Ville Chiappella]] before the deed is signed on Dec 3rd.
-    * **Action:** Direct Lisa to a temporary B&B or rental in Cairo Montenotte for these specific days. This keeps her close for the transition but legally separate.
-* **Horse Logistics (The "Holding Pattern")**
-    * **Constraint:** Horses cannot enter **[[Terreni oltre Torrente]]** until the **Codice Stalla** is active. This code cannot be requested until we own the land (Dec 3rd).
-    * **Option A (Preferred):** Horses remain in Tuscany until approx. Dec 10th (post-Code activation).
-    * **Option B (Emergency):** If they must move immediately, we must locate a third-party stable ("Stalla di appoggio") nearby. Estimated cost: ~€300/month/horse.
-* **Bureaucracy & Contracts**
-    * **Lisa:** Must sign the **[[Contract for Residents]]** for her room.
-    * **Horses:** Must sign the **[[Contract for Horses]]** and pay the deposit.
-    * **Students/Crew:** Finalise financial proposal (€220/month per student) and prepare agreements.
+### Track A: The Horses (The "Limbo")
+* **Duration:** From [Transport Date] until [ASL Stable Code Approval].
+* **Status:** **Waiting for Bureaucracy.**
+* **The Problem:** Horses cannot legally enter [[Terreni oltre Torrente]] without a *Codice Stalla*. This code can only be requested *after* the deed (Dec 3rd).
+* **The Solution (Bridge Phase):**
+    * **Location:** Third-party stable nearby (Simone to locate).
+    * **Estimated Cost:** Approx. **€500 per week** total for 3 horses (to be paid by Lisa).
+    * **Duration:** Estimated 1-2 weeks post-purchase (approx. Dec 3rd - Dec 14th), but could be longer depending on ASL speed.
+* **The "Go Live" Condition:** Horses move to Coliving Liguria **only** when the ASL communicates the Code Stalla approval.
 
-## Phase 2: Terrain & Shelter Setup (Nov 27 - Dec 2)
-*Objective: Create the "Minimum Legal Viable Product" on the land to pass the ASL inspection immediately after the deed.*
+### Track B: The People (Lisa + Entourage)
+* **Earliest Entry:** **Dec 12th** (Target date for viable bedrooms).
+* **Location:** [[Casa del Forno]] or [[Casa del Noce]] (TBD based on renovation speed).
+* **The Setup:**
+    * **2 Private Bedrooms** made available immediately.
+    * **Film Crew:** Stays in these rooms first (approx. 1 week).
+    * **Students:** Move into these same rooms from Dec 20th onwards.
+    * **Lisa:** Needs a separate room (potentially in the same house or nearby).
 
-* **Location:** **[[Terreni oltre Torrente]]** (Particelle 104 & 105).
-* **The Temporary Shelter (The Box)**
-    * **Specs:** Construct a temporary wooden/pre-fab box of approximately **30 m²**.
-    * **Legal Requirement (Ground):** Ensure the flooring is prepared (gravel or rubber mats) to guarantee a **permanently dry and clean surface**. Mud is a violation of welfare standards.
-    * **Legal Requirement (Height):** Minimum safety height approx. 2.70m to prevent head injuries.
-* **Fencing**
-    * Secure the perimeter of the 1,240 m² paddock.
-    * **Strict Rule:** Use electric tape or wood. **NO barbed wire** is permitted.
-* **Water Supply**
-    * Install electric pump from the stream.
-    * **Action:** Prepare water analysis sample to prove potability for the ASL Code application.
+---
 
-## Phase 3: Activation & Logistics (Dec 3rd Onwards)
-*Objective: Bureaucratic activation and physical move-in sequence.*
+## 💶 Financial & Contractual Structure
 
-* **Step 1: The "Code Stalla" (Dec 3rd)**
-    * Immediately upon signing the deed, apply to ASL 2 Savonese to register the land.
-    * Once the Code is issued, Lisa generates the **Modello 4** (Transport Document) for the journey.
-* **Step 2: Human Accommodation Setup**
-    * **Lisa's Unit:** Assign a private bedroom. **[[Casa del Forno]]** (Sub. 5 or 6) is recommended due to the existing kitchen layout.
-    * **The "Flex" Apartment (Film Crew -> Students)**
-        * **Requirement:** A liveable apartment with **2 Private Bedrooms**, Kitchen, and Bathroom.
-        * **Dec 14th:** Film Crew (2 pax) moves into these 2 rooms for ~1 week.
-        * **Dec 20th:** Film Crew departs; **2 Students** move into the *same* 2 bedrooms for their 2-month stay.
-* **Step 3: Holiday Guests (Dec 23 - Jan 7)**
-    * Reserve capacity (4-8 beds) for potential bookings mentioned in chat.
-    * **Contingency:** If **[[Casa Maggiore]]** is acquired/available, use it for this overflow. If not, maximise density in **[[Casa del Forno]]**.
+### 1. The "Master Deposit" Strategy
+To simplify the process while maintaining legal security, Lisa will act as the guarantor.
+* **Deposit Amount:** **€500.00** (Total).
+* **Coverage:** This single amount covers the security deposit for:
+    * Lisa's personal **[[Contract for Residents]]**.
+    * Up to **2 other contracts** for her guests (Film Crew / Students).
+* **Terms:** If any guest causes damage or leaves early without notice, deductions are made from this master deposit.
 
-## Critical Dependencies
-* **Utilities:** Electricity must be active by Dec 3rd. Water may be temporary/bottled initially.
-* **Heating:** Ensure specific rooms for Lisa and Crew have functional heating (wood stoves/electric) as December temperatures will be low.
-* **Access:** Clear the path from **[[Terreni oltre Torrente]]** to **[[Casa del Noce]]** / **[[Casa del Forno]]** for daily horse management.
+### 2. Rent & Costs
+* **Bedroom Price:** **€250.00 per month** per bedroom.
+* **Utilities:** To be defined (likely included or flat-rate given the short term).
+* **Horse Costs:**
+    * **Bridge Phase:** ~€500/week (External Stable) - Paid by Lisa.
+    * **Coliving Phase:** TBD (Internal costs).
+
+### 3. Mandatory Contracts
+*Even if Lisa pays, every individual must exist legally within the system.*
+* **Lisa:** Signs [[Contract for Residents]] + [[Contract for Horses]].
+* **Students/Crew:** Each person must strictly sign their own **[[Contract for Residents]]** to legitimize their presence on the property.
+* **Payment:** Lisa settles the invoices, but the liability for conduct remains individual (secured by Lisa's deposit).
+
+---
+
+## 🛠️ Operational Checklist
+
+### Phase 1: The Setup (Now - Dec 12th)
+* [ ] **Locate External Stable:** Find a spot for 3 horses for ~2 weeks.
+* [ ] **Renovation Sprint:** Ensure 2 Bedrooms + 1 Bathroom + Heating are viable by Dec 12th.
+* [ ] **Contracts:** Send the "Master Proposal" to Lisa explaining the €500 deposit and €250/room rent.
+
+### Phase 2: Bureaucracy Sprint (Dec 3rd - Dec 14th)
+* [ ] **Dec 3rd:** Sign Deed.
+* [ ] **Dec 3rd (PM):** Submit request for *Codice Stalla* to ASL 2 Savonese immediately.
+* [ ] **Dec 3rd - 10th:** Set up the **Temporary Shelter** and electric fencing at [[Terreni oltre Torrente]] to be ready for ASL inspection.
+* [ ] **Dec 12th:** Welcome Humans (Film Crew).
+
+### Phase 3: Horse Arrival (When ASL Approves)
+* [ ] **ASL Approval Received.**
+* [ ] **Transport:** Move horses from external stable to [[Terreni oltre Torrente]].
+
+### Phase 4: Holiday Guests (Low Priority)
+* [ ] **Status:** "Nice to have".
+* [ ] **Plan:** Only if [[Casa Maggiore]] is acquired or renovations go exceptionally fast, offer space for Dec 23-Jan 7 guests. Otherwise, decline or postpone.
