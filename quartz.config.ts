@@ -8,8 +8,9 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Simone Testino",
-    pageTitleSuffix: "",  // optional, can remove or keep as empty
+    // [MODIFICA] Titolo del sito aggiornato
+    pageTitle: "ColivingLiguria",
+    pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -17,6 +18,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "https://simonetestino.pages.dev",
+    // [CORREZIONE] Path del contenuto (non toccare se non hai cambiato la configurazione)
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
@@ -28,25 +30,31 @@ const config: QuartzConfig = {
         code: "IBM Plex Mono",
       },
       colors: {
+        // Colori chiari (Sfondo bianco, Testo scuro)
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
+          light: "#faf8f8",     // Sfondo principale (Bianco sporco)
+          lightgray: "#e5e5e5", // Sfondo per sidebar/blocchi
+          gray: "#b8b8b8",       // Bordo/Linee
+          darkgray: "#4e4e4e",   // Testo
+          dark: "#2b2b2b",       // Testo principale
+          // [MODIFICA]: Link e accenti (Verde Muschio)
+          secondary: "#4a7c59",
+          // [MODIFICA]: Accenti secondari (Marrone Beige/Terra)
+          tertiary: "#c4a381",
           highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#fff23688",
         },
+        // Colori scuri (Sfondo scuro, Testo chiaro)
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
+          light: "#161618",     // Sfondo principale scuro
+          lightgray: "#393639", // Sfondo sidebar/blocchi
+          gray: "#646464",       // Bordo/Linee
+          darkgray: "#d4d4d4",   // Testo
+          dark: "#ebebec",       // Testo principale
+          // [MODIFICA]: Link e accenti (Verde Oliva Chiaro)
+          secondary: "#a4b490",
+          // [MODIFICA]: Accenti secondari (Marrone Terra Chiaro)
+          tertiary: "#c4a381",
           highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#b3aa0288",
         },
@@ -73,7 +81,9 @@ const config: QuartzConfig = {
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
     ],
-    filters: [Plugin.RemoveDrafts()],
+    filters: [
+      Plugin.RemoveDrafts(),
+    ],
     emitters: [
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
