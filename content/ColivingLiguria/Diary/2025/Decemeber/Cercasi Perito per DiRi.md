@@ -46,7 +46,7 @@ Il professionista dovrà eseguire le seguenti attività:
 * **Aerazione:** Verifica della presenza e idoneità dei fori di ventilazione nei locali con apparecchi a fiamma libera (cucine/caldaie).
 * **Scarico Fumi:** Controllo visivo della corretta evacuazione.
 
-### Procedura di Coordinamento e Pre-Verifica
+### Procedura di Coordinamento: Pre-Verifica e No Sopralluogo
 
 Al fine di ottimizzare i tempi e garantire il successo della certificazione, il proprietario (**[[ColivingLiguria/People/Simone Testino]]**) agirà come responsabile unico del procedimento tecnico, effettuando una **pre-verifica interna** prima dell'uscita del professionista.
 
@@ -58,8 +58,28 @@ Prima di convocare il tecnico, mi assicurerò personalmente che:
 * I tubi del gas in gomma siano stati sostituiti se scaduti.
 * Siano presenti i dispositivi di sicurezza aggiuntivi richiesti dal _Decreto Anticipi_ (Estintori e Rilevatori, vedi [[Checklist di Inizio Attività]]).
 
-**Fase 2: Intervento del Tecnico**
-Il professionista verrà contattato solo quando l'immobile avrà superato il pre-check, per eseguire esclusivamente le prove strumentali e la redazione della pratica.
+**Fase 2: Intervento del Tecnico (Intervento Unico)**
+Non è richiesto un sopralluogo preventivo. Il professionista verrà contattato solo quando l'immobile avrà superato il pre-check, per eseguire direttamente le prove strumentali e la redazione della pratica in un'unica uscita.
+Per la valutazione preventiva dei volumi, si rimanda alle planimetrie allegate qui sotto.
+
+### Planimetrie e Documentazione Tecnica
+Per permettere al tecnico di valutare l'entità dell'impianto senza sopralluogo, si forniscono le planimetrie ufficiali:
+
+**[[List of all Blueprints]]**
+* **Casa del Forno:**
+    * [[PLANIMETRIA FG 29 MAPP 440 SUB 5.pdf]]
+    * [[PLANIMETRIA FG 29 MAPP 440 SUB 6.pdf]]
+    * [[PLANIMETRIA FG 29 MAPP 440 SUB 7.pdf]]
+    * [[PLANIMETRIA FG 29 MAPP 529.pdf]] (Il Forno)
+* **Casa del Noce:**
+    * [[PLANIMETRIA FG 29 MAPP 519 SUB 6.pdf]]
+
+### Tempistiche e Urgenza (Tassative)
+
+A causa di prenotazioni ospiti già confermate per l'inizio di Dicembre, l'apertura dell'attività non è differibile. Ogni giorno di attesa comporta una perdita economica diretta.
+
+* **Disponibilità Proprietario:** Tassativamente a partire dal **3 Dicembre 2025, dopo le ore 17:00**.
+* **Data Intervento Richiesta:** Si richiede la massima urgenza per fissare l'intervento nel **pomeriggio del 3 Dicembre** (tardo) oppure nella mattinata del **4 o 5 Dicembre** al più tardi.
 
 ### Output Finale Richiesto
 
@@ -68,3 +88,12 @@ Il lavoro si intende concluso con la consegna di:
 2.  Eventuale relazione tecnica sintetica su adeguamenti minimi obbligatori (se riscontrati durante la verifica).
 
 Questo documento verrà immediatamente archiviato e utilizzato per completare la **Fase 1** della **[[Checklist di Inizio Attività]]** e procedere con l'invio della SCIA.
+
+### Contatti
+Per confermare la disponibilità nelle date richieste:
+
+**Simone Testino**
+* **Ruolo:** Proprietario / Responsabile SCIA
+* **Email:** colivingliguria@gmail.com
+* **Telefono/WhatsApp:** +39 339 637 9372
+* **Luogo Intervento:** Strada Chiappella 19, Cairo Montenotte (SV)
