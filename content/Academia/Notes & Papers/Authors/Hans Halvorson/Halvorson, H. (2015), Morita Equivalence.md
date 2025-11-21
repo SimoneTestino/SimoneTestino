@@ -1,0 +1,1 @@
+Here is the [PDF](https://philsci-archive.pitt.edu/11511/1/morita.pdf) of the paper, I read and discussed this paper in [[Structuralism & Categories (Research Project)]].
