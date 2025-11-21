@@ -11,7 +11,9 @@ Prima di interagire con la burocrazia, l'immobile deve essere fisicamente a norm
 
 - [ ] **Verifica Urbanistica:** Archiviare la **[[Perizia Giurata Case Chiappella]]** come prova formale della regolarità urbanistica, catastale e paesaggistica.
 - [ ] **Certificazione Impianti (Elettrico/Gas):** Ottenere fisicamente la **DiRi (Dichiarazione di Rispondenza)** firmata da tecnico abilitato (ex D.M. 37/08) che attesti la sicurezza degli impianti ante-1990 (messa a terra, differenziale, ecc.).
+    - 👉 *Utilizza questo brief per il tecnico:* **[[Cercasi Perito per DiRi]]**
 - [ ] **Sicurezza Antincendio (L. 191/2023):**
+    - 👉 *Utilizza questo brief per la ditta:* **[[Cercasi Tecnico Sistemi Antincendio]]**
     - [ ] Installare rilevatori di Gas Combustibili e Monossido di Carbonio.
     - [ ] Acquistare e posizionare almeno **1 estintore per piano** (min. 6kg, omologato).
     - [ ] Attivare il registro di manutenzione antincendio (prima visita della ditta specializzata).
