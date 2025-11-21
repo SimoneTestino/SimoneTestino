@@ -25,37 +25,37 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Lora",
-        body: "Inter",
+        header: "Libre Baskerville",
+        body: "Lora",
         code: "JetBrains Mono",
       },
       colors: {
         // Colori chiari (Sfondo bianco, Testo scuro)
         lightMode: {
-          light: "#ffffff",     // Sfondo principale (Bianco Puro)
-          lightgray: "#f5f5f5", // Sfondo per sidebar/blocchi (Grigio Chiarissimo)
-          gray: "#e0e0e0",       // Bordo/Linee
-          darkgray: "#4e4e4e",   // Testo secondario
-          dark: "#222222",       // Testo principale
-          // [MODIFICA]: Link e accenti (Blu Scuro Profondo)
-          secondary: "#001f3f",
-          // [MODIFICA]: Accenti secondari (Blu Notte)
-          tertiary: "#003366",
-          highlight: "rgba(0, 31, 63, 0.05)",
+          light: "#faf9f6",     // Sfondo principale (Bianco Sporco / Eggshell)
+          lightgray: "#e2e8f0", // Sfondo per sidebar/blocchi (Grigio Soft)
+          gray: "#a0aec0",       // Bordo/Linee
+          darkgray: "#4a5568",   // Testo secondario (Blu-Grigio Scuro)
+          dark: "#2d3748",       // Testo principale (Blu-Nero Soft)
+          // [MODIFICA]: Link e accenti (Blu-Grigio Desaturato)
+          secondary: "#4a5568",
+          // [MODIFICA]: Accenti secondari (Blu-Grigio Chiaro)
+          tertiary: "#718096",
+          highlight: "rgba(74, 85, 104, 0.05)",
           textHighlight: "#fff23688",
         },
         // Colori scuri (Sfondo scuro, Testo chiaro)
         darkMode: {
-          light: "#050505",     // Sfondo principale (Quasi Nero)
-          lightgray: "#1f2833", // Sfondo sidebar/blocchi
-          gray: "#3a3a3a",       // Bordo/Linee
-          darkgray: "#a0a0a0",   // Testo secondario
-          dark: "#e0e0e0",       // Testo principale
-          // [MODIFICA]: Link e accenti (Blu Muted / Grigio Bluastro)
-          secondary: "#64ffda", // Un tocco di colore minimale (Ciano Muted) per contrasto su scuro
+          light: "#1a202c",     // Sfondo principale (Blu Notte Scuro Soft)
+          lightgray: "#2d3748", // Sfondo sidebar/blocchi
+          gray: "#4a5568",       // Bordo/Linee
+          darkgray: "#cbd5e0",   // Testo secondario
+          dark: "#edf2f7",       // Testo principale
+          // [MODIFICA]: Link e accenti (Grigio-Blu Muted)
+          secondary: "#a0aec0",
           // [MODIFICA]: Accenti secondari
-          tertiary: "#3a506b",
-          highlight: "rgba(100, 255, 218, 0.1)",
+          tertiary: "#718096",
+          highlight: "rgba(160, 174, 192, 0.1)",
           textHighlight: "#b3aa0288",
         },
       },
