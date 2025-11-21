@@ -32,30 +32,30 @@ const config: QuartzConfig = {
       colors: {
         // Colori chiari (Sfondo bianco, Testo scuro)
         lightMode: {
-          light: "#faf8f8",     // Sfondo principale (Bianco sporco)
-          lightgray: "#e5e5e5", // Sfondo per sidebar/blocchi
-          gray: "#b8b8b8",       // Bordo/Linee
-          darkgray: "#4e4e4e",   // Testo
-          dark: "#2b2b2b",       // Testo principale
-          // [MODIFICA]: Link e accenti (Verde Muschio)
-          secondary: "#4a7c59",
-          // [MODIFICA]: Accenti secondari (Marrone Beige/Terra)
-          tertiary: "#c4a381",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          light: "#ffffff",     // Sfondo principale (Bianco Puro)
+          lightgray: "#f5f5f5", // Sfondo per sidebar/blocchi (Grigio Chiarissimo)
+          gray: "#e0e0e0",       // Bordo/Linee
+          darkgray: "#4e4e4e",   // Testo secondario
+          dark: "#222222",       // Testo principale
+          // [MODIFICA]: Link e accenti (Blu Scuro Profondo)
+          secondary: "#001f3f",
+          // [MODIFICA]: Accenti secondari (Blu Notte)
+          tertiary: "#003366",
+          highlight: "rgba(0, 31, 63, 0.05)",
           textHighlight: "#fff23688",
         },
         // Colori scuri (Sfondo scuro, Testo chiaro)
         darkMode: {
-          light: "#161618",     // Sfondo principale scuro
-          lightgray: "#393639", // Sfondo sidebar/blocchi
-          gray: "#646464",       // Bordo/Linee
-          darkgray: "#d4d4d4",   // Testo
-          dark: "#ebebec",       // Testo principale
-          // [MODIFICA]: Link e accenti (Verde Oliva Chiaro)
-          secondary: "#a4b490",
-          // [MODIFICA]: Accenti secondari (Marrone Terra Chiaro)
-          tertiary: "#c4a381",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          light: "#050505",     // Sfondo principale (Quasi Nero)
+          lightgray: "#1f2833", // Sfondo sidebar/blocchi
+          gray: "#3a3a3a",       // Bordo/Linee
+          darkgray: "#a0a0a0",   // Testo secondario
+          dark: "#e0e0e0",       // Testo principale
+          // [MODIFICA]: Link e accenti (Blu Muted / Grigio Bluastro)
+          secondary: "#64ffda", // Un tocco di colore minimale (Ciano Muted) per contrasto su scuro
+          // [MODIFICA]: Accenti secondari
+          tertiary: "#3a506b",
+          highlight: "rgba(100, 255, 218, 0.1)",
           textHighlight: "#b3aa0288",
         },
       },
