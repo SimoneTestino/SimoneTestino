@@ -1,1 +1,0 @@
-In [[Philosophy of Science (Lecture)]] we discussed the paper in [[Philosophy of Science (Lecture)#16.09, IV. Quine]]. I write about it in the relative assignment: [Overleaf: PhiSci, 2](https://www.overleaf.com/read/kvkkpywcnkxm#849ccc).

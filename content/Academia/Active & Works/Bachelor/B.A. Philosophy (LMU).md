@@ -1,6 +1,0 @@
----
-draft: false
----
-I started my Philosophy Bachelor in the University of Constance in October 2022 with a minor in Mathematics, I then moved to the LMU Munich in October 2023 and completed the bachelor on the 1st August 2024. I studied this bachelor along with the [[B.Sc. Mathematics (LMU)]]. I continue my studies in the same field with the [[M.Sc. Logic (UvA)]].
-
-The list of the essays I submitted for the different courses can be found at [[Index of Bachelor Works]] at [[Index of Bachelor Works#Philosophy]], in particular see the [[Bachelor Thesis]]. Details on the ECTS and timing can be found under [[Bachelors' Outline]] and all documents regarding it can be dowloaded from [[Documents]] at [[Documents#Ludwig Maximilian Universität München]]. Also, a list of all courses and marks can be found at: [Sheet: Marks LMU](https://docs.google.com/spreadsheets/d/1NNubLg1C2IOX1Rs3ishnJDjQ0yhacul_Y8lLVrWSW6c/edit?usp=sharing) and some simple statistics on my performance can be found at [Sheets: Academic Performance](https://docs.google.com/spreadsheets/d/1zl16xKUkKdtIeqCnpCjX7d2LFcM73WJWPsHTkUh2BRc/edit?usp=sharing).
