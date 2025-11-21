@@ -25,37 +25,37 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Libre Baskerville",
-        body: "Lora",
+        header: "Tinos",
+        body: "Tinos",
         code: "JetBrains Mono",
       },
       colors: {
         // Colori chiari (Sfondo bianco, Testo scuro)
         lightMode: {
-          light: "#faf9f6",     // Sfondo principale (Bianco Sporco / Eggshell)
-          lightgray: "#e2e8f0", // Sfondo per sidebar/blocchi (Grigio Soft)
-          gray: "#a0aec0",       // Bordo/Linee
-          darkgray: "#4a5568",   // Testo secondario (Blu-Grigio Scuro)
-          dark: "#2d3748",       // Testo principale (Blu-Nero Soft)
-          // [MODIFICA]: Link e accenti (Blu-Grigio Desaturato)
-          secondary: "#4a5568",
-          // [MODIFICA]: Accenti secondari (Blu-Grigio Chiaro)
-          tertiary: "#718096",
-          highlight: "rgba(74, 85, 104, 0.05)",
+          light: "#ffffff",     // Sfondo principale (Bianco Puro)
+          lightgray: "#f0f0f0", // Sfondo per sidebar/blocchi (Grigio Chiarissimo)
+          gray: "#d0d0d0",       // Bordo/Linee
+          darkgray: "#606060",   // Testo secondario (Grigio Medio)
+          dark: "#000000",       // Testo principale (Nero)
+          // [MODIFICA]: Link e accenti (Nero)
+          secondary: "#000000",
+          // [MODIFICA]: Accenti secondari (Grigio Scuro)
+          tertiary: "#606060",
+          highlight: "rgba(0, 0, 0, 0.05)",
           textHighlight: "#fff23688",
         },
         // Colori scuri (Sfondo scuro, Testo chiaro)
         darkMode: {
-          light: "#1a202c",     // Sfondo principale (Blu Notte Scuro Soft)
-          lightgray: "#2d3748", // Sfondo sidebar/blocchi
-          gray: "#4a5568",       // Bordo/Linee
-          darkgray: "#cbd5e0",   // Testo secondario
-          dark: "#edf2f7",       // Testo principale
-          // [MODIFICA]: Link e accenti (Grigio-Blu Muted)
-          secondary: "#a0aec0",
+          light: "#000000",     // Sfondo principale (Nero Puro)
+          lightgray: "#202020", // Sfondo sidebar/blocchi
+          gray: "#404040",       // Bordo/Linee
+          darkgray: "#a0a0a0",   // Testo secondario
+          dark: "#ffffff",       // Testo principale (Bianco)
+          // [MODIFICA]: Link e accenti (Bianco)
+          secondary: "#ffffff",
           // [MODIFICA]: Accenti secondari
-          tertiary: "#718096",
-          highlight: "rgba(160, 174, 192, 0.1)",
+          tertiary: "#a0a0a0",
+          highlight: "rgba(255, 255, 255, 0.1)",
           textHighlight: "#b3aa0288",
         },
       },
