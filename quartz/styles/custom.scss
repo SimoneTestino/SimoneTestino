@@ -13,9 +13,28 @@
 
 footer {
   text-align: center;
-  
+
   ul {
     justify-content: center;
   }
 }
 
+// Smooth transitions
+a,
+.tag-link,
+.internal {
+  transition: all 0.2s ease-in-out;
+}
+
+// Hover effects
+.sidebar-item:hover,
+.tag-link:hover {
+  opacity: 0.8;
+  transform: translateY(-1px);
+}
+
+// Graph customization (if needed overrides)
+.graph-view-container {
+  --secondary: var(--secondary);
+  --tertiary: var(--tertiary);
+}
