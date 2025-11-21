@@ -8,6 +8,12 @@ tags:
 language: IT
 draft: false
 ---
+---
+date: 2025-11-21
+tags: [renovation, legal, safety, maintenance]
+priority: critical
+---
+
 > [!Abstract]
 > Questo documento definisce il perimetro d'incarico per il **Tecnico Impiantista (Elettrico/Termico)** necessario per l'avvio dell'attività ricettiva a [[Ville Chiappella]].
 > L'obiettivo è ottenere la **Dichiarazione di Rispondenza (DiRi)** per impianti esistenti in edifici storici, requisito indispensabile per la presentazione della SCIA, come dettagliato in [[Adempimenti per l'avvio di Attività Ricettiva]]. Il documento specifica i requisiti del professionista, le verifiche tecniche richieste e la procedura di coordinamento gestita direttamente dalla proprietà.
@@ -50,7 +56,7 @@ Il professionista dovrà eseguire le seguenti attività:
 
 Al fine di ottimizzare i tempi e garantire il successo della certificazione, il proprietario (**[[ColivingLiguria/People/Simone Testino]]**) agirà come responsabile unico del procedimento tecnico, effettuando una **pre-verifica interna** prima dell'uscita del professionista.
 
-**Fase 1: Pre-Check (A carico di Simone)**
+**Fase 1: Pre-Check (A carico di [[ColivingLiguria/People/Simone Testino|Simone Testino]])**
 Prima di convocare il tecnico, mi assicurerò personalmente che:
 * Tutti i punti luce e le prese siano chiusi e fissati.
 * Non vi siano cavi volanti o "nastri isolanti" a vista.
