@@ -9,7 +9,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     // [MODIFICA] Titolo del sito aggiornato
-    pageTitle: "ColivingLiguria",
+    pageTitle: "Simone Testino",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
