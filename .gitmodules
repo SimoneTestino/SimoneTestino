@@ -1,3 +1,6 @@
 [submodule "content/ColivingLiguria"]
 	path = content/ColivingLiguria
 	url = https://github.com/SimoneTestino/ColivingLiguria-Quartz_Content.git
+[submodule "content/Luna"]
+	path = content/Luna
+	url = https://github.com/SimoneTestino/Luna-Quartz_Content.git
