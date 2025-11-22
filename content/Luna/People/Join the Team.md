@@ -1,6 +1,6 @@
 ---
 title: Join the Luna Team
-date: 2025-09-14
+date: 2025-11-22
 draft: false
 ---
 
@@ -14,7 +14,7 @@ The Luna project is structured as an independent entity with ownership distribut
 ## Current Status and Opportunity
 
 - ✅ **Patent Filed**: Core technology protected (August 2025)
-- ✅ **EU Funding Approved**: FESR grant accepted (July 2025)  
+- ✅ **EU Funding Approved**: [[ColivingLiguria/Financials/Public Financial Aid/FESR Azione 1.3.3. EU Grant|FESR Azione 1.3.3. EU Grant]] accepted (July 2025)  
 - ✅ **Technical Documentation Complete**: 700+ pages of validated models
 - ✅ **Market Analysis Complete**: €1.7B addressable market identified
 - 🔄 **Regulatory Approval**: In process with ENAC/EASA

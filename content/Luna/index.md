@@ -1,6 +1,6 @@
 ---
 title: Luna - Portable Intense Exterior Illumination
-date: 2025-09-14
+date: 2025-11-22
 draft: false
 ---
 
@@ -24,7 +24,7 @@ The Luna project reimagines portable lighting by addressing fundamental ineffici
 **Current Phase**: Engineering validation and regulatory approval (as of November 2025)
 
 - ✅ **April 2025**: Comprehensive technical documentation and business plan completed
-- ✅ **July 29, 2025**: FESR Azione 1.3.3 EU Grant acceptance received (with [[To Share Page - Luna|ColivingLiguria]])
+- ✅ **July 29, 2025**: [[ColivingLiguria/Financials/Public Financial Aid/FESR Azione 1.3.3. EU Grant|FESR Azione 1.3.3. EU Grant]] acceptance received (with [[To Share Page - Luna|ColivingLiguria]])
 - ✅ **August 2025**: Core technology patent filed
 - 🔄 **October-November 2025**: [[Legal/Regulatory Research|Legal approval process]] with ENAC/EASA ongoing
 - 📅 **December 2025**: First prototype construction planned at [[Luna Lab]]

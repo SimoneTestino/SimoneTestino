@@ -1,5 +1,5 @@
 ---
-date: 2025-09-14
+date: 2025-11-22
 draft: false
 ---
 Our research indicates that Luna's classification is a "tethered gas balloon for commercial operations." This is a critical distinction that appears to place it outside the two most common regulatory frameworks:

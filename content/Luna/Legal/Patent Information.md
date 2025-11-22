@@ -1,6 +1,6 @@
 ---
 title: Patent Information
-date: 2025-08-01
+date: 2025-11-22
 draft: false
 ---
 

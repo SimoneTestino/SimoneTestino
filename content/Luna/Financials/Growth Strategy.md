@@ -1,6 +1,6 @@
 ---
 title: Growth Strategy
-date: 2025-04-01
+date: 2025-11-22
 draft: false
 ---
 
@@ -15,7 +15,7 @@ draft: false
 - **Milestone 2: Working Prototype**: Build "Luna Type One" at [[Production/Luna Lab]].
 - **Milestone 3: First Pilot**: 5-10 supervised rentals to friendly local customers (Construction/Events in Liguria).
     - **Metric**: Customer Net Promoter Score (NPS) > 9/10.
-    - **Funding**: Bootstrapped + [[Financials/DBU Funding for Luna|FESR Grant]].
+    - **Funding**: Bootstrapped + [[ColivingLiguria/Financials/Public Financial Aid/FESR Azione 1.3.3. EU Grant|FESR Azione 1.3.3. EU Grant]].
 
 ## Phase 2: Market Entry (2027)
 
@@ -49,7 +49,7 @@ draft: false
 
 ### 1. Grants & Public Funding (Non-Dilutive)
 We actively pursue non-repayable grants to fund R&D.
-- **FESR Azione 1.3.3**: Secured (July 2025).
+- **[[ColivingLiguria/Financials/Public Financial Aid/FESR Azione 1.3.3. EU Grant|FESR Azione 1.3.3. EU Grant]]**: Secured (July 2025).
 - **DBU (German Federal Environmental Foundation)**: Potential partner for ecological innovation.
 - **EIT Manufacturing**: European innovation network opportunities.
 

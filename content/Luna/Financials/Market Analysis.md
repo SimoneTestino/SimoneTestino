@@ -1,6 +1,6 @@
 ---
 title: Market Analysis
-date: 2025-04-01
+date: 2025-11-22
 draft: false
 ---
 

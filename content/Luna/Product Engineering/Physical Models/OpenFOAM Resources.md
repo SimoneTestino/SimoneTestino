@@ -1,6 +1,6 @@
 ---
 draft: true
-date: 2025-10-08
+date: 2025-11-22
 ---
 In order to produce the [[Physical Models]] we are going to use a software to emulate fluidodynamic.
 

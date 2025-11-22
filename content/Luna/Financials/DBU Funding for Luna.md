@@ -1,10 +1,10 @@
 ---
-date: 2025-10-23
+date: 2025-11-22
 draft: false
 language: EN
 ---
 title: DBU Funding for Luna
-date: 2025-04-01
+date: 2025-11-22
 draft: false
 ---
 
@@ -14,7 +14,7 @@ draft: false
 ## Funding Status
 
 - **Current Status**: **Proposal Phase**.
-- **Primary Grant**: **FESR Azione 1.3.3** (Secured July 2025).
+- **Primary Grant**: **[[ColivingLiguria/Financials/Public Financial Aid/FESR Azione 1.3.3. EU Grant|FESR Azione 1.3.3. EU Grant]]** (Secured July 2025).
 - **Secondary Target**: DBU Project Funding for environmental innovation.
 
 ## The Pitch to DBU
@@ -37,7 +37,7 @@ Luna aligns perfectly with DBU's mission to support innovative, exemplary enviro
 
 ## Next Steps
 
-1. **Finalize Prototype**: Use FESR funds to build the "Luna Type One" MVP.
+1. **Finalize Prototype**: Use [[ColivingLiguria/Financials/Public Financial Aid/FESR Azione 1.3.3. EU Grant|FESR Azione 1.3.3. EU Grant]] funds to build the "Luna Type One" MVP.
 2. **Gather Data**: Collect real-world emissions data from pilot tests.
 3. **Submit Application**: Target DBU's "SME Innovation" track.
 
