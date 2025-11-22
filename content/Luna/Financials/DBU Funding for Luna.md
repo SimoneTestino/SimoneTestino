@@ -3,10 +3,46 @@ date: 2025-10-23
 draft: false
 language: EN
 ---
-> [!Abstract]
-> This note outlines the application strategy for securing the [DBU Green Start-up](https://www.dbu.de/en/promotion/green-start-up/) grant for the [[Luna]] project. The core of the strategy is to leverage [[Luna]]'s high innovation and environmental impact, specifically under **Topic 6 (Energy Efficiency)**. We will address the geographical challenge (non-CEE country) by highlighting the project's "exemplary model character." Furthermore, we will clarify how this funding complements the existing [[FESR Azione 1.3.3. EU Grant]] grant. The FESR funds are designated for materials and real estate, while the DBU funds would be strategically targeted to cover personnel salaries—a critical need not covered by the FESR grant.
+title: DBU Funding for Luna
+date: 2025-04-01
+draft: false
+---
 
-The primary challenge for this application is geographical. The [DBU's project funding](https://www.dbu.de/en/promotion/project-funding/#implementation) is focused primarily on Central and (South) Eastern Europe (CEE). However, the [DBU](https://www.dbu.de/en/) also states that "Funding for international projects beyond CEE is possible in individual cases." Our application will be based on this exception, arguing that [[Luna]]'s high degree of innovation and its exemplary model character for environmental relief make it a strong candidate.
+> [!ABSTRACT]
+> The **Deutsche Bundesstiftung Umwelt (DBU)** is one of Europe's largest environmental foundations. This page details our strategy for securing funding based on Luna's significant ecological benefits.
+
+## Funding Status
+
+- **Current Status**: **Proposal Phase**.
+- **Primary Grant**: **FESR Azione 1.3.3** (Secured July 2025).
+- **Secondary Target**: DBU Project Funding for environmental innovation.
+
+## The Pitch to DBU
+
+Luna aligns perfectly with DBU's mission to support innovative, exemplary environmental projects.
+
+### Key Alignment Points
+
+1. **Climate Protection**:
+   - Luna reduces CO₂ emissions by **95%** compared to diesel light towers.
+   - See [[Financials/Ecological Impact|Ecological Impact Analysis]].
+
+2. **Resource Efficiency**:
+   - Luna uses **< 2kg** of material vs 400kg+ for traditional towers.
+   - Radical dematerialization of infrastructure.
+
+3. **Health & Safety**:
+   - Eliminates noise and diesel fumes from work sites.
+   - Reduces light pollution through directed, shielded optics.
+
+## Next Steps
+
+1. **Finalize Prototype**: Use FESR funds to build the "Luna Type One" MVP.
+2. **Gather Data**: Collect real-world emissions data from pilot tests.
+3. **Submit Application**: Target DBU's "SME Innovation" track.
+
+See [[Financials/Growth Strategy]] for the broader funding roadmap.
+"Funding for international projects beyond CEE is possible in individual cases." Our application will be based on this exception, arguing that [[Luna]]'s high degree of innovation and its exemplary model character for environmental relief make it a strong candidate.
 
 **Target Funding Programme: Green Start-up**
 

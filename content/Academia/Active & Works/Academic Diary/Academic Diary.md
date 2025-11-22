@@ -24,3 +24,5 @@ In these folder I the most relevant choices I made in my academic life, showing 
 	- [[An Interesting Field, Finite Model Theory]]
 	- [[PhD Applications Results]]
 		- [[Reflecting on PhD Application Results]]
+- **November 2025**
+	- [[Strategic Thesis Proposal - AlphaProof & Proof Theory]]
