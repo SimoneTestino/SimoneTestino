@@ -43,7 +43,7 @@ export default (() => {
                 <section class="research-section">
                     <h2>Research Areas</h2>
                     <p class="section-intro">
-                        My research spans foundational mathematics and philosophy, with expertise developed across the following fields.
+                        My research spans foundational mathematics and philosophy. Below are the specific fields where I have developed expertise and active research.
                     </p>
                     <div class="research-grid">
                         <div class="research-column">
@@ -54,6 +54,7 @@ export default (() => {
                                 <li><a href="/Academia/Active-&-Works/Research-Areas/Modal-Logic">Modal Logic</a></li>
                                 <li><a href="/Academia/Active-&-Works/Research-Areas/Category-Theory">Category Theory</a></li>
                                 <li><a href="/Academia/Active-&-Works/Research-Areas/Algebra">Algebra</a></li>
+                                <li><a href="/Academia/Active-&-Works/Research-Areas/Translation-Theory">Translation Theory</a></li>
                             </ul>
                         </div>
                         <div class="research-column">
@@ -65,9 +66,6 @@ export default (() => {
                                 <li><a href="/Academia/Active-&-Works/Research-Areas/Formal-Cognitive-Sciences">Formal Cognitive Sciences</a></li>
                             </ul>
                         </div>
-                    </div>
-                    <div class="research-cta">
-                        <a href="/Academia/Active-&-Works/Research-Areas/Research-Areas" class="link-pill">View All Research Areas →</a>
                     </div>
                 </section>
 
@@ -146,6 +144,22 @@ export default (() => {
                         </div>
                         <a href="https://luna-st.pages.dev" target="_blank" class="luna-button">
                             Explore Luna →
+                        </a>
+                    </div>
+                </section>
+
+                {/* OTHER WORKS (Personal Finance) */}
+                <section class="other-works-section">
+                    <h2>Other Works</h2>
+                    <p class="section-intro">
+                        Beyond academia and entrepreneurship, I document other areas of interest and personal management.
+                    </p>
+                    <div class="utilities-grid">
+                        <a href="/Personal-Finance/Personal-Finance" class="utility-link">
+                            <span>💹</span> Personal Finance
+                        </a>
+                        <a href="/Personal-Finance/Investments" class="utility-link">
+                            <span>📈</span> Investments
                         </a>
                     </div>
                 </section>

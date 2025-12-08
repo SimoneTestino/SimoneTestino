@@ -291,6 +291,59 @@
     }
 
     // ==========================================================================
+    // OTHER WORKS SECTION
+    // ==========================================================================
+    .other-works-section {
+        background: var(--light); // Alternating background
+
+        h2 {
+            font-size: 1.8rem;
+            color: var(--dark);
+            text-align: center;
+            margin: 0 0 1rem 0;
+        }
+
+        .section-intro {
+            text-align: center;
+            color: var(--darkgray);
+            max-width: 700px;
+            margin: 0 auto 2rem;
+            line-height: 1.6;
+        }
+
+        .utilities-grid {
+            display: flex;
+            justify-content: center;
+            gap: 1.5rem;
+            flex-wrap: wrap;
+
+            .utility-link {
+                display: flex;
+                align-items: center;
+                gap: 0.5rem;
+                padding: 0.75rem 1.25rem;
+                background: var(--lightgray); // Differs from bg
+                border: 1px solid var(--gray);
+                border-radius: 8px;
+                color: var(--dark);
+                text-decoration: none;
+                font-size: 0.95rem;
+                transition: all 0.2s;
+
+                &:hover {
+                    border-color: var(--secondary);
+                    color: var(--secondary);
+                    transform: translateY(-2px);
+                }
+
+                span {
+                    font-size: 1.1rem;
+                }
+            }
+        }
+    }
+
+    // ==========================================================================
     // UTILITIES SECTION
     // ==========================================================================
     .utilities-section {
