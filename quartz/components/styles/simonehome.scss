@@ -1,0 +1,606 @@
+@use "../../styles/variables.scss" as *;
+
+// =============================================================================
+// SIMONE HOME - Multi-Style Homepage
+// =============================================================================
+
+.simone-home {
+    width: 100%;
+    max-width: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: var(--bodyFont);
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        font-family: var(--headerFont);
+        margin-top: 0;
+    }
+
+    section {
+        padding: 4rem 2rem;
+        max-width: 1200px;
+        margin: 0 auto;
+
+        @media (max-width: 768px) {
+            padding: 2.5rem 1.5rem;
+        }
+    }
+
+    // ==========================================================================
+    // HERO
+    // ==========================================================================
+    .hero {
+        text-align: center;
+        padding: 6rem 2rem 4rem;
+        background: var(--light);
+        border-bottom: 1px solid var(--gray);
+
+        h1 {
+            font-size: 3.5rem;
+            color: var(--dark);
+            margin: 0 0 0.5rem 0;
+            letter-spacing: -0.02em;
+
+            @media (max-width: 768px) {
+                font-size: 2.5rem;
+            }
+        }
+
+        .tagline {
+            font-size: 1.2rem;
+            color: var(--darkgray);
+            margin: 0 0 1rem 0;
+        }
+
+        .contact-bar {
+            display: flex;
+            gap: 1.5rem;
+            justify-content: center;
+            flex-wrap: wrap;
+            margin-bottom: 2rem;
+
+            .contact-link {
+                font-size: 0.85rem;
+                color: var(--darkgray);
+                text-decoration: none;
+                transition: color 0.2s;
+
+                &:hover {
+                    color: var(--secondary);
+                }
+            }
+        }
+
+        .quick-links {
+            display: flex;
+            gap: 1rem;
+            justify-content: center;
+            flex-wrap: wrap;
+
+            .link-pill {
+                padding: 0.6rem 1.5rem;
+                background: var(--light);
+                border: 1px solid var(--gray);
+                border-radius: 50px;
+                color: var(--dark);
+                text-decoration: none;
+                font-size: 0.9rem;
+                transition: all 0.2s;
+
+                &:hover {
+                    background: var(--secondary);
+                    color: var(--light);
+                    border-color: var(--secondary);
+                }
+            }
+        }
+    }
+
+    // ==========================================================================
+    // ABOUT SECTION
+    // ==========================================================================
+    .about-section {
+        background: var(--lightgray);
+        max-width: 100%;
+        padding: 4rem 2rem;
+
+        >* {
+            max-width: 800px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        h2 {
+            font-size: 2rem;
+            color: var(--dark);
+            margin: 0 0 1.5rem 0;
+            text-align: center;
+        }
+
+        .about-content p {
+            color: var(--darkgray);
+            line-height: 1.7;
+            margin: 0 0 1rem 0;
+
+            &:last-child {
+                margin-bottom: 0;
+            }
+        }
+    }
+
+    // ==========================================================================
+    // RESEARCH SECTION
+    // ==========================================================================
+    .research-section {
+        background: var(--light);
+
+        h2 {
+            font-size: 2rem;
+            color: var(--dark);
+            text-align: center;
+            margin: 0 0 1rem 0;
+        }
+
+        .section-intro {
+            text-align: center;
+            color: var(--darkgray);
+            max-width: 700px;
+            margin: 0 auto 2.5rem;
+            line-height: 1.6;
+        }
+
+        .research-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 3rem;
+            max-width: 800px;
+            margin: 0 auto 2rem;
+
+            @media (max-width: 768px) {
+                grid-template-columns: 1fr;
+                gap: 2rem;
+            }
+
+            .research-column {
+                h3 {
+                    font-size: 1.3rem;
+                    color: var(--dark);
+                    margin: 0 0 1rem 0;
+                    padding-bottom: 0.5rem;
+                    border-bottom: 2px solid var(--secondary);
+                }
+
+                .research-list {
+                    list-style: none;
+                    padding: 0;
+                    margin: 0;
+
+                    li {
+                        padding: 0.5rem 0;
+                        border-bottom: 1px solid var(--gray);
+
+                        &:last-child {
+                            border-bottom: none;
+                        }
+
+                        a {
+                            color: var(--darkgray);
+                            text-decoration: none;
+                            transition: color 0.2s;
+
+                            &:hover {
+                                color: var(--secondary);
+                            }
+                        }
+                    }
+                }
+            }
+        }
+
+        .research-cta {
+            text-align: center;
+
+            .link-pill {
+                padding: 0.6rem 1.5rem;
+                background: var(--light);
+                border: 1px solid var(--gray);
+                border-radius: 50px;
+                color: var(--dark);
+                text-decoration: none;
+                font-size: 0.9rem;
+                transition: all 0.2s;
+
+                &:hover {
+                    background: var(--secondary);
+                    color: var(--light);
+                    border-color: var(--secondary);
+                }
+            }
+        }
+    }
+
+    // ==========================================================================
+    // ACADEMIA SECTION
+    // ==========================================================================
+    .academia-section {
+        background: var(--lightgray);
+
+        h2 {
+            font-size: 2rem;
+            color: var(--dark);
+            text-align: center;
+            margin: 0 0 1rem 0;
+        }
+
+        .section-intro {
+            text-align: center;
+            color: var(--darkgray);
+            max-width: 700px;
+            margin: 0 auto 2.5rem;
+            line-height: 1.6;
+        }
+
+        .academia-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 1.5rem;
+
+            @media (max-width: 768px) {
+                grid-template-columns: 1fr;
+            }
+
+            .academia-card {
+                background: var(--lightgray);
+                border: 1px solid var(--gray);
+                border-radius: 12px;
+                padding: 1.5rem;
+                text-decoration: none;
+                transition: all 0.2s;
+
+                &:hover {
+                    border-color: var(--secondary);
+                    transform: translateY(-3px);
+                    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+                }
+
+                .card-icon {
+                    font-size: 2rem;
+                    margin-bottom: 0.75rem;
+                    display: block;
+                }
+
+                h3 {
+                    font-size: 1.2rem;
+                    color: var(--dark);
+                    margin: 0 0 0.5rem 0;
+                }
+
+                p {
+                    color: var(--darkgray);
+                    font-size: 0.9rem;
+                    line-height: 1.5;
+                    margin: 0;
+                }
+            }
+        }
+    }
+
+    // ==========================================================================
+    // UTILITIES SECTION
+    // ==========================================================================
+    .utilities-section {
+        background: var(--lightgray);
+        max-width: 100%;
+
+        >* {
+            max-width: 1200px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        h2 {
+            font-size: 1.8rem;
+            color: var(--dark);
+            text-align: center;
+            margin: 0 0 2rem 0;
+        }
+
+        .utilities-grid {
+            display: flex;
+            justify-content: center;
+            gap: 1.5rem;
+            flex-wrap: wrap;
+
+            .utility-link {
+                display: flex;
+                align-items: center;
+                gap: 0.5rem;
+                padding: 0.75rem 1.25rem;
+                background: var(--light);
+                border: 1px solid var(--gray);
+                border-radius: 8px;
+                color: var(--dark);
+                text-decoration: none;
+                font-size: 0.95rem;
+                transition: all 0.2s;
+
+                &:hover {
+                    border-color: var(--secondary);
+                    color: var(--secondary);
+                }
+
+                span {
+                    font-size: 1.1rem;
+                }
+            }
+        }
+    }
+
+    // ==========================================================================
+    // COLIVINGLIGURIA BLOCK - Light Mode
+    // ==========================================================================
+    .cl-block {
+        background: #F7F5F3;
+        max-width: 100%;
+        padding: 5rem 2rem;
+        border-top: 4px solid #4A6741;
+        border-bottom: 4px solid #4A6741;
+
+        .cl-content {
+            max-width: 800px;
+            margin: 0 auto;
+            text-align: center;
+        }
+
+        .cl-badge {
+            display: inline-block;
+            background: #4A6741;
+            color: white;
+            padding: 0.4rem 1.2rem;
+            border-radius: 50px;
+            font-size: 0.85rem;
+            font-weight: 600;
+            margin-bottom: 1.5rem;
+        }
+
+        h2 {
+            font-size: 2.5rem;
+            color: #2C2A24;
+            margin: 0 0 1rem 0;
+
+            @media (max-width: 768px) {
+                font-size: 2rem;
+            }
+        }
+
+        p {
+            color: #4E4B42;
+            font-size: 1.1rem;
+            line-height: 1.7;
+            margin: 0 0 2rem 0;
+        }
+
+        .cl-features {
+            display: flex;
+            gap: 0.75rem;
+            justify-content: center;
+            flex-wrap: wrap;
+            margin-bottom: 2rem;
+
+            .feature-tag {
+                background: rgba(74, 103, 65, 0.1);
+                color: #4A6741;
+                padding: 0.5rem 1rem;
+                border-radius: 50px;
+                font-size: 0.85rem;
+                border: 1px solid rgba(74, 103, 65, 0.3);
+            }
+        }
+
+        .cl-button {
+            display: inline-block;
+            background: #4A6741;
+            color: white;
+            padding: 1rem 2rem;
+            border-radius: 50px;
+            text-decoration: none;
+            font-weight: 600;
+            transition: all 0.2s;
+
+            &:hover {
+                background: #A67B5B;
+                transform: translateY(-2px);
+                box-shadow: 0 4px 12px rgba(74, 103, 65, 0.3);
+            }
+        }
+    }
+
+    // ==========================================================================
+    // LUNA BLOCK - Dark Space Theme
+    // ==========================================================================
+    .luna-block {
+        background: linear-gradient(135deg, #050810 0%, #0a0f1a 100%);
+        max-width: 100%;
+        padding: 5rem 2rem;
+
+        .luna-content {
+            max-width: 800px;
+            margin: 0 auto;
+            text-align: center;
+        }
+
+        .luna-logo {
+            width: 70px;
+            height: 70px;
+            background: rgba(255, 255, 255, 0.1);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.8rem;
+            font-weight: bold;
+            color: #ffffff;
+            margin: 0 auto 1.5rem;
+            box-shadow: 0 0 20px rgba(77, 166, 255, 0.3);
+        }
+
+        h2 {
+            font-size: 2.5rem;
+            color: #ffffff;
+            margin: 0 0 1rem 0;
+            background: linear-gradient(to right, #ffffff, #a0cfff);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+
+            @media (max-width: 768px) {
+                font-size: 2rem;
+            }
+        }
+
+        p {
+            color: #b0b0b0;
+            font-size: 1.1rem;
+            line-height: 1.7;
+            margin: 0 0 2rem 0;
+        }
+
+        .luna-stats {
+            display: flex;
+            justify-content: center;
+            gap: 3rem;
+            margin-bottom: 2rem;
+
+            @media (max-width: 480px) {
+                gap: 1.5rem;
+            }
+
+            .stat {
+                text-align: center;
+
+                .stat-value {
+                    display: block;
+                    font-size: 1.8rem;
+                    font-weight: bold;
+                    color: #4da6ff;
+                    margin-bottom: 0.25rem;
+
+                    @media (max-width: 480px) {
+                        font-size: 1.4rem;
+                    }
+                }
+
+                .stat-label {
+                    font-size: 0.85rem;
+                    color: #a0a0a0;
+                    text-transform: uppercase;
+                    letter-spacing: 0.05em;
+                }
+            }
+        }
+
+        .luna-button {
+            display: inline-block;
+            background: #ffffff;
+            color: #050810;
+            padding: 1rem 2rem;
+            border-radius: 50px;
+            text-decoration: none;
+            font-weight: 600;
+            transition: all 0.2s;
+
+            &:hover {
+                transform: translateY(-2px);
+                box-shadow: 0 4px 15px rgba(255, 255, 255, 0.3);
+            }
+        }
+    }
+}
+
+// ==========================================================================
+// DARK MODE OVERRIDES (at root level)
+// ==========================================================================
+:root[saved-theme="dark"] {
+    .simone-home {
+
+        // CL Block - Dark mode (darker earth tones)
+        .cl-block {
+            background: #1a1f1a;
+            border-color: #6fa360;
+
+            .cl-badge {
+                background: #6fa360;
+            }
+
+            h2 {
+                color: #E5E0D8;
+            }
+
+            p {
+                color: #B8B0A5;
+            }
+
+            .cl-features .feature-tag {
+                background: rgba(111, 163, 96, 0.15);
+                color: #6fa360;
+                border-color: rgba(111, 163, 96, 0.4);
+            }
+
+            .cl-button {
+                background: #6fa360;
+
+                &:hover {
+                    background: #c49a7a;
+                }
+            }
+        }
+
+        // Luna Block - Dark mode (inverted - light blue theme)
+        .luna-block {
+            background: linear-gradient(135deg, #f0f8ff 0%, #e8f4ff 100%);
+
+            .luna-logo {
+                background: rgba(0, 0, 0, 0.05);
+                border-color: rgba(0, 0, 0, 0.1);
+                color: #0a0f1a;
+                box-shadow: 0 0 20px rgba(45, 125, 210, 0.2);
+            }
+
+            h2 {
+                background: linear-gradient(to right, #0a0f1a, #2d7dd2);
+                -webkit-background-clip: text;
+                -webkit-text-fill-color: transparent;
+                background-clip: text;
+            }
+
+            p {
+                color: #3a4a5a;
+            }
+
+            .luna-stats .stat {
+                .stat-value {
+                    color: #2d7dd2;
+                }
+
+                .stat-label {
+                    color: #5a6a7a;
+                }
+            }
+
+            .luna-button {
+                background: #2d7dd2;
+                color: white;
+
+                &:hover {
+                    box-shadow: 0 4px 15px rgba(45, 125, 210, 0.4);
+                }
+            }
+        }
+    }
+}

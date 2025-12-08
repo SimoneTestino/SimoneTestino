@@ -17,13 +17,27 @@ export const sharedPageComponents: SharedLayout = {
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
+    // SimoneHome component for homepage
+    Component.ConditionalRender({
+      component: Component.SimoneHome(),
+      condition: (page) => page.fileData.slug === "index",
+    }),
     Component.ConditionalRender({
       component: Component.Breadcrumbs(),
       condition: (page) => page.fileData.slug !== "index",
     }),
-    Component.ArticleTitle(),
-    Component.ContentMeta(),
-    Component.TagList(),
+    Component.ConditionalRender({
+      component: Component.ArticleTitle(),
+      condition: (page) => page.fileData.slug !== "index",
+    }),
+    Component.ConditionalRender({
+      component: Component.ContentMeta(),
+      condition: (page) => page.fileData.slug !== "index",
+    }),
+    Component.ConditionalRender({
+      component: Component.TagList(),
+      condition: (page) => page.fileData.slug !== "index",
+    }),
   ],
   left: [
     Component.PageTitle(),
@@ -38,12 +52,24 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    Component.ConditionalRender({
+      component: Component.Explorer(),
+      condition: (page) => page.fileData.slug !== "index",
+    }),
   ],
   right: [
-    Component.Graph(),
-    Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
+    Component.ConditionalRender({
+      component: Component.Graph(),
+      condition: (page) => page.fileData.slug !== "index",
+    }),
+    Component.ConditionalRender({
+      component: Component.DesktopOnly(Component.TableOfContents()),
+      condition: (page) => page.fileData.slug !== "index",
+    }),
+    Component.ConditionalRender({
+      component: Component.Backlinks(),
+      condition: (page) => page.fileData.slug !== "index",
+    }),
   ],
 }
 
