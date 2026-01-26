@@ -8,8 +8,12 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      "+39 339 637 9372": "tel:+393396379372",
-      "simone.testino@gmail.com": "mailto:simone.testino@gmail.com",
+      "📞 Book a Call": "https://cal.com/simone.testino/",
+      "💬 WhatsApp": "https://wa.me/393396379372",
+      "📧 Email": "mailto:simone.testino@gmail.com",
+      "🏡 ColivingLiguria": "https://colivingliguria.pages.dev",
+      "🌙 Luna": "https://lunalighting.pages.dev",
+      "📈 Finance": "https://testinofinance.pages.dev/",
     },
   }),
 }

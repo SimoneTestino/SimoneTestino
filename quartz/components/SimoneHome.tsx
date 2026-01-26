@@ -19,9 +19,9 @@ export default (() => {
                             <a href="https://github.com/SimoneTestino" class="contact-link">🐙 GitHub</a>
                         </div>
                         <div class="quick-links">
-                            <a href="/Academia/Active-&-Works/Curriculum-Vitae.pdf" class="link-pill">CV</a>
-                            <a href="/System/This-Website/Contacts" class="link-pill">Contacts</a>
-                            <a href="/System/This-Website/Condensed-Biography" class="link-pill">Biography</a>
+                            <a href="/Academia/Active--and--Works/Curriculum-Vitae.pdf" class="link-pill">CV</a>
+                            <a href="/System/Contacts/Contacts" class="link-pill">Contacts</a>
+                            <a href="/System/Condensed-Biography" class="link-pill">Biography</a>
                         </div>
                     </div>
                 </section>
@@ -49,21 +49,21 @@ export default (() => {
                         <div class="research-column">
                             <h3>Mathematics</h3>
                             <ul class="research-list">
-                                <li><a href="/Academia/Active-&-Works/Research-Areas/Set-Theory">Set Theory</a></li>
-                                <li><a href="/Academia/Active-&-Works/Research-Areas/Model-Theory">Model Theory</a></li>
-                                <li><a href="/Academia/Active-&-Works/Research-Areas/Modal-Logic">Modal Logic</a></li>
-                                <li><a href="/Academia/Active-&-Works/Research-Areas/Category-Theory">Category Theory</a></li>
-                                <li><a href="/Academia/Active-&-Works/Research-Areas/Algebra">Algebra</a></li>
-                                <li><a href="/Academia/Active-&-Works/Research-Areas/Translation-Theory">Translation Theory</a></li>
+                                <li><a href="/Academia/Active--and--Works/Research-Areas/Set-Theory">Set Theory</a></li>
+                                <li><a href="/Academia/Active--and--Works/Research-Areas/Model-Theory">Model Theory</a></li>
+                                <li><a href="/Academia/Active--and--Works/Research-Areas/Modal-Logic">Modal Logic</a></li>
+                                <li><a href="/Academia/Active--and--Works/Research-Areas/Category-Theory">Category Theory</a></li>
+                                <li><a href="/Academia/Active--and--Works/Research-Areas/Algebra">Algebra</a></li>
+                                <li><a href="/Academia/Active--and--Works/Research-Areas/Translation-Theory">Translation Theory</a></li>
                             </ul>
                         </div>
                         <div class="research-column">
                             <h3>Philosophy</h3>
                             <ul class="research-list">
-                                <li><a href="/Academia/Active-&-Works/Research-Areas/Philosophy-of-Mathematics-and-Logic">Philosophy of Mathematics & Logic</a></li>
-                                <li><a href="/Academia/Active-&-Works/Research-Areas/Metaphysics-&-Ontology">Metaphysics & Ontology</a></li>
-                                <li><a href="/Academia/Active-&-Works/Research-Areas/Formal-Epistemology">Formal Epistemology</a></li>
-                                <li><a href="/Academia/Active-&-Works/Research-Areas/Formal-Cognitive-Sciences">Formal Cognitive Sciences</a></li>
+                                <li><a href="/Academia/Active--and--Works/Research-Areas/Philosophy-of-Mathematics-and-Logic">Philosophy of Mathematics & Logic</a></li>
+                                <li><a href="/Academia/Active--and--Works/Research-Areas/Metaphysics--and--Ontology">Metaphysics & Ontology</a></li>
+                                <li><a href="/Academia/Active--and--Works/Research-Areas/Formal-Epistemology">Formal Epistemology</a></li>
+                                <li><a href="/Academia/Active--and--Works/Research-Areas/Formal-Cognitive-Sciences">Formal Cognitive Sciences</a></li>
                             </ul>
                         </div>
                     </div>
@@ -73,25 +73,78 @@ export default (() => {
                 <section class="academia-section">
                     <h2>Academic Work</h2>
                     <div class="academia-grid">
-                        <a href="/Academia/Active-&-Works/Academic-Writings" class="academia-card">
+                        <a href="/Academia/Active--and--Works/Academic-Writings" class="academia-card">
                             <span class="card-icon">📝</span>
                             <h3>Academic Writings</h3>
                             <p>Essays, thoughts, and writings related to my research areas</p>
                         </a>
-                        <a href="/Academia/Notes-&-Papers" class="academia-card">
+                        <a href="/Academia/Notes--and--Papers/Notes--and--Papers" class="academia-card">
                             <span class="card-icon">📚</span>
                             <h3>Notes & Papers</h3>
                             <p>Papers I have read with comments, and lecture notes</p>
                         </a>
-                        <a href="/Academia/Active-&-Works/Academic-Diary" class="academia-card">
+                        <a href="/Academia/Active--and--Works/Academic-Diary" class="academia-card">
                             <span class="card-icon">📓</span>
                             <h3>Academic Diary</h3>
                             <p>Notes and decisions regarding my academic life</p>
                         </a>
-                        <a href="/Academia/Active-&-Works/PhD-Applications" class="academia-card">
+                        <a href="/Academia/Active--and--Works/Academic-Diary/2024/PhD-Applications/PhD-Applications" class="academia-card">
                             <span class="card-icon">🎓</span>
                             <h3>PhD Applications</h3>
                             <p>Documentation of my doctoral application process</p>
+                        </a>
+                    </div>
+                </section>
+
+                {/* MASTER THESIS */}
+                <section class="thesis-section">
+                    <h2>Master Thesis</h2>
+                    <div class="thesis-card">
+                        <div class="thesis-header">
+                            <span class="thesis-icon">📜</span>
+                            <div class="thesis-meta">
+                                <h3>Translation Theory</h3>
+                                <span class="thesis-degree">MSc Logic — University of Amsterdam</span>
+                            </div>
+                        </div>
+                        <div class="thesis-details">
+                            <div class="thesis-info">
+                                <span class="info-label">Supervisor:</span>
+                                <span class="info-value">TBD</span>
+                            </div>
+                            <div class="thesis-info">
+                                <span class="info-label">Timeline:</span>
+                                <span class="info-value">January 2026 — August 2026</span>
+                            </div>
+                            <p class="thesis-description">
+                                Research on translation theory in mathematical logic, planned to begin in January 2026
+                                with the goal of submission and defence in August 2026, completing my MSc Logic degree.
+                            </p>
+                        </div>
+                        <a href="/Academia/Active--and--Works/Master/6th-Semester/Master-Thesis" class="thesis-link">
+                            View Thesis Details →
+                        </a>
+                    </div>
+                </section>
+
+                {/* FINANCIALS */}
+                <section class="financials-section">
+                    <h2>Financial Life</h2>
+                    <p class="section-intro">
+                        Documentation of my financial management, investments, and personal finance strategies.
+                    </p>
+                    <div class="utilities-grid">
+                        <a href="/Personal-Finance/Personal-Finance" class="utility-link">
+                            <span>💹</span> Personal Finance
+                        </a>
+                        <a href="/Personal-Finance/Investments" class="utility-link">
+                            <span>📈</span> Investments
+                        </a>
+                        <a href="/Personal-Finance/Financial-Diary" class="utility-link">
+                            <span>📒</span> Financial Diary
+                        </a>
+                        <a href="https://testinofinance.pages.dev/" target="_blank" class="utility-link">
+                            <span>📊</span> Finance Dashboard
                         </a>
                     </div>
                 </section>
@@ -125,41 +178,25 @@ export default (() => {
                         <h2>Luna</h2>
                         <p>
                             A manufacturing startup developing revolutionary helium balloon lighting systems.
-                            Delivering 100,000 lumens from under 2kg at heights up to 50 metres—at a
-                            fraction of traditional costs.
+                            Compared to traditional light towers, Luna delivers superior performance at a
+                            fraction of the weight and cost.
                         </p>
                         <div class="luna-stats">
                             <div class="stat">
-                                <span class="stat-value">100k</span>
-                                <span class="stat-label">Lumens</span>
+                                <span class="stat-value">2×</span>
+                                <span class="stat-label">The Light</span>
                             </div>
                             <div class="stat">
-                                <span class="stat-value">&lt;2kg</span>
+                                <span class="stat-value">&lt;0.5kg</span>
                                 <span class="stat-label">Weight</span>
                             </div>
                             <div class="stat">
-                                <span class="stat-value">€750</span>
-                                <span class="stat-label">Cost</span>
+                                <span class="stat-value">⅓</span>
+                                <span class="stat-label">The Cost</span>
                             </div>
                         </div>
-                        <a href="https://luna-st.pages.dev" target="_blank" class="luna-button">
+                        <a href="https://lunalighting.pages.dev" target="_blank" class="luna-button">
                             Explore Luna →
-                        </a>
-                    </div>
-                </section>
-
-                {/* OTHER WORKS (Personal Finance) */}
-                <section class="other-works-section">
-                    <h2>Other Works</h2>
-                    <p class="section-intro">
-                        Beyond academia and entrepreneurship, I document other areas of interest and personal management.
-                    </p>
-                    <div class="utilities-grid">
-                        <a href="/Personal-Finance/Personal-Finance" class="utility-link">
-                            <span>💹</span> Personal Finance
-                        </a>
-                        <a href="/Personal-Finance/Investments" class="utility-link">
-                            <span>📈</span> Investments
                         </a>
                     </div>
                 </section>
@@ -168,16 +205,25 @@ export default (() => {
                 <section class="utilities-section">
                     <h2>Website Utilities</h2>
                     <div class="utilities-grid">
-                        <a href="/System/This-Website/Contacts" class="utility-link">
-                            <span>📧</span> Contacts
+                        <a href="https://cal.com/simone.testino/" target="_blank" class="utility-link">
+                            <span>📞</span> Book a Call
                         </a>
-                        <a href="/System/This-Website/Availability" class="utility-link">
+                        <a href="https://wa.me/393396379372" target="_blank" class="utility-link">
+                            <span>💬</span> WhatsApp
+                        </a>
+                        <a href="mailto:simone.testino@gmail.com" class="utility-link">
+                            <span>📧</span> Email
+                        </a>
+                        <a href="/System/Contacts/Contacts" class="utility-link">
+                            <span>👤</span> Contacts
+                        </a>
+                        <a href="/System/Contacts/Availability" class="utility-link">
                             <span>📅</span> Availability
                         </a>
-                        <a href="/System/This-Website/Payment-Methods" class="utility-link">
+                        <a href="/System/Contacts/Payment-Methods" class="utility-link">
                             <span>💳</span> Payment Methods
                         </a>
-                        <a href="/System/This-Website/Documents" class="utility-link">
+                        <a href="/System/Documents" class="utility-link">
                             <span>📄</span> Documents
                         </a>
                     </div>

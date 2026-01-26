@@ -1,0 +1,26 @@
+#!/bin/bash
+# quartz-sync - Sync script for Personal Website (quartz)
+# Usage: ./quartz-sync [command]
+
+set -e
+
+PROJECT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+QUARTZ_DIR="$PROJECT_DIR"
+
+# Colors
+GREEN='\033[0;32m'
+BLUE='\033[0;34m'
+NC='\033[0m'
+
+echo -e "${BLUE}[quartz-sync]${NC} Syncing Personal Website..."
+
+cd "$QUARTZ_DIR"
+
+# Build and Sync
+# npx quartz sync does build + commit + push
+if npx quartz sync --no-pull; then
+    echo -e "${GREEN}[quartz-sync]${NC} ✓ Site synced to GitHub"
+else
+    echo -e "${RED}[quartz-sync]${NC} ❌ Sync failed"
+    exit 1
+fi

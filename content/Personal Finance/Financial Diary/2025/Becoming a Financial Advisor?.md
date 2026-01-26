@@ -1,5 +1,0 @@
----
-draft: true
-date: 2025-06-28
----
-Something that I am taking into consideration recently is to take the exam to become a financial advisor and do it as a side-job, like [[Futura]]. It could be something that I do independently or as an employee of a bank, but it would still be very easy and cheap to get the title (a simple multiple choice exam, 100 euros to take it and a couple hundreds per year to be registered to the albo) and it may become another source of income. In particular I might find people interested in plans like [[Margin Exposure]] through bank credit and similar trickeries that may be advisable to young people with some or none savings. It may turn out to be a well paid job if I do it as a Partita IVA forfettaria and hence manage to pay very little taxes on it, about 4% on income (plus 25% INPS).
