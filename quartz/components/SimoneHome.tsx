@@ -205,28 +205,28 @@ export default (() => {
                 {/* TEACHING */}
                 <section class="teaching-block">
                     <div class="teaching-content">
-                        <div class="teaching-badge">🎓 Insegnamento</div>
-                        <h2>Didattica di Matematica e Logica</h2>
+                        <div class="teaching-badge">🎓 Teaching</div>
+                        <h2>Mathematics & Logic Teaching</h2>
                         <p>
-                            Da oltre <strong>tre anni</strong> mi dedico all'insegnamento di Matematica, Logica e Fisica, 
-                            specializzandomi nella preparazione ai <strong>concorsi pubblici italiani</strong> (Forze Armate, 
-                            Polizia, Carabinieri) e ai <strong>test d'ingresso per Medicina</strong> e Professioni Sanitarie.
+                            For over <strong>three years</strong> I have been teaching Mathematics, Logic, and Physics, 
+                            specializing in preparation for <strong>Italian public competitions</strong> (Armed Forces, 
+                            Police) and <strong>Medicine entrance exams</strong> and Health Professions.
                         </p>
                         <p>
-                            La mia passione principale è la <strong>creazione di contenuti didattici</strong>: oltre alle 
-                            lezioni online, produco materiale educativo con <strong>Manim</strong>, la libreria Python 
-                            usata da 3Blue1Brown per creare video animati che rendono i concetti matematici 
-                            visivamente accattivanti e facili da comprendere.
+                            My main passion is <strong>creating educational content</strong>: beyond online 
+                            lessons, I produce educational material using <strong>Manim</strong>, the Python library 
+                            used by 3Blue1Brown to create animated videos that make mathematical concepts 
+                            visually engaging and easy to understand.
                         </p>
                         <div class="teaching-features">
-                            <span class="feature-tag">Concorsi Pubblici</span>
-                            <span class="feature-tag">Test Medicina</span>
-                            <span class="feature-tag">Lezioni Online</span>
-                            <span class="feature-tag">Video Manim</span>
-                            <span class="feature-tag">Materiale LaTeX</span>
+                            <span class="feature-tag">Public Competitions</span>
+                            <span class="feature-tag">Medicine Entry Exams</span>
+                            <span class="feature-tag">Online Lessons</span>
+                            <span class="feature-tag">Manim Videos</span>
+                            <span class="feature-tag">LaTeX Material</span>
                         </div>
                         <a href="/Personal-Finance/Jobs/Teaching/Me-as-a-Teacher" class="teaching-button">
-                            Scopri di più →
+                            Learn more →
                         </a>
                     </div>
                 </section>
