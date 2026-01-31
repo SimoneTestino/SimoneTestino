@@ -127,6 +127,7 @@ export default (() => {
                     </div>
                 </section>
 
+
                 {/* FINANCIALS */}
                 <section class="financials-section">
                     <h2>Financial Life</h2>
@@ -197,6 +198,35 @@ export default (() => {
                         </div>
                         <a href="https://lunalighting.pages.dev" target="_blank" class="luna-button">
                             Explore Luna →
+                        </a>
+                    </div>
+                </section>
+
+                {/* TEACHING */}
+                <section class="teaching-block">
+                    <div class="teaching-content">
+                        <div class="teaching-badge">🎓 Insegnamento</div>
+                        <h2>Didattica di Matematica e Logica</h2>
+                        <p>
+                            Da oltre <strong>tre anni</strong> mi dedico all'insegnamento di Matematica, Logica e Fisica, 
+                            specializzandomi nella preparazione ai <strong>concorsi pubblici italiani</strong> (Forze Armate, 
+                            Polizia, Carabinieri) e ai <strong>test d'ingresso per Medicina</strong> e Professioni Sanitarie.
+                        </p>
+                        <p>
+                            La mia passione principale è la <strong>creazione di contenuti didattici</strong>: oltre alle 
+                            lezioni online, produco materiale educativo con <strong>Manim</strong>, la libreria Python 
+                            usata da 3Blue1Brown per creare video animati che rendono i concetti matematici 
+                            visivamente accattivanti e facili da comprendere.
+                        </p>
+                        <div class="teaching-features">
+                            <span class="feature-tag">Concorsi Pubblici</span>
+                            <span class="feature-tag">Test Medicina</span>
+                            <span class="feature-tag">Lezioni Online</span>
+                            <span class="feature-tag">Video Manim</span>
+                            <span class="feature-tag">Materiale LaTeX</span>
+                        </div>
+                        <a href="/Personal-Finance/Jobs/Teaching/Me-as-a-Teacher" class="teaching-button">
+                            Scopri di più →
                         </a>
                     </div>
                 </section>

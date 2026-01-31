@@ -720,6 +720,89 @@
             }
         }
     }
+
+    // ==========================================================================
+    // TEACHING BLOCK - Academic Purple Theme
+    // ==========================================================================
+    .teaching-block {
+        background: linear-gradient(135deg, #f8f5ff 0%, #f0ebff 100%);
+        max-width: 100%;
+        padding: 5rem 2rem;
+        border-top: 4px solid #6b5b95;
+        border-bottom: 4px solid #6b5b95;
+
+        .teaching-content {
+            max-width: 800px;
+            margin: 0 auto;
+            text-align: center;
+        }
+
+        .teaching-badge {
+            display: inline-block;
+            background: #6b5b95;
+            color: white;
+            padding: 0.4rem 1.2rem;
+            border-radius: 50px;
+            font-size: 0.85rem;
+            font-weight: 600;
+            margin-bottom: 1.5rem;
+        }
+
+        h2 {
+            font-size: 2.5rem;
+            color: #2d2a3e;
+            margin: 0 0 1rem 0;
+
+            @media (max-width: 768px) {
+                font-size: 2rem;
+            }
+        }
+
+        p {
+            color: #4a4660;
+            font-size: 1.1rem;
+            line-height: 1.7;
+            margin: 0 0 1.5rem 0;
+
+            &:last-of-type {
+                margin-bottom: 2rem;
+            }
+        }
+
+        .teaching-features {
+            display: flex;
+            gap: 0.75rem;
+            justify-content: center;
+            flex-wrap: wrap;
+            margin-bottom: 2rem;
+
+            .feature-tag {
+                background: rgba(107, 91, 149, 0.1);
+                color: #6b5b95;
+                padding: 0.5rem 1rem;
+                border-radius: 50px;
+                font-size: 0.85rem;
+                border: 1px solid rgba(107, 91, 149, 0.3);
+            }
+        }
+
+        .teaching-button {
+            display: inline-block;
+            background: #6b5b95;
+            color: white;
+            padding: 1rem 2rem;
+            border-radius: 50px;
+            text-decoration: none;
+            font-weight: 600;
+            transition: all 0.2s;
+
+            &:hover {
+                background: #8b7bb5;
+                transform: translateY(-2px);
+                box-shadow: 0 4px 12px rgba(107, 91, 149, 0.3);
+            }
+        }
+    }
 }
 
 // ==========================================================================
@@ -798,6 +881,38 @@
 
                 &:hover {
                     box-shadow: 0 4px 15px rgba(45, 125, 210, 0.4);
+                }
+            }
+        }
+
+        // Teaching Block - Dark mode (darker purple theme)
+        .teaching-block {
+            background: linear-gradient(135deg, #1a1520 0%, #201828 100%);
+            border-color: #9b8bb5;
+
+            .teaching-badge {
+                background: #9b8bb5;
+            }
+
+            h2 {
+                color: #e8e4f0;
+            }
+
+            p {
+                color: #b8b0c8;
+            }
+
+            .teaching-features .feature-tag {
+                background: rgba(155, 139, 181, 0.15);
+                color: #9b8bb5;
+                border-color: rgba(155, 139, 181, 0.4);
+            }
+
+            .teaching-button {
+                background: #9b8bb5;
+
+                &:hover {
+                    background: #b8a8d5;
                 }
             }
         }
